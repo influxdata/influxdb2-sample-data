@@ -1,4 +1,4 @@
-## Bird Migration Data
+# Bird Migration Data
 This sample data is adapted from the [Movebank: Animal Tracking](https://www.kaggle.com/pulkit8595/movebank-animal-tracking)
 dataset available on [kaggle.com](https://kaggle.com).
 Timestamps have been modified to take place in 2019.
