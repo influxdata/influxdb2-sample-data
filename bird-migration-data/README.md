@@ -19,13 +19,13 @@ import "experimental/csv"
 csv.from(url: "https://raw.githubusercontent.com/influxdata/influxdb2-sample-data/master/bird-migration-data/bird-migration.csv")
 ```
 
-**Note:** This downloads all the sample data each time you execute the query (~1.3 MB).
+_**Note:** This downloads all the sample data each time you execute the query (~1.3 MB).
 If bandwidth is a concern, use the [`to()` function](https://v2.docs.influxdata.com/v2.0/reference/flux/stdlib/built-in/outputs/to/)
-to write the data to a bucket, and then query the bucket with [`from()`](https://v2.docs.influxdata.com/v2.0/reference/flux/stdlib/built-in/inputs/from/).
+to write the data to a bucket, and then query the bucket with [`from()`](https://v2.docs.influxdata.com/v2.0/reference/flux/stdlib/built-in/inputs/from/)._
 
 ### Write data to InfluxDB using line protocol
 
-### Download the line protocol load it through the InfluxDB UI
+#### Download the line protocol load it through the InfluxDB UI
 [Download the sample bird migration line protocol](https://raw.githubusercontent.com/influxdata/influxdb2-sample-data/master/bird-migration-data/bird-migration.line)
 and write it to a bucket [using the InfluxDB UI](https://v2.docs.influxdata.com/v2.0/write-data/#user-interface).
 
