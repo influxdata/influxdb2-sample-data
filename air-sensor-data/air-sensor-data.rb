@@ -6,26 +6,14 @@ require "uri"
 require "cgi"
 require "time"
 
-# CLI Options
-options = {
-  interval: 1
-}
-
 OptionParser.new do |opt|
   opt.banner = "Usage: air-sensor-data [OPTIONS]"
-
-  opt.on("-i","--interval interval",Integer,"The interval (in seconds) at which to write data. Defaults to '5'.") do |interval|
-    options[:interval] = interval
-  end
 
   opt.on("--help","Displays this help information.") do
     puts opt
     exit
   end
 end.parse!
-
-# Global Variables
-$interval = options[:interval]
 
 # Seed Data
 seeds = [
