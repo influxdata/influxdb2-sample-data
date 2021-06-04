@@ -22,6 +22,8 @@ jobs:
 
       - name: Setup Ruby, JRuby and TruffleRuby
         uses: ruby/setup-ruby@v1.72.1
+        with:
+          ruby-version: 3.0.1
       - name: Create files
         run: |
           cd /tmp
