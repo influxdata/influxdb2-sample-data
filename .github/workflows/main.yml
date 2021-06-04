@@ -46,8 +46,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Check out repo
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
+      with:
+        ref: ${{ github.ref }}
       - name: Setup Ruby, JRuby and TruffleRuby
         uses: ruby/setup-ruby@v1.72.1
         with:
