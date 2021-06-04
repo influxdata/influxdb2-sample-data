@@ -4,8 +4,15 @@ This directory contains the following files referenced in the [Query SQL data so
 in the InfluxDB 2.0 documentation.
 
 ### air-sensor-data.rb
-A ruby script that generates line protocol containing sample air sensor data and
-stores it in an InfluxDB 2.0 instance.
+A ruby script that generates an hour's worth of line protocol containing sample air sensor data. That data can then be ingested into an InfluxDB instance using the web interface or via the command line.
+
+`ruby air-sensor-data.rb | influx write -b example_bucket`
+
+### sample-sensor-data.lp
+Sample sensor data in Line Protocol format meant to be imported into InfluxDB.
+
+### sample-sensor-data-annotated.csv
+Sample sensor data in Annotated CSV format meant to be imported into InfluxDB via the `csv.from` function.
 
 ### sample-sensor-info.csv
 Sample sensor data meant to be imported into PostgreSQL or MySQL.

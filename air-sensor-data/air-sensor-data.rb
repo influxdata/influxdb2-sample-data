@@ -3,65 +3,17 @@ require "optparse"
 require "net/http"
 require"openssl"
 require "uri"
-
-# CLI Options
-options = {
-  protocol: "http",
-  host: "localhost",
-  port: "9999",
-  interval: 5
-}
+require "cgi"
+require "time"
 
 OptionParser.new do |opt|
   opt.banner = "Usage: air-sensor-data [OPTIONS]"
-
-  opt.on("-o","--org ORG","The organization to write data to. REQUIRED.") do |org|
-    options[:org] = org
-  end
-
-  opt.on("-b","--bucket BUCKET","The bucket to write data to. REQUIRED.") do |bucket|
-    options[:bucket] = bucket
-  end
-
-  opt.on("-t","--token TOKEN","Your InfluxDB authentication token. REQUIRED.") do |token|
-    options[:token] = token
-  end
-
-  opt.on("-h","--host host","Your InfluxDB host. Defaults to 'localhost'") do |host|
-    options[:host] = host
-  end
-
-  opt.on("-p","--port port","Your InfluxDB port. Defaults to '9999'") do |port|
-    options[:port] = port
-  end
-
-  opt.on("-i","--interval interval",Integer,"The interval (in seconds) at which to write data. Defaults to '5'.") do |interval|
-    options[:interval] = interval
-  end
-
-  opt.on("-s","--tls", "Sends data over HTTPS.") do |tls|
-    options[:protocol] = "https"
-  end
 
   opt.on("--help","Displays this help information.") do
     puts opt
     exit
   end
 end.parse!
-
-unless options[:org] && options[:bucket] && options[:token]
-  $stderr.puts "\nError: you must specify an organization, bucket, and token.\nUse the '--help' flag for more info.\n\n"
-  exit 1
-end
-
-# Global Variables
-$protocol = options[:protocol]
-$host     = options[:host]
-$port     = options[:port]
-$org      = options[:org]
-$bucket   = options[:bucket]
-$token    = options[:token]
-$interval = options[:interval]
 
 # Seed Data
 seeds = [
@@ -91,40 +43,23 @@ def increment_data(data={})
   return data
 end
 
-def line_protocol_batch(point_data=[])
+def line_protocol_batch(point_data=[], offset)
   batch = []
+  now = (Time.now.to_i - ((60 * 60) - (10 * offset))) * 1000000000
   point_data.each do |v|
-    batch << "airSensors,sensor_id=TLM0#{v[:id]} temperature=#{v[:t]},humidity=#{v[:h]},co=#{v[:c]}"
+    batch << "airSensors,sensor_id=TLM0#{v[:id]} temperature=#{v[:t]},humidity=#{v[:h]},co=#{v[:c]} #{now}"
   end
   return batch.join("\n")
 end
 
-def send_data(batch)
-  uri = URI.parse("#{$protocol}://#{$host}:#{$port}/api/v2/write?org=#{URI::encode($org)}&bucket=#{URI::encode($bucket)}")
-  request = Net::HTTP::Post.new(uri)
-  request["Authorization"] = "Token #{$token}"
-  request.body = "#{batch}"
-
-  req_options = {
-    use_ssl: uri.scheme == "https",
-    ssl_version: :SSLv23
-  }
-
-  response = Net::HTTP.start(uri.hostname, uri.port, req_options) do |http|
-    http.request(request)
-  end
-end
-
-def send_batches(dataset=[], interval=$interval)
-  dataset.map! { |seed| increment_data(seed) }
-  send_data(line_protocol_batch(dataset))
-  sleep interval
-  send_batches(dataset,interval)
+def send_batches(dataset=[])
+    for i in 0..660
+        dataset.map! { |seed| increment_data(seed) }
+        puts line_protocol_batch(dataset, i)
+    end
 end
 
 begin
-  puts "Sending data to #{$protocol}://#{$host}:#{$port}..."
-  puts "  (ctrl-c to kill the data stream)"
   send_batches(seeds)
 rescue Interrupt
   puts "\nStopping data stream..."
