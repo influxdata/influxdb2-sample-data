@@ -24,18 +24,26 @@ jobs:
         uses: ruby/setup-ruby@v1.72.1
         with:
           ruby-version: 3.0.1
-      - name: Create files
+      - name: Install InfluxDB OSS
         run: |
           cd /tmp
           wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
           tar xvfz influx_nightly_linux_amd64.tar.gz || true
           sudo cp influx_nightly_linux_amd64/{influx,influxd} /usr/local/bin/
+      - name: Start and Configure InfluxDB
+        run: |
           influxd --http-bind-address :8086 --reporting-disabled > /dev/null 2>&1 &
           until curl -s http://localhost:8086/health; do sleep 1; done
           influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
+      - name: Generate LP
+        run: |
           cd $GITHUB_WORKSPACE/air-sensor-data
           ruby ./air-sensor-data.rb > air-sensor-data.lp
+      - name: Load Data to InfluxDB OSS
+        run: |
           /usr/local/bin/influx write --configs-path /home/runner/.influxdbv2/configs -f ./air-sensor-data.lp -b dummy
+      - name: Query Data from InfluxDB OSS
+        run: |
           /usr/local/bin/influx query --configs-path /home/runner/.influxdbv2/configs "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./air-sensor-data-annotated.csv
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
