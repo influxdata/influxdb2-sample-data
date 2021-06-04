@@ -129,5 +129,5 @@ points.forEach((point, index) => {
     lpLines.push(lp)
 })
 
-const newFilename = `./usgs-earthquake-data/earthquake/all_week.lp`
+const newFilename = `./usgs-earthquake-data/all_week.lp`
 await writeTXT(newFilename, lpLines.join('\n'))
