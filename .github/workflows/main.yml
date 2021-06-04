@@ -21,6 +21,7 @@ jobs:
 
       - name: Setup Ruby, JRuby and TruffleRuby
         uses: ruby/setup-ruby@v1.72.1
+      - name: Create files
         run: |
           cd /tmp
           wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
