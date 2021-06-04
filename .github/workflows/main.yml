@@ -37,14 +37,13 @@ jobs:
           influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
       - name: Generate LP
         run: |
-          cd $GITHUB_WORKSPACE/air-sensor-data
-          ruby ./air-sensor-data.rb > ./air-sensor-data.lp
+          ruby $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.rb > $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.lp
       - name: Load Data to InfluxDB OSS
         run: |
-          /usr/local/bin/influx write -f ./air-sensor-data.lp -b dummy
+          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.lp -b dummy
       - name: Query Data from InfluxDB OSS
         run: |
-          /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./air-sensor-data-annotated.csv
+          /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-annotated.csv
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
