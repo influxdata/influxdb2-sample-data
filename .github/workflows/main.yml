@@ -18,8 +18,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
-
+      - name: Check out repo
+        uses: actions/checkout@v2
       - name: Setup Ruby, JRuby and TruffleRuby
         uses: ruby/setup-ruby@v1.72.1
         with:
@@ -35,8 +35,8 @@ jobs:
           influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
           cd $GITHUB_WORKSPACE/air-sensor-data
           ruby ./air-sensor-data.rb > air-sensor-data.lp
-          /usr/local/bin/influx write -f ./air-sensor-data.lp -b dummy
-          /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./air-sensor-data-annotated.csv
+          /usr/local/bin/influx write --configs-path /home/runner/.influxdbv2/configs -f ./air-sensor-data.lp -b dummy
+          /usr/local/bin/influx query --configs-path /home/runner/.influxdbv2/configs "from(bucket: \"dummy\") |> range(start: -1y)" --raw > ./air-sensor-data-annotated.csv
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
