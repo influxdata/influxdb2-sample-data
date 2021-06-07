@@ -53,17 +53,14 @@ jobs:
         uses: ruby/setup-ruby@v1.72.1
         with:
           ruby-version: 3.0.1
-      - name: Install InfluxDB OSS
-        run: |
-          cd /tmp
-          wget https://dl.influxdata.com/platform/nightlies/influx_nightly_linux_amd64.tar.gz
-          tar xvfz influx_nightly_linux_amd64.tar.gz || true
-          sudo cp influx_nightly_linux_amd64/{influx,influxd} /usr/local/bin/
-      - name: Start and Configure InfluxDB
-        run: |
-          influxd --http-bind-address :8086 --reporting-disabled > /dev/null 2>&1 &
-          until curl -s http://localhost:8086/health; do sleep 1; done
-          influx setup --host http://localhost:8086 -f -b dummy -o influxdata -u ci_user -p password
+      - name: InfluxDB Action
+        uses: russorat/influxdb-action@v1
+        with:
+          influxdb_version: 2.0.7
+          influxdb_org: influxdata
+          influxdb_user: ci_user
+          influxdb_password: password
+          influxdb_bucket: dummy
       - name: Generate Air Sensor LP
         run: |
           ruby $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.rb > $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.lp
