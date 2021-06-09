@@ -1,4 +1,5 @@
-import { readJSON, writeTXT } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readJSON } from 'https://deno.land/x/flat@0.0.10/src/json.ts'
+import { writeTXT } from 'https://deno.land/x/flat@0.0.10/src/txt.ts'
 
 function createEscaper(characters, replacements) {
     return function (value) {
