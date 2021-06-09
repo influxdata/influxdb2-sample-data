@@ -1,4 +1,4 @@
-import { readTXT, writeTXT } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readTXT, writeTXT } from 'https://deno.land/x/flat@0.0.10/src/txt.ts' 
 import { Parser } from 'https://deno.land/x/xmlparser@v0.2.0/mod.ts'
 
 const observationsTxt = await readTXT('./noaa-ndbc-data/latest-observations.txt')
