@@ -7647,9 +7647,9 @@
 #datatype,string,long,dateTime:RFC3339,string,string,string,string,string,string,string,string
 #default,_result,,,,,,,,,,
 ,result,table,_time,_value,_field,_measurement,station_id,station_name,station_owner,station_pgm,station_type
-,,7390,2021-06-23T13:00:00Z,n,station_met,ndbc,31003,Para?ba,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
-,,7391,2021-06-23T13:00:00Z,n,station_met,ndbc,31004,Salvador,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
-,,7392,2021-06-23T13:00:00Z,n,station_met,ndbc,31005,Espirito Santo,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
+,,7390,2021-06-23T13:00:00Z,y,station_met,ndbc,31003,Para?ba,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
+,,7391,2021-06-23T13:00:00Z,y,station_met,ndbc,31004,Salvador,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
+,,7392,2021-06-23T13:00:00Z,y,station_met,ndbc,31005,Espirito Santo,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 ,,7393,2021-06-23T12:00:00Z,y,station_met,ndbc,31006,NE Extension,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 ,,7394,2021-06-23T12:00:00Z,y,station_met,ndbc,31007,Jazz,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 ,,7395,2021-06-23T12:30:00Z,y,station_met,ndbc,32ST0,Stratus,Woods Hole Oceanographic Institution,IOOS Partners,fixed
@@ -8172,7 +8172,7 @@
 ,,7892,2021-06-23T13:35:00Z,y,station_met,ndbc,KEMK,East Breaks 165 (SandRidge Energy),Federal Aviation Administration,Marine METAR,oilrig
 ,,7893,2021-06-23T13:32:00Z,y,station_met,ndbc,KEXA2,"Ketchikan Harbor, AK",Marine Exchange of Alaska,IOOS Partners,fixed
 ,,7894,2021-06-23T13:00:00Z,y,station_met,ndbc,KGCA2,"9459881 - King Cove, AK",NOS,NOS/CO-OPS,fixed
-,,7895,2021-06-23T13:35:00Z,n,station_met,ndbc,KGHB,Garden Banks 172 / Salsa (Shell E &amp; P),Federal Aviation Administration,Marine METAR,oilrig
+,,7895,2021-06-23T13:35:00Z,y,station_met,ndbc,KGHB,Garden Banks 172 / Salsa (Shell E &amp; P),Federal Aviation Administration,Marine METAR,oilrig
 ,,7896,2021-06-23T12:56:00Z,y,station_met,ndbc,KGNA,"Bay of Grand Marais, MN",NWS Central Region,Marine METAR,fixed
 ,,7897,2021-06-23T13:30:00Z,y,station_met,ndbc,KGRY,Green Canyon 338 / Front Runner (Murphy E&amp;P),Federal Aviation Administration,Marine METAR,oilrig
 ,,7898,2021-06-23T13:35:00Z,y,station_met,ndbc,KHHV,Alaminos Canyon 25 / Hoover-Diana (ExxonMobile Corp),Federal Aviation Administration,Marine METAR,oilrig
@@ -8228,7 +8228,7 @@
 ,,7948,2021-06-23T13:00:00Z,y,station_met,ndbc,MAXT2,"Copano East, Mission-Aransas Reserve, TX",National Estuarine Research Reserve System,NERRS,fixed
 ,,7949,2021-06-23T13:00:00Z,y,station_met,ndbc,MBET2,"8773767 - Matagorda Bay Entrance Channel, TX",NOS,NOS/CO-OPS,fixed
 ,,7950,2021-06-23T13:00:00Z,y,station_met,ndbc,MBIN7,"Masonboro Island, NC (MSNB_S)",CORMP,IOOS Partners,fixed
-,,7951,2021-06-23T13:30:00Z,n,station_met,ndbc,MBLA1,"Middle Bay Lighthouse, AL",Dauphin Island Sea Lab,IOOS Partners,fixed
+,,7951,2021-06-23T13:30:00Z,y,station_met,ndbc,MBLA1,"Middle Bay Lighthouse, AL",Dauphin Island Sea Lab,IOOS Partners,fixed
 ,,7952,2021-06-23T13:00:00Z,y,station_met,ndbc,MBNN7,"Masonboro Island, NC (MSNB_N)",CORMP,IOOS Partners,fixed
 ,,7953,2021-06-23T13:00:00Z,y,station_met,ndbc,MBPA1,"8736163 - Middle Bay Port, Mobile Bay, AL",NOAA NOS PORTS,NOS/CO-OPS,fixed
 ,,7954,2021-06-23T13:00:00Z,y,station_met,ndbc,MBRM4,"9014090 - Mouth of the Black River, MI",NOS,NOS/CO-OPS,fixed
