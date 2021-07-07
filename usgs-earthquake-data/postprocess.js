@@ -54,9 +54,9 @@ earthquakeJSON.features.forEach((feature, index) => {
         tags: {},
         fields: {},
         measurement: "",
-        timestamp: 0
+        time: 0
     }
-    point.timestamp = feature.properties.time * 1000000
+    point.time = feature.properties.time * 1000000
 
     point.fields.lon = feature.geometry.coordinates[0]
     point.fields.lat = feature.geometry.coordinates[1]
