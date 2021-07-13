@@ -93,7 +93,7 @@ jobs:
     needs: process-data
     steps:
       - name: Sync Air Sensor Data to S3
-      - uses: jakejarvis/s3-sync-action@master
+        uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks
         env:
@@ -104,7 +104,7 @@ jobs:
           SOURCE_DIR: $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: air-sensor-data-annotated.csv
       - name: Sync NOAA Data to S3
-      - uses: jakejarvis/s3-sync-action@master
+        uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks
         env:
@@ -115,7 +115,7 @@ jobs:
           SOURCE_DIR: $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: noaa-ndbc-latest-observations-annotated.csv
       - name: Sync USGS Data to S3
-      - uses: jakejarvis/s3-sync-action@master
+        uses: jakejarvis/s3-sync-action@master
         with:
           args: --acl public-read --follow-symlinks
         env:
