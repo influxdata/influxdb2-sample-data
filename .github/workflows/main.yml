@@ -101,7 +101,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
           AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
-          SOURCE_DIR: $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-annotated.csv      # optional: defaults to entire repository
+          SOURCE_DIR: ./air-sensor-data/air-sensor-data-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: air-sensor-data-annotated.csv
       - name: Sync NOAA Data to S3
         uses: jakejarvis/s3-sync-action@master
@@ -112,7 +112,7 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
           AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
-          SOURCE_DIR: $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations-annotated.csv      # optional: defaults to entire repository
+          SOURCE_DIR: ./noaa-ndbc-data/latest-observations-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: noaa-ndbc-latest-observations-annotated.csv
       - name: Sync USGS Data to S3
         uses: jakejarvis/s3-sync-action@master
@@ -123,5 +123,5 @@ jobs:
           AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
           AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
-          SOURCE_DIR: $GITHUB_WORKSPACE/usgs-earthquake-data/all_week-annotated.csv      # optional: defaults to entire repository
+          SOURCE_DIR: ./usgs-earthquake-data/all_week-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: usgs-earthquake-all-week-annotated.csv
