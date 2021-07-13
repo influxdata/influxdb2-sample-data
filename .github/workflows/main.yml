@@ -6,7 +6,9 @@ name: update-data
 on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch: {}
-  pull_request: {}
+  push:
+    branches:
+    - master
   schedule:
     - cron: "*/5 * * * *"
 
@@ -100,8 +102,8 @@ jobs:
           args: --acl public-read --follow-symlinks
         env:
           AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_TOKEN }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_KEY }}
           AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
           SOURCE_DIR: $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: air-sensor-data-annotated.csv
@@ -111,8 +113,8 @@ jobs:
           args: --acl public-read --follow-symlinks
         env:
           AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_TOKEN }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_KEY }}
           AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
           SOURCE_DIR: $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: noaa-ndbc-latest-observations-annotated.csv
@@ -122,8 +124,8 @@ jobs:
           args: --acl public-read --follow-symlinks
         env:
           AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_TOKEN }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_KEY }}
           AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
           SOURCE_DIR: $GITHUB_WORKSPACE/usgs-earthquake-data/all_week-annotated.csv      # optional: defaults to entire repository
           DEST_DIR: usgs-earthquake-all-week-annotated.csv
