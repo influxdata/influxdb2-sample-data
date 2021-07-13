@@ -88,3 +88,13 @@ jobs:
           author_name: Russ Savage
           author_email: russ@influxdata.com
           message: 'Adding LP and annotated CSV file'
+      - uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks
+        env:
+          AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_KEY }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_TOKEN }}
+          AWS_REGION: ${{ secrets.S3_REGION }}   # optional: defaults to us-east-1
+          SOURCE_DIR: $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-annotated.csv      # optional: defaults to entire repository
+          DEST_DIR: air-sensor-data-annotated.csv
