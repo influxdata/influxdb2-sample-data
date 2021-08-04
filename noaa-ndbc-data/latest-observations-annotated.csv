@@ -23,7 +23,7 @@
 ,,18,2021-08-04T07:00:00Z,1.1,air_temp_degc,ndbc,45014,"GB17 - South Green Bay, WI",University of Wisconsin-Milwaukee,IOOS Partners,buoy
 ,,19,2021-08-04T07:00:00Z,1.1,air_temp_degc,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,20,2021-08-04T07:00:00Z,1.3,air_temp_degc,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,21,2021-08-04T06:00:00Z,0.4,air_temp_degc,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,21,2021-08-04T07:00:00Z,-0.3,air_temp_degc,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,22,2021-08-04T07:00:00Z,1,air_temp_degc,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,23,2021-08-04T07:00:00Z,-0.3,air_temp_degc,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,24,2021-08-04T06:00:00Z,1.2,air_temp_degc,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -69,8 +69,8 @@
 ,,64,2021-08-04T06:00:00Z,-1.4,air_temp_degc,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,65,2021-08-04T07:00:00Z,-0.4,air_temp_degc,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,66,2021-08-04T07:00:00Z,-0.5,air_temp_degc,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,67,2021-08-04T06:00:00Z,-1.3,air_temp_degc,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,68,2021-08-04T06:00:00Z,-0.3,air_temp_degc,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,67,2021-08-04T07:00:00Z,-0.8,air_temp_degc,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,68,2021-08-04T07:00:00Z,-0.3,air_temp_degc,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,69,2021-08-04T07:00:00Z,-0.8,air_temp_degc,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,70,2021-08-04T07:00:00Z,-1.1,air_temp_degc,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,71,2021-08-04T07:00:00Z,0.5,air_temp_degc,ndbc,46303,Southern Georgia Strait,Environment and Climate Change Canada,International Partners,buoy
@@ -182,38 +182,38 @@
 ,,177,2021-08-04T06:50:00Z,2.3,avg_wave_period_sec,ndbc,46081,Western Prince William Sound,NDBC,NDBC Meteorological/Ocean,other
 ,,178,2021-08-04T06:50:00Z,5.4,avg_wave_period_sec,ndbc,46082,"Cape Suckling - 35 NM SE of Kayak Is, AK",NDBC,NDBC Meteorological/Ocean,other
 ,,179,2021-08-04T06:50:00Z,6.1,avg_wave_period_sec,ndbc,46083,"FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",NDBC,NDBC Meteorological/Ocean,other
-,,180,2021-08-04T06:26:00Z,6.8,avg_wave_period_sec,ndbc,46114,"West Monterey Bay, CA (185)",SCRIPPS,IOOS Partners,buoy
-,,181,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
-,,182,2021-08-04T06:26:00Z,6.3,avg_wave_period_sec,ndbc,46213,"Cape Mendocino, CA (094)",SCRIPPS,IOOS Partners,buoy
-,,183,2021-08-04T06:56:00Z,6.2,avg_wave_period_sec,ndbc,46214,"Point Reyes, CA (029)",SCRIPPS,IOOS Partners,buoy
-,,184,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46215,"Diablo Canyon, CA (076)",SCRIPPS,IOOS Partners,buoy
-,,185,2021-08-04T06:56:00Z,5.6,avg_wave_period_sec,ndbc,46218,"Harvest, CA (071)",SCRIPPS,IOOS Partners,buoy
-,,186,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46219,"San Nicolas Island, CA (067)",SCRIPPS,IOOS Partners,buoy
-,,187,2021-08-04T06:56:00Z,6.8,avg_wave_period_sec,ndbc,46221,"Santa Monica Bay, CA (028)",SCRIPPS,IOOS Partners,buoy
-,,188,2021-08-04T06:56:00Z,7.6,avg_wave_period_sec,ndbc,46224,"Oceanside Offshore, CA (045)",SCRIPPS,IOOS Partners,buoy
-,,189,2021-08-04T06:56:00Z,6.7,avg_wave_period_sec,ndbc,46225,"Torrey Pines Outer, CA (100)",SCRIPPS,IOOS Partners,buoy
-,,190,2021-08-04T06:56:00Z,4.9,avg_wave_period_sec,ndbc,46229,"UMPQUA OFFSHORE, OR (139)",SCRIPPS,IOOS Partners,buoy
-,,191,2021-08-04T06:56:00Z,6.6,avg_wave_period_sec,ndbc,46232,"Point Loma South, CA  (191)",SCRIPPS,IOOS Partners,buoy
-,,192,2021-08-04T06:56:00Z,6.5,avg_wave_period_sec,ndbc,46235,"Imperial Beach Nearshore, CA (155)",SCRIPPS,IOOS Partners,buoy
-,,193,2021-08-04T07:00:00Z,6,avg_wave_period_sec,ndbc,46237,"San Francisco Bar, CA  (142)",SCRIPPS,IOOS Partners,buoy
-,,194,2021-08-04T06:56:00Z,5.7,avg_wave_period_sec,ndbc,46239,"Point Sur, CA (157)",SCRIPPS,IOOS Partners,buoy
-,,195,2021-08-04T06:56:00Z,5.7,avg_wave_period_sec,ndbc,46240,"Cabrillo Point, Monterey Bay, CA  (158)",SCRIPPS,IOOS Partners,buoy
-,,196,2021-08-04T06:56:00Z,6.2,avg_wave_period_sec,ndbc,46243,"Clatsop Spit, OR (162)",SCRIPPS,IOOS Partners,buoy
-,,197,2021-08-04T06:56:00Z,5.8,avg_wave_period_sec,ndbc,46244,"Humboldt Bay, North Spit, CA (168)",SCRIPPS,IOOS Partners,buoy
-,,198,2021-08-04T06:56:00Z,5.8,avg_wave_period_sec,ndbc,46246,Ocean Station PAPA  (166),"APL-UW, University of Washington Applied Physics Laboratory",IOOS Partners,buoy
-,,199,2021-08-04T06:56:00Z,5.3,avg_wave_period_sec,ndbc,46248,"Astoria Canyon, OR  (179)",SCRIPPS,IOOS Partners,buoy
-,,200,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46251,"Santa Cruz Basin, CA (203)",SCRIPPS,IOOS Partners,buoy
-,,201,2021-08-04T06:56:00Z,7.2,avg_wave_period_sec,ndbc,46253,"San Pedro South, CA (213)",SCRIPPS,IOOS Partners,buoy
-,,202,2021-08-04T06:56:00Z,5.5,avg_wave_period_sec,ndbc,46254,"SCRIPPS Nearshore, CA (201)",SCRIPPS,IOOS Partners,buoy
-,,203,2021-08-04T06:56:00Z,8.7,avg_wave_period_sec,ndbc,46256,"Long Beach Channel, CA (215)",SCRIPPS,IOOS Partners,buoy
-,,204,2021-08-04T06:56:00Z,6.7,avg_wave_period_sec,ndbc,46258,"Mission Bay West, CA (220)",SCRIPPS,IOOS Partners,buoy
-,,205,2021-08-04T05:56:00Z,6,avg_wave_period_sec,ndbc,46259,"Santa Lucia Escarpment, CA (222)",U.S. Army Corps of Engineers,IOOS Partners,buoy
-,,206,2021-08-04T06:56:00Z,6.3,avg_wave_period_sec,ndbc,46264,"Kodiak, AK (236)",National Renewable Energy Laboratory,IOOS Partners,buoy
-,,207,2021-08-04T07:00:00Z,6.1,avg_wave_period_sec,ndbc,46266,"Del Mar Nearshore, CA (153)",U.S. Army Corps of Engineers,IOOS Partners,buoy
-,,208,2021-08-04T07:00:00Z,6,avg_wave_period_sec,ndbc,46268,"Topanga Nearshore, CA (103)",SCRIPPS,IOOS Partners,buoy
-,,209,2021-08-04T07:00:00Z,6.5,avg_wave_period_sec,ndbc,46269,"Point Santa Cruz, CA (254)",SCRIPPS,IOOS Partners,buoy
-,,210,2021-08-04T06:57:00Z,5.2,avg_wave_period_sec,ndbc,51201,"Waimea Bay, HI (106)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
-,,211,2021-08-04T06:56:00Z,5.9,avg_wave_period_sec,ndbc,51205,"Pauwela, Maui, HI (187)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
+,,180,2021-08-04T07:10:00Z,4.4,avg_wave_period_sec,ndbc,46088,"NEW DUNGENESS - 17 NM NE of Port Angeles, WA",NDBC,NDBC Meteorological/Ocean,buoy
+,,181,2021-08-04T06:26:00Z,6.8,avg_wave_period_sec,ndbc,46114,"West Monterey Bay, CA (185)",SCRIPPS,IOOS Partners,buoy
+,,182,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
+,,183,2021-08-04T06:26:00Z,6.3,avg_wave_period_sec,ndbc,46213,"Cape Mendocino, CA (094)",SCRIPPS,IOOS Partners,buoy
+,,184,2021-08-04T06:56:00Z,6.2,avg_wave_period_sec,ndbc,46214,"Point Reyes, CA (029)",SCRIPPS,IOOS Partners,buoy
+,,185,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46215,"Diablo Canyon, CA (076)",SCRIPPS,IOOS Partners,buoy
+,,186,2021-08-04T06:56:00Z,5.6,avg_wave_period_sec,ndbc,46218,"Harvest, CA (071)",SCRIPPS,IOOS Partners,buoy
+,,187,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46219,"San Nicolas Island, CA (067)",SCRIPPS,IOOS Partners,buoy
+,,188,2021-08-04T06:56:00Z,6.8,avg_wave_period_sec,ndbc,46221,"Santa Monica Bay, CA (028)",SCRIPPS,IOOS Partners,buoy
+,,189,2021-08-04T06:56:00Z,7.6,avg_wave_period_sec,ndbc,46224,"Oceanside Offshore, CA (045)",SCRIPPS,IOOS Partners,buoy
+,,190,2021-08-04T06:56:00Z,6.7,avg_wave_period_sec,ndbc,46225,"Torrey Pines Outer, CA (100)",SCRIPPS,IOOS Partners,buoy
+,,191,2021-08-04T06:56:00Z,4.9,avg_wave_period_sec,ndbc,46229,"UMPQUA OFFSHORE, OR (139)",SCRIPPS,IOOS Partners,buoy
+,,192,2021-08-04T06:56:00Z,6.6,avg_wave_period_sec,ndbc,46232,"Point Loma South, CA  (191)",SCRIPPS,IOOS Partners,buoy
+,,193,2021-08-04T06:56:00Z,6.5,avg_wave_period_sec,ndbc,46235,"Imperial Beach Nearshore, CA (155)",SCRIPPS,IOOS Partners,buoy
+,,194,2021-08-04T07:00:00Z,6,avg_wave_period_sec,ndbc,46237,"San Francisco Bar, CA  (142)",SCRIPPS,IOOS Partners,buoy
+,,195,2021-08-04T06:56:00Z,5.7,avg_wave_period_sec,ndbc,46239,"Point Sur, CA (157)",SCRIPPS,IOOS Partners,buoy
+,,196,2021-08-04T06:56:00Z,5.7,avg_wave_period_sec,ndbc,46240,"Cabrillo Point, Monterey Bay, CA  (158)",SCRIPPS,IOOS Partners,buoy
+,,197,2021-08-04T06:56:00Z,6.2,avg_wave_period_sec,ndbc,46243,"Clatsop Spit, OR (162)",SCRIPPS,IOOS Partners,buoy
+,,198,2021-08-04T06:56:00Z,5.8,avg_wave_period_sec,ndbc,46244,"Humboldt Bay, North Spit, CA (168)",SCRIPPS,IOOS Partners,buoy
+,,199,2021-08-04T06:56:00Z,5.8,avg_wave_period_sec,ndbc,46246,Ocean Station PAPA  (166),"APL-UW, University of Washington Applied Physics Laboratory",IOOS Partners,buoy
+,,200,2021-08-04T06:56:00Z,5.3,avg_wave_period_sec,ndbc,46248,"Astoria Canyon, OR  (179)",SCRIPPS,IOOS Partners,buoy
+,,201,2021-08-04T06:56:00Z,6,avg_wave_period_sec,ndbc,46251,"Santa Cruz Basin, CA (203)",SCRIPPS,IOOS Partners,buoy
+,,202,2021-08-04T06:56:00Z,7.2,avg_wave_period_sec,ndbc,46253,"San Pedro South, CA (213)",SCRIPPS,IOOS Partners,buoy
+,,203,2021-08-04T06:56:00Z,5.5,avg_wave_period_sec,ndbc,46254,"SCRIPPS Nearshore, CA (201)",SCRIPPS,IOOS Partners,buoy
+,,204,2021-08-04T06:56:00Z,8.7,avg_wave_period_sec,ndbc,46256,"Long Beach Channel, CA (215)",SCRIPPS,IOOS Partners,buoy
+,,205,2021-08-04T06:56:00Z,6.7,avg_wave_period_sec,ndbc,46258,"Mission Bay West, CA (220)",SCRIPPS,IOOS Partners,buoy
+,,206,2021-08-04T05:56:00Z,6,avg_wave_period_sec,ndbc,46259,"Santa Lucia Escarpment, CA (222)",U.S. Army Corps of Engineers,IOOS Partners,buoy
+,,207,2021-08-04T06:56:00Z,6.3,avg_wave_period_sec,ndbc,46264,"Kodiak, AK (236)",National Renewable Energy Laboratory,IOOS Partners,buoy
+,,208,2021-08-04T07:00:00Z,6.1,avg_wave_period_sec,ndbc,46266,"Del Mar Nearshore, CA (153)",U.S. Army Corps of Engineers,IOOS Partners,buoy
+,,209,2021-08-04T07:00:00Z,6,avg_wave_period_sec,ndbc,46268,"Topanga Nearshore, CA (103)",SCRIPPS,IOOS Partners,buoy
+,,210,2021-08-04T07:00:00Z,6.5,avg_wave_period_sec,ndbc,46269,"Point Santa Cruz, CA (254)",SCRIPPS,IOOS Partners,buoy
+,,211,2021-08-04T06:57:00Z,5.2,avg_wave_period_sec,ndbc,51201,"Waimea Bay, HI (106)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
 ,,212,2021-08-04T06:56:00Z,5.8,avg_wave_period_sec,ndbc,51207,"Kaneohe Bay, HI (198)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
 ,,213,2021-08-04T06:56:00Z,5.6,avg_wave_period_sec,ndbc,51208,"Hanalei, Kauai, HI (202)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
 ,,214,2021-08-04T07:16:00Z,6.9,avg_wave_period_sec,ndbc,51209,"Aunuu, American Samoa (189)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
@@ -377,7 +377,7 @@
 ,,362,2021-08-04T07:10:00Z,19.8,dewpoint_temp_degc,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,363,2021-08-04T07:00:00Z,22.6,dewpoint_temp_degc,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,364,2021-08-04T07:00:00Z,20.3,dewpoint_temp_degc,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,365,2021-08-04T06:00:00Z,15.7,dewpoint_temp_degc,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,365,2021-08-04T07:00:00Z,15.7,dewpoint_temp_degc,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,366,2021-08-04T07:00:00Z,21.6,dewpoint_temp_degc,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,367,2021-08-04T06:00:00Z,15.3,dewpoint_temp_degc,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
 ,,368,2021-08-04T07:00:00Z,22.6,dewpoint_temp_degc,ndbc,45142,Port Colborne,Environment and Climate Change Canada,International Partners,buoy
@@ -454,8 +454,8 @@
 ,,439,2021-08-04T06:00:00Z,14.3,dewpoint_temp_degc,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,440,2021-08-04T07:00:00Z,15,dewpoint_temp_degc,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,441,2021-08-04T07:00:00Z,15.4,dewpoint_temp_degc,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,442,2021-08-04T06:00:00Z,15.1,dewpoint_temp_degc,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,443,2021-08-04T06:00:00Z,13.6,dewpoint_temp_degc,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,442,2021-08-04T07:00:00Z,15.1,dewpoint_temp_degc,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,443,2021-08-04T07:00:00Z,13.2,dewpoint_temp_degc,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,444,2021-08-04T07:00:00Z,16,dewpoint_temp_degc,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,445,2021-08-04T07:00:00Z,15.5,dewpoint_temp_degc,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,446,2021-08-04T06:56:00Z,9.8,dewpoint_temp_degc,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -821,7 +821,7 @@
 ,,796,2021-08-04T07:10:00Z,2,dominant_wave_period_sec,ndbc,45027,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth",IOOS Partners,buoy
 ,,797,2021-08-04T07:00:00Z,3,dominant_wave_period_sec,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,798,2021-08-04T07:00:00Z,3,dominant_wave_period_sec,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,799,2021-08-04T06:00:00Z,4,dominant_wave_period_sec,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,799,2021-08-04T07:00:00Z,3,dominant_wave_period_sec,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,800,2021-08-04T07:00:00Z,4,dominant_wave_period_sec,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,801,2021-08-04T07:00:00Z,3,dominant_wave_period_sec,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,802,2021-08-04T06:00:00Z,5,dominant_wave_period_sec,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -856,8 +856,8 @@
 ,,831,2021-08-04T06:00:00Z,9,dominant_wave_period_sec,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,832,2021-08-04T07:00:00Z,8,dominant_wave_period_sec,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,833,2021-08-04T07:00:00Z,8,dominant_wave_period_sec,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,834,2021-08-04T06:00:00Z,6,dominant_wave_period_sec,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,835,2021-08-04T06:00:00Z,8,dominant_wave_period_sec,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,834,2021-08-04T07:00:00Z,7,dominant_wave_period_sec,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,835,2021-08-04T07:00:00Z,9,dominant_wave_period_sec,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,836,2021-08-04T07:00:00Z,8,dominant_wave_period_sec,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,837,2021-08-04T07:00:00Z,8,dominant_wave_period_sec,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,838,2021-08-04T06:56:00Z,8,dominant_wave_period_sec,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -1021,7 +1021,7 @@
 ,,976,2021-08-04T07:10:00Z,4,gust_speed_mps,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,977,2021-08-04T07:00:00Z,2,gust_speed_mps,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,978,2021-08-04T07:00:00Z,3,gust_speed_mps,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,979,2021-08-04T06:00:00Z,6,gust_speed_mps,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,979,2021-08-04T07:00:00Z,6,gust_speed_mps,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,980,2021-08-04T07:00:00Z,2,gust_speed_mps,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,981,2021-08-04T07:00:00Z,8,gust_speed_mps,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,982,2021-08-04T06:00:00Z,5,gust_speed_mps,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -1101,8 +1101,8 @@
 ,,1056,2021-08-04T06:00:00Z,5,gust_speed_mps,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,1057,2021-08-04T07:00:00Z,11,gust_speed_mps,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,1058,2021-08-04T07:00:00Z,9,gust_speed_mps,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,1059,2021-08-04T06:00:00Z,11,gust_speed_mps,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,1060,2021-08-04T06:00:00Z,4,gust_speed_mps,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,1059,2021-08-04T07:00:00Z,10,gust_speed_mps,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,1060,2021-08-04T07:00:00Z,2,gust_speed_mps,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,1061,2021-08-04T07:00:00Z,11,gust_speed_mps,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,1062,2021-08-04T07:00:00Z,12,gust_speed_mps,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,1063,2021-08-04T07:00:00Z,5,gust_speed_mps,ndbc,46303,Southern Georgia Strait,Environment and Climate Change Canada,International Partners,buoy
@@ -1650,7 +1650,7 @@
 ,,1575,2021-08-04T07:10:00Z,42.9,lat,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,1576,2021-08-04T07:00:00Z,42.46,lat,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,1577,2021-08-04T07:00:00Z,43.78,lat,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,1578,2021-08-04T06:00:00Z,48.54,lat,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,1578,2021-08-04T07:00:00Z,48.54,lat,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,1579,2021-08-04T07:00:00Z,43.25,lat,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,1580,2021-08-04T07:00:00Z,50.8,lat,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,1581,2021-08-04T06:00:00Z,61.18,lat,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -1738,8 +1738,8 @@
 ,,1663,2021-08-04T06:00:00Z,53.92,lat,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,1664,2021-08-04T07:00:00Z,52.42,lat,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,1665,2021-08-04T07:00:00Z,51.38,lat,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,1666,2021-08-04T06:00:00Z,54.18,lat,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,1667,2021-08-04T06:00:00Z,48.84,lat,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,1666,2021-08-04T07:00:00Z,54.18,lat,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,1667,2021-08-04T07:00:00Z,48.84,lat,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,1668,2021-08-04T07:00:00Z,50.87,lat,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,1669,2021-08-04T07:00:00Z,52.52,lat,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,1670,2021-08-04T06:56:00Z,46.857,lat,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -2521,7 +2521,7 @@
 ,,2416,2021-08-04T07:10:00Z,-86.272,lon,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,2417,2021-08-04T07:00:00Z,-81.22,lon,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,2418,2021-08-04T07:00:00Z,-76.87,lon,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,2419,2021-08-04T06:00:00Z,-86.95,lon,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,2419,2021-08-04T07:00:00Z,-86.95,lon,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,2420,2021-08-04T07:00:00Z,-79.53,lon,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,2421,2021-08-04T07:00:00Z,-96.73,lon,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,2422,2021-08-04T06:00:00Z,-115.31,lon,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -2609,8 +2609,8 @@
 ,,2504,2021-08-04T06:00:00Z,-138.85,lon,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,2505,2021-08-04T07:00:00Z,-129.79,lon,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,2506,2021-08-04T07:00:00Z,-128.77,lon,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,2507,2021-08-04T06:00:00Z,-134.32,lon,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,2508,2021-08-04T06:00:00Z,-126,lon,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,2507,2021-08-04T07:00:00Z,-134.32,lon,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,2508,2021-08-04T07:00:00Z,-126,lon,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,2509,2021-08-04T07:00:00Z,-129.92,lon,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,2510,2021-08-04T07:00:00Z,-132.69,lon,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,2511,2021-08-04T06:56:00Z,-124.244,lon,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -3382,7 +3382,7 @@
 ,,3257,2021-08-04T07:10:00Z,1020.6,sea_level_pressure_hpa,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,3258,2021-08-04T07:00:00Z,1020.5,sea_level_pressure_hpa,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,3259,2021-08-04T07:00:00Z,1021,sea_level_pressure_hpa,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,3260,2021-08-04T06:00:00Z,1015.8,sea_level_pressure_hpa,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,3260,2021-08-04T07:00:00Z,1016.1,sea_level_pressure_hpa,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,3261,2021-08-04T07:00:00Z,1020.6,sea_level_pressure_hpa,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,3262,2021-08-04T07:00:00Z,1008.2,sea_level_pressure_hpa,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,3263,2021-08-04T06:00:00Z,1021.8,sea_level_pressure_hpa,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -3459,8 +3459,8 @@
 ,,3334,2021-08-04T06:00:00Z,1001.6,sea_level_pressure_hpa,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,3335,2021-08-04T07:00:00Z,1013.6,sea_level_pressure_hpa,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,3336,2021-08-04T07:00:00Z,1016,sea_level_pressure_hpa,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,3337,2021-08-04T06:00:00Z,1004.5,sea_level_pressure_hpa,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,3338,2021-08-04T06:00:00Z,1017.5,sea_level_pressure_hpa,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,3337,2021-08-04T07:00:00Z,1004.4,sea_level_pressure_hpa,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,3338,2021-08-04T07:00:00Z,1017.5,sea_level_pressure_hpa,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,3339,2021-08-04T07:00:00Z,1014.7,sea_level_pressure_hpa,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,3340,2021-08-04T07:00:00Z,1007.6,sea_level_pressure_hpa,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,3341,2021-08-04T07:00:00Z,1016.6,sea_level_pressure_hpa,ndbc,46303,Southern Georgia Strait,Environment and Climate Change Canada,International Partners,buoy
@@ -4031,7 +4031,7 @@
 ,,3876,2021-08-04T07:10:00Z,19.1,sea_surface_temp_degc,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,3877,2021-08-04T07:00:00Z,22.7,sea_surface_temp_degc,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,3878,2021-08-04T07:00:00Z,20.3,sea_surface_temp_degc,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,3879,2021-08-04T06:00:00Z,16.1,sea_surface_temp_degc,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,3879,2021-08-04T07:00:00Z,16.1,sea_surface_temp_degc,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,3880,2021-08-04T07:00:00Z,20.7,sea_surface_temp_degc,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,3881,2021-08-04T07:00:00Z,22.5,sea_surface_temp_degc,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,3882,2021-08-04T06:00:00Z,13.2,sea_surface_temp_degc,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -4106,8 +4106,8 @@
 ,,3951,2021-08-04T06:00:00Z,13.6,sea_surface_temp_degc,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,3952,2021-08-04T07:00:00Z,15.7,sea_surface_temp_degc,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,3953,2021-08-04T07:00:00Z,15.1,sea_surface_temp_degc,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,3954,2021-08-04T06:00:00Z,14.9,sea_surface_temp_degc,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,3955,2021-08-04T06:00:00Z,14.1,sea_surface_temp_degc,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,3954,2021-08-04T07:00:00Z,14.9,sea_surface_temp_degc,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,3955,2021-08-04T07:00:00Z,14.1,sea_surface_temp_degc,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,3956,2021-08-04T07:00:00Z,16,sea_surface_temp_degc,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,3957,2021-08-04T07:00:00Z,15.7,sea_surface_temp_degc,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,3958,2021-08-04T07:00:00Z,17.2,sea_surface_temp_degc,ndbc,46266,"Del Mar Nearshore, CA (153)",U.S. Army Corps of Engineers,IOOS Partners,buoy
@@ -4639,7 +4639,7 @@
 ,,4474,2021-08-04T07:10:00Z,0.2,significant_wave_height_m,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,4475,2021-08-04T07:00:00Z,0,significant_wave_height_m,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,4476,2021-08-04T07:00:00Z,0.3,significant_wave_height_m,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,4477,2021-08-04T06:00:00Z,0.2,significant_wave_height_m,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,4477,2021-08-04T07:00:00Z,0.3,significant_wave_height_m,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,4478,2021-08-04T07:00:00Z,0,significant_wave_height_m,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,4479,2021-08-04T07:00:00Z,0.5,significant_wave_height_m,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,4480,2021-08-04T06:00:00Z,0.9,significant_wave_height_m,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -4692,8 +4692,8 @@
 ,,4527,2021-08-04T06:00:00Z,1.5,significant_wave_height_m,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,4528,2021-08-04T07:00:00Z,1.5,significant_wave_height_m,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,4529,2021-08-04T07:00:00Z,1.8,significant_wave_height_m,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,4530,2021-08-04T06:00:00Z,2,significant_wave_height_m,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,4531,2021-08-04T06:00:00Z,1.5,significant_wave_height_m,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,4530,2021-08-04T07:00:00Z,2.1,significant_wave_height_m,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,4531,2021-08-04T07:00:00Z,1.4,significant_wave_height_m,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,4532,2021-08-04T07:00:00Z,1.8,significant_wave_height_m,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,4533,2021-08-04T07:00:00Z,2.4,significant_wave_height_m,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,4534,2021-08-04T06:56:00Z,1.3,significant_wave_height_m,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -4923,7 +4923,7 @@
 ,,4733,2021-08-04T07:10:00Z,n,station_currents,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,4734,2021-08-04T07:00:00Z,n,station_currents,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,4735,2021-08-04T07:00:00Z,n,station_currents,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,4736,2021-08-04T06:00:00Z,n,station_currents,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,4736,2021-08-04T07:00:00Z,n,station_currents,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,4737,2021-08-04T07:00:00Z,n,station_currents,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,4738,2021-08-04T07:00:00Z,n,station_currents,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,4739,2021-08-04T06:00:00Z,n,station_currents,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -5011,8 +5011,8 @@
 ,,4821,2021-08-04T06:00:00Z,n,station_currents,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,4822,2021-08-04T07:00:00Z,n,station_currents,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,4823,2021-08-04T07:00:00Z,n,station_currents,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,4824,2021-08-04T06:00:00Z,n,station_currents,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,4825,2021-08-04T06:00:00Z,n,station_currents,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,4824,2021-08-04T07:00:00Z,n,station_currents,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,4825,2021-08-04T07:00:00Z,n,station_currents,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,4826,2021-08-04T07:00:00Z,n,station_currents,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,4827,2021-08-04T07:00:00Z,n,station_currents,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,4828,2021-08-04T06:56:00Z,n,station_currents,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -5794,7 +5794,7 @@
 ,,5574,2021-08-04T07:10:00Z,n,station_dart,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,5575,2021-08-04T07:00:00Z,n,station_dart,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,5576,2021-08-04T07:00:00Z,n,station_dart,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,5577,2021-08-04T06:00:00Z,n,station_dart,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,5577,2021-08-04T07:00:00Z,n,station_dart,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,5578,2021-08-04T07:00:00Z,n,station_dart,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,5579,2021-08-04T07:00:00Z,n,station_dart,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,5580,2021-08-04T06:00:00Z,n,station_dart,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -5882,8 +5882,8 @@
 ,,5662,2021-08-04T06:00:00Z,n,station_dart,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,5663,2021-08-04T07:00:00Z,n,station_dart,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,5664,2021-08-04T07:00:00Z,n,station_dart,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,5665,2021-08-04T06:00:00Z,n,station_dart,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,5666,2021-08-04T06:00:00Z,n,station_dart,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,5665,2021-08-04T07:00:00Z,n,station_dart,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,5666,2021-08-04T07:00:00Z,n,station_dart,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,5667,2021-08-04T07:00:00Z,n,station_dart,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,5668,2021-08-04T07:00:00Z,n,station_dart,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,5669,2021-08-04T06:56:00Z,n,station_dart,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -6670,7 +6670,7 @@
 ,,6415,2021-08-04T07:10:00Z,176,station_elev,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,6416,2021-08-04T07:00:00Z,174,station_elev,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,6417,2021-08-04T07:00:00Z,75,station_elev,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,6418,2021-08-04T06:00:00Z,183,station_elev,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,6418,2021-08-04T07:00:00Z,183,station_elev,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,6419,2021-08-04T07:00:00Z,75,station_elev,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,6420,2021-08-04T07:00:00Z,217,station_elev,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,6421,2021-08-04T06:00:00Z,156,station_elev,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -6758,8 +6758,8 @@
 ,,6503,2021-08-04T06:00:00Z,0,station_elev,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,6504,2021-08-04T07:00:00Z,0,station_elev,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,6505,2021-08-04T07:00:00Z,0,station_elev,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,6506,2021-08-04T06:00:00Z,0,station_elev,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,6507,2021-08-04T06:00:00Z,0,station_elev,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,6506,2021-08-04T07:00:00Z,0,station_elev,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,6507,2021-08-04T07:00:00Z,0,station_elev,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,6508,2021-08-04T07:00:00Z,0,station_elev,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,6509,2021-08-04T07:00:00Z,0,station_elev,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,6510,2021-08-04T06:56:00Z,0,station_elev,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -7546,7 +7546,7 @@
 ,,7256,2021-08-04T07:10:00Z,y,station_met,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,7257,2021-08-04T07:00:00Z,y,station_met,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,7258,2021-08-04T07:00:00Z,y,station_met,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,7259,2021-08-04T06:00:00Z,y,station_met,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,7259,2021-08-04T07:00:00Z,y,station_met,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,7260,2021-08-04T07:00:00Z,y,station_met,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,7261,2021-08-04T07:00:00Z,y,station_met,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,7262,2021-08-04T06:00:00Z,y,station_met,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -7634,8 +7634,8 @@
 ,,7344,2021-08-04T06:00:00Z,y,station_met,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,7345,2021-08-04T07:00:00Z,y,station_met,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,7346,2021-08-04T07:00:00Z,y,station_met,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,7347,2021-08-04T06:00:00Z,y,station_met,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,7348,2021-08-04T06:00:00Z,y,station_met,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,7347,2021-08-04T07:00:00Z,y,station_met,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,7348,2021-08-04T07:00:00Z,y,station_met,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,7349,2021-08-04T07:00:00Z,y,station_met,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,7350,2021-08-04T07:00:00Z,y,station_met,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,7351,2021-08-04T06:56:00Z,y,station_met,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -8670,7 +8670,7 @@
 ,,8340,2021-08-04T07:10:00Z,y,station_waterquality,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,8341,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,8342,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,8343,2021-08-04T06:00:00Z,n,station_waterquality,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,8343,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,8344,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,8345,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,8346,2021-08-04T06:00:00Z,n,station_waterquality,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -8758,8 +8758,8 @@
 ,,8428,2021-08-04T06:00:00Z,n,station_waterquality,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,8429,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,8430,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,8431,2021-08-04T06:00:00Z,n,station_waterquality,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,8432,2021-08-04T06:00:00Z,n,station_waterquality,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,8431,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,8432,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,8433,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,8434,2021-08-04T07:00:00Z,n,station_waterquality,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,8435,2021-08-04T06:56:00Z,n,station_waterquality,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
@@ -9459,8 +9459,8 @@
 ,,9109,2021-08-04T06:56:00Z,72,wave_dir_degt,ndbc,44099,"Cape Henry, VA (147)",SCRIPPS,IOOS Partners,buoy
 ,,9110,2021-08-04T06:26:00Z,69,wave_dir_degt,ndbc,44100,"Duck FRF 26m, NC (430)",SCRIPPS,IOOS Partners,buoy
 ,,9111,2021-08-04T07:00:00Z,241,wave_dir_degt,ndbc,45014,"GB17 - South Green Bay, WI",University of Wisconsin-Milwaukee,IOOS Partners,buoy
-,,9112,2021-08-04T07:20:00Z,214,wave_dir_degt,ndbc,45022,"Little Traverse Bay Buoy, MI",University of Michigan CILER,IOOS Partners,buoy
-,,9113,2021-08-04T07:15:00Z,265,wave_dir_degt,ndbc,45023,"North Entry Buoy, North Keweenaw Peninsula, MI",Michigan Technological University,IOOS Partners,buoy
+,,9112,2021-08-04T07:20:00Z,99,wave_dir_degt,ndbc,45022,"Little Traverse Bay Buoy, MI",University of Michigan CILER,IOOS Partners,buoy
+,,9113,2021-08-04T07:15:00Z,260,wave_dir_degt,ndbc,45023,"North Entry Buoy, North Keweenaw Peninsula, MI",Michigan Technological University,IOOS Partners,buoy
 ,,9114,2021-08-04T07:10:00Z,215,wave_dir_degt,ndbc,45024,"Ludington Buoy, MI",University of Michigan CILER,IOOS Partners,buoy
 ,,9115,2021-08-04T07:20:00Z,157,wave_dir_degt,ndbc,45025,"South Entry Buoy, South Keweenaw Peninsula, MI",Michigan Technological University,IOOS Partners,buoy
 ,,9116,2021-08-04T07:10:00Z,204,wave_dir_degt,ndbc,45026,"Cook Nuclear Plant Buoy, Stevensville, MI",Limno Tech,IOOS Partners,buoy
@@ -9489,38 +9489,38 @@
 ,,9139,2021-08-04T06:50:00Z,214,wave_dir_degt,ndbc,46080,"PORTLOCK BANK- 76 NM ENE of Kodiak, AK",NDBC,NDBC Meteorological/Ocean,other
 ,,9140,2021-08-04T06:50:00Z,218,wave_dir_degt,ndbc,46082,"Cape Suckling - 35 NM SE of Kayak Is, AK",NDBC,NDBC Meteorological/Ocean,other
 ,,9141,2021-08-04T06:50:00Z,166,wave_dir_degt,ndbc,46083,"FAIRWEATHER GROUND - 105 NM West  of Juneau, AK",NDBC,NDBC Meteorological/Ocean,other
-,,9142,2021-08-04T06:26:00Z,313,wave_dir_degt,ndbc,46114,"West Monterey Bay, CA (185)",SCRIPPS,IOOS Partners,buoy
-,,9143,2021-08-04T06:56:00Z,286,wave_dir_degt,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
-,,9144,2021-08-04T06:26:00Z,329,wave_dir_degt,ndbc,46213,"Cape Mendocino, CA (094)",SCRIPPS,IOOS Partners,buoy
-,,9145,2021-08-04T06:56:00Z,319,wave_dir_degt,ndbc,46214,"Point Reyes, CA (029)",SCRIPPS,IOOS Partners,buoy
-,,9146,2021-08-04T06:56:00Z,207,wave_dir_degt,ndbc,46215,"Diablo Canyon, CA (076)",SCRIPPS,IOOS Partners,buoy
-,,9147,2021-08-04T06:56:00Z,192,wave_dir_degt,ndbc,46218,"Harvest, CA (071)",SCRIPPS,IOOS Partners,buoy
-,,9148,2021-08-04T06:56:00Z,305,wave_dir_degt,ndbc,46219,"San Nicolas Island, CA (067)",SCRIPPS,IOOS Partners,buoy
-,,9149,2021-08-04T06:56:00Z,191,wave_dir_degt,ndbc,46221,"Santa Monica Bay, CA (028)",SCRIPPS,IOOS Partners,buoy
-,,9150,2021-08-04T06:56:00Z,180,wave_dir_degt,ndbc,46224,"Oceanside Offshore, CA (045)",SCRIPPS,IOOS Partners,buoy
-,,9151,2021-08-04T06:56:00Z,184,wave_dir_degt,ndbc,46225,"Torrey Pines Outer, CA (100)",SCRIPPS,IOOS Partners,buoy
-,,9152,2021-08-04T06:56:00Z,313,wave_dir_degt,ndbc,46229,"UMPQUA OFFSHORE, OR (139)",SCRIPPS,IOOS Partners,buoy
-,,9153,2021-08-04T06:56:00Z,176,wave_dir_degt,ndbc,46232,"Point Loma South, CA  (191)",SCRIPPS,IOOS Partners,buoy
-,,9154,2021-08-04T06:56:00Z,280,wave_dir_degt,ndbc,46235,"Imperial Beach Nearshore, CA (155)",SCRIPPS,IOOS Partners,buoy
-,,9155,2021-08-04T07:00:00Z,228,wave_dir_degt,ndbc,46237,"San Francisco Bar, CA  (142)",SCRIPPS,IOOS Partners,buoy
-,,9156,2021-08-04T06:56:00Z,182,wave_dir_degt,ndbc,46239,"Point Sur, CA (157)",SCRIPPS,IOOS Partners,buoy
-,,9157,2021-08-04T06:56:00Z,332,wave_dir_degt,ndbc,46240,"Cabrillo Point, Monterey Bay, CA  (158)",SCRIPPS,IOOS Partners,buoy
-,,9158,2021-08-04T06:56:00Z,285,wave_dir_degt,ndbc,46243,"Clatsop Spit, OR (162)",SCRIPPS,IOOS Partners,buoy
-,,9159,2021-08-04T06:56:00Z,336,wave_dir_degt,ndbc,46244,"Humboldt Bay, North Spit, CA (168)",SCRIPPS,IOOS Partners,buoy
-,,9160,2021-08-04T06:56:00Z,239,wave_dir_degt,ndbc,46246,Ocean Station PAPA  (166),"APL-UW, University of Washington Applied Physics Laboratory",IOOS Partners,buoy
-,,9161,2021-08-04T06:56:00Z,297,wave_dir_degt,ndbc,46248,"Astoria Canyon, OR  (179)",SCRIPPS,IOOS Partners,buoy
-,,9162,2021-08-04T06:56:00Z,186,wave_dir_degt,ndbc,46251,"Santa Cruz Basin, CA (203)",SCRIPPS,IOOS Partners,buoy
-,,9163,2021-08-04T06:56:00Z,275,wave_dir_degt,ndbc,46253,"San Pedro South, CA (213)",SCRIPPS,IOOS Partners,buoy
-,,9164,2021-08-04T06:56:00Z,278,wave_dir_degt,ndbc,46254,"SCRIPPS Nearshore, CA (201)",SCRIPPS,IOOS Partners,buoy
-,,9165,2021-08-04T06:56:00Z,203,wave_dir_degt,ndbc,46256,"Long Beach Channel, CA (215)",SCRIPPS,IOOS Partners,buoy
-,,9166,2021-08-04T06:56:00Z,184,wave_dir_degt,ndbc,46258,"Mission Bay West, CA (220)",SCRIPPS,IOOS Partners,buoy
-,,9167,2021-08-04T05:56:00Z,308,wave_dir_degt,ndbc,46259,"Santa Lucia Escarpment, CA (222)",U.S. Army Corps of Engineers,IOOS Partners,buoy
-,,9168,2021-08-04T06:56:00Z,195,wave_dir_degt,ndbc,46264,"Kodiak, AK (236)",National Renewable Energy Laboratory,IOOS Partners,buoy
-,,9169,2021-08-04T07:00:00Z,264,wave_dir_degt,ndbc,46266,"Del Mar Nearshore, CA (153)",U.S. Army Corps of Engineers,IOOS Partners,buoy
-,,9170,2021-08-04T07:00:00Z,204,wave_dir_degt,ndbc,46268,"Topanga Nearshore, CA (103)",SCRIPPS,IOOS Partners,buoy
-,,9171,2021-08-04T07:00:00Z,190,wave_dir_degt,ndbc,46269,"Point Santa Cruz, CA (254)",SCRIPPS,IOOS Partners,buoy
-,,9172,2021-08-04T06:57:00Z,36,wave_dir_degt,ndbc,51201,"Waimea Bay, HI (106)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
-,,9173,2021-08-04T06:56:00Z,72,wave_dir_degt,ndbc,51205,"Pauwela, Maui, HI (187)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
+,,9142,2021-08-04T07:10:00Z,219,wave_dir_degt,ndbc,46088,"NEW DUNGENESS - 17 NM NE of Port Angeles, WA",NDBC,NDBC Meteorological/Ocean,buoy
+,,9143,2021-08-04T06:26:00Z,313,wave_dir_degt,ndbc,46114,"West Monterey Bay, CA (185)",SCRIPPS,IOOS Partners,buoy
+,,9144,2021-08-04T06:56:00Z,286,wave_dir_degt,ndbc,46211,"Grays Harbor, WA (036)",SCRIPPS,IOOS Partners,buoy
+,,9145,2021-08-04T06:26:00Z,329,wave_dir_degt,ndbc,46213,"Cape Mendocino, CA (094)",SCRIPPS,IOOS Partners,buoy
+,,9146,2021-08-04T06:56:00Z,319,wave_dir_degt,ndbc,46214,"Point Reyes, CA (029)",SCRIPPS,IOOS Partners,buoy
+,,9147,2021-08-04T06:56:00Z,207,wave_dir_degt,ndbc,46215,"Diablo Canyon, CA (076)",SCRIPPS,IOOS Partners,buoy
+,,9148,2021-08-04T06:56:00Z,192,wave_dir_degt,ndbc,46218,"Harvest, CA (071)",SCRIPPS,IOOS Partners,buoy
+,,9149,2021-08-04T06:56:00Z,305,wave_dir_degt,ndbc,46219,"San Nicolas Island, CA (067)",SCRIPPS,IOOS Partners,buoy
+,,9150,2021-08-04T06:56:00Z,191,wave_dir_degt,ndbc,46221,"Santa Monica Bay, CA (028)",SCRIPPS,IOOS Partners,buoy
+,,9151,2021-08-04T06:56:00Z,180,wave_dir_degt,ndbc,46224,"Oceanside Offshore, CA (045)",SCRIPPS,IOOS Partners,buoy
+,,9152,2021-08-04T06:56:00Z,184,wave_dir_degt,ndbc,46225,"Torrey Pines Outer, CA (100)",SCRIPPS,IOOS Partners,buoy
+,,9153,2021-08-04T06:56:00Z,313,wave_dir_degt,ndbc,46229,"UMPQUA OFFSHORE, OR (139)",SCRIPPS,IOOS Partners,buoy
+,,9154,2021-08-04T06:56:00Z,176,wave_dir_degt,ndbc,46232,"Point Loma South, CA  (191)",SCRIPPS,IOOS Partners,buoy
+,,9155,2021-08-04T06:56:00Z,280,wave_dir_degt,ndbc,46235,"Imperial Beach Nearshore, CA (155)",SCRIPPS,IOOS Partners,buoy
+,,9156,2021-08-04T07:00:00Z,228,wave_dir_degt,ndbc,46237,"San Francisco Bar, CA  (142)",SCRIPPS,IOOS Partners,buoy
+,,9157,2021-08-04T06:56:00Z,182,wave_dir_degt,ndbc,46239,"Point Sur, CA (157)",SCRIPPS,IOOS Partners,buoy
+,,9158,2021-08-04T06:56:00Z,332,wave_dir_degt,ndbc,46240,"Cabrillo Point, Monterey Bay, CA  (158)",SCRIPPS,IOOS Partners,buoy
+,,9159,2021-08-04T06:56:00Z,285,wave_dir_degt,ndbc,46243,"Clatsop Spit, OR (162)",SCRIPPS,IOOS Partners,buoy
+,,9160,2021-08-04T06:56:00Z,336,wave_dir_degt,ndbc,46244,"Humboldt Bay, North Spit, CA (168)",SCRIPPS,IOOS Partners,buoy
+,,9161,2021-08-04T06:56:00Z,239,wave_dir_degt,ndbc,46246,Ocean Station PAPA  (166),"APL-UW, University of Washington Applied Physics Laboratory",IOOS Partners,buoy
+,,9162,2021-08-04T06:56:00Z,297,wave_dir_degt,ndbc,46248,"Astoria Canyon, OR  (179)",SCRIPPS,IOOS Partners,buoy
+,,9163,2021-08-04T06:56:00Z,186,wave_dir_degt,ndbc,46251,"Santa Cruz Basin, CA (203)",SCRIPPS,IOOS Partners,buoy
+,,9164,2021-08-04T06:56:00Z,275,wave_dir_degt,ndbc,46253,"San Pedro South, CA (213)",SCRIPPS,IOOS Partners,buoy
+,,9165,2021-08-04T06:56:00Z,278,wave_dir_degt,ndbc,46254,"SCRIPPS Nearshore, CA (201)",SCRIPPS,IOOS Partners,buoy
+,,9166,2021-08-04T06:56:00Z,203,wave_dir_degt,ndbc,46256,"Long Beach Channel, CA (215)",SCRIPPS,IOOS Partners,buoy
+,,9167,2021-08-04T06:56:00Z,184,wave_dir_degt,ndbc,46258,"Mission Bay West, CA (220)",SCRIPPS,IOOS Partners,buoy
+,,9168,2021-08-04T05:56:00Z,308,wave_dir_degt,ndbc,46259,"Santa Lucia Escarpment, CA (222)",U.S. Army Corps of Engineers,IOOS Partners,buoy
+,,9169,2021-08-04T06:56:00Z,195,wave_dir_degt,ndbc,46264,"Kodiak, AK (236)",National Renewable Energy Laboratory,IOOS Partners,buoy
+,,9170,2021-08-04T07:00:00Z,264,wave_dir_degt,ndbc,46266,"Del Mar Nearshore, CA (153)",U.S. Army Corps of Engineers,IOOS Partners,buoy
+,,9171,2021-08-04T07:00:00Z,204,wave_dir_degt,ndbc,46268,"Topanga Nearshore, CA (103)",SCRIPPS,IOOS Partners,buoy
+,,9172,2021-08-04T07:00:00Z,190,wave_dir_degt,ndbc,46269,"Point Santa Cruz, CA (254)",SCRIPPS,IOOS Partners,buoy
+,,9173,2021-08-04T06:57:00Z,36,wave_dir_degt,ndbc,51201,"Waimea Bay, HI (106)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
 ,,9174,2021-08-04T06:56:00Z,65,wave_dir_degt,ndbc,51207,"Kaneohe Bay, HI (198)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
 ,,9175,2021-08-04T06:56:00Z,84,wave_dir_degt,ndbc,51208,"Hanalei, Kauai, HI (202)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
 ,,9176,2021-08-04T07:16:00Z,146,wave_dir_degt,ndbc,51209,"Aunuu, American Samoa (189)",Pacific Islands Ocean Observing System,IOOS Partners,buoy
@@ -9659,7 +9659,7 @@
 ,,9284,2021-08-04T07:10:00Z,80,wind_dir_degt,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,9285,2021-08-04T07:00:00Z,100,wind_dir_degt,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,9286,2021-08-04T07:00:00Z,190,wind_dir_degt,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,9287,2021-08-04T06:00:00Z,180,wind_dir_degt,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,9287,2021-08-04T07:00:00Z,180,wind_dir_degt,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,9288,2021-08-04T07:00:00Z,200,wind_dir_degt,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,9289,2021-08-04T07:00:00Z,210,wind_dir_degt,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,9290,2021-08-04T06:00:00Z,80,wind_dir_degt,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -9734,8 +9734,8 @@
 ,,9359,2021-08-04T06:00:00Z,290,wind_dir_degt,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,9360,2021-08-04T07:00:00Z,170,wind_dir_degt,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,9361,2021-08-04T07:00:00Z,160,wind_dir_degt,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,9362,2021-08-04T06:00:00Z,150,wind_dir_degt,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,9363,2021-08-04T06:00:00Z,340,wind_dir_degt,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,9362,2021-08-04T07:00:00Z,150,wind_dir_degt,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,9363,2021-08-04T07:00:00Z,320,wind_dir_degt,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,9364,2021-08-04T07:00:00Z,180,wind_dir_degt,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,9365,2021-08-04T07:00:00Z,170,wind_dir_degt,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,9366,2021-08-04T07:00:00Z,20,wind_dir_degt,ndbc,46303,Southern Georgia Strait,Environment and Climate Change Canada,International Partners,buoy
@@ -10297,7 +10297,7 @@
 ,,9892,2021-08-04T07:10:00Z,3,wind_speed_mps,ndbc,45029,"Holland Buoy, MI",Limno Tech,IOOS Partners,buoy
 ,,9893,2021-08-04T07:00:00Z,1,wind_speed_mps,ndbc,45132,Port Stanley,Environment and Climate Change Canada,International Partners,buoy
 ,,9894,2021-08-04T07:00:00Z,2,wind_speed_mps,ndbc,45135,Prince Edward Pt,Environment and Climate Change Canada,International Partners,buoy
-,,9895,2021-08-04T06:00:00Z,5,wind_speed_mps,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
+,,9895,2021-08-04T07:00:00Z,5,wind_speed_mps,ndbc,45136,Slate Island,Environment and Climate Change Canada,International Partners,buoy
 ,,9896,2021-08-04T07:00:00Z,1,wind_speed_mps,ndbc,45139,West Lake Ontario - Grimsby,Environment and Climate Change Canada,International Partners,buoy
 ,,9897,2021-08-04T07:00:00Z,7,wind_speed_mps,ndbc,45140,Lake Winnipeg S. Basin,Environment and Climate Change Canada,International Partners,buoy
 ,,9898,2021-08-04T06:00:00Z,4,wind_speed_mps,ndbc,45141,Great Slave Lake,Environment and Climate Change Canada,International Partners,buoy
@@ -10379,8 +10379,8 @@
 ,,9974,2021-08-04T06:00:00Z,4,wind_speed_mps,ndbc,46184,North Nomad,Environment and Climate Change Canada,International Partners,buoy
 ,,9975,2021-08-04T07:00:00Z,9,wind_speed_mps,ndbc,46185,South Hecate Strait,Environment and Climate Change Canada,International Partners,buoy
 ,,9976,2021-08-04T07:00:00Z,7,wind_speed_mps,ndbc,46204,West Sea Otter,Environment and Climate Change Canada,International Partners,buoy
-,,9977,2021-08-04T06:00:00Z,8,wind_speed_mps,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
-,,9978,2021-08-04T06:00:00Z,3,wind_speed_mps,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
+,,9977,2021-08-04T07:00:00Z,9,wind_speed_mps,ndbc,46205,West Dixon Entrance,Environment and Climate Change Canada,International Partners,buoy
+,,9978,2021-08-04T07:00:00Z,1,wind_speed_mps,ndbc,46206,La Perouse Bank,Environment and Climate Change Canada,International Partners,buoy
 ,,9979,2021-08-04T07:00:00Z,9,wind_speed_mps,ndbc,46207,East Dellwood,Environment and Climate Change Canada,International Partners,buoy
 ,,9980,2021-08-04T07:00:00Z,10,wind_speed_mps,ndbc,46208,West Moresby,Environment and Climate Change Canada,International Partners,buoy
 ,,9981,2021-08-04T07:00:00Z,2,wind_speed_mps,ndbc,46303,Southern Georgia Strait,Environment and Climate Change Canada,International Partners,buoy
