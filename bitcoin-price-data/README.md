@@ -14,7 +14,7 @@ Last 30 days of Bitcoin pricing data from the CoinDesk API in annotated CSV form
 Latest Bitcoin pricing data from the CoinDesk API in JSON format.
 
 ### currentprice.lp
-This is the latest Bitcoin pricing data from the API in line protocol format. This is meant to be imported into InfluxDB via the web UI or CLI `influx write` command.
+Latest Bitcoin pricing data from the CoinDesk API in line protocol format. Use the `csv.from` function to import the data into InfluxDB.
 
 ### postprocess.js
 A deno script for converting the currentprice.json file into line protocol for further processing.
