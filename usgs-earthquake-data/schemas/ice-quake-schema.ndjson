@@ -2,14 +2,14 @@
 {"name": "cdi", "type": "field", "dataType": "float"}
 {"name": "depth", "type": "field", "dataType": "float"}
 {"name": "detail", "type": "field", "dataType": "string"}
-{"name": "felt", "type": "field", "dataType": "float"}
+{"name": "felt", "type": "field", "dataType": "integer"}
 {"name": "ids", "type": "field", "dataType": "string"}
 {"name": "lat", "type": "field", "dataType": "float"}
 {"name": "lon", "type": "field", "dataType": "float"}
 {"name": "mag", "type": "field", "dataType": "float"}
 {"name": "place", "type": "field", "dataType": "string"}
 {"name": "rms", "type": "field", "dataType": "float"}
-{"name": "sig", "type": "field", "dataType": "float"}
+{"name": "sig", "type": "field", "dataType": "integer"}
 {"name": "sources", "type": "field", "dataType": "string"}
 {"name": "status", "type": "field", "dataType": "string"}
 {"name": "types", "type": "field", "dataType": "string"}

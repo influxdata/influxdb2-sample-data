@@ -7,10 +7,10 @@
 {"name": "lat", "type": "field", "dataType": "float"}
 {"name": "lon", "type": "field", "dataType": "float"}
 {"name": "mag", "type": "field", "dataType": "float"}
-{"name": "nst", "type": "field", "dataType": "float"}
+{"name": "nst", "type": "field", "dataType": "integer"}
 {"name": "place", "type": "field", "dataType": "string"}
 {"name": "rms", "type": "field", "dataType": "float"}
-{"name": "sig", "type": "field", "dataType": "float"}
+{"name": "sig", "type": "field", "dataType": "integer"}
 {"name": "sources", "type": "field", "dataType": "string"}
 {"name": "status", "type": "field", "dataType": "string"}
 {"name": "types", "type": "field", "dataType": "string"}
