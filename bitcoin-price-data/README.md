@@ -1,6 +1,6 @@
 # CoinDesk Bitcoin Price Data
 
-“Powered by CoinDesk” - https://www.coindesk.com/price/bitcoin
+_[Powered by CoinDesk](https://www.coindesk.com/price/bitcoin)_
 
 This directory contains the following files generated from the CoinDesk Bitcoin Pricing Data (https://www.coindesk.com/price/bitcoin).
 
