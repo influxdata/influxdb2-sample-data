@@ -8,35 +8,53 @@ let lpLines = []
 earthquakeJSON.features.forEach((feature, index) => {
     let point = new Point(feature.properties.type)
       .timestamp(feature.properties.time * 1000000)
-
       .floatField('lon', feature.geometry.coordinates[0])
       .floatField('lat', feature.geometry.coordinates[1])
       .floatField('depth', feature.geometry.coordinates[2])
-      .floatField('mag', feature.properties.mag || 0.0)
       .stringField('place', feature.properties.place)
       .stringField('url', feature.properties.url)
       .stringField('detail', feature.properties.detail)
-      .intField('felt', feature.properties.felt || 0)
-      .floatField('cdi', feature.properties.cdi || 0.0)
-      .floatField('mmi', feature.properties.mmi || 0.0)
       .stringField('alert', feature.properties.alert)
       .stringField('status', feature.properties.status)
-      .intField('tsunami', feature.properties.tsunami || 0)
-      .intField('sig', feature.properties.sig || 0)
       .stringField('ids', feature.properties.ids)
       .stringField('sources', feature.properties.sources)
       .stringField('types', feature.properties.types)
-      .intField('nst', feature.properties.nst || 0)
-      .floatField('dmin', feature.properties.dmin || 0.0)
-      .floatField('rms', feature.properties.rms || 0.0)
-      .floatField('gap', feature.properties.gap || 0.0)
-      
       .tag('net', feature.properties.net)
       .tag('code', feature.properties.code)
       .tag('magType', feature.properties.magType)
       .tag('title', feature.properties.title)
       .tag('id', feature.id)
-        
+    
+    if(typeof feature.properties.mag === "number") {
+        point = point.floatField('mag', feature.properties.mag)
+    }
+    if(typeof feature.properties.felt === "number") {
+        point = point.intField('felt', feature.properties.felt)
+    }
+    if(typeof feature.properties.cdi === "number") {
+        point = point.floatField('cdi', feature.properties.cdi)
+    }
+    if(typeof feature.properties.mmi === "number") {
+        point = point.floatField('mmi', feature.properties.mmi)
+    }
+    if(typeof feature.properties.tsunami === "number") { 
+        point = point.intField('tsunami', feature.properties.tsunami)
+    }
+    if(typeof feature.properties.sig === "number") {
+        point = point.intField('sig', feature.properties.sig)
+    }
+    if(typeof feature.properties.nst === "number") { 
+        point = point.intField('nst', feature.properties.nst)
+    }
+    if(typeof feature.properties.dmin === "number") {
+        point = point.floatField('dmin', feature.properties.dmin)
+    }
+    if(typeof feature.properties.rms === "number") {
+        point = point.floatField('rms', feature.properties.rms)
+    }
+    if(typeof feature.properties.gap === "number") {
+        point = point.floatField('gap', feature.properties.gap)
+    }
     lpLines.push(point.toLineProtocol())
 })
 
