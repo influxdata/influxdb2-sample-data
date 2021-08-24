@@ -5,7 +5,7 @@ _[Powered by CoinDesk](https://www.coindesk.com/price/bitcoin)_
 This directory contains the following files generated from the CoinDesk Bitcoin Pricing Data (https://www.coindesk.com/price/bitcoin).
 
 ### bitcoin-currentprice-annotated.csv
-This is the latest Bitcoin pricing data from the API in annotated CSV format. This is meant to be imported into InfluxDB via the `csv.from` function.
+Latest Bitcoin pricing data from the CoinDesk API in annotated CSV format. Use the `csv.from` function to import the data into InfluxDB.
 
 ### bitcoin-historical-annotated.csv
 This is the last 30 days of Bitcoin pricing data from the API in annotated CSV format. This is meant to be imported into InfluxDB via the `csv.from` function.
