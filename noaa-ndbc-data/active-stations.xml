@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-08-30T00:20:01UTC" count="1318">
+<stations created="2021-08-30T00:45:01UTC" count="1318">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -212,7 +212,7 @@
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.045" lon="-106.967" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="43413" lat="12.3384" lon="-101.5110" elev="0" name="SOUTH ACAPULCO - 360NM South of Acapulco, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="43413" lat="12.3464" lon="-101.5130" elev="0" name="SOUTH ACAPULCO - 360NM South of Acapulco, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44005" lat="43.201" lon="-69.127" elev="0" name="GULF OF MAINE - 78 NM East of Portsmouth, NH" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44007" lat="43.525" lon="-70.14" elev="0" name="PORTLAND - 12 NM Southeast of Portland,ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44008" lat="40.498" lon="-69.251" elev="0" name="NANTUCKET 54 NM Southeast of Nantucket" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
@@ -955,7 +955,7 @@
   <station id="lmss1" lat="33.552" lon="-80.501" elev="23.16" name="Lake Marion, SC" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lndc1" lat="37.795" lon="-122.281" elev="3" name="9414763 - Oakland Berth 67, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lonf1" lat="24.844" lon="-80.864" elev="0" name="Long Key, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="lopl1" lat="28.885" lon="-90.025" elev="0" name="Louisiana Offshore Oil Port, LA" owner="Louisiana Offshore Oil Port" pgm="IOOS Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="lopl1" lat="28.885" lon="-90.025" elev="0" name="Louisiana Offshore Oil Port, LA" owner="Louisiana Offshore Oil Port" pgm="IOOS Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lopw1" lat="46.106" lon="-122.954" elev="7.9" name="9440422 - Longview, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="loro1" lat="41.481" lon="-82.195" elev="192.6" name="Lorain Harbor, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lpnm4" lat="45.063" lon="-83.429" elev="177.9" name="9075065 - Alpena, MI " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
