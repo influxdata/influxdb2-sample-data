@@ -45,7 +45,7 @@ let jsonArray = obsArray.map(line => {
         let day = readings.shift()
         let hour = readings.shift()
         let minute = readings.shift()
-        let date = year + "-" + month + "-" + day + "T" + hour + ":" + minute + "+0700" //2006-01-02T15:04
+        let date = year + "-" + month + "-" + day + "T" + hour + ":" + minute + "+0000" //2006-01-02T15:04
 
         ret["timestamp"] = new Date(date).valueOf() + "000000"
 
