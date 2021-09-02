@@ -80,7 +80,7 @@ jobs:
       - name: Generate NOAA LP and CSV
         run: |
           /usr/local/bin/influx bucket create -n dummy
-          /usr/local/bin/influx write dryrun -f $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype long,double,double,double,double,double,double,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,boolean:y:n,boolean:y:n,boolean:y:n,boolean:y:n,dateTime:number" > $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.lp
+          /usr/local/bin/influx write dryrun -f $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.csv --format csv --header "#constant measurement,ndbc" --header "#datatype double,double,double,double,double,double,double,double,double,double,double,double,double,double,tag,double,double,double,tag,tag,tag,tag,boolean:y:n,boolean:y:n,boolean:y:n,boolean:y:n,dateTime:number" > $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.lp
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.lp -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations-annotated.csv
           /usr/local/bin/influx bucket delete -n dummy
