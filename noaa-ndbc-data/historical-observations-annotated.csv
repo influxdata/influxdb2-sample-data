@@ -1,0 +1,5 @@
+#group,false,false,false,false,true,true,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string,string
+#default,_result,,,,,,,,,,
+,result,table,_time,_value,_field,_measurement,station_id,station_name,station_owner,station_pgm,station_type
+,,0,2021-09-15T14:50:00Z,0.9,air_temp_degc,ndbc,41008,"GRAYS REEF - 40 NM Southeast of Savannah, GA",NDBC,NDBC Meteorological/Ocean,buoy

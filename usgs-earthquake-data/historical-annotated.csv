@@ -1,0 +1,5 @@
+#group,false,false,false,false,true,true,true,true,true,true,true
+#datatype,string,long,dateTime:RFC3339,string,string,string,string,string,string,string,string
+#default,_result,,,,,,,,,,
+,result,table,_time,_value,_field,_measurement,code,id,magType,net,title
+,,0,2021-09-14T05:56:36.845Z,green,alert,earthquake,021bt4ffvw,ak021bt4ffvw,ml,ak,M 4.9 - Central Alaska
