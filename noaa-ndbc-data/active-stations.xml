@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-09-15T10:45:01UTC" count="1319">
+<stations created="2021-09-15T11:00:02UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -223,7 +223,7 @@
   <station id="44017" lat="40.693" lon="-72.049" elev="0" name="MONTAUK POINT - 23 NM SSW of Montauk Point, NY" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44018" lat="42.206" lon="-70.143" elev="0" name="CAPE COD - 9 NM North of Provincetown, MA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44020" lat="41.493" lon="-70.279" elev="0" name="NANTUCKET SOUND" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="44022" lat="40.883" lon="-73.728" elev="0" name="Execution Rocks" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="44022" lat="40.883" lon="-73.728" elev="0" name="Execution Rocks" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44024" lat="42.325" lon="-65.909" elev="0" name="Buoy N01 - Northeast Channel" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44025" lat="40.251" lon="-73.164" elev="0" name="LONG ISLAND - 30 NM South of Islip, NY" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44027" lat="44.283" lon="-67.3" elev="0" name="Jonesport, ME - 20 NM SE of Jonesport, ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
@@ -740,7 +740,7 @@
   <station id="cmti2" lat="41.73" lon="-87.538" elev="178.5" name="9087044 - Calumet Harbor, IL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cnbf1" lat="25.702" lon="-81.186" elev="0" name="Cannon Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="cndo1" lat="41.542" lon="-81.637" elev="176.1" name="9063063 - Cleveland, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cnii2" lat="41.856" lon="-87.609" elev="180" name="Northerly Isle, IL" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="cnii2" lat="41.856" lon="-87.609" elev="180" name="Northerly Isle, IL" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="covm2" lat="38.402" lon="-76.385" elev="0" name="8577018 - Cove Point LNG Pier, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cpmw1" lat="48.86" lon="-122.756" elev="4.6" name="9449419 - Cherry Point South Dock Met, WA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="cpnw1" lat="48.863" lon="-122.758" elev="4.6" name="9449427 - Cherry Point North Dock Met" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
