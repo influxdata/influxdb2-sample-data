@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-10-04T05:45:01UTC" count="1319">
+<stations created="2021-10-04T06:00:01UTC" count="1319">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -41,7 +41,7 @@
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15007" lat="-6" lon="8" elev="0" name="SE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -54,7 +54,7 @@
   <station id="21419" lat="44.401" lon="155.653" name="KURIL ISLANDS - 209NM SE of Kuril Is. " owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="21420" lat="28.891" lon="135.022" name="SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="22101" lat="37.23" lon="126.02" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="22102" lat="34.8" lon="125.77" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="22102" lat="34.8" lon="125.77" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="22103" lat="34" lon="127.5" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22104" lat="34.77" lon="128.9" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22105" lat="37.53" lon="130" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1154,7 +1154,7 @@
   <station id="rcmc1" lat="37.923" lon="-122.41" elev="2.9" name="9414863 - Richmond, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rcpt2" lat="28.024" lon="-97.048" elev="1.4" name="8774770 - Rockport, TX" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rcrn6" lat="43.269" lon="-77.626" elev="76.7" name="9052058 - Rochester, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="rdda2" lat="67.575" lon="-164.067" elev="7.3" name="9491094 - Red Dog Dock, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="rdda2" lat="67.575" lon="-164.067" elev="7.3" name="9491094 - Red Dog Dock, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rdyd1" lat="39.558" lon="-75.572" elev="2.3" name="8551910 - Reedy Point, DE" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rixa2" lat="58.177" lon="-135.052" elev="13.7" name="Rocky Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rkqf1" lat="26.027" lon="-81.734" name="Lower Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
