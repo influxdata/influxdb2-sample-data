@@ -2,7 +2,6 @@
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string
 #default,_result,,,,,,,,,
 ,result,table,_time,_value,_field,_measurement,code,crypto,description,symbol
-,,0,2021-09-11T22:22:00Z,38322.7791,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2021-09-11T22:48:00Z,38240.851,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2021-09-11T23:04:00Z,38216.768,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2021-09-11T23:22:00Z,38256.4493,price,coindesk,EUR,bitcoin,Euro,&euro;
@@ -1933,7 +1932,7 @@
 ,,0,2021-10-11T21:21:00Z,49396.0234,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2021-10-11T21:48:00Z,49569.9068,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2021-10-11T22:04:00Z,49444.0276,price,coindesk,EUR,bitcoin,Euro,&euro;
-,,1,2021-09-11T22:22:00Z,32726.6046,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
+,,0,2021-10-11T22:22:00Z,49450.416,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,1,2021-09-11T22:48:00Z,32656.6403,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2021-09-11T23:04:00Z,32636.0741,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2021-09-11T23:22:00Z,32669.9608,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
@@ -3864,7 +3863,7 @@
 ,,1,2021-10-11T21:21:00Z,41978.4361,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2021-10-11T21:48:00Z,42126.2083,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2021-10-11T22:04:00Z,42019.2317,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
-,,2,2021-09-11T22:22:00Z,45277.225,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+,,1,2021-10-11T22:22:00Z,42022.6406,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,2,2021-09-11T22:48:00Z,45180.4294,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2021-09-11T23:04:00Z,45151.9761,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2021-09-11T23:22:00Z,45198.8583,price,coindesk,USD,bitcoin,United States Dollar,&#36;
@@ -5795,4 +5794,5 @@
 ,,2,2021-10-11T21:21:00Z,57069.3383,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2021-10-11T21:48:00Z,57270.2333,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2021-10-11T22:04:00Z,57124.7996,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+,,2,2021-10-11T22:22:00Z,57135.415,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 
