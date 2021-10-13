@@ -81,6 +81,7 @@ jobs:
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.lp -b dummy
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-historical-annotated.csv --format csv -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-historical-annotated.csv
+          /usr/local/bin/influx bucket delete -n dummy
       - name: Generate NOAA LP and CSV
         run: |
           /usr/local/bin/influx bucket create -n dummy
@@ -92,6 +93,7 @@ jobs:
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.lp -b dummy
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/noaa-ndbc-data/historical-observations-annotated.csv --format csv -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/noaa-ndbc-data/historical-observations-annotated.csv
+          /usr/local/bin/influx bucket delete -n dummy
       - name: Generate USGS CSV
         run: |
           /usr/local/bin/influx bucket create -n dummy
@@ -102,6 +104,7 @@ jobs:
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/usgs-earthquake-data/all_week.lp -b dummy
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/usgs-earthquake-data/historical-annotated.csv --format csv -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/usgs-earthquake-data/historical-annotated.csv
+          /usr/local/bin/influx bucket delete -n dummy
       - name: Generate Bitcoin CSV
         run: |
           /usr/local/bin/influx bucket create -n dummy
@@ -112,6 +115,7 @@ jobs:
           /usr/local/bin/influx write -f ./bitcoin-price-data/currentprice.lp -b dummy
           /usr/local/bin/influx write -f ./bitcoin-price-data/bitcoin-historical-annotated.csv --format csv -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > ./bitcoin-price-data/bitcoin-historical-annotated.csv
+          /usr/local/bin/influx bucket delete -n dummy
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
