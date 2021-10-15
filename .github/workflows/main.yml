@@ -79,11 +79,6 @@ jobs:
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.lp -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-annotated.csv
           /usr/local/bin/influx bucket delete -n dummy
-          /usr/local/bin/influx bucket create -n dummy
-          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data.lp -b dummy
-          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-historical-annotated.csv --format csv -b dummy
-          /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/air-sensor-data/air-sensor-data-historical-annotated.csv
-          /usr/local/bin/influx bucket delete -n dummy
       - name: Generate NOAA LP and CSV
         run: |
           /usr/local/bin/influx bucket create -n dummy
@@ -91,21 +86,11 @@ jobs:
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.lp -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations-annotated.csv
           /usr/local/bin/influx bucket delete -n dummy
-          /usr/local/bin/influx bucket create -n dummy
-          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/noaa-ndbc-data/latest-observations.lp -b dummy
-          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/noaa-ndbc-data/historical-observations-annotated.csv --format csv -b dummy
-          /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/noaa-ndbc-data/historical-observations-annotated.csv
-          /usr/local/bin/influx bucket delete -n dummy
       - name: Generate USGS CSV
         run: |
           /usr/local/bin/influx bucket create -n dummy
           /usr/local/bin/influx write -f $GITHUB_WORKSPACE/usgs-earthquake-data/all_week.lp -b dummy
           /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -1y) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/usgs-earthquake-data/all_week-annotated.csv
-          /usr/local/bin/influx bucket delete -n dummy
-          /usr/local/bin/influx bucket create -n dummy
-          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/usgs-earthquake-data/all_week.lp -b dummy
-          /usr/local/bin/influx write -f $GITHUB_WORKSPACE/usgs-earthquake-data/historical-annotated.csv --format csv -b dummy
-          /usr/local/bin/influx query "from(bucket: \"dummy\") |> range(start: -30d) |> drop(columns: [\"_start\",\"_stop\"])" --raw > $GITHUB_WORKSPACE/usgs-earthquake-data/historical-annotated.csv
           /usr/local/bin/influx bucket delete -n dummy
       - name: Generate Bitcoin CSV
         run: |
@@ -139,15 +124,6 @@ jobs:
           source: './air-sensor-data/air-sensor-data-annotated.csv'
           dest: 's3://${{ secrets.S3_BUCKET }}/air-sensor-data-annotated.csv'
           flags: --acl public-read --follow-symlinks
-      - name: Copy Historical Air Sensor Data to S3
-        uses: prewk/s3-cp-action@v2
-        with:
-          aws_access_key_id: ${{ secrets.S3_TOKEN }}
-          aws_secret_access_key: ${{ secrets.S3_KEY }}
-          aws_region: ${{ secrets.S3_REGION }}
-          source: './air-sensor-data/air-sensor-data-historical-annotated.csv'
-          dest: 's3://${{ secrets.S3_BUCKET }}/air-sensor-data-historical-annotated.csv'
-          flags: --acl public-read --follow-symlinks
       - name: Copy NOAA Data to S3
         uses: prewk/s3-cp-action@v2
         with:
@@ -157,15 +133,6 @@ jobs:
           source: './noaa-ndbc-data/latest-observations-annotated.csv'
           dest: 's3://${{ secrets.S3_BUCKET }}/noaa-ndbc-latest-observations-annotated.csv'
           flags: --acl public-read --follow-symlinks
-      - name: Copy Historical NOAA Data to S3
-        uses: prewk/s3-cp-action@v2
-        with:
-          aws_access_key_id: ${{ secrets.S3_TOKEN }}
-          aws_secret_access_key: ${{ secrets.S3_KEY }}
-          aws_region: ${{ secrets.S3_REGION }}
-          source: './noaa-ndbc-data/historical-observations-annotated.csv'
-          dest: 's3://${{ secrets.S3_BUCKET }}/noaa-ndbc-historical-observations-annotated.csv'
-          flags: --acl public-read --follow-symlinks
       - name: Copy USGS Data to S3
         uses: prewk/s3-cp-action@v2
         with:
@@ -174,15 +141,6 @@ jobs:
           aws_region: ${{ secrets.S3_REGION }}
           source: './usgs-earthquake-data/all_week-annotated.csv'
           dest: 's3://${{ secrets.S3_BUCKET }}/usgs-earthquake-all-week-annotated.csv'
-          flags: --acl public-read --follow-symlinks
-      - name: Copy Historical USGS Data to S3
-        uses: prewk/s3-cp-action@v2
-        with:
-          aws_access_key_id: ${{ secrets.S3_TOKEN }}
-          aws_secret_access_key: ${{ secrets.S3_KEY }}
-          aws_region: ${{ secrets.S3_REGION }}
-          source: './usgs-earthquake-data/historical-annotated.csv'
-          dest: 's3://${{ secrets.S3_BUCKET }}/usgs-earthquake-historical-annotated.csv'
           flags: --acl public-read --follow-symlinks
       - name: Copy Bitcoin Data to S3
         uses: prewk/s3-cp-action@v2
