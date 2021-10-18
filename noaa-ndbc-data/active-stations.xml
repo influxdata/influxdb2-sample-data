@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-10-18T18:45:01UTC" count="1320">
+<stations created="2021-10-18T19:00:01UTC" count="1320">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -93,8 +93,8 @@
   <station id="28909" lat="30" lon="-90" name="SG123" owner="University of Washington - APL" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31001" lat="0" lon="-35" elev="0" name="Samba" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31002" lat="4" lon="-38" elev="0" name="Frevo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="31003" lat="-8" lon="-30" elev="0" name="Para?ba" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="31004" lat="-14" lon="-32" elev="0" name="Salvador" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="31003" lat="-8" lon="-30" elev="0" name="Para?ba" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="31004" lat="-14" lon="-32" elev="0" name="Salvador" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31005" lat="-19" lon="-34" elev="0" name="Espirito Santo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31006" lat="4" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31007" lat="0" lon="-23" elev="0" name="Jazz" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -411,7 +411,7 @@
   <station id="46124" lat="47.422" lon="-123.113" elev="0" name="Hoodsport - Hood Canal, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46125" lat="47.907" lon="-122.627" elev="0" name="Hansville - Hood Canal, WA" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46127" lat="46.215" lon="-124.063" elev="0" name="SATURN Offshore Station #10, Columbia River, South Jetty, OR" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46128" lat="43.292" lon="-124.538" elev="0" name="Buoy CB-06 - West of Coos Bay, OR" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46128" lat="43.292" lon="-124.538" elev="0" name="Buoy CB-06 - West of Coos Bay, OR" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46131" lat="49.91" lon="-124.98" elev="0" name="Sentry Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46132" lat="49.78" lon="-127.89" elev="0" name="South Brooks" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46145" lat="54.37" lon="-132.42" elev="0" name="Central Dixon Entrance Buoy" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -475,7 +475,7 @@
   <station id="46416" lat="49.901" lon="-134.395" name="WEST VANCOUVER - 442NM West of Vancouver, BC, Canada" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46419" lat="48.805" lon="-129.616" name="NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46518" lat="44.5" lon="-170" name="Drifting Buoy" owner="NWS Alaska Region" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="48400" lat="50.055" lon="-144.873" elev="0" name="Ocean Climate Station Papa" owner="NOAA/PMEL" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="48400" lat="50.055" lon="-144.873" elev="0" name="Ocean Climate Station Papa" owner="NOAA/PMEL" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="48900" lat="30" lon="-90" name="(ng291)" owner="NAVO" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="48901" lat="30" lon="-90" name="(ng297)" owner="NAVO" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="48911" lat="30" lon="-90" name="SG553" owner="Shell Oil" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1210,7 +1210,7 @@
   <station id="skxa2" lat="59.448" lon="-135.326" elev="4.6" name="Skagway MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="slim2" lat="38.321" lon="-76.452" elev="1.5" name="8577330 - Solomons Island, MD" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="slmn2" lat="35.389" lon="-114.621" elev="197.206" name="Lake Mohave - South" owner="National Park Service - Lake Mead National Recreation Area" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="sloo3" lat="43.296" lon="-124.311" name="Elliot Creek - South Slough Reserve, OR" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="sloo3" lat="43.296" lon="-124.311" name="Elliot Creek - South Slough Reserve, OR" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="slvm5" lat="47.278" lon="-91.27" elev="195" name="Silver Bay, MN" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="slxa2" lat="55.34" lon="-131.644" elev="6.7" name="Salmon Landing, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="smkf1" lat="24.628" lon="-81.109" elev="0" name="Sombrero Key, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
