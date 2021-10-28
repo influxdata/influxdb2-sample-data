@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-10-28T13:45:01UTC" count="1321">
+<stations created="2021-10-28T14:00:02UTC" count="1321">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -168,7 +168,7 @@
   <station id="41420" lat="25.0720" lon="-71.6768" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41421" lat="23.373" lon="-63.902" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41425" lat="26.7537" lon="-70.4715" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41x01" lat="32.7651" lon="-47.6328" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -533,7 +533,7 @@
   <station id="51311" lat="0" lon="-140" elev="0" name="0 140W" owner="NDBC" pgm="TAO" type="tao" seq="50"/>
   <station id="51407" lat="19.556" lon="-156.538" name="HAWAII - 34NM West of Kailua-Kona, HI" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="51425" lat="-9.505" lon="-176.262" name="NORTHWEST APIA - 370 NM NW of Apia, Samoa" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="51wh0" lat="23" lon="-158" elev="0" name="WHOTS - Woods Hole Ocean Time-series" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="51wh0" lat="23" lon="-158" elev="0" name="WHOTS - Woods Hole Ocean Time-series" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="52001" lat="2" lon="165" elev="0" name="2N 165E" owner="NDBC" pgm="TAO" type="tao" seq="51"/>
   <station id="52002" lat="-2" lon="165" elev="0" name="2S 165E" owner="NDBC" pgm="TAO" type="tao" seq="52"/>
   <station id="52003" lat="5" lon="165" elev="0" name="5N 165E" owner="NDBC" pgm="TAO" type="tao" seq="53"/>
