@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-11-08T23:45:01UTC" count="1322">
+<stations created="2021-11-09T00:05:02UTC" count="1322">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -79,7 +79,7 @@
   <station id="23217" lat="3.798" lon="91.701" name="Bay of Bengal IN3" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23219" lat="13.472" lon="88.998" name="Bay of Bengal" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="23223" lat="17.333" lon="89.483" name="Bay of Bengal" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
+  <station id="23223" lat="17.333" lon="89.483" name="Bay of Bengal" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23225" lat="18.63" lon="67.18" name="" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23226" lat="20.2" lon="67.333" name="Arabian Sea" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23227" lat="6.255" lon="88.792" name="Bay of Bengal" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -453,7 +453,7 @@
   <station id="46254" lat="32.868" lon="-117.267" elev="0" name="SCRIPPS Nearshore, CA (201)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46256" lat="33.7" lon="-118.201" elev="0" name="Long Beach Channel, CA (215)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46258" lat="32.752" lon="-117.501" elev="0" name="Mission Bay West, CA (220)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46259" lat="34.767" lon="-121.498" elev="0" name="Santa Lucia Escarpment, CA (222)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="46259" lat="34.767" lon="-121.498" elev="0" name="Santa Lucia Escarpment, CA (222)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46264" lat="57.479" lon="-151.695" elev="0" name="Kodiak, AK (236)" owner="National Renewable Energy Laboratory" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46265" lat="64.473" lon="-165.475" elev="0" name="Nome, AK (241)" owner="Alaska Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46266" lat="32.957" lon="-117.279" elev="0" name="Del Mar Nearshore, CA (153)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
