@@ -22,7 +22,7 @@
 ,result,table,_time,_value,_field,_measurement,code,id,magType,net,title
 ,,13,2021-11-20T08:03:17.452Z,1,cdi,earthquake,00828543,nn00828543,ml,nn,"M 1.0 - 18 km NNW of Sutcliffe, Nevada"
 ,,14,2021-11-21T05:08:33.996Z,2,cdi,earthquake,00828556,nn00828556,ml,nn,"M 1.6 - 5 km SW of Dayton, Nevada"
-,,15,2021-11-22T21:14:05.22Z,2.7,cdi,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,15,2021-11-22T21:14:05.22Z,2.7,cdi,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,16,2021-11-18T14:26:32.897Z,2,cdi,earthquake,021esrjgo4,ak021esrjgo4,ml,ak,"M 2.9 - 40 km WSW of Clear, Alaska, Alaska"
 ,,17,2021-11-20T06:02:22.943Z,2.2,cdi,earthquake,021evxpiq2,ak021evxpiq2,ml,ak,"M 2.8 - 26 km E of Fox River, Alaska"
 ,,18,2021-11-20T15:47:25.064Z,3.1,cdi,earthquake,021ew3c2nn,ak021ew3c2nn,ml,ak,"M 1.3 - 43 km NNW of Valdez, Alaska"
@@ -120,7 +120,7 @@
 ,,110,2021-11-23T05:56:36.195Z,4.1,cdi,earthquake,7000fwde,us7000fwde,mww,us,"M 5.4 - 78 km SW of Acajutla, El Salvador"
 ,,111,2021-11-23T07:05:31.848Z,3.1,cdi,earthquake,7000fwdv,us7000fwdv,mb,us,"M 4.8 - 44 km WSW of Jaqué, Panama"
 ,,112,2021-11-23T07:07:27.633Z,3.1,cdi,earthquake,7000fwe2,us7000fwe2,mb,us,"M 4.9 - 44 km WSW of Jaqué, Panama"
-,,113,2021-11-23T08:09:43.696Z,4.3,cdi,earthquake,7000fwed,us7000fwed,mb,us,"M 4.9 - 21 km ENE of La Paz, Philippines"
+,,113,2021-11-23T08:09:43.696Z,4.6,cdi,earthquake,7000fwed,us7000fwed,mb,us,"M 4.9 - 21 km ENE of La Paz, Philippines"
 ,,114,2021-11-16T09:55:25.96Z,3.8,cdi,earthquake,72797862,hv72797862,ml,hv,"M 3.8 - 4 km S of Pāhala, Hawaii"
 ,,115,2021-11-16T18:53:58.63Z,1,cdi,earthquake,72798342,hv72798342,ml,hv,"M 2.7 - 5 km SSE of Pāhala, Hawaii"
 ,,116,2021-11-16T18:53:58.54Z,2.2,cdi,earthquake,72798347,hv72798347,ml,hv,"M 3.1 - 5 km SSE of Pāhala, Hawaii"
@@ -137,7 +137,7 @@
 ,,127,2021-11-21T18:00:17.26Z,2.3,cdi,earthquake,72806527,hv72806527,ml,hv,"M 3.5 - 6 km ENE of Pāhala, Hawaii"
 ,,128,2021-11-22T06:07:18.54Z,2.2,cdi,earthquake,72807202,hv72807202,md,hv,"M 1.9 - 3 km WSW of Pāhala, Hawaii"
 ,,129,2021-11-22T20:31:11.74Z,3.1,cdi,earthquake,72807892,hv72807892,ml,hv,"M 3.2 - 4 km S of Pāhala, Hawaii"
-,,130,2021-11-23T09:18:39.95Z,3.4,cdi,earthquake,72808617,hv72808617,ml,hv,"M 3.0 - 3 km S of Pāhala, Hawaii"
+,,130,2021-11-23T09:18:39.95Z,3.3,cdi,earthquake,72808617,hv72808617,ml,hv,"M 3.0 - 3 km S of Pāhala, Hawaii"
 ,,131,2021-11-16T17:22:40.8Z,3.4,cdi,earthquake,73653615,nc73653615,ml,nc,"M 3.3 - 15km WSW of Toms Place, CA"
 ,,132,2021-11-17T00:40:56.5Z,3.1,cdi,earthquake,73653790,nc73653790,md,nc,"M 2.5 - 13km W of Lakeport, CA"
 ,,133,2021-11-17T19:43:43.55Z,4.2,cdi,earthquake,73654060,nc73654060,mw,nc,"M 3.9 - 1km NE of San Ramon, CA"
@@ -273,7 +273,7 @@
 ,,263,2021-11-22T20:30:05.554Z,6.5,depth,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,264,2021-11-22T20:59:49.475Z,1.5,depth,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,265,2021-11-22T21:10:11.193Z,8.3,depth,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,266,2021-11-22T21:14:05.22Z,6.5,depth,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,266,2021-11-22T21:14:05.22Z,6.5,depth,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,267,2021-11-22T04:43:28.774Z,8.8,depth,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,268,2021-11-22T09:11:00.025Z,8.5,depth,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,269,2021-11-23T00:49:51.878Z,8,depth,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -2173,7 +2173,7 @@
 ,,2158,2021-11-22T20:30:05.554Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828637.geojson,detail,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,2159,2021-11-22T20:59:49.475Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828638.geojson,detail,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,2160,2021-11-22T21:10:11.193Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828640.geojson,detail,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,2161,2021-11-22T21:14:05.22Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828641.geojson,detail,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,2161,2021-11-22T21:14:05.22Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828641.geojson,detail,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,2162,2021-11-22T04:43:28.774Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828650.geojson,detail,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,2163,2021-11-22T09:11:00.025Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828652.geojson,detail,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,2164,2021-11-23T00:49:51.878Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00828653.geojson,detail,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -4073,7 +4073,7 @@
 ,,4053,2021-11-22T20:30:05.554Z,0.142,dmin,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,4054,2021-11-22T20:59:49.475Z,0.211,dmin,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,4055,2021-11-22T21:10:11.193Z,0.014,dmin,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,4056,2021-11-22T21:14:05.22Z,0.252,dmin,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,4056,2021-11-22T21:14:05.22Z,0.252,dmin,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,4057,2021-11-22T04:43:28.774Z,0.042,dmin,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,4058,2021-11-22T09:11:00.025Z,0.083,dmin,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,4059,2021-11-23T00:49:51.878Z,0.059,dmin,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -5368,7 +5368,7 @@
 ,result,table,_time,_value,_field,_measurement,code,id,magType,net,title
 ,,5344,2021-11-20T08:03:17.452Z,1,felt,earthquake,00828543,nn00828543,ml,nn,"M 1.0 - 18 km NNW of Sutcliffe, Nevada"
 ,,5345,2021-11-21T05:08:33.996Z,1,felt,earthquake,00828556,nn00828556,ml,nn,"M 1.6 - 5 km SW of Dayton, Nevada"
-,,5346,2021-11-22T21:14:05.22Z,2,felt,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,5346,2021-11-22T21:14:05.22Z,2,felt,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,5347,2021-11-18T14:26:32.897Z,1,felt,earthquake,021esrjgo4,ak021esrjgo4,ml,ak,"M 2.9 - 40 km WSW of Clear, Alaska, Alaska"
 ,,5348,2021-11-20T06:02:22.943Z,1,felt,earthquake,021evxpiq2,ak021evxpiq2,ml,ak,"M 2.8 - 26 km E of Fox River, Alaska"
 ,,5349,2021-11-20T15:47:25.064Z,1,felt,earthquake,021ew3c2nn,ak021ew3c2nn,ml,ak,"M 1.3 - 43 km NNW of Valdez, Alaska"
@@ -5465,8 +5465,8 @@
 ,,5440,2021-11-22T07:42:47.534Z,33,felt,earthquake,7000fw4z,us7000fw4z,mwr,us,"M 4.5 - 4 km NNE of Puerto Plata, Dominican Republic"
 ,,5441,2021-11-23T05:56:36.195Z,9,felt,earthquake,7000fwde,us7000fwde,mww,us,"M 5.4 - 78 km SW of Acajutla, El Salvador"
 ,,5442,2021-11-23T07:05:31.848Z,2,felt,earthquake,7000fwdv,us7000fwdv,mb,us,"M 4.8 - 44 km WSW of Jaqué, Panama"
-,,5443,2021-11-23T07:07:27.633Z,2,felt,earthquake,7000fwe2,us7000fwe2,mb,us,"M 4.9 - 44 km WSW of Jaqué, Panama"
-,,5444,2021-11-23T08:09:43.696Z,2,felt,earthquake,7000fwed,us7000fwed,mb,us,"M 4.9 - 21 km ENE of La Paz, Philippines"
+,,5443,2021-11-23T07:07:27.633Z,3,felt,earthquake,7000fwe2,us7000fwe2,mb,us,"M 4.9 - 44 km WSW of Jaqué, Panama"
+,,5444,2021-11-23T08:09:43.696Z,3,felt,earthquake,7000fwed,us7000fwed,mb,us,"M 4.9 - 21 km ENE of La Paz, Philippines"
 ,,5445,2021-11-16T09:55:25.96Z,57,felt,earthquake,72797862,hv72797862,ml,hv,"M 3.8 - 4 km S of Pāhala, Hawaii"
 ,,5446,2021-11-16T18:53:58.63Z,0,felt,earthquake,72798342,hv72798342,ml,hv,"M 2.7 - 5 km SSE of Pāhala, Hawaii"
 ,,5447,2021-11-16T18:53:58.54Z,1,felt,earthquake,72798347,hv72798347,ml,hv,"M 3.1 - 5 km SSE of Pāhala, Hawaii"
@@ -5483,7 +5483,7 @@
 ,,5458,2021-11-21T18:00:17.26Z,11,felt,earthquake,72806527,hv72806527,ml,hv,"M 3.5 - 6 km ENE of Pāhala, Hawaii"
 ,,5459,2021-11-22T06:07:18.54Z,1,felt,earthquake,72807202,hv72807202,md,hv,"M 1.9 - 3 km WSW of Pāhala, Hawaii"
 ,,5460,2021-11-22T20:31:11.74Z,9,felt,earthquake,72807892,hv72807892,ml,hv,"M 3.2 - 4 km S of Pāhala, Hawaii"
-,,5461,2021-11-23T09:18:39.95Z,7,felt,earthquake,72808617,hv72808617,ml,hv,"M 3.0 - 3 km S of Pāhala, Hawaii"
+,,5461,2021-11-23T09:18:39.95Z,10,felt,earthquake,72808617,hv72808617,ml,hv,"M 3.0 - 3 km S of Pāhala, Hawaii"
 ,,5462,2021-11-16T17:22:40.8Z,3,felt,earthquake,73653615,nc73653615,ml,nc,"M 3.3 - 15km WSW of Toms Place, CA"
 ,,5463,2021-11-17T00:40:56.5Z,7,felt,earthquake,73653790,nc73653790,md,nc,"M 2.5 - 13km W of Lakeport, CA"
 ,,5464,2021-11-17T19:43:43.55Z,4707,felt,earthquake,73654060,nc73654060,mw,nc,"M 3.9 - 1km NE of San Ramon, CA"
@@ -5624,7 +5624,7 @@
 ,,5594,2021-11-22T20:30:05.554Z,179.04,gap,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,5595,2021-11-22T20:59:49.475Z,117.67,gap,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,5596,2021-11-22T21:10:11.193Z,107.99,gap,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,5597,2021-11-22T21:14:05.22Z,37.53,gap,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,5597,2021-11-22T21:14:05.22Z,37.53,gap,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,5598,2021-11-22T04:43:28.774Z,154.84,gap,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,5599,2021-11-22T09:11:00.025Z,209.39,gap,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,5600,2021-11-23T00:49:51.878Z,120.58,gap,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -7268,7 +7268,7 @@
 ,,7233,2021-11-22T20:30:05.554Z,",nn00828637,",ids,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,7234,2021-11-22T20:59:49.475Z,",nn00828638,",ids,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,7235,2021-11-22T21:10:11.193Z,",nn00828640,",ids,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,7236,2021-11-22T21:14:05.22Z,",nn00828641,us7000fwaa,",ids,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,7236,2021-11-22T21:14:05.22Z,",nn00828641,us7000fwaa,",ids,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,7237,2021-11-22T04:43:28.774Z,",nn00828650,",ids,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,7238,2021-11-22T09:11:00.025Z,",nn00828652,",ids,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,7239,2021-11-23T00:49:51.878Z,",nn00828653,",ids,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -7282,7 +7282,7 @@
 ,,7247,2021-11-23T07:06:49.812Z,",nn00828671,",ids,earthquake,00828671,nn00828671,ml,nn,"M 0.8 - 32 km SE of Mina, Nevada"
 ,,7248,2021-11-23T08:12:54.092Z,",nn00828672,",ids,earthquake,00828672,nn00828672,ml,nn,"M 0.6 - 32 km SSE of Mina, Nevada"
 ,,7249,2021-11-23T08:14:02.98Z,",nn00828673,",ids,earthquake,00828673,nn00828673,ml,nn,"M 0.8 - 31 km S of Mina, Nevada"
-,,7250,2021-11-16T10:05:54.181Z,",ak021epdyl7d,",ids,earthquake,021epdyl7d,ak021epdyl7d,ml,ak,"M 2.6 - 39 km WSW of Venetie, Alaska"
+,,7250,2021-11-16T10:05:54.181Z,",us7000fuj4,ak021epdyl7d,",ids,earthquake,021epdyl7d,ak021epdyl7d,ml,ak,"M 2.6 - 39 km WSW of Venetie, Alaska"
 ,,7251,2021-11-16T11:08:52.154Z,",us7000fujd,ak021epeknom,",ids,earthquake,021epeknom,ak021epeknom,ml,ak,"M 3.5 - 54 km NNE of Kobuk, Alaska"
 ,,7252,2021-11-16T12:22:54.914Z,",ak021epf939v,",ids,earthquake,021epf939v,ak021epf939v,ml,ak,"M 2.0 - 95 km WSW of Karluk, Alaska"
 ,,7253,2021-11-16T12:42:47.704Z,",ak021epfdd1w,",ids,earthquake,021epfdd1w,ak021epfdd1w,ml,ak,"M 2.7 - 23 km ESE of Fox River, Alaska"
@@ -9168,7 +9168,7 @@
 ,,9128,2021-11-22T20:30:05.554Z,38.1481,lat,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,9129,2021-11-22T20:59:49.475Z,39.0113,lat,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,9130,2021-11-22T21:10:11.193Z,38.1544,lat,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,9131,2021-11-22T21:14:05.22Z,38.4873,lat,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,9131,2021-11-22T21:14:05.22Z,38.4873,lat,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,9132,2021-11-22T04:43:28.774Z,39.2119,lat,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,9133,2021-11-22T09:11:00.025Z,39.223,lat,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,9134,2021-11-23T00:49:51.878Z,38.1417,lat,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -11063,7 +11063,7 @@
 ,,11023,2021-11-22T20:30:05.554Z,-118.2315,lon,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,11024,2021-11-22T20:59:49.475Z,-118.3677,lon,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,11025,2021-11-22T21:10:11.193Z,-117.8555,lon,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,11026,2021-11-22T21:14:05.22Z,-117.8415,lon,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,11026,2021-11-22T21:14:05.22Z,-117.8415,lon,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,11027,2021-11-22T04:43:28.774Z,-120.0724,lon,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,11028,2021-11-22T09:11:00.025Z,-119.5984,lon,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,11029,2021-11-23T00:49:51.878Z,-117.9691,lon,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -12958,7 +12958,7 @@
 ,,12918,2021-11-22T20:30:05.554Z,0.8,mag,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,12919,2021-11-22T20:59:49.475Z,1.4,mag,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,12920,2021-11-22T21:10:11.193Z,0.8,mag,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,12921,2021-11-22T21:14:05.22Z,3.2,mag,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,12921,2021-11-22T21:14:05.22Z,3.2,mag,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,12922,2021-11-22T04:43:28.774Z,-0.4,mag,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,12923,2021-11-22T09:11:00.025Z,-0.3,mag,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,12924,2021-11-23T00:49:51.878Z,1.4,mag,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -14885,7 +14885,7 @@
 ,,14840,2021-11-22T20:30:05.554Z,13,nst,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,14841,2021-11-22T20:59:49.475Z,17,nst,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,14842,2021-11-22T21:10:11.193Z,7,nst,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,14843,2021-11-22T21:14:05.22Z,25,nst,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,14843,2021-11-22T21:14:05.22Z,25,nst,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,14844,2021-11-22T04:43:28.774Z,4,nst,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,14845,2021-11-22T09:11:00.025Z,4,nst,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,14846,2021-11-23T00:49:51.878Z,10,nst,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -16376,7 +16376,7 @@
 ,,16326,2021-11-22T20:30:05.554Z,"28 km SSW of Mina, Nevada",place,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,16327,2021-11-22T20:59:49.475Z,"39 km E of Schurz, Nevada",place,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,16328,2021-11-22T21:10:11.193Z,"34 km SE of Mina, Nevada",place,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,16329,2021-11-22T21:14:05.22Z,"25 km ENE of Mina, Nevada",place,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,16329,2021-11-22T21:14:05.22Z,Nevada,place,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,16330,2021-11-22T04:43:28.774Z,"1 km SSE of Carnelian Bay, California",place,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,16331,2021-11-22T09:11:00.025Z,"1 km SSW of Dayton, Nevada",place,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,16332,2021-11-23T00:49:51.878Z,"30 km SSE of Mina, Nevada",place,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -18276,7 +18276,7 @@
 ,,18221,2021-11-22T20:30:05.554Z,0.1552,rms,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,18222,2021-11-22T20:59:49.475Z,0.1901,rms,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,18223,2021-11-22T21:10:11.193Z,0.0753,rms,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,18224,2021-11-22T21:14:05.22Z,0.1505,rms,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,18224,2021-11-22T21:14:05.22Z,0.1505,rms,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,18225,2021-11-22T04:43:28.774Z,0.0577,rms,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,18226,2021-11-22T09:11:00.025Z,0.1784,rms,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,18227,2021-11-23T00:49:51.878Z,0.1505,rms,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -20176,7 +20176,7 @@
 ,,20116,2021-11-22T20:30:05.554Z,10,sig,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,20117,2021-11-22T20:59:49.475Z,30,sig,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,20118,2021-11-22T21:10:11.193Z,10,sig,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,20119,2021-11-22T21:14:05.22Z,158,sig,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,20119,2021-11-22T21:14:05.22Z,158,sig,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,20120,2021-11-22T04:43:28.774Z,0,sig,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,20121,2021-11-22T09:11:00.025Z,0,sig,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,20122,2021-11-23T00:49:51.878Z,30,sig,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -21222,7 +21222,7 @@
 ,,21162,2021-11-23T07:17:29.438Z,259,sig,earthquake,7000fwe1,us7000fwe1,mb,us,"M 4.1 - 252 km SE of Chiniak, Alaska"
 ,,21163,2021-11-23T07:07:27.633Z,370,sig,earthquake,7000fwe2,us7000fwe2,mb,us,"M 4.9 - 44 km WSW of Jaqué, Panama"
 ,,21164,2021-11-23T08:17:45.169Z,312,sig,earthquake,7000fwec,us7000fwec,mb,us,M 4.5 - south of the Fiji Islands
-,,21165,2021-11-23T08:09:43.696Z,370,sig,earthquake,7000fwed,us7000fwed,mb,us,"M 4.9 - 21 km ENE of La Paz, Philippines"
+,,21165,2021-11-23T08:09:43.696Z,371,sig,earthquake,7000fwed,us7000fwed,mb,us,"M 4.9 - 21 km ENE of La Paz, Philippines"
 ,,21166,2021-11-16T10:12:51.34Z,11,sig,earthquake,71126654,nc71126654,md,nc,"M 0.8 - 5km ENE of Walker, CA"
 ,,21167,2021-11-16T10:13:30.14Z,4,sig,earthquake,71126659,nc71126659,md,nc,"M 0.5 - 8km ESE of Walker, CA"
 ,,21168,2021-11-16T11:09:56.28Z,55,sig,earthquake,71126664,nc71126664,md,nc,"M 1.9 - 8km E of Walker, CA"
@@ -21417,7 +21417,7 @@
 ,,21357,2021-11-23T06:19:54.81Z,65,sig,earthquake,72808462,hv72808462,md,hv,"M 2.1 - 5 km E of Pāhala, Hawaii"
 ,,21358,2021-11-23T06:39:53.01Z,84,sig,earthquake,72808477,hv72808477,ml,hv,"M 2.3 - 5 km E of Pāhala, Hawaii"
 ,,21359,2021-11-23T07:16:52.55Z,79,sig,earthquake,72808502,hv72808502,ml,hv,"M 2.3 - 5 km E of Pāhala, Hawaii"
-,,21360,2021-11-23T09:18:39.95Z,138,sig,earthquake,72808617,hv72808617,ml,hv,"M 3.0 - 3 km S of Pāhala, Hawaii"
+,,21360,2021-11-23T09:18:39.95Z,139,sig,earthquake,72808617,hv72808617,ml,hv,"M 3.0 - 3 km S of Pāhala, Hawaii"
 ,,21361,2021-11-16T10:00:38.09Z,11,sig,earthquake,73653475,nc73653475,md,nc,"M 0.9 - 7km W of Cobb, CA"
 ,,21362,2021-11-16T10:03:58.91Z,2,sig,earthquake,73653480,nc73653480,md,nc,"M 0.4 - 2km NW of Anderson Springs, CA"
 ,,21363,2021-11-16T10:12:43.03Z,37,sig,earthquake,73653485,nc73653485,md,nc,"M 1.6 - 7km ESE of Walker, CA"
@@ -22076,7 +22076,7 @@
 ,,22011,2021-11-22T20:30:05.554Z,",nn,",sources,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,22012,2021-11-22T20:59:49.475Z,",nn,",sources,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,22013,2021-11-22T21:10:11.193Z,",nn,",sources,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,22014,2021-11-22T21:14:05.22Z,",nn,us,",sources,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,22014,2021-11-22T21:14:05.22Z,",nn,us,",sources,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,22015,2021-11-22T04:43:28.774Z,",nn,",sources,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,22016,2021-11-22T09:11:00.025Z,",nn,",sources,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,22017,2021-11-23T00:49:51.878Z,",nn,",sources,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -22090,7 +22090,7 @@
 ,,22025,2021-11-23T07:06:49.812Z,",nn,",sources,earthquake,00828671,nn00828671,ml,nn,"M 0.8 - 32 km SE of Mina, Nevada"
 ,,22026,2021-11-23T08:12:54.092Z,",nn,",sources,earthquake,00828672,nn00828672,ml,nn,"M 0.6 - 32 km SSE of Mina, Nevada"
 ,,22027,2021-11-23T08:14:02.98Z,",nn,",sources,earthquake,00828673,nn00828673,ml,nn,"M 0.8 - 31 km S of Mina, Nevada"
-,,22028,2021-11-16T10:05:54.181Z,",ak,",sources,earthquake,021epdyl7d,ak021epdyl7d,ml,ak,"M 2.6 - 39 km WSW of Venetie, Alaska"
+,,22028,2021-11-16T10:05:54.181Z,",us,ak,",sources,earthquake,021epdyl7d,ak021epdyl7d,ml,ak,"M 2.6 - 39 km WSW of Venetie, Alaska"
 ,,22029,2021-11-16T11:08:52.154Z,",us,ak,",sources,earthquake,021epeknom,ak021epeknom,ml,ak,"M 3.5 - 54 km NNE of Kobuk, Alaska"
 ,,22030,2021-11-16T12:22:54.914Z,",ak,",sources,earthquake,021epf939v,ak021epf939v,ml,ak,"M 2.0 - 95 km WSW of Karluk, Alaska"
 ,,22031,2021-11-16T12:42:47.704Z,",ak,",sources,earthquake,021epfdd1w,ak021epfdd1w,ml,ak,"M 2.7 - 23 km ESE of Fox River, Alaska"
@@ -23971,7 +23971,7 @@
 ,,23906,2021-11-22T20:30:05.554Z,reviewed,status,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,23907,2021-11-22T20:59:49.475Z,reviewed,status,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,23908,2021-11-22T21:10:11.193Z,reviewed,status,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,23909,2021-11-22T21:14:05.22Z,reviewed,status,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,23909,2021-11-22T21:14:05.22Z,reviewed,status,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,23910,2021-11-22T04:43:28.774Z,reviewed,status,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,23911,2021-11-22T09:11:00.025Z,reviewed,status,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,23912,2021-11-23T00:49:51.878Z,automatic,status,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -25871,7 +25871,7 @@
 ,,25801,2021-11-22T20:30:05.554Z,0,tsunami,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,25802,2021-11-22T20:59:49.475Z,0,tsunami,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,25803,2021-11-22T21:10:11.193Z,0,tsunami,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,25804,2021-11-22T21:14:05.22Z,0,tsunami,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,25804,2021-11-22T21:14:05.22Z,0,tsunami,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,25805,2021-11-22T04:43:28.774Z,0,tsunami,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,25806,2021-11-22T09:11:00.025Z,0,tsunami,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,25807,2021-11-23T00:49:51.878Z,0,tsunami,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -27771,7 +27771,7 @@
 ,,27696,2021-11-22T20:30:05.554Z,",origin,phase-data,",types,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,27697,2021-11-22T20:59:49.475Z,",origin,phase-data,",types,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,27698,2021-11-22T21:10:11.193Z,",origin,phase-data,",types,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,27699,2021-11-22T21:14:05.22Z,",dyfi,origin,phase-data,",types,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,27699,2021-11-22T21:14:05.22Z,",dyfi,origin,phase-data,",types,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,27700,2021-11-22T04:43:28.774Z,",origin,phase-data,",types,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,27701,2021-11-22T09:11:00.025Z,",origin,phase-data,",types,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,27702,2021-11-23T00:49:51.878Z,",origin,phase-data,",types,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
@@ -27785,7 +27785,7 @@
 ,,27710,2021-11-23T07:06:49.812Z,",origin,phase-data,",types,earthquake,00828671,nn00828671,ml,nn,"M 0.8 - 32 km SE of Mina, Nevada"
 ,,27711,2021-11-23T08:12:54.092Z,",origin,phase-data,",types,earthquake,00828672,nn00828672,ml,nn,"M 0.6 - 32 km SSE of Mina, Nevada"
 ,,27712,2021-11-23T08:14:02.98Z,",origin,phase-data,",types,earthquake,00828673,nn00828673,ml,nn,"M 0.8 - 31 km S of Mina, Nevada"
-,,27713,2021-11-16T10:05:54.181Z,",origin,",types,earthquake,021epdyl7d,ak021epdyl7d,ml,ak,"M 2.6 - 39 km WSW of Venetie, Alaska"
+,,27713,2021-11-16T10:05:54.181Z,",origin,phase-data,",types,earthquake,021epdyl7d,ak021epdyl7d,ml,ak,"M 2.6 - 39 km WSW of Venetie, Alaska"
 ,,27714,2021-11-16T11:08:52.154Z,",moment-tensor,origin,phase-data,",types,earthquake,021epeknom,ak021epeknom,ml,ak,"M 3.5 - 54 km NNE of Kobuk, Alaska"
 ,,27715,2021-11-16T12:22:54.914Z,",origin,",types,earthquake,021epf939v,ak021epf939v,ml,ak,"M 2.0 - 95 km WSW of Karluk, Alaska"
 ,,27716,2021-11-16T12:42:47.704Z,",origin,",types,earthquake,021epfdd1w,ak021epfdd1w,ml,ak,"M 2.7 - 23 km ESE of Fox River, Alaska"
@@ -29666,7 +29666,7 @@
 ,,29591,2021-11-22T20:30:05.554Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828637,url,earthquake,00828637,nn00828637,ml,nn,"M 0.8 - 28 km SSW of Mina, Nevada"
 ,,29592,2021-11-22T20:59:49.475Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828638,url,earthquake,00828638,nn00828638,ml,nn,"M 1.4 - 39 km E of Schurz, Nevada"
 ,,29593,2021-11-22T21:10:11.193Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828640,url,earthquake,00828640,nn00828640,ml,nn,"M 0.8 - 34 km SE of Mina, Nevada"
-,,29594,2021-11-22T21:14:05.22Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828641,url,earthquake,00828641,nn00828641,ml,nn,"M 3.2 - 25 km ENE of Mina, Nevada"
+,,29594,2021-11-22T21:14:05.22Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828641,url,earthquake,00828641,nn00828641,ml,nn,M 3.2 - Nevada
 ,,29595,2021-11-22T04:43:28.774Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828650,url,earthquake,00828650,nn00828650,ml,nn,"M -0.4 - 1 km SSE of Carnelian Bay, California"
 ,,29596,2021-11-22T09:11:00.025Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828652,url,earthquake,00828652,nn00828652,ml,nn,"M -0.3 - 1 km SSW of Dayton, Nevada"
 ,,29597,2021-11-23T00:49:51.878Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00828653,url,earthquake,00828653,nn00828653,ml,nn,"M 1.4 - 30 km SSE of Mina, Nevada"
