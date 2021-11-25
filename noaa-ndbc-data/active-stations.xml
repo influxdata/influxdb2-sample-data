@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-11-25T06:20:01UTC" count="1323">
+<stations created="2021-11-25T06:35:01UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -166,7 +166,7 @@
   <station id="41139" lat="20" lon="-38" elev="0" name="" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41159" lat="34.213" lon="-76.949" elev="0" name="Onslow Bay Outer, NC (217)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41300" lat="15.85" lon="-57.467" name="West Indies" owner="Meteo France" pgm="International Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41420" lat="26.0212" lon="-74.4287" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41420" lat="25.8482" lon="-74.6972" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41421" lat="23.373" lon="-63.902" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41425" lat="26.8903" lon="-70.8095" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
@@ -475,7 +475,7 @@
   <station id="46414" lat="53.726" lon="-152.483" name="SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46415" lat="52.98" lon="-139.95" name="SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46416" lat="49.901" lon="-134.395" name="WEST VANCOUVER - 442NM West of Vancouver, BC, Canada" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="46419" lat="51.2736" lon="-129.3510" name="NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46419" lat="51.4958" lon="-129.4130" name="NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46518" lat="44.5" lon="-170" name="Drifting Buoy" owner="NWS Alaska Region" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="48400" lat="50.055" lon="-144.873" elev="0" name="Ocean Climate Station Papa" owner="NOAA/PMEL" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="48900" lat="30" lon="-90" name="(ng291)" owner="NAVO" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -848,7 +848,7 @@
   <station id="gslm4" lat="44.018" lon="-83.537" elev="179" name="Gravelly Shoal Light, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gtlm4" lat="45.211" lon="-85.55" elev="176" name="Grand Traverse Light, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gtot2" lat="29.311" lon="-94.792" elev="4.8" name="8771450 - Galveston Pier 21, TX" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="gtqf1" lat="29.667" lon="-81.257" name="Pellicer Creek, Guan Tolomato Matanzas Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="gtqf1" lat="29.667" lon="-81.257" name="Pellicer Creek, Guan Tolomato Matanzas Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="gtrm4" lat="47.179" lon="-88.241" elev="190" name="Superior Grand Traverse Bay, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gtxf1" lat="29.658" lon="-81.233" elev="1.3" name="Pellicer Creek, Guana Tolomato Matanzas Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="guxa2" lat="58.408" lon="-135.726" elev="7" name="Gustavus Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
