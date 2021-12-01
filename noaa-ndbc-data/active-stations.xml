@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-12-01T22:00:01UTC" count="1323">
+<stations created="2021-12-01T22:20:02UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -170,7 +170,7 @@
   <station id="41421" lat="23.373" lon="-63.902" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41425" lat="25.8190" lon="-71.7731" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41x01" lat="31.1722" lon="-46.6371" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41x01" lat="31.1725" lon="-46.6357" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42003" lat="25.925" lon="-85.615" elev="0" name="East GULF - 208 NM West of Naples, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -196,7 +196,7 @@
   <station id="42055" lat="22.124" lon="-93.941" elev="0" name="BAY OF CAMPECHE - 214 NM NE of Veracruz, MX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42056" lat="19.82" lon="-84.945" elev="0" name=" Yucatan Basin - 120 NM ESE of Cozumel, MX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42057" lat="16.908" lon="-81.422" elev="0" name="Western Caribbean - 195 NM WSW of Negril, Jamaica" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42058" lat="15.9896" lon="-79.8271" elev="0" name="Central Caribbean - 210 NM SSE of Kingston, Jamaica" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="42058" lat="15.9886" lon="-79.8227" elev="0" name="Central Caribbean - 210 NM SSE of Kingston, Jamaica" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42059" lat="15.287" lon="-67.477" elev="0" name="Eastern Caribbean Sea - 180 NM SSW of Ponce, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42060" lat="16.433" lon="-63.331" elev="0" name="Caribbean Valley - 63 NM WSW of Montserrat" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42067" lat="30.05" lon="-88.583" elev="0" name="USM-R1" owner="USM" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -268,8 +268,8 @@
   <station id="44100" lat="36.258" lon="-75.593" elev="0" name="Duck FRF 26m, NC (430)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44137" lat="42.26" lon="-62.03" elev="0" name="East Scotia Slope" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44139" lat="44.24" lon="-57.1" elev="0" name="Banqureau Banks" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="44150" lat="42.5" lon="-64.02" elev="0" name="La Have Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44258" lat="44.5" lon="-63.4" elev="0" name="Halifax Harbour" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="44150" lat="42.5" lon="-64.02" elev="0" name="La Have Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="44258" lat="44.5" lon="-63.4" elev="0" name="Halifax Harbour" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44402" lat="39.289" lon="-70.639" elev="0" name="SOUTHEAST BLOCK CANYON - 130 NM SE of Fire Island, NY" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="44403" lat="41.904" lon="-61.655" elev="0" name="SABLE ISLAND BANK - 437 NM E of Boston, MA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="44488" lat="45.44" lon="-60.95" elev="0" name="East of Chedabucto Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -303,7 +303,7 @@
   <station id="45139" lat="43.25" lon="-79.53" elev="75" name="West Lake Ontario - Grimsby" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45140" lat="50.8" lon="-96.73" elev="217" name="Lake Winnipeg S. Basin" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45141" lat="61.18" lon="-115.31" elev="156" name="Great Slave Lake" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45142" lat="42.74" lon="-79.29" elev="174" name="Port Colborne" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45142" lat="42.74" lon="-79.29" elev="174" name="Port Colborne" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45143" lat="44.94" lon="-80.627" elev="177" name="South Georgian Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45144" lat="53.23" lon="-98.29" elev="217" name="Lake Winnipeg North" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45145" lat="51.87" lon="-96.97" elev="217" name="Lake Winnipeg Narrows" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -311,7 +311,7 @@
   <station id="45148" lat="49.65" lon="-94.5" elev="332" name="Lake of the Woods" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45149" lat="43.54" lon="-82.08" elev="177" name="Southern Lake Huron" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45150" lat="61.98" lon="-114.13" elev="156" name="Great Slave Lake, North Arm" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45151" lat="44.5" lon="-79.37" elev="219" name="Lake Simcoe" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45151" lat="44.5" lon="-79.37" elev="219" name="Lake Simcoe" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45152" lat="46.23" lon="-79.72" elev="196" name="Lake Nipissing" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45154" lat="46.05" lon="-82.64" elev="177" name="North Channel East" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45159" lat="43.77" lon="-78.98" elev="75" name="NW Lake Ontario Ajax" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -401,7 +401,7 @@
   <station id="46100" lat="46.851" lon="-124.972" elev="0" name="OOI Westport Offshore" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46108" lat="59.596" lon="-151.829" elev="0" name="Lower Cook Inlet (204)" owner="Alaska Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46114" lat="36.7" lon="-122.343" elev="0" name="West Monterey Bay, CA (185)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46116" lat="46.287" lon="-124.016" elev="0" name="SATURN Estuary Station #07, Baker Bay, WA" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46116" lat="46.287" lon="-124.016" elev="0" name="SATURN Estuary Station #07, Baker Bay, WA" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="46117" lat="46.176" lon="-123.869" elev="0" name="SATURN Estuary Station #09, Youngs Bay, OR" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46118" lat="48.724" lon="-122.576" elev="0" name="Se'lhaem Bellingham Bay" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46119" lat="47.967" lon="-124.95" elev="0" name="Cha'Ba La Push" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1190,9 +1190,9 @@
   <station id="sdhn4" lat="40.467" lon="-74.009" elev="1.9" name="8531680 - Sandy Hook, NJ" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdia2" lat="58.277" lon="-134.389" elev="4" name="South Douglas, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdrt2" lat="28.407" lon="-96.712" elev="0" name="8773037 - Seadrift, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="sefo3" lat="46.204" lon="-123.759" elev="0" name="SATURN Estuary Station #04 at Mott Basin" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="sefo3" lat="46.204" lon="-123.759" elev="0" name="SATURN Estuary Station #04 at Mott Basin" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="seqa2" lat="59.441" lon="-151.721" name="Seldovia Deep, Katchemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="seto3" lat="46.2" lon="-123.941" elev="0" name="SATURN Estuary Station #03" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="seto3" lat="46.2" lon="-123.941" elev="0" name="SATURN Estuary Station #03" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="sfxc1" lat="38.2" lon="-122.026" elev="2.74" name="Rush Ranch, San Francisco Bay Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sgnt2" lat="28.771" lon="-95.617" name="8772985 - Sargent, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sgnw3" lat="43.749" lon="-87.693" elev="175.9" name="Sheboygan, WI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
