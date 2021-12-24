@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2021-12-24T05:45:01UTC" count="1323">
+<stations created="2021-12-24T06:00:01UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -41,7 +41,7 @@
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15007" lat="-6" lon="8" elev="0" name="SE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -153,7 +153,7 @@
   <station id="41058" lat="18.476" lon="-65.157" elev="0" name="North of St. Thomas, VI" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41060" lat="14.824" lon="-51.017" elev="0" name="Woods Hole Northwest Tropical Atlantic Wave Station" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41064" lat="34.207" lon="-76.949" elev="0" name="Onslow Bay Outer, NC (LEJ3)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41065" lat="32.802" lon="-79.619" elev="0" name="Capers Nearshore Waves (CAP2WAVE)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="41065" lat="32.802" lon="-79.619" elev="0" name="Capers Nearshore Waves (CAP2WAVE)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41108" lat="33.722" lon="-78.016" elev="0" name="Wilmington Harbor, NC - (200)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="41110" lat="34.142" lon="-77.715" elev="0" name="Masonboro Inlet, ILM2, NC (150)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41112" lat="30.709" lon="-81.292" elev="0" name="Offshore Fernandina Beach, FL (132)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
@@ -674,7 +674,7 @@
   <station id="bdxc1" lat="38.317" lon="-123.071" name="Bodega, CA" owner="University of California Davis, Bodega Marine Laboratory" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="bepb6" lat="32.374" lon="-64.701" elev="3.4" name="2695540 - Bermuda, St. Georges Island, BM" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="bftn7" lat="34.717" lon="-76.671" elev="1.9" name="8656483 - Beaufort, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="bgcf1" lat="26.404" lon="-81.881" elev="0" name="BCP - Big Carlos Pass, FL" owner="COMPS (University of South Florida)" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="bgcf1" lat="26.404" lon="-81.881" elev="0" name="BCP - Big Carlos Pass, FL" owner="COMPS (University of South Florida)" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="bgnn6" lat="40.639" lon="-74.146" elev="3" name="8519483 - Bergen Point West Reach, NY" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bgxn3" lat="43.059" lon="-70.83" elev="3" name="Greenland, Great Bay Reserve, NH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bhbm3" lat="42.355" lon="-71.05" elev="3.4" name="8443970 - Boston, MA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -696,7 +696,7 @@
   <station id="brim2" lat="38.781" lon="-76.714" name="Railroad, Chesapeake Bay Reserve, MD" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="brnd1" lat="38.987" lon="-75.113" elev="1.9" name="8555889 - Brandywine Shoal Light, DE" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bsbm4" lat="44.055" lon="-86.514" elev="184" name="Big Sable Point, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="bsca1" lat="30.329" lon="-87.829" elev="0" name="Bon Secour, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="bsca1" lat="30.329" lon="-87.829" elev="0" name="Bon Secour, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="bskf1" lat="25.266" lon="-81.162" name="Big Sable Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="bslm2" lat="38.781" lon="-76.708" elev="0.3" name="Jug Bay, Chesapeake Bay Reserve, MD" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bthd1" lat="38.537" lon="-75.046" elev="-11" name="Bethany Beach, DE" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
