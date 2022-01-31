@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-01-31T21:20:02UTC" count="1325">
+<stations created="2022-01-31T21:30:01UTC" count="1325">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -753,7 +753,7 @@
   <station id="cpxc1" lat="35.17" lon="-120.741" elev="0" name="Cal Poly Pier, CA" owner="California Polytechnic State University" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="cquc1" lat="38.066" lon="-122.23" name="Carquinez, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="crga2" lat="55.474" lon="-133.136" elev="28.9" name="Craig, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="crta1" lat="30.308" lon="-88.14" elev="0" name="Cedar Point, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="crta1" lat="30.308" lon="-88.14" elev="0" name="Cedar Point, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="crva2" lat="60.558" lon="-145.752" elev="4.6" name="9454050 - Cordova, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cryv2" lat="36.888" lon="-76.338" elev="1" name="8638595 - South Craney Island, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cspa2" lat="58.199" lon="-136.64" elev="25" name="Cape Spencer, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -893,9 +893,9 @@
   <station id="jprn7" lat="35.912" lon="-75.587" elev="0" name="Jennette's Pier, Nags Head, NC" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="jxuf1" lat="30.354" lon="-81.612" elev="3" name="8720245 - Jacksonville University, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kata1" lat="30.258" lon="-88.213" elev="0" name="Katrina Cut, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="katp" lat="27.195" lon="-90.027" name="Green Canyon 787 / Atlantis (BP)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="katp" lat="27.195" lon="-90.027" name="Green Canyon 787 / Atlantis (BP)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kbbf" lat="28.058" lon="-95.872" name="Brazos 133B (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="kbqx" lat="28.314" lon="-95.62" name="Brazos 538 (Transco)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kbqx" lat="28.314" lon="-95.62" name="Brazos 538 (Transco)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kcha2" lat="59.602" lon="-151.409" name="Homer Dolphin Deep, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kcvw" lat="29.784" lon="-93.3" name="Cameron, LA (PHI)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kdaa2" lat="57.731" lon="-152.511" elev="4.8" name="9457292 - Kodiak Island, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -905,12 +905,12 @@
   <station id="keir" lat="28.634" lon="-91.489" name="Eugene Island 215 (McMoRan Oil &amp; Gas)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kemk" lat="27.819" lon="-94.323" name="East Breaks 165 (SandRidge Energy)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kexa2" lat="55.352" lon="-131.684" elev="3.7" name="Ketchikan Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="kgbk" lat="27.204" lon="-92.203" name="Garden Banks 783 / Magnolia TLP (W&amp;T Offshore)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kgbk" lat="27.204" lon="-92.203" name="Garden Banks 783 / Magnolia TLP (W&amp;T Offshore)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgca2" lat="55.062" lon="-162.327" elev="3.6" name="9459881 - King Cove, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="kghb" lat="27.84" lon="-91.988" name="Garden Banks 172 / Salsa (Shell E &amp; P)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kghb" lat="27.84" lon="-91.988" name="Garden Banks 172 / Salsa (Shell E &amp; P)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgna" lat="47.745" lon="-90.346" elev="185" name="Bay of Grand Marais, MN" owner="NWS Central Region" pgm="Marine METAR" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgry" lat="27.625" lon="-90.441" name="Green Canyon 338 / Front Runner (Murphy E&amp;P)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="kgul" lat="27.304" lon="-93.538" name="Garden Banks 668 / Gunnison Spar (Anadarko)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kgul" lat="27.304" lon="-93.538" name="Garden Banks 668 / Gunnison Spar (Anadarko)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgvx" lat="28.577" lon="-94.976" name="Galveston 424C (Nippon Oil Exploration)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="khhv" lat="26.939" lon="-94.689" name="Alaminos Canyon 25 / Hoover-Diana (ExxonMobile Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="khqi" lat="27.934" lon="-93.669" name="High Island 376B (Apache)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
@@ -933,7 +933,7 @@
   <station id="kvaf" lat="27.354" lon="-94.625" name="East Breaks 643 / Boomvang Spar (Anadarko)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kvbs" lat="29.478" lon="-93.638" name="Sabine Pass 13B (Nippon Oil Exploration)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kvky" lat="29.248" lon="-88.441" name="Main Pass 289C (Apache Corp.)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="kvoa" lat="29.229" lon="-87.781" name="Viosca Knoll 786 / Petronius (Chevron)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kvoa" lat="29.229" lon="-87.781" name="Viosca Knoll 786 / Petronius (Chevron)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kvqt" lat="28.27" lon="-92.264" name="Vermillon 331A  (ERT / Helix)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kwhh1" lat="20.037" lon="-155.829" elev="2.3" name="1617433 - Kawaihae, HI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kwjp8" lat="8.732" lon="167.734" elev="1.8" name="1820000 - Kwajalein, Marshall Islands" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1258,7 +1258,7 @@
   <station id="thro1" lat="41.694" lon="-83.473" elev="176.2" name="9063085 - Toledo, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tibc1" lat="37.892" lon="-122.447" elev="5" name="Tiburon Pier, San Francisco Bay, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tiqc1" lat="32.568" lon="-117.131" name="Oneonta Slough, Tijuana River Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="tixc1" lat="32.575" lon="-117.127" elev="4" name="Tidal Linkage, Tijuana River Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="tixc1" lat="32.575" lon="-117.127" elev="4" name="Tidal Linkage, Tijuana River Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tkea2" lat="57.779" lon="-135.219" elev="5" name="Tenakee Springs, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tkpn6" lat="42.014" lon="-73.939" name="Turkey Point Hudson River NERRS, NY (NOS 8518962)" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tlbo3" lat="45.555" lon="-123.919" elev="0" name="9437540 - Garibaldi, Tillamook Bay, OR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
