@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-01-31T02:50:01UTC" count="1325">
+<stations created="2022-01-31T03:00:01UTC" count="1325">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -591,7 +591,7 @@
   <station id="62095" lat="53.04" lon="-15.53" elev="0" name="M6 - West Coast" owner="Met Eireann" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62103" lat="49.9" lon="-2.9" elev="0" name="Channel Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62105" lat="55.41" lon="-11.81" elev="0" name="K4 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62114" lat="58.3" lon="0" name="Tartan &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62121" lat="53.5" lon="2.7" name="Carrack AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62124" lat="53.6" lon="-3.6" name="Conwy" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1002,7 +1002,7 @@
   <station id="mism1" lat="43.784" lon="-68.855" elev="16.2" name="Matinicus Rock, ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="misp4" lat="18.09" lon="-67.939" elev="1.3" name="9759938 - Mona Island, PR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mist2" lat="27.838" lon="-97.05" elev="3.5" name="Ship Channel, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="mixa2" lat="57.837" lon="-133.814" elev="19" name="Midway Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mixa2" lat="57.837" lon="-133.814" elev="19" name="Midway Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mkgm4" lat="43.227" lon="-86.339" elev="179.3" name="Muskegon CG Station, Muskegon, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mlrf1" lat="25.012" lon="-80.376" elev="0" name="Molasses Reef, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mlsc1" lat="36.802" lon="-121.791" elev="3.05" name="Moss Landing, South Harbor, CA" owner="Moss Landing Marine Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
