@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-03-09T12:25:02UTC" count="1323">
+<stations created="2022-03-09T12:40:01UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -52,7 +52,7 @@
   <station id="21416" lat="48.11" lon="163.435" elev="0" name="KAMCHATKA PENINSULA - 240NM SE of Kamchatka Peninsula, RU " owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="21418" lat="38.76" lon="148.65" elev="0" name="NORTHEAST TOKYO - 450 NM NE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="21419" lat="44.401" lon="155.653" name="KURIL ISLANDS - 209NM SE of Kuril Is. " owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="21420" lat="28.891" lon="135.022" name="SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="21420" lat="28.6928" lon="136.2120" name="SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="22101" lat="37.23" lon="126.02" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22102" lat="34.8" lon="125.77" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22103" lat="34" lon="127.5" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -122,7 +122,7 @@
   <station id="32411" lat="4.958" lon="-90.868" name="WEST PANAMA - 710 NM WSW of Panama City, Panama" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32413" lat="-7.428" lon="-93.48" name="NORTHWEST LIMA - 1000 NM WNW of Lima, Peru" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32489" lat="2.998" lon="-79.101" name="Colombia   121NM SW of Buenaventura, Colombia" owner="DIMAR Colombia" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="32d13" lat="-7.43" lon="-93.48" name="ADRIFT BUOY FROM 32413" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="32d13" lat="-15.6757" lon="-163.0000" name="ADRIFT BUOY FROM 32413" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32st0" lat="-22" lon="-85" elev="0" name="Stratus" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41001" lat="34.775" lon="-72.167" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -166,11 +166,11 @@
   <station id="41139" lat="20" lon="-38" elev="0" name="" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41159" lat="34.213" lon="-76.949" elev="0" name="Onslow Bay Outer, NC (217)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41300" lat="15.85" lon="-57.467" name="West Indies" owner="Meteo France" pgm="International Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41420" lat="23.37" lon="-67.517" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41420" lat="26.2672" lon="-77.0517" name="NORTH SANTO DOMINGO - 328NM NNE of Santo Domingo, DO" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41421" lat="23.373" lon="-63.902" name="NORTH ST THOMAS - 300 NM North of St Thomas, Virgin Is" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41425" lat="28.633" lon="-65.65" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41425" lat="22.8245" lon="-74.2884" name="SOUTHWEST BERMUDA - 200 NM SSW of Hamilton, Bermuda" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41nt0" lat="15" lon="-51" elev="0" name="NTAS - Northwest Tropical Atlantic" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41x01" lat="34.502" lon="-72.522" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41x01" lat="28.3542" lon="-48.2643" elev="0" name="Adrift from 41001, 150nm E of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42001" lat="25.942" lon="-89.657" elev="0" name="MID GULF - 180 nm South of Southwest Pass, LA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42002" lat="26.055" lon="-93.646" elev="0" name="WEST GULF - 207 NM East of Brownsville, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42003" lat="25.925" lon="-85.615" elev="0" name="East GULF - 208 NM West of Naples, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -196,7 +196,7 @@
   <station id="42055" lat="22.124" lon="-93.941" elev="0" name="BAY OF CAMPECHE - 214 NM NE of Veracruz, MX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42056" lat="19.82" lon="-84.945" elev="0" name=" Yucatan Basin - 120 NM ESE of Cozumel, MX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42057" lat="16.908" lon="-81.422" elev="0" name="Western Caribbean - 195 NM WSW of Negril, Jamaica" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42058" lat="14.394" lon="-74.816" elev="0" name="Central Caribbean - 210 NM SSE of Kingston, Jamaica" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="42058" lat="12.5685" lon="-81.7019" elev="0" name="Central Caribbean - 210 NM SSE of Kingston, Jamaica" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42059" lat="15.287" lon="-67.477" elev="0" name="Eastern Caribbean Sea - 180 NM SSW of Ponce, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42060" lat="16.433" lon="-63.331" elev="0" name="Caribbean Valley - 63 NM WSW of Montserrat" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42067" lat="30.05" lon="-88.583" elev="0" name="USM-R1" owner="USM" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -364,7 +364,7 @@
   <station id="46029" lat="46.163" lon="-124.487" elev="0" name="COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46035" lat="57.016" lon="-177.703" elev="0" name="CENTRAL BERING SEA - 310 NM North of Adak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46036" lat="48.36" lon="-133.94" elev="0" name="South Nomad" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46041" lat="47.353" lon="-124.742" elev="0" name="CAPE ELIZABETH - 45NM NW of Aberdeen, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46041" lat="48.5828" lon="-124.7360" elev="0" name="CAPE ELIZABETH - 45NM NW of Aberdeen, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46042" lat="36.785" lon="-122.398" elev="0" name="MONTEREY - 27NM WNW of Monterey, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46047" lat="32.388" lon="-119.525" elev="0" name="TANNER BANK - 121 NM West of San Diego, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46050" lat="44.669" lon="-124.546" elev="0" name="STONEWALL BANK - 20NM West of Newport, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
@@ -475,7 +475,7 @@
   <station id="46414" lat="53.726" lon="-152.483" name="SOUTHEAST CHIRIKOF - 165 NM SE of Chirikof Island, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46415" lat="52.98" lon="-139.95" name="SOUTHWEST JUNEAU - 370 NM SW of Juneau, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46416" lat="49.901" lon="-134.395" name="WEST VANCOUVER - 442NM West of Vancouver, BC, Canada" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="46419" lat="48.805" lon="-129.616" name="NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46419" lat="52.7182" lon="-129.2900" name="NORTHWEST SEATTLE - 300 NM WNW of Seattle, WA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46518" lat="44.5" lon="-170" name="Drifting Buoy" owner="NWS Alaska Region" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="48400" lat="50.055" lon="-144.873" elev="0" name="Ocean Climate Station Papa" owner="NOAA/PMEL" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="48900" lat="30" lon="-90" name="(ng291)" owner="NAVO" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
