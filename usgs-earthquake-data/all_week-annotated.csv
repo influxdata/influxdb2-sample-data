@@ -77,7 +77,7 @@
 ,,67,2022-03-16T00:09:30.384Z,2,cdi,earthquake,6000h4wn,us6000h4wn,mww,us,"M 5.2 - 85 km WNW of Cabra, Philippines"
 ,,68,2022-03-16T00:34:49.546Z,2,cdi,earthquake,6000h4wu,us6000h4wu,mb,us,"M 4.2 - 24 km N of Hengchun, Taiwan"
 ,,69,2022-03-16T02:06:24.804Z,4.6,cdi,earthquake,6000h4x7,us6000h4x7,mb,us,"M 4.1 - 175 km E of Namie, Japan"
-,,70,2022-03-16T02:20:15.796Z,3.8,cdi,earthquake,6000h4x9,us6000h4x9,mb,us,"M 4.6 - 16 km SE of Pýrgos, Greece"
+,,70,2022-03-16T02:20:15.796Z,4.1,cdi,earthquake,6000h4x9,us6000h4x9,mb,us,"M 4.6 - 16 km SE of Pýrgos, Greece"
 ,,71,2022-03-16T03:00:03.8Z,4.1,cdi,earthquake,6000h4xf,us6000h4xf,mww,us,"M 5.3 - 65 km SW of Banjar, Indonesia"
 ,,72,2022-03-16T06:06:34.721Z,7,cdi,earthquake,6000h4z7,us6000h4z7,mww,us,"M 5.6 - 5 km E of Huambo, Peru"
 ,,73,2022-03-16T13:35:23.371Z,3.8,cdi,earthquake,6000h50x,us6000h50x,mww,us,"M 5.1 - 68 km NW of Skardu, Pakistan"
@@ -950,7 +950,7 @@
 ,,940,2022-03-14T14:12:08.676Z,15.95,depth,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,941,2022-03-14T14:40:47.749Z,10,depth,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,942,2022-03-14T14:31:54.334Z,10,depth,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,943,2022-03-14T15:00:48.353Z,10,depth,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,943,2022-03-14T15:00:58.348Z,10,depth,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,944,2022-03-14T15:22:53.907Z,10,depth,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,945,2022-03-14T18:08:27.943Z,10,depth,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,946,2022-03-14T21:10:33.372Z,9.07,depth,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -2857,7 +2857,7 @@
 ,,2842,2022-03-14T14:12:08.676Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4ff.geojson,detail,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,2843,2022-03-14T14:40:47.749Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4fu.geojson,detail,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,2844,2022-03-14T14:31:54.334Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4g0.geojson,detail,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,2845,2022-03-14T15:00:48.353Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4g1.geojson,detail,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,2845,2022-03-14T15:00:58.348Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4g1.geojson,detail,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,2846,2022-03-14T15:22:53.907Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4g3.geojson,detail,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,2847,2022-03-14T18:08:27.943Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4ij.geojson,detail,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,2848,2022-03-14T21:10:33.372Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h4k1.geojson,detail,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -4473,7 +4473,7 @@
 ,,4453,2022-03-14T14:12:08.676Z,2.078,dmin,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,4454,2022-03-14T14:40:47.749Z,8.783,dmin,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,4455,2022-03-14T14:31:54.334Z,9.306,dmin,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,4456,2022-03-14T15:00:48.353Z,1.769,dmin,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,4456,2022-03-14T15:00:58.348Z,0.885,dmin,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,4457,2022-03-14T15:22:53.907Z,8.765,dmin,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,4458,2022-03-14T18:08:27.943Z,43.989,dmin,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,4459,2022-03-14T21:10:33.372Z,0.755,dmin,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -5400,7 +5400,7 @@
 ,,5375,2022-03-16T00:09:30.384Z,1,felt,earthquake,6000h4wn,us6000h4wn,mww,us,"M 5.2 - 85 km WNW of Cabra, Philippines"
 ,,5376,2022-03-16T00:34:49.546Z,1,felt,earthquake,6000h4wu,us6000h4wu,mb,us,"M 4.2 - 24 km N of Hengchun, Taiwan"
 ,,5377,2022-03-16T02:06:24.804Z,3,felt,earthquake,6000h4x7,us6000h4x7,mb,us,"M 4.1 - 175 km E of Namie, Japan"
-,,5378,2022-03-16T02:20:15.796Z,1,felt,earthquake,6000h4x9,us6000h4x9,mb,us,"M 4.6 - 16 km SE of Pýrgos, Greece"
+,,5378,2022-03-16T02:20:15.796Z,2,felt,earthquake,6000h4x9,us6000h4x9,mb,us,"M 4.6 - 16 km SE of Pýrgos, Greece"
 ,,5379,2022-03-16T03:00:03.8Z,22,felt,earthquake,6000h4xf,us6000h4xf,mww,us,"M 5.3 - 65 km SW of Banjar, Indonesia"
 ,,5380,2022-03-16T06:06:34.721Z,6,felt,earthquake,6000h4z7,us6000h4z7,mww,us,"M 5.6 - 5 km E of Huambo, Peru"
 ,,5381,2022-03-16T13:35:23.371Z,4,felt,earthquake,6000h50x,us6000h50x,mww,us,"M 5.1 - 68 km NW of Skardu, Pakistan"
@@ -5449,7 +5449,7 @@
 ,,5424,2022-03-20T14:39:47.54Z,1,felt,earthquake,6000h66w,us6000h66w,mb,us,"M 4.9 - 28 km SSW of Mazuko, Peru"
 ,,5425,2022-03-20T16:39:20.817Z,19,felt,earthquake,6000h67d,us6000h67d,mww,us,"M 5.3 - 4 km SSW of Burauen, Philippines"
 ,,5426,2022-03-21T05:17:16.98Z,2,felt,earthquake,6000h6b9,us6000h6b9,mb,us,M 4.9 - off the coast of Costa Rica
-,,5427,2022-03-21T05:32:53.604Z,83,felt,earthquake,6000h6bi,us6000h6bi,mww,us,"M 5.2 - 138 km W of Florø, Norway"
+,,5427,2022-03-21T05:32:53.604Z,84,felt,earthquake,6000h6bi,us6000h6bi,mww,us,"M 5.2 - 138 km W of Florø, Norway"
 ,,5428,2022-03-17T13:28:56.33Z,13,felt,earthquake,60376652,se60376652,md,se,"M 2.5 - 8 km WSW of New Market, Tennessee"
 ,,5429,2022-03-15T20:30:14.82Z,1,felt,earthquake,60485717,uu60485717,ml,uu,"M 2.9 - 51 km SE of Mammoth, Wyoming"
 ,,5430,2022-03-18T16:21:55.12Z,10,felt,earthquake,61814392,uw61814392,ml,uw,"M 2.6 - 16 km ESE of Lacomb, Oregon"
@@ -5987,7 +5987,7 @@
 ,,5957,2022-03-14T14:12:08.676Z,46,gap,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,5958,2022-03-14T14:40:47.749Z,76,gap,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,5959,2022-03-14T14:31:54.334Z,79,gap,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,5960,2022-03-14T15:00:48.353Z,131,gap,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,5960,2022-03-14T15:00:58.348Z,146,gap,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,5961,2022-03-14T15:22:53.907Z,102,gap,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,5962,2022-03-14T18:08:27.943Z,127,gap,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,5963,2022-03-14T21:10:33.372Z,209,gap,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -7892,7 +7892,7 @@
 ,,7857,2022-03-14T14:12:08.676Z,",us6000h4ff,",ids,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,7858,2022-03-14T14:40:47.749Z,",us6000h4fu,",ids,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,7859,2022-03-14T14:31:54.334Z,",us6000h4g0,",ids,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,7860,2022-03-14T15:00:48.353Z,",us6000h4g1,",ids,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,7860,2022-03-14T15:00:58.348Z,",us6000h4g1,",ids,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,7861,2022-03-14T15:22:53.907Z,",us6000h4g3,",ids,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,7862,2022-03-14T18:08:27.943Z,",us6000h4ij,",ids,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,7863,2022-03-14T21:10:33.372Z,",us6000h4k1,",ids,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -9799,7 +9799,7 @@
 ,,9759,2022-03-14T14:12:08.676Z,-0.5434,lat,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,9760,2022-03-14T14:40:47.749Z,14.1448,lat,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,9761,2022-03-14T14:31:54.334Z,14.1505,lat,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,9762,2022-03-14T15:00:48.353Z,-29.7283,lat,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,9762,2022-03-14T15:00:58.348Z,-30.1262,lat,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,9763,2022-03-14T15:22:53.907Z,14.1306,lat,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,9764,2022-03-14T18:08:27.943Z,-26.2976,lat,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,9765,2022-03-14T21:10:33.372Z,9.5403,lat,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -11701,7 +11701,7 @@
 ,,11661,2022-03-14T14:12:08.676Z,98.5512,lon,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,11662,2022-03-14T14:40:47.749Z,119.334,lon,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,11663,2022-03-14T14:31:54.334Z,119.3792,lon,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,11664,2022-03-14T15:00:48.353Z,-175.962,lon,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,11664,2022-03-14T15:00:58.348Z,-177.6833,lon,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,11665,2022-03-14T15:22:53.907Z,119.5263,lon,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,11666,2022-03-14T18:08:27.943Z,71.7538,lon,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,11667,2022-03-14T21:10:33.372Z,-84.828,lon,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -13603,7 +13603,7 @@
 ,,13563,2022-03-14T14:12:08.676Z,5.3,mag,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,13564,2022-03-14T14:40:47.749Z,5.2,mag,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,13565,2022-03-14T14:31:54.334Z,4.8,mag,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,13566,2022-03-14T15:00:48.353Z,4.8,mag,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,13566,2022-03-14T15:00:58.348Z,4.6,mag,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,13567,2022-03-14T15:22:53.907Z,5,mag,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,13568,2022-03-14T18:08:27.943Z,4.9,mag,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,13569,2022-03-14T21:10:33.372Z,3.4,mag,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -16931,7 +16931,7 @@
 ,,16881,2022-03-14T14:12:08.676Z,"174 km W of Pariaman, Indonesia",place,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,16882,2022-03-14T14:40:47.749Z,"82 km WNW of Cabra, Philippines",place,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,16883,2022-03-14T14:31:54.334Z,"77 km WNW of Cabra, Philippines",place,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,16884,2022-03-14T15:00:48.353Z,Kermadec Islands region,place,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,16884,2022-03-14T15:00:58.348Z,"Kermadec Islands, New Zealand",place,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,16885,2022-03-14T15:22:53.907Z,"62 km WNW of Cabra, Philippines",place,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,16886,2022-03-14T18:08:27.943Z,Mid-Indian Ridge,place,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,16887,2022-03-14T21:10:33.372Z,"23 km WSW of Jacó, Costa Rica",place,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -18838,7 +18838,7 @@
 ,,18783,2022-03-14T14:12:08.676Z,0.71,rms,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,18784,2022-03-14T14:40:47.749Z,0.68,rms,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,18785,2022-03-14T14:31:54.334Z,0.6,rms,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,18786,2022-03-14T15:00:48.353Z,0.32,rms,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,18786,2022-03-14T15:00:58.348Z,0.52,rms,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,18787,2022-03-14T15:22:53.907Z,0.39,rms,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,18788,2022-03-14T18:08:27.943Z,0.81,rms,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,18789,2022-03-14T21:10:33.372Z,0.19,rms,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -20745,7 +20745,7 @@
 ,,20685,2022-03-14T14:12:08.676Z,432,sig,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,20686,2022-03-14T14:40:47.749Z,416,sig,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,20687,2022-03-14T14:31:54.334Z,354,sig,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,20688,2022-03-14T15:00:48.353Z,354,sig,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,20688,2022-03-14T15:00:58.348Z,326,sig,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,20689,2022-03-14T15:22:53.907Z,385,sig,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,20690,2022-03-14T18:08:27.943Z,369,sig,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,20691,2022-03-14T21:10:33.372Z,178,sig,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -22652,7 +22652,7 @@
 ,,22587,2022-03-14T14:12:08.676Z,",us,",sources,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,22588,2022-03-14T14:40:47.749Z,",us,",sources,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,22589,2022-03-14T14:31:54.334Z,",us,",sources,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,22590,2022-03-14T15:00:48.353Z,",us,",sources,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,22590,2022-03-14T15:00:58.348Z,",us,",sources,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,22591,2022-03-14T15:22:53.907Z,",us,",sources,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,22592,2022-03-14T18:08:27.943Z,",us,",sources,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,22593,2022-03-14T21:10:33.372Z,",us,",sources,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -24554,7 +24554,7 @@
 ,,24489,2022-03-14T14:12:08.676Z,reviewed,status,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,24490,2022-03-14T14:40:47.749Z,reviewed,status,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,24491,2022-03-14T14:31:54.334Z,reviewed,status,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,24492,2022-03-14T15:00:48.353Z,reviewed,status,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,24492,2022-03-14T15:00:58.348Z,reviewed,status,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,24493,2022-03-14T15:22:53.907Z,reviewed,status,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,24494,2022-03-14T18:08:27.943Z,reviewed,status,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,24495,2022-03-14T21:10:33.372Z,reviewed,status,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -26461,7 +26461,7 @@
 ,,26391,2022-03-14T14:12:08.676Z,0,tsunami,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,26392,2022-03-14T14:40:47.749Z,0,tsunami,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,26393,2022-03-14T14:31:54.334Z,0,tsunami,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,26394,2022-03-14T15:00:48.353Z,0,tsunami,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,26394,2022-03-14T15:00:58.348Z,0,tsunami,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,26395,2022-03-14T15:22:53.907Z,0,tsunami,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,26396,2022-03-14T18:08:27.943Z,0,tsunami,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,26397,2022-03-14T21:10:33.372Z,0,tsunami,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -28368,7 +28368,7 @@
 ,,28293,2022-03-14T14:12:08.676Z,",dyfi,origin,phase-data,",types,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,28294,2022-03-14T14:40:47.749Z,",origin,phase-data,",types,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,28295,2022-03-14T14:31:54.334Z,",origin,phase-data,",types,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,28296,2022-03-14T15:00:48.353Z,",origin,phase-data,",types,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,28296,2022-03-14T15:00:58.348Z,",origin,phase-data,",types,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,28297,2022-03-14T15:22:53.907Z,",origin,phase-data,",types,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,28298,2022-03-14T18:08:27.943Z,",origin,phase-data,",types,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,28299,2022-03-14T21:10:33.372Z,",dyfi,origin,phase-data,",types,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
@@ -29397,7 +29397,7 @@
 ,,29322,2022-03-21T11:56:27.13Z,",dyfi,nearby-cities,origin,phase-data,scitech-link,",types,earthquake,73708386,nc73708386,md,nc,"M 2.1 - 2km E of Hayward, CA"
 ,,29323,2022-03-21T11:58:16.16Z,",nearby-cities,origin,phase-data,scitech-link,",types,earthquake,73708391,nc73708391,md,nc,"M 0.8 - 12km ENE of Cloverdale, CA"
 ,,29324,2022-03-21T12:34:36.14Z,",nearby-cities,origin,phase-data,scitech-link,",types,earthquake,73708401,nc73708401,md,nc,"M 2.3 - 26km NW of San Simeon, CA"
-,,29325,2022-03-21T13:11:51.18Z,",nearby-cities,origin,phase-data,",types,earthquake,73708411,nc73708411,md,nc,"M 0.9 - 8km W of Cobb, CA"
+,,29325,2022-03-21T13:11:51.18Z,",nearby-cities,origin,phase-data,scitech-link,",types,earthquake,73708411,nc73708411,md,nc,"M 0.9 - 8km W of Cobb, CA"
 ,,29326,2022-03-14T16:25:17.68Z,",dyfi,origin,phase-data,",types,earthquake,80540464,mb80540464,ml,mb,"M 1.8 - 2 km W of Jackson, Wyoming"
 ,,29327,2022-03-14T16:47:09.2Z,",origin,phase-data,",types,earthquake,80540479,mb80540479,ml,mb,"M 1.5 - 10 km SE of Challis, Idaho"
 ,,29328,2022-03-14T21:07:48.7Z,",origin,phase-data,",types,earthquake,80540504,mb80540504,ml,mb,"M 2.2 - 27 km NW of Stanley, Idaho"
@@ -30270,7 +30270,7 @@
 ,,30195,2022-03-14T14:12:08.676Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4ff,url,earthquake,6000h4ff,us6000h4ff,mww,us,"M 5.3 - 174 km W of Pariaman, Indonesia"
 ,,30196,2022-03-14T14:40:47.749Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4fu,url,earthquake,6000h4fu,us6000h4fu,mww,us,"M 5.2 - 82 km WNW of Cabra, Philippines"
 ,,30197,2022-03-14T14:31:54.334Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4g0,url,earthquake,6000h4g0,us6000h4g0,mb,us,"M 4.8 - 77 km WNW of Cabra, Philippines"
-,,30198,2022-03-14T15:00:48.353Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4g1,url,earthquake,6000h4g1,us6000h4g1,mb,us,M 4.8 - Kermadec Islands region
+,,30198,2022-03-14T15:00:58.348Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4g1,url,earthquake,6000h4g1,us6000h4g1,mb,us,"M 4.6 - Kermadec Islands, New Zealand"
 ,,30199,2022-03-14T15:22:53.907Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4g3,url,earthquake,6000h4g3,us6000h4g3,mb,us,"M 5.0 - 62 km WNW of Cabra, Philippines"
 ,,30200,2022-03-14T18:08:27.943Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4ij,url,earthquake,6000h4ij,us6000h4ij,mb,us,M 4.9 - Mid-Indian Ridge
 ,,30201,2022-03-14T21:10:33.372Z,https://earthquake.usgs.gov/earthquakes/eventpage/us6000h4k1,url,earthquake,6000h4k1,us6000h4k1,ml,us,"M 3.4 - 23 km WSW of Jacó, Costa Rica"
