@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-03-22T16:25:01UTC" count="1325">
+<stations created="2022-03-22T16:45:01UTC" count="1326">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -155,6 +155,7 @@
   <station id="41060" lat="14.824" lon="-51.017" elev="0" name="Woods Hole Northwest Tropical Atlantic Wave Station" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41064" lat="34.207" lon="-76.949" elev="0" name="Onslow Bay Outer, NC (LEJ3)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41065" lat="32.802" lon="-79.619" elev="0" name="Capers Nearshore Waves (CAP2WAVE)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="41066" lat="32.542" lon="-79.665" elev="0" name="CHR60" owner="CORMP" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41076" lat="32.542" lon="-79.665" elev="0" name="CHR60WAVE" owner="CORMP" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41108" lat="33.722" lon="-78.016" elev="0" name="Wilmington Harbor, NC - (200)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41110" lat="34.142" lon="-77.715" elev="0" name="Masonboro Inlet, ILM2, NC (150)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -856,7 +857,7 @@
   <station id="guxa2" lat="58.408" lon="-135.726" elev="7" name="Gustavus Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="haxa2" lat="59.234" lon="-135.442" elev="7.6" name="Haines Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hbmn6" lat="41.314" lon="-73.985" name="Bear Mountain, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hbyc1" lat="40.767" lon="-124.217" elev="7.6" name="9418767 - North Spit, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hcef1" lat="25.254" lon="-80.444" elev="0" name="Highway Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hcgn7" lat="35.209" lon="-75.704" elev="1.9" name="8654467 - USCG Station Hatteras, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -942,7 +943,7 @@
   <station id="kxih" lat="29.18" lon="-94.521" name="High Island 179A AWOS (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kxpy" lat="29.123" lon="-90.202" name="Port Fourchon Heliport (Era Helicopters)" owner="Federal Aviation Administration" pgm="Marine METAR" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kywf1" lat="24.556" lon="-81.808" elev="2.2" name="8724580 - Key West, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="lamv3" lat="18.318" lon="-64.724" elev="1.1" name="9751381 - Lameshur Bay, St John, VI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="lamv3" lat="18.318" lon="-64.724" elev="1.1" name="9751381 - Lameshur Bay, St John, VI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lapw1" lat="47.913" lon="-124.637" elev="3.1" name="9442396 - La Push, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lbrf1" lat="25.484" lon="-81.133" elev="0" name="Broad River Lower, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lbsf1" lat="25.214" lon="-80.432" elev="0" name="Little Blackwater, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
