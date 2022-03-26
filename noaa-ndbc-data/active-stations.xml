@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-03-26T08:35:01UTC" count="1326">
+<stations created="2022-03-26T08:45:01UTC" count="1326">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -745,7 +745,7 @@
   <station id="cmln3" lat="43.07" lon="-70.7" name="Coastal Marine Lab, New Castle, NH" owner="University of New Hampshire" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="cmpo1" lat="41.547" lon="-83.015" elev="175" name="Camp Perry, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cmti2" lat="41.73" lon="-87.538" elev="178.5" name="9087044 - Calumet Harbor, IL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cnbf1" lat="25.702" lon="-81.186" elev="0" name="Cannon Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="cnbf1" lat="25.702" lon="-81.186" elev="0" name="Cannon Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="cndo1" lat="41.542" lon="-81.637" elev="176.1" name="9063063 - Cleveland, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cnii2" lat="41.856" lon="-87.609" elev="180" name="Northerly Isle, IL" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="covm2" lat="38.402" lon="-76.385" elev="0" name="8577018 - Cove Point LNG Pier, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -761,7 +761,7 @@
   <station id="cryv2" lat="36.888" lon="-76.338" elev="1" name="8638595 - South Craney Island, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cspa2" lat="58.199" lon="-136.64" elev="25" name="Cape Spencer, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cvqv2" lat="37.571" lon="-76.884" name="Sweethall Pier, Chesapeake Bay Reserve, VA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="cwaf1" lat="25.297" lon="-81.013" elev="0" name="Clear Water Pass, FL " owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="cwaf1" lat="25.297" lon="-81.013" elev="0" name="Clear Water Pass, FL " owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="cwbf1" lat="27.978" lon="-82.832" elev="1.3" name="8726724 - Clearwater Beach, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cwci" lat="47.334" lon="-85.833" elev="163" name="Caribou Island" owner="Environment and Climate Change Canada" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cwqo3" lat="43.338" lon="-124.321" name="Charleston Bridge, South Slough Reserve, OR" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -826,10 +826,10 @@
   <station id="ftpc1" lat="37.806" lon="-122.466" elev="2.7" name="9414290 - San Francisco, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fwyf1" lat="25.591" lon="-80.097" elev="0" name="Fowey Rock, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gbhm6" lat="30.418" lon="-88.405" name="Bayou Heron, Grand Bay Reserve, MS" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="gbif1" lat="25.378" lon="-81.029" elev="0" name="Gunboat Island, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="gbif1" lat="25.378" lon="-81.029" elev="0" name="Gunboat Island, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="gbqn3" lat="43.134" lon="-70.911" name="Oyster River, Great Bay Reserve, NH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="gbrm6" lat="30.413" lon="-88.403" name="Grand Bay NERR, Mississippi Sound, MS (NOS 8740166)" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="gbtf1" lat="25.167" lon="-80.801" elev="0" name="Garfield Bight, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="gbtf1" lat="25.167" lon="-80.801" elev="0" name="Garfield Bight, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="gbww3" lat="44.538" lon="-88.003" name="9087077 - Green Bay West, WI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gctf1" lat="27.774" lon="-82.517" elev="0" name="8726524 - Gadsden Cut, Tampa Bay, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="gdmm5" lat="47.749" lon="-90.341" elev="185.2" name="9099090 - Grand Marais, MN" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -958,7 +958,7 @@
   <station id="lmbv4" lat="19.594" lon="-96.379" name="La Mancha Beach, Mexico" owner="EPA &amp; Mexican Government Cooperative Program" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lmdf1" lat="25.176" lon="-80.633" elev="0" name="Little Madeira, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lmfs1" lat="34.107" lon="-81.271" elev="107.9" name="Lake Murray SC" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="lmrf1" lat="25.556" lon="-81.169" elev="0" name="Lostmans River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="lmrf1" lat="25.556" lon="-81.169" elev="0" name="Lostmans River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="lmss1" lat="33.552" lon="-80.501" elev="23.16" name="Lake Marion, SC" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lndc1" lat="37.795" lon="-122.281" elev="3" name="9414763 - Oakland Berth 67, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lonf1" lat="24.844" lon="-80.864" elev="0" name="Long Key, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -967,7 +967,7 @@
   <station id="loro1" lat="41.481" lon="-82.195" elev="192.6" name="Lorain Harbor, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lpnm4" lat="45.063" lon="-83.429" elev="177.9" name="9075065 - Alpena, MI " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lpwa2" lat="56.388" lon="-134.637" elev="2.5" name="Little Port Walter, AK" owner="National Marine Fisheries Service" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="lrif1" lat="25.284" lon="-80.894" elev="0" name="Lane River, FL " owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="lrif1" lat="25.284" lon="-80.894" elev="0" name="Lane River, FL " owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="lrkf1" lat="24.982" lon="-80.826" elev="0" name="Little Rabbit Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="lsnf1" lat="25.235" lon="-80.457" elev="0" name="Long Sound, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="ltbv3" lat="17.695" lon="-64.754" elev="3.1" name="9751401 - Lime Tree Bay, St. Croix, VI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -991,7 +991,7 @@
   <station id="mcga1" lat="30.649" lon="-88.058" elev="2.2" name="8736897 - Coast Guard Sector Mobile, AL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mcgm4" lat="46.546" lon="-87.379" elev="186.5" name="9099018 - Marquette C.G., MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mcyi3" lat="41.729" lon="-86.912" elev="176" name="Michigan City Harbor Entrance Light, Michigan City, IN" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="mdkf1" lat="25.289" lon="-80.396" elev="0" name="Middle Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mdkf1" lat="25.289" lon="-80.396" elev="0" name="Middle Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="mdrm1" lat="43.969" lon="-68.128" elev="9.1" name="Mt. Desert Rock, ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="meem4" lat="44.251" lon="-86.342" elev="178.2" name="Manistee Harbor, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="meyc1" lat="36.605" lon="-121.889" elev="2.4" name="9413450 - Monterey, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1024,7 +1024,7 @@
   <station id="mrya2" lat="55.099" lon="-131.182" elev="4" name="Mary Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mtbf1" lat="27.661" lon="-82.594" elev="0" name="8726412 - Middle Tampa Bay, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mtkn6" lat="41.048" lon="-71.959" elev="2.1" name="8510560 - Montauk, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="mukf1" lat="25.106" lon="-80.942" elev="0" name="Murray Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mukf1" lat="25.106" lon="-80.942" elev="0" name="Murray Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="mvxa2" lat="58.364" lon="-134.606" elev="7.6" name="Mendenhall Valley, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mwqt2" lat="27.838" lon="-97.05" name="Ship Channel, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mxxa2" lat="58.301" lon="-134.425" elev="5.2" name="MXAK Office, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1058,7 +1058,7 @@
   <station id="npsf1" lat="26.132" lon="-81.807" elev="3.1" name="8725110 - Naples, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="npxn6" lat="41.831" lon="-73.942" elev="0" name="Norrie Point, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nrep1" lat="42.258" lon="-79.792" elev="183" name="Northeast Marina, PA" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="nrrf1" lat="25.338" lon="-80.911" name="North River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="nrrf1" lat="25.338" lon="-80.911" name="North River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="nstp6" lat="-14.28" lon="-170.688" elev="1.8" name="1770000 - Pago Pago, American Samoa" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ntbc1" lat="34.405" lon="-119.692" elev="2.6" name="9411340 - Santa Barbara, CA " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ntkm3" lat="41.285" lon="-70.096" elev="2.2" name="8449130 - Nantucket Island, MA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1111,7 +1111,7 @@
   <station id="pill1" lat="29.179" lon="-89.259" elev="2.3" name="8760721 - Pilottown, LA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pilm4" lat="48.223" lon="-88.366" elev="195.4" name="Passage Island, MI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pkbw3" lat="46.672" lon="-92.136" elev="189" name="Pokegama Bay, Lake Superior Reserve, WI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pkyf1" lat="24.918" lon="-80.747" elev="0" name="Peterson Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="pkyf1" lat="24.918" lon="-80.747" elev="0" name="Peterson Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="plsf1" lat="24.693" lon="-82.773" elev="0" name="Pulaski Shoals Light, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="plxa2" lat="56.247" lon="-134.647" elev="3.8" name="9451054 - Port Alexander, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pmaf1" lat="27.638" lon="-82.562" elev="2.4" name="8726384 - Port Manatee, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
