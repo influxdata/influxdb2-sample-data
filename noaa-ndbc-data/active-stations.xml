@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-03-26T10:35:01UTC" count="1326">
+<stations created="2022-03-26T10:45:01UTC" count="1326">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -673,7 +673,7 @@
   <station id="bbsf1" lat="25.472" lon="-80.349" elev="0" name="BBCW10" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="bdrn4" lat="40.082" lon="-74.87" elev="2.2" name="8539094 - Burlington, Delaware River, NJ" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bdsp1" lat="39.98" lon="-75.079" name="8546252 - Bridesburg, PA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="bdvf1" lat="25.478" lon="-80.989" elev="0" name="Broad River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="bdvf1" lat="25.478" lon="-80.989" elev="0" name="Broad River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="bdxc1" lat="38.317" lon="-123.071" name="Bodega, CA" owner="University of California Davis, Bodega Marine Laboratory" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="bepb6" lat="32.374" lon="-64.701" elev="3.4" name="2695540 - Bermuda, St. Georges Island, BM" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="bftn7" lat="34.717" lon="-76.671" elev="1.9" name="8656483 - Beaufort, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -857,7 +857,7 @@
   <station id="guxa2" lat="58.408" lon="-135.726" elev="7" name="Gustavus Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="haxa2" lat="59.234" lon="-135.442" elev="7.6" name="Haines Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hbmn6" lat="41.314" lon="-73.985" name="Bear Mountain, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="hbyc1" lat="40.767" lon="-124.217" elev="7.6" name="9418767 - North Spit, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hcef1" lat="25.254" lon="-80.444" elev="0" name="Highway Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hcgn7" lat="35.209" lon="-75.704" elev="1.9" name="8654467 - USCG Station Hatteras, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -956,7 +956,7 @@
   <station id="ljpc1" lat="32.867" lon="-117.257" elev="0" name="La Jolla, CA (073)" owner="SCRIPPS" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lkwf1" lat="26.613" lon="-80.034" elev="5.9" name="8722670 - Lake Worth Pier, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lmbv4" lat="19.594" lon="-96.379" name="La Mancha Beach, Mexico" owner="EPA &amp; Mexican Government Cooperative Program" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="lmdf1" lat="25.176" lon="-80.633" elev="0" name="Little Madeira, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="lmdf1" lat="25.176" lon="-80.633" elev="0" name="Little Madeira, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="lmfs1" lat="34.107" lon="-81.271" elev="107.9" name="Lake Murray SC" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lmrf1" lat="25.556" lon="-81.169" elev="0" name="Lostmans River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="lmss1" lat="33.552" lon="-80.501" elev="23.16" name="Lake Marion, SC" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
