@@ -11,7 +11,7 @@
 ,,6,2022-04-13T01:22:32.889Z,green,alert,earthquake,7000h1lc,us7000h1lc,mww,us,"M 5.6 - 146 km WNW of Naha, Japan"
 ,,7,2022-04-13T02:32:00.734Z,green,alert,earthquake,7000h1lp,us7000h1lp,mww,us,"M 5.5 - 89 km W of Sola, Vanuatu"
 ,,8,2022-04-13T03:00:56.217Z,green,alert,earthquake,7000h1lv,us7000h1lv,mww,us,"M 5.9 - 34 km WSW of Kokopo, Papua New Guinea"
-,,9,2022-04-14T07:03:35.043Z,green,alert,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,9,2022-04-14T07:03:34.915Z,green,alert,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 
 #group,false,false,false,false,true,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string,string
@@ -192,8 +192,8 @@
 ,,182,2022-04-14T08:29:17.152Z,6.6,depth,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,183,2022-04-14T09:43:17.396Z,8.2,depth,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,184,2022-04-14T13:35:37.591Z,8.7,depth,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,185,2022-04-14T16:57:33.133Z,1.9,depth,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,186,2022-04-14T17:09:15.041Z,2,depth,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,185,2022-04-14T17:26:19.592Z,9.2,depth,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,186,2022-04-14T17:26:31.028Z,5.1,depth,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,187,2022-04-07T17:56:18.532Z,69.5,depth,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,188,2022-04-07T18:11:26.713Z,10,depth,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,189,2022-04-07T18:12:21.506Z,87.2,depth,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -469,7 +469,7 @@
 ,,459,2022-04-11T22:49:02.528Z,36.8,depth,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,460,2022-04-11T22:50:14.34Z,9.7,depth,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,461,2022-04-11T22:51:45.747Z,5.8,depth,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,462,2022-04-11T22:55:29.307Z,46.9,depth,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,462,2022-04-11T22:55:29.307Z,46.9,depth,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,463,2022-04-11T23:02:30.957Z,7.4,depth,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,464,2022-04-11T23:16:50.796Z,1.5,depth,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,465,2022-04-11T23:22:32.625Z,6.8,depth,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -678,7 +678,7 @@
 ,,668,2022-04-14T16:33:32.936Z,29,depth,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,669,2022-04-14T16:48:39.271Z,13.5,depth,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,670,2022-04-14T17:08:16.031Z,82.4,depth,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,671,2022-04-14T17:19:39.329Z,60,depth,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,671,2022-04-14T17:19:39.329Z,60,depth,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,672,2022-04-08T14:09:30.15Z,7,depth,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,673,2022-04-09T08:23:12.68Z,12,depth,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,674,2022-04-09T13:04:48.53Z,38,depth,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -739,7 +739,7 @@
 ,,729,2022-04-13T06:26:04.364Z,8.728076172,depth,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,730,2022-04-13T07:32:05.639Z,12.63,depth,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,731,2022-04-13T09:35:19.62Z,2.2,depth,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,732,2022-04-13T10:03:16.344Z,8.470996094,depth,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,732,2022-04-13T10:03:16.344Z,8.470996094,depth,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,733,2022-04-13T23:48:39.59Z,7.55,depth,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,734,2022-04-14T15:02:45.59Z,6.29,depth,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,735,2022-04-14T15:07:46.59Z,7.84,depth,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -1315,7 +1315,7 @@
 ,,1305,2022-04-13T23:59:12.312Z,5,depth,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,1306,2022-04-14T03:40:07.575Z,35,depth,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,1307,2022-04-12T01:21:36.908Z,5,depth,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,1308,2022-04-14T07:03:35.043Z,10,depth,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,1308,2022-04-14T07:03:34.915Z,10,depth,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,1309,2022-04-14T07:26:09.555Z,568.81,depth,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,1310,2022-04-14T07:41:08.561Z,10,depth,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,1311,2022-04-14T09:27:14.501Z,10,depth,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -2179,8 +2179,8 @@
 ,,2164,2022-04-14T08:29:17.152Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837160.geojson,detail,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,2165,2022-04-14T09:43:17.396Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837163.geojson,detail,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,2166,2022-04-14T13:35:37.591Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837166.geojson,detail,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,2167,2022-04-14T16:57:33.133Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837169.geojson,detail,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,2168,2022-04-14T17:09:15.041Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837170.geojson,detail,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,2167,2022-04-14T17:26:19.592Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837174.geojson,detail,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,2168,2022-04-14T17:26:31.028Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00837175.geojson,detail,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,2169,2022-04-07T17:56:18.532Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224gpl2pp.geojson,detail,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,2170,2022-04-07T18:11:26.713Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224gpwvqm.geojson,detail,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,2171,2022-04-07T18:12:21.506Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224gpx31i.geojson,detail,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -2456,7 +2456,7 @@
 ,,2441,2022-04-11T22:49:02.528Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224neo3fd.geojson,detail,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,2442,2022-04-11T22:50:14.34Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224neoc3e.geojson,detail,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,2443,2022-04-11T22:51:45.747Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224neom8e.geojson,detail,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,2444,2022-04-11T22:55:29.307Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224nepftu.geojson,detail,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,2444,2022-04-11T22:55:29.307Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224nepftu.geojson,detail,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,2445,2022-04-11T23:02:30.957Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224nezilz.geojson,detail,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,2446,2022-04-11T23:16:50.796Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224nf2k5z.geojson,detail,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,2447,2022-04-11T23:22:32.625Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224nf3t26.geojson,detail,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -2665,7 +2665,7 @@
 ,,2650,2022-04-14T16:33:32.936Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224s9m67h.geojson,detail,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,2651,2022-04-14T16:48:39.271Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224s9pefl.geojson,detail,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,2652,2022-04-14T17:08:16.031Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224sa27lu.geojson,detail,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,2653,2022-04-14T17:19:39.329Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224sa4ma4.geojson,detail,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,2653,2022-04-14T17:19:39.329Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0224sa4ma4.geojson,detail,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,2654,2022-04-08T14:09:30.15Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2022098000.geojson,detail,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,2655,2022-04-09T08:23:12.68Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2022099000.geojson,detail,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,2656,2022-04-09T13:04:48.53Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2022099001.geojson,detail,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -2726,7 +2726,7 @@
 ,,2711,2022-04-13T06:26:04.364Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2022hewb.geojson,detail,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,2712,2022-04-13T07:32:05.639Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2022heyf.geojson,detail,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,2713,2022-04-13T09:35:19.62Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2022hfch.geojson,detail,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,2714,2022-04-13T10:03:16.344Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2022hfdf.geojson,detail,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,2714,2022-04-13T10:03:16.344Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/tx2022hfdf.geojson,detail,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,2715,2022-04-13T23:48:39.59Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2022hgel.geojson,detail,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,2716,2022-04-14T15:02:45.59Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2022hhip.geojson,detail,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,2717,2022-04-14T15:07:46.59Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2022hhit.geojson,detail,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -3302,7 +3302,7 @@
 ,,3287,2022-04-13T23:59:12.312Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h21y.geojson,detail,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,3288,2022-04-14T03:40:07.575Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h220.geojson,detail,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,3289,2022-04-12T01:21:36.908Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h22t.geojson,detail,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,3290,2022-04-14T07:03:35.043Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h23k.geojson,detail,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,3290,2022-04-14T07:03:34.915Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h23k.geojson,detail,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,3291,2022-04-14T07:26:09.555Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h23r.geojson,detail,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,3292,2022-04-14T07:41:08.561Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h23u.geojson,detail,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,3293,2022-04-14T09:27:14.501Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000h24c.geojson,detail,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -4166,8 +4166,8 @@
 ,,4146,2022-04-14T08:29:17.152Z,0.401,dmin,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,4147,2022-04-14T09:43:17.396Z,0.023,dmin,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,4148,2022-04-14T13:35:37.591Z,0.229,dmin,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,4149,2022-04-14T16:57:33.133Z,0.647,dmin,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,4150,2022-04-14T17:09:15.041Z,0.492,dmin,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,4149,2022-04-14T17:26:19.592Z,0.125,dmin,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,4150,2022-04-14T17:26:31.028Z,0.284,dmin,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,4151,2022-04-08T14:09:30.15Z,0.7849,dmin,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,4152,2022-04-09T08:23:12.68Z,0.8183,dmin,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,4153,2022-04-09T13:04:48.53Z,0.366,dmin,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -4228,7 +4228,7 @@
 ,,4208,2022-04-13T06:26:04.364Z,0.155637372,dmin,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,4209,2022-04-13T07:32:05.639Z,0.1025798703,dmin,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,4210,2022-04-13T09:35:19.62Z,0.08728287212,dmin,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,4211,2022-04-13T10:03:16.344Z,0.1544306512,dmin,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,4211,2022-04-13T10:03:16.344Z,0.1544306512,dmin,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,4212,2022-04-13T23:48:39.59Z,0.1079788109,dmin,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,4213,2022-04-14T15:02:45.59Z,0.06478728652,dmin,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,4214,2022-04-14T15:07:46.59Z,0,dmin,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -4804,7 +4804,7 @@
 ,,4784,2022-04-13T23:59:12.312Z,0.201,dmin,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,4785,2022-04-14T03:40:07.575Z,1.089,dmin,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,4786,2022-04-12T01:21:36.908Z,0.163,dmin,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,4787,2022-04-14T07:03:35.043Z,4.689,dmin,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,4787,2022-04-14T07:03:34.915Z,4.623,dmin,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,4788,2022-04-14T07:26:09.555Z,5.718,dmin,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,4789,2022-04-14T07:41:08.561Z,2.789,dmin,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,4790,2022-04-14T09:27:14.501Z,16.315,dmin,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -5409,8 +5409,8 @@
 ,,5379,2022-04-14T08:29:17.152Z,73.09,gap,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,5380,2022-04-14T09:43:17.396Z,189.83,gap,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,5381,2022-04-14T13:35:37.591Z,74,gap,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,5382,2022-04-14T16:57:33.133Z,325.34,gap,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,5383,2022-04-14T17:09:15.041Z,300.54,gap,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,5382,2022-04-14T17:26:19.592Z,50.03,gap,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,5383,2022-04-14T17:26:31.028Z,302.82,gap,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,5384,2022-04-08T14:09:30.15Z,226,gap,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,5385,2022-04-09T08:23:12.68Z,209,gap,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,5386,2022-04-09T13:04:48.53Z,161,gap,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -5471,7 +5471,7 @@
 ,,5441,2022-04-13T06:26:04.364Z,128,gap,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,5442,2022-04-13T07:32:05.639Z,80,gap,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,5443,2022-04-13T09:35:19.62Z,212,gap,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,5444,2022-04-13T10:03:16.344Z,107,gap,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,5444,2022-04-13T10:03:16.344Z,107,gap,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,5445,2022-04-13T23:48:39.59Z,139,gap,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,5446,2022-04-14T15:02:45.59Z,64,gap,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,5447,2022-04-14T15:07:46.59Z,64,gap,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -6047,7 +6047,7 @@
 ,,6017,2022-04-13T23:59:12.312Z,247,gap,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,6018,2022-04-14T03:40:07.575Z,140,gap,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,6019,2022-04-12T01:21:36.908Z,169,gap,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,6020,2022-04-14T07:03:35.043Z,48,gap,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,6020,2022-04-14T07:03:34.915Z,69,gap,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,6021,2022-04-14T07:26:09.555Z,108,gap,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,6022,2022-04-14T07:41:08.561Z,66,gap,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,6023,2022-04-14T09:27:14.501Z,133,gap,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -6907,8 +6907,8 @@
 ,,6872,2022-04-14T08:29:17.152Z,",nn00837160,",ids,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,6873,2022-04-14T09:43:17.396Z,",nn00837163,",ids,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,6874,2022-04-14T13:35:37.591Z,",nn00837166,",ids,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,6875,2022-04-14T16:57:33.133Z,",nn00837169,",ids,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,6876,2022-04-14T17:09:15.041Z,",nn00837170,",ids,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,6875,2022-04-14T17:26:19.592Z,",nn00837174,",ids,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,6876,2022-04-14T17:26:31.028Z,",nn00837175,",ids,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,6877,2022-04-07T17:56:18.532Z,",ak0224gpl2pp,",ids,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,6878,2022-04-07T18:11:26.713Z,",ak0224gpwvqm,",ids,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,6879,2022-04-07T18:12:21.506Z,",ak0224gpx31i,",ids,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -7184,7 +7184,7 @@
 ,,7149,2022-04-11T22:49:02.528Z,",ak0224neo3fd,",ids,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,7150,2022-04-11T22:50:14.34Z,",ak0224neoc3e,",ids,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,7151,2022-04-11T22:51:45.747Z,",ak0224neom8e,",ids,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,7152,2022-04-11T22:55:29.307Z,",ak0224nepftu,",ids,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,7152,2022-04-11T22:55:29.307Z,",ak0224nepftu,",ids,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,7153,2022-04-11T23:02:30.957Z,",ak0224nezilz,",ids,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,7154,2022-04-11T23:16:50.796Z,",ak0224nf2k5z,",ids,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,7155,2022-04-11T23:22:32.625Z,",ak0224nf3t26,",ids,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -7388,12 +7388,12 @@
 ,,7353,2022-04-14T14:50:01.891Z,",ak0224s8ivrw,",ids,earthquake,0224s8ivrw,ak0224s8ivrw,ml,ak,"M 1.2 - 35 km SSE of Denali National Park, Alaska"
 ,,7354,2022-04-14T15:09:55.126Z,",ak0224s8vn4o,",ids,earthquake,0224s8vn4o,ak0224s8vn4o,ml,ak,"M 0.9 - 2 km NW of Point MacKenzie, Alaska"
 ,,7355,2022-04-14T15:25:45.641Z,",ak0224s8z1ur,",ids,earthquake,0224s8z1ur,ak0224s8z1ur,ml,ak,"M 0.6 - 63 km W of Tyonek, Alaska"
-,,7356,2022-04-14T15:57:36.082Z,",ak0224s95vzr,",ids,earthquake,0224s95vzr,ak0224s95vzr,ml,ak,"M 2.5 - 36 km NNE of Petersville, Alaska"
+,,7356,2022-04-14T15:57:36.082Z,",us7000h29x,ak0224s95vzr,",ids,earthquake,0224s95vzr,ak0224s95vzr,ml,ak,"M 2.5 - 36 km NNE of Petersville, Alaska"
 ,,7357,2022-04-14T16:29:09.638Z,",ak0224s9l9jn,",ids,earthquake,0224s9l9jn,ak0224s9l9jn,ml,ak,"M 1.4 - 10 km WSW of Chase, Alaska"
 ,,7358,2022-04-14T16:33:32.936Z,",ak0224s9m67h,",ids,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,7359,2022-04-14T16:48:39.271Z,",ak0224s9pefl,",ids,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,7360,2022-04-14T17:08:16.031Z,",ak0224sa27lu,",ids,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,7361,2022-04-14T17:19:39.329Z,",ak0224sa4ma4,",ids,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,7361,2022-04-14T17:19:39.329Z,",ak0224sa4ma4,",ids,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,7362,2022-04-08T14:09:30.15Z,",pr2022098000,",ids,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,7363,2022-04-09T08:23:12.68Z,",pr2022099000,us7000h0vh,",ids,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,7364,2022-04-09T13:04:48.53Z,",pr2022099001,",ids,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -7454,7 +7454,7 @@
 ,,7419,2022-04-13T06:26:04.364Z,",tx2022hewb,",ids,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,7420,2022-04-13T07:32:05.639Z,",ok2022heyf,",ids,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,7421,2022-04-13T09:35:19.62Z,",ok2022hfch,",ids,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,7422,2022-04-13T10:03:16.344Z,",tx2022hfdf,",ids,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,7422,2022-04-13T10:03:16.344Z,",tx2022hfdf,",ids,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,7423,2022-04-13T23:48:39.59Z,",ok2022hgel,",ids,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,7424,2022-04-14T15:02:45.59Z,",ok2022hhip,",ids,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,7425,2022-04-14T15:07:46.59Z,",ok2022hhit,",ids,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -8030,7 +8030,7 @@
 ,,7995,2022-04-13T23:59:12.312Z,",us7000h21y,",ids,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,7996,2022-04-14T03:40:07.575Z,",us7000h220,",ids,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,7997,2022-04-12T01:21:36.908Z,",us7000h22t,",ids,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,7998,2022-04-14T07:03:35.043Z,",us7000h23k,",ids,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,7998,2022-04-14T07:03:34.915Z,",us7000h23k,",ids,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,7999,2022-04-14T07:26:09.555Z,",us7000h23r,",ids,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,8000,2022-04-14T07:41:08.561Z,",us7000h23u,",ids,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,8001,2022-04-14T09:27:14.501Z,",us7000h24c,",ids,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -8894,8 +8894,8 @@
 ,,8854,2022-04-14T08:29:17.152Z,38.8916,lat,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,8855,2022-04-14T09:43:17.396Z,38.3425,lat,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,8856,2022-04-14T13:35:37.591Z,38.0414,lat,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,8857,2022-04-14T16:57:33.133Z,36.7563,lat,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,8858,2022-04-14T17:09:15.041Z,36.826,lat,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,8857,2022-04-14T17:26:19.592Z,38.0111,lat,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,8858,2022-04-14T17:26:31.028Z,36.6796,lat,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,8859,2022-04-07T17:56:18.532Z,59.7345,lat,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,8860,2022-04-07T18:11:26.713Z,61.7357,lat,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,8861,2022-04-07T18:12:21.506Z,63.0959,lat,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -9171,7 +9171,7 @@
 ,,9131,2022-04-11T22:49:02.528Z,61.7529,lat,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,9132,2022-04-11T22:50:14.34Z,57.0746,lat,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,9133,2022-04-11T22:51:45.747Z,57.0674,lat,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,9134,2022-04-11T22:55:29.307Z,61.3898,lat,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,9134,2022-04-11T22:55:29.307Z,61.3898,lat,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,9135,2022-04-11T23:02:30.957Z,57.0931,lat,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,9136,2022-04-11T23:16:50.796Z,57.1008,lat,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,9137,2022-04-11T23:22:32.625Z,57.1056,lat,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -9380,7 +9380,7 @@
 ,,9340,2022-04-14T16:33:32.936Z,59.9816,lat,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,9341,2022-04-14T16:48:39.271Z,60.9222,lat,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,9342,2022-04-14T17:08:16.031Z,60.3925,lat,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,9343,2022-04-14T17:19:39.329Z,61.9083,lat,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,9343,2022-04-14T17:19:39.329Z,61.9083,lat,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,9344,2022-04-08T14:09:30.15Z,19.0846,lat,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,9345,2022-04-09T08:23:12.68Z,19.2821,lat,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,9346,2022-04-09T13:04:48.53Z,18.7418,lat,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -9441,7 +9441,7 @@
 ,,9401,2022-04-13T06:26:04.364Z,31.65136749,lat,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,9402,2022-04-13T07:32:05.639Z,33.94166667,lat,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,9403,2022-04-13T09:35:19.62Z,35.155,lat,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,9404,2022-04-13T10:03:16.344Z,31.64704792,lat,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,9404,2022-04-13T10:03:16.344Z,31.64704792,lat,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,9405,2022-04-13T23:48:39.59Z,35.11383333,lat,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,9406,2022-04-14T15:02:45.59Z,36.852,lat,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,9407,2022-04-14T15:07:46.59Z,36.85416667,lat,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -10017,7 +10017,7 @@
 ,,9977,2022-04-13T23:59:12.312Z,57.0747,lat,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,9978,2022-04-14T03:40:07.575Z,33.3357,lat,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,9979,2022-04-12T01:21:36.908Z,46.014,lat,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,9980,2022-04-14T07:03:35.043Z,-25.1817,lat,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,9980,2022-04-14T07:03:34.915Z,-25.2157,lat,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,9981,2022-04-14T07:26:09.555Z,-22.7852,lat,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,9982,2022-04-14T07:41:08.561Z,27.7439,lat,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,9983,2022-04-14T09:27:14.501Z,-55.4278,lat,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -10876,8 +10876,8 @@
 ,,10836,2022-04-14T08:29:17.152Z,-118.576,lon,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,10837,2022-04-14T09:43:17.396Z,-119.4122,lon,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,10838,2022-04-14T13:35:37.591Z,-118.6192,lon,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,10839,2022-04-14T16:57:33.133Z,-115.1635,lon,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,10840,2022-04-14T17:09:15.041Z,-115.3834,lon,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,10839,2022-04-14T17:26:19.592Z,-118.0403,lon,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,10840,2022-04-14T17:26:31.028Z,-115.6086,lon,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,10841,2022-04-07T17:56:18.532Z,-152.1086,lon,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,10842,2022-04-07T18:11:26.713Z,-154.6501,lon,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,10843,2022-04-07T18:12:21.506Z,-150.3907,lon,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -11153,7 +11153,7 @@
 ,,11113,2022-04-11T22:49:02.528Z,-149.4844,lon,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,11114,2022-04-11T22:50:14.34Z,-135.5691,lon,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,11115,2022-04-11T22:51:45.747Z,-135.6955,lon,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,11116,2022-04-11T22:55:29.307Z,-149.9928,lon,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,11116,2022-04-11T22:55:29.307Z,-149.9928,lon,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,11117,2022-04-11T23:02:30.957Z,-135.6919,lon,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,11118,2022-04-11T23:16:50.796Z,-135.6648,lon,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,11119,2022-04-11T23:22:32.625Z,-135.6471,lon,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -11362,7 +11362,7 @@
 ,,11322,2022-04-14T16:33:32.936Z,-151.6897,lon,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,11323,2022-04-14T16:48:39.271Z,-144.8321,lon,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,11324,2022-04-14T17:08:16.031Z,-152.0814,lon,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,11325,2022-04-14T17:19:39.329Z,-150.745,lon,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,11325,2022-04-14T17:19:39.329Z,-150.745,lon,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,11326,2022-04-08T14:09:30.15Z,-67.834,lon,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,11327,2022-04-09T08:23:12.68Z,-67.033,lon,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,11328,2022-04-09T13:04:48.53Z,-68.095,lon,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -11423,7 +11423,7 @@
 ,,11383,2022-04-13T06:26:04.364Z,-104.1864141,lon,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,11384,2022-04-13T07:32:05.639Z,-97.2875,lon,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,11385,2022-04-13T09:35:19.62Z,-95.559,lon,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,11386,2022-04-13T10:03:16.344Z,-104.3828162,lon,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,11386,2022-04-13T10:03:16.344Z,-104.3828162,lon,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,11387,2022-04-13T23:48:39.59Z,-95.54583333,lon,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,11388,2022-04-14T15:02:45.59Z,-97.77866667,lon,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,11389,2022-04-14T15:07:46.59Z,-97.7825,lon,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -11999,7 +11999,7 @@
 ,,11959,2022-04-13T23:59:12.312Z,-135.6915,lon,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,11960,2022-04-14T03:40:07.575Z,141.087,lon,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,11961,2022-04-12T01:21:36.908Z,-68.4406,lon,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,11962,2022-04-14T07:03:35.043Z,-175.2915,lon,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,11962,2022-04-14T07:03:34.915Z,-175.3758,lon,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,11963,2022-04-14T07:26:09.555Z,-179.0196,lon,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,11964,2022-04-14T07:41:08.561Z,56.0742,lon,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,11965,2022-04-14T09:27:14.501Z,-1.7661,lon,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -12858,8 +12858,8 @@
 ,,12818,2022-04-14T08:29:17.152Z,1.3,mag,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,12819,2022-04-14T09:43:17.396Z,0.4,mag,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,12820,2022-04-14T13:35:37.591Z,1.6,mag,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,12821,2022-04-14T16:57:33.133Z,1.4,mag,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,12822,2022-04-14T17:09:15.041Z,1.3,mag,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,12821,2022-04-14T17:26:19.592Z,3.3,mag,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,12822,2022-04-14T17:26:31.028Z,1.5,mag,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,12823,2022-04-07T17:56:18.532Z,1.4,mag,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,12824,2022-04-07T18:11:26.713Z,0.9,mag,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,12825,2022-04-07T18:12:21.506Z,1.4,mag,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -13135,7 +13135,7 @@
 ,,13095,2022-04-11T22:49:02.528Z,1.1,mag,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,13096,2022-04-11T22:50:14.34Z,1.8,mag,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,13097,2022-04-11T22:51:45.747Z,1.7,mag,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,13098,2022-04-11T22:55:29.307Z,0.9,mag,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,13098,2022-04-11T22:55:29.307Z,0.9,mag,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,13099,2022-04-11T23:02:30.957Z,1.4,mag,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,13100,2022-04-11T23:16:50.796Z,1.7,mag,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,13101,2022-04-11T23:22:32.625Z,1.6,mag,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -13344,7 +13344,7 @@
 ,,13304,2022-04-14T16:33:32.936Z,1.1,mag,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,13305,2022-04-14T16:48:39.271Z,1.1,mag,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,13306,2022-04-14T17:08:16.031Z,1.3,mag,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,13307,2022-04-14T17:19:39.329Z,1.2,mag,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,13307,2022-04-14T17:19:39.329Z,1.2,mag,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,13308,2022-04-08T14:09:30.15Z,3.45,mag,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,13309,2022-04-09T08:23:12.68Z,3.81,mag,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,13310,2022-04-09T13:04:48.53Z,3.52,mag,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -13405,7 +13405,7 @@
 ,,13365,2022-04-13T06:26:04.364Z,2.2,mag,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,13366,2022-04-13T07:32:05.639Z,1.56,mag,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,13367,2022-04-13T09:35:19.62Z,0.96,mag,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,13368,2022-04-13T10:03:16.344Z,1.9,mag,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,13368,2022-04-13T10:03:16.344Z,1.9,mag,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,13369,2022-04-13T23:48:39.59Z,1.37,mag,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,13370,2022-04-14T15:02:45.59Z,1.78,mag,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,13371,2022-04-14T15:07:46.59Z,2.18,mag,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -13981,7 +13981,7 @@
 ,,13941,2022-04-13T23:59:12.312Z,1,mag,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,13942,2022-04-14T03:40:07.575Z,4.6,mag,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,13943,2022-04-12T01:21:36.908Z,1.9,mag,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,13944,2022-04-14T07:03:35.043Z,5.5,mag,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,13944,2022-04-14T07:03:34.915Z,5.5,mag,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,13945,2022-04-14T07:26:09.555Z,4.4,mag,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,13946,2022-04-14T07:41:08.561Z,4.3,mag,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,13947,2022-04-14T09:27:14.501Z,5,mag,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -14776,7 +14776,7 @@
 ,,14736,2022-04-13T02:32:00.734Z,3.876,mmi,earthquake,7000h1lp,us7000h1lp,mww,us,"M 5.5 - 89 km W of Sola, Vanuatu"
 ,,14737,2022-04-13T03:00:56.217Z,4.182,mmi,earthquake,7000h1lv,us7000h1lv,mww,us,"M 5.9 - 34 km WSW of Kokopo, Papua New Guinea"
 ,,14738,2022-04-13T14:23:07.752Z,2.966,mmi,earthquake,7000h1qn,us7000h1qn,mwr,us,"M 4.5 - 78 km SSE of Sand Point, Alaska"
-,,14739,2022-04-14T07:03:35.043Z,0,mmi,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,14739,2022-04-14T07:03:34.915Z,0,mmi,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,14740,2022-04-07T23:37:55.81Z,4.047,mmi,earthquake,72976872,hv72976872,ml,hv,"M 3.7 - 4 km E of Pāhala, Hawaii"
 
 #group,false,false,false,false,true,true,true,true,true,true,true
@@ -14868,8 +14868,8 @@
 ,,14823,2022-04-14T08:29:17.152Z,19,nst,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,14824,2022-04-14T09:43:17.396Z,10,nst,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,14825,2022-04-14T13:35:37.591Z,19,nst,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,14826,2022-04-14T16:57:33.133Z,8,nst,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,14827,2022-04-14T17:09:15.041Z,10,nst,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,14826,2022-04-14T17:26:19.592Z,44,nst,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,14827,2022-04-14T17:26:31.028Z,8,nst,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,14828,2022-04-08T14:09:30.15Z,7,nst,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,14829,2022-04-09T08:23:12.68Z,26,nst,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,14830,2022-04-09T13:04:48.53Z,20,nst,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -14930,7 +14930,7 @@
 ,,14885,2022-04-13T06:26:04.364Z,10,nst,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,14886,2022-04-13T07:32:05.639Z,37,nst,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,14887,2022-04-13T09:35:19.62Z,20,nst,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,14888,2022-04-13T10:03:16.344Z,7,nst,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,14888,2022-04-13T10:03:16.344Z,7,nst,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,14889,2022-04-13T23:48:39.59Z,21,nst,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,14890,2022-04-14T15:02:45.59Z,86,nst,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,14891,2022-04-14T15:07:46.59Z,89,nst,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -16178,8 +16178,8 @@
 ,,16128,2022-04-14T08:29:17.152Z,"21 km ESE of Schurz, Nevada",place,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,16129,2022-04-14T09:43:17.396Z,"18 km WNW of Bridgeport, California",place,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,16130,2022-04-14T13:35:37.591Z,Nevada,place,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,16131,2022-04-14T16:57:33.133Z,"49 km ENE of Indian Springs, Nevada",place,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,16132,2022-04-14T17:09:15.041Z,Nevada,place,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,16131,2022-04-14T17:26:19.592Z,"38 km N of Dyer, Nevada",place,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,16132,2022-04-14T17:26:31.028Z,"13 km NNE of Indian Springs, Nevada",place,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,16133,2022-04-07T17:56:18.532Z,"16 km WSW of Anchor Point, Alaska",place,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,16134,2022-04-07T18:11:26.713Z,"59 km NE of Lime Village, Alaska",place,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,16135,2022-04-07T18:12:21.506Z,"69 km NNE of Petersville, Alaska",place,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -16455,7 +16455,7 @@
 ,,16405,2022-04-11T22:49:02.528Z,"13 km W of Fishhook, Alaska",place,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,16406,2022-04-11T22:50:14.34Z,"14 km W of Sitka, Alaska",place,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,16407,2022-04-11T22:51:45.747Z,"22 km W of Sitka, Alaska",place,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,16408,2022-04-11T22:55:29.307Z,"3 km NNW of Point MacKenzie, Alaska",place,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,16408,2022-04-11T22:55:29.307Z,Southern Alaska,place,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,16409,2022-04-11T23:02:30.957Z,"22 km WNW of Sitka, Alaska",place,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,16410,2022-04-11T23:16:50.796Z,"20 km WNW of Sitka, Alaska",place,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,16411,2022-04-11T23:22:32.625Z,"20 km WNW of Sitka, Alaska",place,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -16664,7 +16664,7 @@
 ,,16614,2022-04-14T16:33:32.936Z,"4 km NNE of Happy Valley, Alaska",place,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,16615,2022-04-14T16:48:39.271Z,"65 km NE of Cordova, Alaska",place,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,16616,2022-04-14T17:08:16.031Z,Southern Alaska,place,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,16617,2022-04-14T17:19:39.329Z,Southern Alaska,place,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,16617,2022-04-14T17:19:39.329Z,"35 km ESE of Skwentna, Alaska",place,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,16618,2022-04-08T14:09:30.15Z,"81 km NE of Punta Cana, Dominican Republic",place,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,16619,2022-04-09T08:23:12.68Z,"86 km N of Isabela, Puerto Rico",place,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,16620,2022-04-09T13:04:48.53Z,"37 km ENE of Punta Cana, Dominican Republic",place,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -16725,7 +16725,7 @@
 ,,16675,2022-04-13T06:26:04.364Z,"52 km NW of Toyah, Texas",place,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,16676,2022-04-13T07:32:05.639Z,"14 km ENE of Leon, Oklahoma",place,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,16677,2022-04-13T09:35:19.62Z,"9 km ESE of Canadian, Oklahoma",place,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,16678,2022-04-13T10:03:16.344Z,"58 km S of Whites City, New Mexico",place,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,16678,2022-04-13T10:03:16.344Z,western Texas,place,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,16679,2022-04-13T23:48:39.59Z,"11 km E of Crowder, Oklahoma",place,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,16680,2022-04-14T15:02:45.59Z,"6 km NW of Medford, Oklahoma",place,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,16681,2022-04-14T15:07:46.59Z,"6 km NW of Medford, Oklahoma",place,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -17301,7 +17301,7 @@
 ,,17251,2022-04-13T23:59:12.312Z,"22 km W of Sitka, Alaska",place,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,17252,2022-04-14T03:40:07.575Z,"213 km SSE of Katsuura, Japan",place,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,17253,2022-04-12T01:21:36.908Z,"1 km NNE of Patten, Maine",place,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,17254,2022-04-14T07:03:35.043Z,south of Tonga,place,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,17254,2022-04-14T07:03:34.915Z,south of Tonga,place,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,17255,2022-04-14T07:26:09.555Z,south of the Fiji Islands,place,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,17256,2022-04-14T07:41:08.561Z,"65 km NNW of Bandar Abbas, Iran",place,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,17257,2022-04-14T09:27:14.501Z,Bouvet Island region,place,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -18165,8 +18165,8 @@
 ,,18110,2022-04-14T08:29:17.152Z,0.1592,rms,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,18111,2022-04-14T09:43:17.396Z,0.0703,rms,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,18112,2022-04-14T13:35:37.591Z,0.1514,rms,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,18113,2022-04-14T16:57:33.133Z,0.2973,rms,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,18114,2022-04-14T17:09:15.041Z,0.2635,rms,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,18113,2022-04-14T17:26:19.592Z,0.2538,rms,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,18114,2022-04-14T17:26:31.028Z,0.3406,rms,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,18115,2022-04-07T17:56:18.532Z,0.3,rms,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,18116,2022-04-07T18:11:26.713Z,1.08,rms,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,18117,2022-04-07T18:12:21.506Z,0.41,rms,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -18442,7 +18442,7 @@
 ,,18387,2022-04-11T22:49:02.528Z,0.65,rms,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,18388,2022-04-11T22:50:14.34Z,0.47,rms,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,18389,2022-04-11T22:51:45.747Z,0.6,rms,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,18390,2022-04-11T22:55:29.307Z,0.48,rms,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,18390,2022-04-11T22:55:29.307Z,0.48,rms,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,18391,2022-04-11T23:02:30.957Z,0.74,rms,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,18392,2022-04-11T23:16:50.796Z,0.72,rms,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,18393,2022-04-11T23:22:32.625Z,0.52,rms,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -18651,7 +18651,7 @@
 ,,18596,2022-04-14T16:33:32.936Z,0.94,rms,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,18597,2022-04-14T16:48:39.271Z,0.74,rms,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,18598,2022-04-14T17:08:16.031Z,0.88,rms,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,18599,2022-04-14T17:19:39.329Z,0.25,rms,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,18599,2022-04-14T17:19:39.329Z,0.25,rms,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,18600,2022-04-08T14:09:30.15Z,0.58,rms,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,18601,2022-04-09T08:23:12.68Z,0.62,rms,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,18602,2022-04-09T13:04:48.53Z,0.68,rms,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -18712,7 +18712,7 @@
 ,,18657,2022-04-13T06:26:04.364Z,0.3,rms,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,18658,2022-04-13T07:32:05.639Z,0.46,rms,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,18659,2022-04-13T09:35:19.62Z,0.15,rms,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,18660,2022-04-13T10:03:16.344Z,0.3,rms,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,18660,2022-04-13T10:03:16.344Z,0.3,rms,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,18661,2022-04-13T23:48:39.59Z,0.18,rms,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,18662,2022-04-14T15:02:45.59Z,0.3,rms,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,18663,2022-04-14T15:07:46.59Z,0.23,rms,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -19288,7 +19288,7 @@
 ,,19233,2022-04-13T23:59:12.312Z,0.04,rms,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,19234,2022-04-14T03:40:07.575Z,0.71,rms,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,19235,2022-04-12T01:21:36.908Z,0.41,rms,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,19236,2022-04-14T07:03:35.043Z,1.24,rms,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,19236,2022-04-14T07:03:34.915Z,0.76,rms,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,19237,2022-04-14T07:26:09.555Z,0.38,rms,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,19238,2022-04-14T07:41:08.561Z,0.49,rms,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,19239,2022-04-14T09:27:14.501Z,0.56,rms,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -20152,8 +20152,8 @@
 ,,20092,2022-04-14T08:29:17.152Z,26,sig,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,20093,2022-04-14T09:43:17.396Z,2,sig,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,20094,2022-04-14T13:35:37.591Z,39,sig,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,20095,2022-04-14T16:57:33.133Z,30,sig,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,20096,2022-04-14T17:09:15.041Z,26,sig,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,20095,2022-04-14T17:26:19.592Z,168,sig,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,20096,2022-04-14T17:26:31.028Z,35,sig,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,20097,2022-04-07T17:56:18.532Z,30,sig,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,20098,2022-04-07T18:11:26.713Z,12,sig,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,20099,2022-04-07T18:12:21.506Z,30,sig,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -20429,7 +20429,7 @@
 ,,20369,2022-04-11T22:49:02.528Z,19,sig,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,20370,2022-04-11T22:50:14.34Z,50,sig,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,20371,2022-04-11T22:51:45.747Z,44,sig,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,20372,2022-04-11T22:55:29.307Z,12,sig,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,20372,2022-04-11T22:55:29.307Z,12,sig,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,20373,2022-04-11T23:02:30.957Z,30,sig,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,20374,2022-04-11T23:16:50.796Z,44,sig,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,20375,2022-04-11T23:22:32.625Z,39,sig,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -20638,7 +20638,7 @@
 ,,20578,2022-04-14T16:33:32.936Z,19,sig,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,20579,2022-04-14T16:48:39.271Z,19,sig,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,20580,2022-04-14T17:08:16.031Z,26,sig,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,20581,2022-04-14T17:19:39.329Z,22,sig,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,20581,2022-04-14T17:19:39.329Z,22,sig,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,20582,2022-04-08T14:09:30.15Z,183,sig,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,20583,2022-04-09T08:23:12.68Z,224,sig,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,20584,2022-04-09T13:04:48.53Z,191,sig,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -20699,7 +20699,7 @@
 ,,20639,2022-04-13T06:26:04.364Z,74,sig,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,20640,2022-04-13T07:32:05.639Z,37,sig,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,20641,2022-04-13T09:35:19.62Z,14,sig,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,20642,2022-04-13T10:03:16.344Z,56,sig,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,20642,2022-04-13T10:03:16.344Z,56,sig,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,20643,2022-04-13T23:48:39.59Z,29,sig,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,20644,2022-04-14T15:02:45.59Z,49,sig,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,20645,2022-04-14T15:07:46.59Z,73,sig,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -21275,7 +21275,7 @@
 ,,21215,2022-04-13T23:59:12.312Z,15,sig,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,21216,2022-04-14T03:40:07.575Z,326,sig,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,21217,2022-04-12T01:21:36.908Z,56,sig,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,21218,2022-04-14T07:03:35.043Z,465,sig,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,21218,2022-04-14T07:03:34.915Z,465,sig,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,21219,2022-04-14T07:26:09.555Z,298,sig,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,21220,2022-04-14T07:41:08.561Z,284,sig,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,21221,2022-04-14T09:27:14.501Z,385,sig,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -22139,8 +22139,8 @@
 ,,22074,2022-04-14T08:29:17.152Z,",nn,",sources,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,22075,2022-04-14T09:43:17.396Z,",nn,",sources,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,22076,2022-04-14T13:35:37.591Z,",nn,",sources,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,22077,2022-04-14T16:57:33.133Z,",nn,",sources,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,22078,2022-04-14T17:09:15.041Z,",nn,",sources,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,22077,2022-04-14T17:26:19.592Z,",nn,",sources,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,22078,2022-04-14T17:26:31.028Z,",nn,",sources,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,22079,2022-04-07T17:56:18.532Z,",ak,",sources,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,22080,2022-04-07T18:11:26.713Z,",ak,",sources,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,22081,2022-04-07T18:12:21.506Z,",ak,",sources,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -22416,7 +22416,7 @@
 ,,22351,2022-04-11T22:49:02.528Z,",ak,",sources,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,22352,2022-04-11T22:50:14.34Z,",ak,",sources,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,22353,2022-04-11T22:51:45.747Z,",ak,",sources,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,22354,2022-04-11T22:55:29.307Z,",ak,",sources,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,22354,2022-04-11T22:55:29.307Z,",ak,",sources,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,22355,2022-04-11T23:02:30.957Z,",ak,",sources,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,22356,2022-04-11T23:16:50.796Z,",ak,",sources,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,22357,2022-04-11T23:22:32.625Z,",ak,",sources,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -22620,12 +22620,12 @@
 ,,22555,2022-04-14T14:50:01.891Z,",ak,",sources,earthquake,0224s8ivrw,ak0224s8ivrw,ml,ak,"M 1.2 - 35 km SSE of Denali National Park, Alaska"
 ,,22556,2022-04-14T15:09:55.126Z,",ak,",sources,earthquake,0224s8vn4o,ak0224s8vn4o,ml,ak,"M 0.9 - 2 km NW of Point MacKenzie, Alaska"
 ,,22557,2022-04-14T15:25:45.641Z,",ak,",sources,earthquake,0224s8z1ur,ak0224s8z1ur,ml,ak,"M 0.6 - 63 km W of Tyonek, Alaska"
-,,22558,2022-04-14T15:57:36.082Z,",ak,",sources,earthquake,0224s95vzr,ak0224s95vzr,ml,ak,"M 2.5 - 36 km NNE of Petersville, Alaska"
+,,22558,2022-04-14T15:57:36.082Z,",us,ak,",sources,earthquake,0224s95vzr,ak0224s95vzr,ml,ak,"M 2.5 - 36 km NNE of Petersville, Alaska"
 ,,22559,2022-04-14T16:29:09.638Z,",ak,",sources,earthquake,0224s9l9jn,ak0224s9l9jn,ml,ak,"M 1.4 - 10 km WSW of Chase, Alaska"
 ,,22560,2022-04-14T16:33:32.936Z,",ak,",sources,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,22561,2022-04-14T16:48:39.271Z,",ak,",sources,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,22562,2022-04-14T17:08:16.031Z,",ak,",sources,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,22563,2022-04-14T17:19:39.329Z,",ak,",sources,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,22563,2022-04-14T17:19:39.329Z,",ak,",sources,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,22564,2022-04-08T14:09:30.15Z,",pr,",sources,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,22565,2022-04-09T08:23:12.68Z,",pr,us,",sources,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,22566,2022-04-09T13:04:48.53Z,",pr,",sources,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -22686,7 +22686,7 @@
 ,,22621,2022-04-13T06:26:04.364Z,",tx,",sources,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,22622,2022-04-13T07:32:05.639Z,",ok,",sources,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,22623,2022-04-13T09:35:19.62Z,",ok,",sources,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,22624,2022-04-13T10:03:16.344Z,",tx,",sources,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,22624,2022-04-13T10:03:16.344Z,",tx,",sources,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,22625,2022-04-13T23:48:39.59Z,",ok,",sources,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,22626,2022-04-14T15:02:45.59Z,",ok,",sources,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,22627,2022-04-14T15:07:46.59Z,",ok,",sources,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -23262,7 +23262,7 @@
 ,,23197,2022-04-13T23:59:12.312Z,",us,",sources,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,23198,2022-04-14T03:40:07.575Z,",us,",sources,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,23199,2022-04-12T01:21:36.908Z,",us,",sources,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,23200,2022-04-14T07:03:35.043Z,",us,",sources,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,23200,2022-04-14T07:03:34.915Z,",us,",sources,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,23201,2022-04-14T07:26:09.555Z,",us,",sources,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,23202,2022-04-14T07:41:08.561Z,",us,",sources,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,23203,2022-04-14T09:27:14.501Z,",us,",sources,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -24121,8 +24121,8 @@
 ,,24056,2022-04-14T08:29:17.152Z,reviewed,status,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,24057,2022-04-14T09:43:17.396Z,reviewed,status,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,24058,2022-04-14T13:35:37.591Z,reviewed,status,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,24059,2022-04-14T16:57:33.133Z,automatic,status,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,24060,2022-04-14T17:09:15.041Z,automatic,status,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,24059,2022-04-14T17:26:19.592Z,automatic,status,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,24060,2022-04-14T17:26:31.028Z,automatic,status,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,24061,2022-04-07T17:56:18.532Z,automatic,status,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,24062,2022-04-07T18:11:26.713Z,reviewed,status,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,24063,2022-04-07T18:12:21.506Z,automatic,status,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -24398,7 +24398,7 @@
 ,,24333,2022-04-11T22:49:02.528Z,reviewed,status,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,24334,2022-04-11T22:50:14.34Z,reviewed,status,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,24335,2022-04-11T22:51:45.747Z,reviewed,status,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,24336,2022-04-11T22:55:29.307Z,reviewed,status,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,24336,2022-04-11T22:55:29.307Z,reviewed,status,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,24337,2022-04-11T23:02:30.957Z,reviewed,status,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,24338,2022-04-11T23:16:50.796Z,reviewed,status,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,24339,2022-04-11T23:22:32.625Z,reviewed,status,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -24607,7 +24607,7 @@
 ,,24542,2022-04-14T16:33:32.936Z,automatic,status,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,24543,2022-04-14T16:48:39.271Z,automatic,status,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,24544,2022-04-14T17:08:16.031Z,automatic,status,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,24545,2022-04-14T17:19:39.329Z,automatic,status,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,24545,2022-04-14T17:19:39.329Z,automatic,status,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,24546,2022-04-08T14:09:30.15Z,reviewed,status,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,24547,2022-04-09T08:23:12.68Z,reviewed,status,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,24548,2022-04-09T13:04:48.53Z,reviewed,status,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -24668,7 +24668,7 @@
 ,,24603,2022-04-13T06:26:04.364Z,reviewed,status,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,24604,2022-04-13T07:32:05.639Z,reviewed,status,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,24605,2022-04-13T09:35:19.62Z,reviewed,status,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,24606,2022-04-13T10:03:16.344Z,reviewed,status,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,24606,2022-04-13T10:03:16.344Z,reviewed,status,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,24607,2022-04-13T23:48:39.59Z,reviewed,status,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,24608,2022-04-14T15:02:45.59Z,reviewed,status,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,24609,2022-04-14T15:07:46.59Z,reviewed,status,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -25244,7 +25244,7 @@
 ,,25179,2022-04-13T23:59:12.312Z,reviewed,status,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,25180,2022-04-14T03:40:07.575Z,reviewed,status,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,25181,2022-04-12T01:21:36.908Z,reviewed,status,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,25182,2022-04-14T07:03:35.043Z,reviewed,status,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,25182,2022-04-14T07:03:34.915Z,reviewed,status,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,25183,2022-04-14T07:26:09.555Z,reviewed,status,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,25184,2022-04-14T07:41:08.561Z,reviewed,status,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,25185,2022-04-14T09:27:14.501Z,reviewed,status,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -26108,8 +26108,8 @@
 ,,26038,2022-04-14T08:29:17.152Z,0,tsunami,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,26039,2022-04-14T09:43:17.396Z,0,tsunami,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,26040,2022-04-14T13:35:37.591Z,0,tsunami,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,26041,2022-04-14T16:57:33.133Z,0,tsunami,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,26042,2022-04-14T17:09:15.041Z,0,tsunami,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,26041,2022-04-14T17:26:19.592Z,0,tsunami,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,26042,2022-04-14T17:26:31.028Z,0,tsunami,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,26043,2022-04-07T17:56:18.532Z,0,tsunami,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,26044,2022-04-07T18:11:26.713Z,0,tsunami,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,26045,2022-04-07T18:12:21.506Z,0,tsunami,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -26385,7 +26385,7 @@
 ,,26315,2022-04-11T22:49:02.528Z,0,tsunami,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,26316,2022-04-11T22:50:14.34Z,0,tsunami,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,26317,2022-04-11T22:51:45.747Z,0,tsunami,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,26318,2022-04-11T22:55:29.307Z,0,tsunami,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,26318,2022-04-11T22:55:29.307Z,0,tsunami,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,26319,2022-04-11T23:02:30.957Z,0,tsunami,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,26320,2022-04-11T23:16:50.796Z,0,tsunami,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,26321,2022-04-11T23:22:32.625Z,0,tsunami,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -26594,7 +26594,7 @@
 ,,26524,2022-04-14T16:33:32.936Z,0,tsunami,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,26525,2022-04-14T16:48:39.271Z,0,tsunami,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,26526,2022-04-14T17:08:16.031Z,0,tsunami,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,26527,2022-04-14T17:19:39.329Z,0,tsunami,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,26527,2022-04-14T17:19:39.329Z,0,tsunami,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,26528,2022-04-08T14:09:30.15Z,0,tsunami,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,26529,2022-04-09T08:23:12.68Z,0,tsunami,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,26530,2022-04-09T13:04:48.53Z,0,tsunami,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -26655,7 +26655,7 @@
 ,,26585,2022-04-13T06:26:04.364Z,0,tsunami,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,26586,2022-04-13T07:32:05.639Z,0,tsunami,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,26587,2022-04-13T09:35:19.62Z,0,tsunami,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,26588,2022-04-13T10:03:16.344Z,0,tsunami,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,26588,2022-04-13T10:03:16.344Z,0,tsunami,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,26589,2022-04-13T23:48:39.59Z,0,tsunami,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,26590,2022-04-14T15:02:45.59Z,0,tsunami,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,26591,2022-04-14T15:07:46.59Z,0,tsunami,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -27231,7 +27231,7 @@
 ,,27161,2022-04-13T23:59:12.312Z,0,tsunami,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,27162,2022-04-14T03:40:07.575Z,0,tsunami,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,27163,2022-04-12T01:21:36.908Z,0,tsunami,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,27164,2022-04-14T07:03:35.043Z,0,tsunami,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,27164,2022-04-14T07:03:34.915Z,0,tsunami,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,27165,2022-04-14T07:26:09.555Z,0,tsunami,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,27166,2022-04-14T07:41:08.561Z,0,tsunami,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,27167,2022-04-14T09:27:14.501Z,0,tsunami,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -28095,8 +28095,8 @@
 ,,28020,2022-04-14T08:29:17.152Z,",origin,phase-data,",types,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,28021,2022-04-14T09:43:17.396Z,",origin,phase-data,",types,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,28022,2022-04-14T13:35:37.591Z,",origin,phase-data,",types,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,28023,2022-04-14T16:57:33.133Z,",origin,phase-data,",types,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,28024,2022-04-14T17:09:15.041Z,",origin,phase-data,",types,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,28023,2022-04-14T17:26:19.592Z,",origin,phase-data,",types,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,28024,2022-04-14T17:26:31.028Z,",origin,phase-data,",types,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,28025,2022-04-07T17:56:18.532Z,",origin,phase-data,",types,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,28026,2022-04-07T18:11:26.713Z,",origin,phase-data,",types,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,28027,2022-04-07T18:12:21.506Z,",origin,phase-data,",types,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -28372,7 +28372,7 @@
 ,,28297,2022-04-11T22:49:02.528Z,",origin,phase-data,",types,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,28298,2022-04-11T22:50:14.34Z,",origin,phase-data,",types,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,28299,2022-04-11T22:51:45.747Z,",origin,phase-data,",types,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,28300,2022-04-11T22:55:29.307Z,",origin,phase-data,",types,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,28300,2022-04-11T22:55:29.307Z,",origin,phase-data,",types,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,28301,2022-04-11T23:02:30.957Z,",origin,phase-data,",types,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,28302,2022-04-11T23:16:50.796Z,",origin,phase-data,",types,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,28303,2022-04-11T23:22:32.625Z,",origin,phase-data,",types,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -28581,7 +28581,7 @@
 ,,28506,2022-04-14T16:33:32.936Z,",origin,phase-data,",types,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,28507,2022-04-14T16:48:39.271Z,",origin,phase-data,",types,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,28508,2022-04-14T17:08:16.031Z,",origin,phase-data,",types,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,28509,2022-04-14T17:19:39.329Z,",origin,phase-data,",types,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,28509,2022-04-14T17:19:39.329Z,",origin,phase-data,",types,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,28510,2022-04-08T14:09:30.15Z,",origin,phase-data,",types,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,28511,2022-04-09T08:23:12.68Z,",dyfi,origin,phase-data,",types,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,28512,2022-04-09T13:04:48.53Z,",origin,phase-data,",types,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -28642,7 +28642,7 @@
 ,,28567,2022-04-13T06:26:04.364Z,",origin,phase-data,",types,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,28568,2022-04-13T07:32:05.639Z,",origin,phase-data,",types,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,28569,2022-04-13T09:35:19.62Z,",origin,phase-data,",types,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,28570,2022-04-13T10:03:16.344Z,",origin,phase-data,",types,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,28570,2022-04-13T10:03:16.344Z,",origin,phase-data,",types,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,28571,2022-04-13T23:48:39.59Z,",origin,phase-data,",types,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,28572,2022-04-14T15:02:45.59Z,",origin,phase-data,",types,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,28573,2022-04-14T15:07:46.59Z,",origin,phase-data,",types,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -29218,7 +29218,7 @@
 ,,29143,2022-04-13T23:59:12.312Z,",origin,phase-data,",types,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,29144,2022-04-14T03:40:07.575Z,",moment-tensor,origin,phase-data,",types,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,29145,2022-04-12T01:21:36.908Z,",origin,phase-data,",types,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,29146,2022-04-14T07:03:35.043Z,",losspager,origin,phase-data,shakemap,",types,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,29146,2022-04-14T07:03:34.915Z,",losspager,origin,phase-data,shakemap,",types,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,29147,2022-04-14T07:26:09.555Z,",origin,phase-data,",types,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,29148,2022-04-14T07:41:08.561Z,",origin,phase-data,",types,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,29149,2022-04-14T09:27:14.501Z,",origin,phase-data,",types,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
@@ -30077,8 +30077,8 @@
 ,,30002,2022-04-14T08:29:17.152Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837160,url,earthquake,00837160,nn00837160,ml,nn,"M 1.3 - 21 km ESE of Schurz, Nevada"
 ,,30003,2022-04-14T09:43:17.396Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837163,url,earthquake,00837163,nn00837163,ml,nn,"M 0.4 - 18 km WNW of Bridgeport, California"
 ,,30004,2022-04-14T13:35:37.591Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837166,url,earthquake,00837166,nn00837166,ml,nn,M 1.6 - Nevada
-,,30005,2022-04-14T16:57:33.133Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837169,url,earthquake,00837169,nn00837169,ml,nn,"M 1.4 - 49 km ENE of Indian Springs, Nevada"
-,,30006,2022-04-14T17:09:15.041Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837170,url,earthquake,00837170,nn00837170,ml,nn,M 1.3 - Nevada
+,,30005,2022-04-14T17:26:19.592Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837174,url,earthquake,00837174,nn00837174,ml,nn,"M 3.3 - 38 km N of Dyer, Nevada"
+,,30006,2022-04-14T17:26:31.028Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00837175,url,earthquake,00837175,nn00837175,ml,nn,"M 1.5 - 13 km NNE of Indian Springs, Nevada"
 ,,30007,2022-04-07T17:56:18.532Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224gpl2pp,url,earthquake,0224gpl2pp,ak0224gpl2pp,ml,ak,"M 1.4 - 16 km WSW of Anchor Point, Alaska"
 ,,30008,2022-04-07T18:11:26.713Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224gpwvqm,url,earthquake,0224gpwvqm,ak0224gpwvqm,ml,ak,"M 0.9 - 59 km NE of Lime Village, Alaska"
 ,,30009,2022-04-07T18:12:21.506Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224gpx31i,url,earthquake,0224gpx31i,ak0224gpx31i,ml,ak,"M 1.4 - 69 km NNE of Petersville, Alaska"
@@ -30354,7 +30354,7 @@
 ,,30279,2022-04-11T22:49:02.528Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224neo3fd,url,earthquake,0224neo3fd,ak0224neo3fd,ml,ak,"M 1.1 - 13 km W of Fishhook, Alaska"
 ,,30280,2022-04-11T22:50:14.34Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224neoc3e,url,earthquake,0224neoc3e,ak0224neoc3e,ml,ak,"M 1.8 - 14 km W of Sitka, Alaska"
 ,,30281,2022-04-11T22:51:45.747Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224neom8e,url,earthquake,0224neom8e,ak0224neom8e,ml,ak,"M 1.7 - 22 km W of Sitka, Alaska"
-,,30282,2022-04-11T22:55:29.307Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224nepftu,url,earthquake,0224nepftu,ak0224nepftu,ml,ak,"M 0.9 - 3 km NNW of Point MacKenzie, Alaska"
+,,30282,2022-04-11T22:55:29.307Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224nepftu,url,earthquake,0224nepftu,ak0224nepftu,ml,ak,M 0.9 - Southern Alaska
 ,,30283,2022-04-11T23:02:30.957Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224nezilz,url,earthquake,0224nezilz,ak0224nezilz,ml,ak,"M 1.4 - 22 km WNW of Sitka, Alaska"
 ,,30284,2022-04-11T23:16:50.796Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224nf2k5z,url,earthquake,0224nf2k5z,ak0224nf2k5z,ml,ak,"M 1.7 - 20 km WNW of Sitka, Alaska"
 ,,30285,2022-04-11T23:22:32.625Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224nf3t26,url,earthquake,0224nf3t26,ak0224nf3t26,ml,ak,"M 1.6 - 20 km WNW of Sitka, Alaska"
@@ -30563,7 +30563,7 @@
 ,,30488,2022-04-14T16:33:32.936Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224s9m67h,url,earthquake,0224s9m67h,ak0224s9m67h,ml,ak,"M 1.1 - 4 km NNE of Happy Valley, Alaska"
 ,,30489,2022-04-14T16:48:39.271Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224s9pefl,url,earthquake,0224s9pefl,ak0224s9pefl,ml,ak,"M 1.1 - 65 km NE of Cordova, Alaska"
 ,,30490,2022-04-14T17:08:16.031Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224sa27lu,url,earthquake,0224sa27lu,ak0224sa27lu,ml,ak,M 1.3 - Southern Alaska
-,,30491,2022-04-14T17:19:39.329Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224sa4ma4,url,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,M 1.2 - Southern Alaska
+,,30491,2022-04-14T17:19:39.329Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak0224sa4ma4,url,earthquake,0224sa4ma4,ak0224sa4ma4,ml,ak,"M 1.2 - 35 km ESE of Skwentna, Alaska"
 ,,30492,2022-04-08T14:09:30.15Z,https://earthquake.usgs.gov/earthquakes/eventpage/pr2022098000,url,earthquake,2022098000,pr2022098000,md,pr,"M 3.5 - 81 km NE of Punta Cana, Dominican Republic"
 ,,30493,2022-04-09T08:23:12.68Z,https://earthquake.usgs.gov/earthquakes/eventpage/pr2022099000,url,earthquake,2022099000,pr2022099000,md,pr,"M 3.8 - 86 km N of Isabela, Puerto Rico"
 ,,30494,2022-04-09T13:04:48.53Z,https://earthquake.usgs.gov/earthquakes/eventpage/pr2022099001,url,earthquake,2022099001,pr2022099001,md,pr,"M 3.5 - 37 km ENE of Punta Cana, Dominican Republic"
@@ -30624,7 +30624,7 @@
 ,,30549,2022-04-13T06:26:04.364Z,https://earthquake.usgs.gov/earthquakes/eventpage/tx2022hewb,url,earthquake,2022hewb,tx2022hewb,ml,tx,"M 2.2 - 52 km NW of Toyah, Texas"
 ,,30550,2022-04-13T07:32:05.639Z,https://earthquake.usgs.gov/earthquakes/eventpage/ok2022heyf,url,earthquake,2022heyf,ok2022heyf,ml,ok,"M 1.6 - 14 km ENE of Leon, Oklahoma"
 ,,30551,2022-04-13T09:35:19.62Z,https://earthquake.usgs.gov/earthquakes/eventpage/ok2022hfch,url,earthquake,2022hfch,ok2022hfch,ml,ok,"M 1.0 - 9 km ESE of Canadian, Oklahoma"
-,,30552,2022-04-13T10:03:16.344Z,https://earthquake.usgs.gov/earthquakes/eventpage/tx2022hfdf,url,earthquake,2022hfdf,tx2022hfdf,ml,tx,"M 1.9 - 58 km S of Whites City, New Mexico"
+,,30552,2022-04-13T10:03:16.344Z,https://earthquake.usgs.gov/earthquakes/eventpage/tx2022hfdf,url,earthquake,2022hfdf,tx2022hfdf,ml,tx,M 1.9 - western Texas
 ,,30553,2022-04-13T23:48:39.59Z,https://earthquake.usgs.gov/earthquakes/eventpage/ok2022hgel,url,earthquake,2022hgel,ok2022hgel,ml,ok,"M 1.4 - 11 km E of Crowder, Oklahoma"
 ,,30554,2022-04-14T15:02:45.59Z,https://earthquake.usgs.gov/earthquakes/eventpage/ok2022hhip,url,earthquake,2022hhip,ok2022hhip,ml,ok,"M 1.8 - 6 km NW of Medford, Oklahoma"
 ,,30555,2022-04-14T15:07:46.59Z,https://earthquake.usgs.gov/earthquakes/eventpage/ok2022hhit,url,earthquake,2022hhit,ok2022hhit,ml,ok,"M 2.2 - 6 km NW of Medford, Oklahoma"
@@ -31200,7 +31200,7 @@
 ,,31125,2022-04-13T23:59:12.312Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h21y,url,earthquake,7000h21y,us7000h21y,ml,us,"M 1.0 - 22 km W of Sitka, Alaska"
 ,,31126,2022-04-14T03:40:07.575Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h220,url,earthquake,7000h220,us7000h220,mwr,us,"M 4.6 - 213 km SSE of Katsuura, Japan"
 ,,31127,2022-04-12T01:21:36.908Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h22t,url,earthquake,7000h22t,us7000h22t,ml,us,"M 1.9 - 1 km NNE of Patten, Maine"
-,,31128,2022-04-14T07:03:35.043Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h23k,url,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
+,,31128,2022-04-14T07:03:34.915Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h23k,url,earthquake,7000h23k,us7000h23k,mww,us,M 5.5 - south of Tonga
 ,,31129,2022-04-14T07:26:09.555Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h23r,url,earthquake,7000h23r,us7000h23r,mb,us,M 4.4 - south of the Fiji Islands
 ,,31130,2022-04-14T07:41:08.561Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h23u,url,earthquake,7000h23u,us7000h23u,mb,us,"M 4.3 - 65 km NNW of Bandar Abbas, Iran"
 ,,31131,2022-04-14T09:27:14.501Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000h24c,url,earthquake,7000h24c,us7000h24c,mb,us,M 5.0 - Bouvet Island region
