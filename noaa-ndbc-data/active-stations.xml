@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-05-02T20:20:01UTC" count="1328">
+<stations created="2022-05-02T20:30:02UTC" count="1328">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -290,7 +290,7 @@
   <station id="45013" lat="43.1" lon="-87.85" elev="176" name="ATW20 - Atwater Park, WI" owner="University of Wisconsin-Milwaukee" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45014" lat="44.795" lon="-87.759" elev="176" name="GB17 - South Green Bay, WI" owner="University of Wisconsin-Milwaukee" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45020" lat="44.789" lon="-85.604" elev="176" name="Grand Traverse Bay South Buoy, MI" owner="Northwestern Michigan College" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45022" lat="45.405" lon="-85.085" elev="176" name="Little Traverse Bay Buoy, MI" owner="University of Michigan CILER" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45022" lat="45.405" lon="-85.087" elev="176" name="Little Traverse Bay Buoy, MI" owner="University of Michigan CILER" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45023" lat="47.27" lon="-88.607" elev="183" name="North Entry Buoy, North Keweenaw Peninsula, MI" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45024" lat="43.981" lon="-86.556" elev="176" name="Ludington Buoy, MI" owner="University of Michigan CILER" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45025" lat="46.969" lon="-88.398" elev="183" name="South Entry Buoy, South Keweenaw Peninsula, MI" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -469,7 +469,7 @@
   <station id="46402" lat="50.978" lon="-163.948" name=" South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46403" lat="52.663" lon="-156.778" name="SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46404" lat="45.5151" lon="-125.9080" name="WEST ASTORIA - 230 NM West of Astoria, OR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46407" lat="41.8488" lon="-127.7900" name="NEWPORT - 210NM West of Coos Bay, OR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46407" lat="41.8674" lon="-127.8130" name="NEWPORT - 210NM West of Coos Bay, OR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46408" lat="49.666" lon="-169.876" name=" NIKOLSKI - 212 NM South of Umnak Is, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46409" lat="55.318" lon="-148.547" name="SOUTHEAST KODIAK - 210 NM SE of Kodiak, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="46410" lat="57.644" lon="-143.734" name="SOUTH CORDOVA 188NM SSE of Cordova, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1020,7 +1020,7 @@
   <station id="mrcp1" lat="39.809" lon="-75.415" elev="2.4" name="8540433 - Marcus Hook, PA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mrho1" lat="41.544" lon="-82.731" elev="176" name="9063079 - Marblehead, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mrka2" lat="61.082" lon="-146.662" elev="0" name="Middle Rock Light, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="mrna2" lat="58.198" lon="-134.257" elev="3" name="Marmion Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mrna2" lat="58.198" lon="-134.257" elev="3" name="Marmion Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mros1" lat="33.656" lon="-78.916" elev="4.1" name="8661070 - Springmaid Pier, SC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mrsl1" lat="29.441" lon="-92.061" elev="0" name="Marsh Island, LA / CSI03" owner="LSU CSI" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mrya2" lat="55.099" lon="-131.182" elev="4" name="Mary Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
