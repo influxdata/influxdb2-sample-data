@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-05-19T22:45:01UTC" count="1330">
+<stations created="2022-05-19T23:05:01UTC" count="1330">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -327,11 +327,11 @@
   <station id="45167" lat="42.185" lon="-80.135" elev="173.9" name="Erie Nearshore Buoy, Erie, PA" owner="Regional Science Consortium" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45168" lat="42.397" lon="-86.331" elev="177" name="South Haven Buoy, MI" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45169" lat="41.615" lon="-81.821" elev="174" name="Lakewood Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45170" lat="41.755" lon="-86.968" elev="177" name="Michigan City Buoy, IN" owner="Illinois-Indiana Sea Grant and Purdue Civil Engineering" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="45170" lat="41.755" lon="-86.968" elev="177" name="Michigan City Buoy, IN" owner="Illinois-Indiana Sea Grant and Purdue Civil Engineering" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45171" lat="46.724" lon="-87.411" elev="183" name="Granite Island Buoy, Granite Island, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45172" lat="46.74" lon="-85.98" elev="183" name="Grand Marais Buoy, Grand Marais, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45173" lat="46.573" lon="-86.572" elev="178" name="Munising Buoy, Munising, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45174" lat="42.135" lon="-87.655" elev="176" name="Wilmette Buoy, IL" owner="llinois-Indiana Sea Grant" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="45174" lat="42.135" lon="-87.655" elev="176" name="Wilmette Buoy, IL" owner="llinois-Indiana Sea Grant" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45175" lat="45.825" lon="-84.772" elev="176" name="Mackinac Straits West, Mackinaw City, MI " owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45176" lat="41.55" lon="-81.765" elev="174" name="Cleveland Intake Crib Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45177" lat="41.894" lon="-87.613" elev="176" name="Ohio St. Beach, Chicago, IL" owner="Chicago Park District" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -986,7 +986,7 @@
   <station id="maxt2" lat="28.132" lon="-97.034" elev="3.5" name="Copano East, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mbet2" lat="28.422" lon="-96.327" elev="0" name="8773767 - Matagorda Bay Entrance Channel, TX" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mbin7" lat="34.091" lon="-77.868" elev="2.8" name="Masonboro Island, NC (MSNB_S)" owner="CORMP" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="mbla1" lat="30.437" lon="-88.011" elev="0" name="Middle Bay Lighthouse, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="mbla1" lat="30.437" lon="-88.011" elev="0" name="Middle Bay Lighthouse, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mbnn7" lat="34.171" lon="-77.824" elev="2.2" name="Masonboro Island, NC (MSNB_N)" owner="CORMP" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mbpa1" lat="30.527" lon="-88.086" elev="3.4" name="8736163 - Middle Bay Port, Mobile Bay, AL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mbrm4" lat="42.975" lon="-82.419" elev="178.6" name="9014090 - Mouth of the Black River, MI " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
