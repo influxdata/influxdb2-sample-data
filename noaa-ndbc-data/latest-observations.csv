@@ -95,7 +95,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 110,3,4,,,,,,,23.9,,23.9,,,"44069",40.698,-73.087,0,"Great South Bay","Stony Brook University","IOOS Partners","buoy","y","n","n","n",1660215600000000000
 270,3,3,0.2,,,,,,22.7,26.6,,,,"44072",37.201,-76.266,0,"York Spit, VA","Chesapeake Bay Interpretive Buoy System (CBIBS)","IOOS Partners","buoy","y","y","y","n",1660215960000000000
 ,,,0.8,7,5.1,200,,,21.4,21.3,,,,"44085",41.387,-71.032,0,"Buzzards Bay, MA (260)","Woods Hole Group/NERACOOS","IOOS Partners","buoy","y","y","n","n",1660215600000000000
-,,,0.7,6,5.4,162,,,,22.2,,,,"44086",36.001,-75.421,0,"Nags Head, NC (243)","UNC Coastal Studies Institute","IOOS Partners","buoy","y","n","n","n",1660215360000000000
+,,,0.7,6,,,,,,22.2,,,,"44086",36.001,-75.421,0,"Nags Head, NC (243)","UNC Coastal Studies Institute","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,0.4,7,3.6,123,,,,26.2,,,,"44087",37.026,-76.149,0,"Thimble Shoal, VA (240)","U.S. Navy","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,1,5,4.4,221,,,25.9,27.7,,,,"44088",36.611,-74.841,0,"Virginia Beach Offshore, VA (171)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1660215600000000000
 ,,,0.5,8,5,137,,,,20.2,,,,"44089",37.754,-75.325,0,"Wallops Island, VA (224)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1660215360000000000
@@ -126,7 +126,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 160,2,2,0.1,,,284,,,13.4,17.9,11.6,,,"45023",47.27,-88.607,183,"North Entry Buoy, North Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","y","y","n",1660216500000000000
 300,2,2,0.1,,,56,1023.8,,14.6,17.3,11.9,,,"45025",46.969,-88.398,183,"South Entry Buoy, South Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","n","y","n",1660216800000000000
 60,8,10,0.5,3,,4,1019.4,,21.5,23.6,16.3,,,"45026",41.982,-86.619,176,"Cook Nuclear Plant Buoy, Stevensville, MI","Limno Tech","IOOS Partners","buoy","y","y","y","n",1660216800000000000
-10,1,1,0,,,155,1027,0.7,14.4,14.4,10.4,,,"45027",46.86,-91.93,183,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1660215600000000000
+10,1,1,0,,,,1027,0.7,14.4,14.4,10.4,,,"45027",46.86,-91.93,183,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1660215600000000000
 10,2,2,,,,,1025.6,,14.8,15.2,12,,,"45028",46.814,-91.829,183,"Western Lake Superior","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1660216200000000000
 60,5,6,0.3,2,,130,1020.5,,20.5,24,11.6,,,"45029",42.9,-86.272,176,"Holland Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660216800000000000
 360,8,9,0.5,3,,,1016.8,0.7,20.6,23.8,,,,"45132",42.46,-81.22,174,"Port Stanley","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
@@ -146,27 +146,27 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 350,6,,0.4,3,,,1017.5,2.3,15.4,21.2,,,,"45152",46.23,-79.72,196,"Lake Nipissing","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
 350,5,,0.4,3,,,1019.3,1.2,15.8,,,,,"45154",46.05,-82.64,177,"North Channel East","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
 320,7,8,0.3,3,,,1014.1,0,19,21.5,,,,"45159",43.77,-78.98,75,"NW Lake Ontario Ajax","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
-50,4,5,0.1,,,241,1020.9,0.7,19.7,,,,,"45161",43.182,-86.36,176,"Muskegon Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1660215600000000000
+50,4,5,0.1,,,,1020.9,0.7,19.7,,,,,"45161",43.182,-86.36,176,"Muskegon Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1660215600000000000
 320,6,7,0.3,2,,226,1018.5,0.7,16.4,20.1,,,,"45162",44.988,-83.27,176,"Thunder Bay Buoy, Alpena, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1660212000000000000
 320,7,8,0.4,2,,36,1019.6,-0.3,17.6,,,,,"45163",43.985,-83.596,176,"Saginaw Bay Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1660212000000000000
 ,9,11,,,,,,,22.9,24.8,,,,"45164",41.748,-81.698,174.2,"Cleveland Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660215600000000000
-10,7,9,0.8,3,,23,,,22,25.6,,,,"45165",41.702,-83.261,174,"Toledo Water Intake Buoy, Oregon, OH","Limno Tech","IOOS Partners","buoy","y","y","n","n",1660216800000000000
-360,7,9,0.4,3,,355,1020,,21.2,24.3,12.3,,,"45168",42.397,-86.331,177,"South Haven Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660216800000000000
-,,,0.4,3,,292,,,23.1,,22,,,"45170",41.755,-86.968,177,"Michigan City Buoy, IN","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","y","n",1660215600000000000
+10,7,9,0.8,3,,36,,,22,25.6,,,,"45165",41.702,-83.261,174,"Toledo Water Intake Buoy, Oregon, OH","Limno Tech","IOOS Partners","buoy","y","y","n","n",1660216800000000000
+360,7,9,0.4,3,,347,1020,,21.2,24.3,12.3,,,"45168",42.397,-86.331,177,"South Haven Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660216800000000000
+,,,0.4,3,,,,,23.1,,22,,,"45170",41.755,-86.968,177,"Michigan City Buoy, IN","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","y","n",1660215600000000000
 30,7,9,1,4,,,1019.1,,,20.6,,,,"45174",42.135,-87.655,176,"Wilmette Buoy, IL","llinois-Indiana Sea Grant","IOOS Partners","buoy","y","n","y","n",1660216200000000000
 10,5,6,0.3,3,,,1022.2,,14.3,19.5,12.8,,,"45175",45.825,-84.772,176,"Mackinac Straits West, Mackinaw City, MI","Michigan Technological University","IOOS Partners","buoy","y","y","n","n",1660216500000000000
-30,7,9,0.7,3,,345,1017.6,,23.1,25,,,,"45176",41.55,-81.765,174,"Cleveland Intake Crib Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660216200000000000
+30,7,9,0.7,3,,,1017.6,,23.1,25,,,,"45176",41.55,-81.765,174,"Cleveland Intake Crib Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660216200000000000
 ,,,0.2,,2.8,,,,,6.1,,,,"45180",48.034,-87.73,0,"Isle of Royale East, MI (230)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 30,5,6,0.6,4,,358,1023.5,0.9,20,21.2,,,,"45183",44.982,-85.831,176,"Sleeping Bear Dunes","National Park Service - Sleeping Bear Dunes","IOOS Partners","buoy","y","n","y","n",1660215600000000000
-40,5,8,0.6,4,,28,1020,,20,17.8,,,,"45186",42.368,-87.795,176,"Waukegan Buoy, IL","University of Illinois at Urbana-Champaign","IOOS Partners","buoy","y","y","n","n",1660216200000000000
-40,4,6,0.9,5,,25,,,18.7,16.5,,,,"45187",42.491,-87.779,176,"Winthrop Harbor Buoy, IL","University of Illinois at Urbana-Champaign","IOOS Partners","buoy","y","y","n","n",1660216200000000000
+40,5,8,0.6,4,,,1020,,20,17.8,,,,"45186",42.368,-87.795,176,"Waukegan Buoy, IL","University of Illinois at Urbana-Champaign","IOOS Partners","buoy","y","y","n","n",1660216200000000000
+40,4,6,0.9,5,,,,,18.7,16.5,,,,"45187",42.491,-87.779,176,"Winthrop Harbor Buoy, IL","University of Illinois at Urbana-Champaign","IOOS Partners","buoy","y","y","n","n",1660216200000000000
 ,,,0.3,3,2.3,295,,,15,20,,,,"45194",45.804,-84.792,177.43,"McGulpin Point North, MI (253)","Michigan Technological University","IOOS Partners","buoy","y","y","n","n",1660215600000000000
 ,,,,,,,,,,22.9,,,,"45195",44.488,-73.339,30,"Schuyler Reef, NY (251)","GLERL","IOOS Partners","buoy","y","n","n","n",1660213800000000000
-10,8,10,0.7,4,,318,1016.7,0.5,23.3,24.9,18.1,,,"45196",41.521,-81.88,174,"Rocky River, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660215600000000000
-360,8,10,0.7,3,,345,1017.1,0.4,23.3,25.2,18.3,,,"45197",41.619,-81.617,174,"Euclid, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660215600000000000
+10,8,10,0.7,4,,,1016.7,0.5,23.3,24.9,18.1,,,"45196",41.521,-81.88,174,"Rocky River, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660215600000000000
+360,8,10,0.7,3,,,1017.1,0.4,23.3,25.2,18.3,,,"45197",41.619,-81.617,174,"Euclid, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1660215600000000000
 20,8,10,0.6,3,,354,1020.9,,21.8,20.1,19.5,,,"45198",41.892,-87.563,176,"Chicago Buoy","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","n","n",1660216200000000000
 280,9,,1.3,5,,27,1021.7,,19.1,18.8,,,,"45199",42.703,-87.649,176,"Salmon Unlimited Wisconsin","Salmon Unlimited Wisconsin","IOOS Partners","buoy","y","y","y","n",1660216200000000000
-350,7,9,0.6,3,,356,,,21.8,25.1,16.7,,,"45201",41.601,-82.781,174,"Erie Islands Buoy","Limno Tech","IOOS Partners","buoy","y","n","n","n",1660216200000000000
+350,7,9,0.6,3,,,,,21.8,25.1,16.7,,,"45201",41.601,-82.781,174,"Erie Islands Buoy","Limno Tech","IOOS Partners","buoy","y","n","n","n",1660216200000000000
 360,6,8,0.6,4,,350,,,22.5,25.7,17.1,,,"45202",41.532,-82.941,174,"Port Clinton Buoy","Limno Tech","IOOS Partners","buoy","y","n","n","n",1660216200000000000
 ,8,10,1,5,,360,,,18.9,21.9,14.2,,,"45209",43.127,-82.391,176,"Lakeport Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","n","n",1660216200000000000
 180,8,10,,,,,1015.7,,13.8,,13.5,,,"46001",56.3,-148.018,0,"WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1660216200000000000
@@ -230,7 +230,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 140,2,3,1,5,,,1019.7,1.9,13.6,13.6,,,,"46183",53.62,-131.1,0,"North Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660212000000000000
 70,5,7,0.8,5,,,1018.5,0.8,14,14.3,,,,"46185",52.42,-129.79,0,"South Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
 180,5,6,1,7,,,1019.6,0.3,15.1,16,,,,"46204",51.38,-128.77,0,"West Sea Otter","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
-300,9,11,,5,,,1021,-0.1,14.5,14.6,,,,"46205",54.18,-134.32,0,"West Dixon Entrance","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660212000000000000
+310,8,10,1.6,5,,,1020.9,-0.3,14.6,14.6,,,,"46205",54.18,-134.32,0,"West Dixon Entrance","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
 90,4,5,0.9,8,,,1020.3,0.2,13.1,11.7,,,,"46206",48.84,-126,0,"La Perouse Bank","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
 200,3,3,2.2,9,,,1019,-0.2,14.3,14.1,,,,"46207",50.87,-129.92,0,"East Dellwood","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1660215600000000000
 ,,,1.1,9,6.8,299,,,,15.3,,,,"46211",46.857,-124.244,0,"Grays Harbor, WA (036)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
@@ -240,8 +240,8 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,1.2,5,4.5,296,,,,12.5,,,,"46218",34.452,-120.78,0,"Harvest, CA (071)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,1.8,6,5.2,317,,,,17.3,,,,"46219",33.219,-119.872,0,"San Nicolas Island, CA (067)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,1,6,5.7,264,,,,20.7,,,,"46221",33.86,-118.641,0,"Santa Monica Bay, CA (028)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
-,,,0.9,9,5.5,164,,,,19.1,,,,"46222",33.618,-118.317,0,"San Pedro, CA (092)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
-,,,0.9,9,6.8,180,,,,23.3,,,,"46224",33.178,-117.472,0,"Oceanside Offshore, CA (045)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
+,,,0.9,9,,,,,,19.1,,,,"46222",33.618,-118.317,0,"San Pedro, CA (092)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
+,,,0.9,9,,,,,,23.3,,,,"46224",33.178,-117.472,0,"Oceanside Offshore, CA (045)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,0.9,9,6.4,181,,,,23.1,,,,"46225",32.933,-117.391,0,"Torrey Pines Outer, CA (100)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,1,8,6.7,315,,,,15.3,,,,"46229",43.772,-124.549,0,"UMPQUA OFFSHORE, OR (139)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
 ,,,1,10,6.2,178,,,,23,,,,"46232",32.517,-117.425,0,"Point Loma South, CA  (191)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1660215360000000000
