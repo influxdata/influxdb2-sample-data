@@ -32,7 +32,6 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 90,4,5,0.8,8,,94,1013.2,0,29.6,29.4,,,,"41052",18.249,-64.763,0,"South of St. John, VI","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1661896800000000000
 70,5,6,0.9,7,,58,1013.2,0,28.9,29.9,,,,"41053",18.474,-66.099,0,"San Juan, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1661896800000000000
 100,5,5,0.6,4,,82,1013.1,-0.4,29,29.6,,,,"41056",18.261,-65.464,0,"Vieques Island, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1661896800000000000
-,,,0.7,6,,157,,,,27.5,,,,"41065",32.802,-79.619,0,"Capers Nearshore Waves (CAP2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1661888100000000000
 210,5,7,,,,,1014,,27.5,27.8,25.4,,,"41066",32.536,-79.656,0,"CHR60","CORMP","IOOS Partners","buoy","y","n","y","n",1661890080000000000
 ,,,0.9,5,,167,,,,27.7,,,,"41076",32.536,-79.659,0,"CHR60WAVE","CORMP","IOOS Partners","buoy","y","n","n","n",1661890620000000000
 ,,,1.1,5,3.9,191,,,,27.6,,,,"41108",33.722,-78.016,0,"Wilmington Harbor, NC - (200)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1661896800000000000
@@ -103,7 +102,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 190,6,,,,,,1012,-2.2,22.2,25.4,,,,"44075",40.363,-70.883,0,"OOI Pioneer Inshore Surface Mooring","Ocean Observatories Initiative","IOOS Partners","buoy","y","n","y","n",1661889600000000000
 180,6,,,,,,1012.2,-2.2,26.1,25.6,,,,"44077",39.94,-70.883,0,"OOI Pioneer Offshore Surface Mooring","Ocean Observatories Initiative","IOOS Partners","buoy","y","n","y","n",1661889600000000000
 ,,,0.6,4,3.5,161,,,23.6,22.7,,,,"44085",41.387,-71.032,0,"Buzzards Bay, MA (260)","Woods Hole Group/NERACOOS","IOOS Partners","buoy","y","y","n","n",1661896800000000000
-,,,0.9,12,3.8,79,,,,27.4,,,,"44086",36.001,-75.421,0,"Nags Head, NC (243)","UNC Coastal Studies Institute","IOOS Partners","buoy","y","n","n","n",1661896560000000000
+,,,0.9,12,,,,,,27.4,,,,"44086",36.001,-75.421,0,"Nags Head, NC (243)","UNC Coastal Studies Institute","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,0.2,,4,,,,,29,,,,"44087",37.026,-76.149,0,"Thimble Shoal, VA (240)","U.S. Navy","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,0.8,11,3.6,92,,,28,27.7,,,,"44088",36.611,-74.841,0,"Virginia Beach Offshore, VA (171)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1661896800000000000
 ,,,0.9,3,3.9,180,,,,26.1,,,,"44089",37.754,-75.325,0,"Wallops Island, VA (224)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1661896560000000000
@@ -152,7 +151,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 230,10,,0.4,3,,,1001.5,-1.8,21.4,21.6,,,,"45152",46.23,-79.72,196,"Lake Nipissing","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
 290,13,,1.6,5,,,1005.8,0.9,18.8,,,,,"45154",46.05,-82.64,177,"North Channel East","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
 220,8,9,0.9,4,,,1005,,23.1,23.3,,,,"45159",43.77,-78.98,75,"NW Lake Ontario Ajax","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
-300,5,6,0.9,4,,287,1012.6,0,22.4,,,,,"45161",43.182,-86.36,176,"Muskegon Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1661896800000000000
+300,5,6,0.9,4,,,1012.6,0,22.4,,,,,"45161",43.182,-86.36,176,"Muskegon Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1661896800000000000
 280,8,9,0.4,2,,,1006.8,0.6,21,19.5,,,,"45162",44.988,-83.27,176,"Thunder Bay Buoy, Alpena, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1661896800000000000
 280,9,10,0.6,3,,,1009.8,0,22.7,,,,,"45163",43.985,-83.596,176,"Saginaw Bay Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1661896800000000000
 ,9,11,1.1,5,,,,,24.6,24.3,,,,"45164",41.748,-81.698,174.2,"Cleveland Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1661893200000000000
@@ -244,7 +243,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 130,4,5,1.1,6,,,1017.5,0.9,14.5,14.5,,,,"46183",53.62,-131.1,0,"North Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661893200000000000
 130,6,7,1.7,6,,,1017.9,0,15.4,14.8,,,,"46185",52.42,-129.79,0,"South Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
 120,2,2,2.3,9,,,1018.9,-0.1,15.9,15.5,,,,"46204",51.38,-128.77,0,"West Sea Otter","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
-120,5,7,1.7,8,,,1016,1.2,15.7,15.7,,,,"46205",54.18,-134.32,0,"West Dixon Entrance","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661893200000000000
+100,6,9,1.8,9,,,1015.9,0.3,15.5,15.7,,,,"46205",54.18,-134.32,0,"West Dixon Entrance","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
 330,7,8,1.4,8,,,1015.9,-1,15.5,14.1,,,,"46206",48.84,-126,0,"La Perouse Bank","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
 170,3,4,1.6,10,,,1018.5,0.2,16.3,16.3,,,,"46207",50.87,-129.92,0,"East Dellwood","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1661896800000000000
 ,,,1.2,8,6,283,,,,14.6,,,,"46211",46.857,-124.244,0,"Grays Harbor, WA (036)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
@@ -254,7 +253,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,1.1,14,6.1,185,,,,16.4,,,,"46218",34.452,-120.78,0,"Harvest, CA (071)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,1.5,13,5.1,189,,,,17.8,,,,"46219",33.219,-119.872,0,"San Nicolas Island, CA (067)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,1,14,4.4,198,,,,20.7,,,,"46221",33.86,-118.641,0,"Santa Monica Bay, CA (028)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
-,,,0.9,13,3.8,171,,,,22.5,,,,"46222",33.618,-118.317,0,"San Pedro, CA (092)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
+,,,0.9,13,,,,,,22.5,,,,"46222",33.618,-118.317,0,"San Pedro, CA (092)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,0.9,14,4.5,178,,,,22.5,,,,"46224",33.178,-117.472,0,"Oceanside Offshore, CA (045)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,0.9,13,4.8,185,,,,23.1,,,,"46225",32.933,-117.391,0,"Torrey Pines Outer, CA (100)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
 ,,,1.2,9,6,296,,,,13.4,,,,"46229",43.772,-124.549,0,"UMPQUA OFFSHORE, OR (139)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1661896560000000000
@@ -790,7 +789,6 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,,,,31.3,,,1.52,"SREF1",25.352,-81.1,0,"Shark River, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1661893200000000000
 300,12.4,,,,,,,,19.7,20.3,11.3,,,"SRLM4",45.773,-84.137,177,"Spectacle Reef Light, MI","GLERL","IOOS Partners","fixed","y","n","n","n",1661896800000000000
 60,1.5,5.1,,,,,1015.3,,12.8,,11.4,,,"SRXA2",58.383,-134.652,2,"Statter Harbor MXAK, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1661897580000000000
-,,,0.7,4,,167,,,,,,,,"SSBN7",33.838,-78.484,0,"Sunset Beach Nearshore Waves (SUN2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1661888100000000000
 280,13.9,14.9,,,,,,,,,,,,"STDM4",47.184,-87.225,182.9,"Stannard Rock, MI","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1661896800000000000
 200,1,3.6,,,,,1012.8,,14.3,,12.8,,,"STXA2",57.116,-135.391,10.7,"Sitka AML, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1661897520000000000
 260,5.7,6.2,,,,,,,22.6,,,,,"SVNM4",42.401,-86.288,176,"South Haven Light, South Haven, MI","GLERL","IOOS Partners","fixed","y","n","n","n",1661896800000000000
