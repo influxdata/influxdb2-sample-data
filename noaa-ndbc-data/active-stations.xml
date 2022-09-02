@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-09-02T11:45:02UTC" count="1346">
+<stations created="2022-09-02T12:05:01UTC" count="1346">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -255,7 +255,7 @@
   <station id="44069" lat="40.698" lon="-73.087" elev="0" name="Great South Bay" owner="Stony Brook University" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44072" lat="37.201" lon="-76.266" elev="0" name="York Spit, VA   " owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44073" lat="43.02" lon="-70.54" elev="0" name="CO2 Gulf of Maine Buoy" owner="University of New Hampshire" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44075" lat="40.363" lon="-70.883" elev="0" name="OOI Pioneer Inshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="44075" lat="40.363" lon="-70.883" elev="0" name="OOI Pioneer Inshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44076" lat="40.137" lon="-70.775" elev="0" name="OOI Pioneer Central Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44077" lat="39.94" lon="-70.883" elev="0" name="OOI Pioneer Offshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44078" lat="59.94" lon="-39.52" elev="0" name="OOI Irminger Sea Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -872,7 +872,7 @@
   <station id="guxa2" lat="58.408" lon="-135.726" elev="7" name="Gustavus Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="haxa2" lat="59.234" lon="-135.442" elev="7.6" name="Haines Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hbmn6" lat="41.314" lon="-73.985" name="Bear Mountain, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="hbyc1" lat="40.767" lon="-124.217" elev="7.6" name="9418767 - North Spit, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hcef1" lat="25.254" lon="-80.444" elev="0" name="Highway Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hcgn7" lat="35.209" lon="-75.704" elev="1.9" name="8654467 - USCG Station Hatteras, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1294,7 +1294,7 @@
   <station id="trrf1" lat="25.217" lon="-80.65" elev="0" name="Taylor River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="tshf1" lat="27.929" lon="-82.426" elev="2.1" name="8726679  - East Bay Causeway, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="twco1" lat="41.699" lon="-83.259" elev="173.5" name="Toledo Crib, OH" owner="Limno Tech" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="txpt2" lat="29.689" lon="-93.842" elev="0" name="8770822 - Texas Point, Sabine Pass, TX " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="txpt2" lat="29.689" lon="-93.842" elev="0" name="8770822 - Texas Point, Sabine Pass, TX " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="txvt2" lat="27.813" lon="-97.389" elev="2.3" name="8775302 - TX State Aquarium Visibility, TX" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ulra2" lat="63.872" lon="-160.784" elev="5.0064" name="9468333 - Unalakleet, Unalakleet River, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="unla2" lat="53.88" lon="-166.537" elev="3" name="9462620 - Unalaska, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
