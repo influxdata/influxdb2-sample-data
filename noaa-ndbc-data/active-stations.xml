@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-09-21T02:35:01UTC" count="1363">
+<stations created="2022-09-21T03:40:02UTC" count="1363">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -99,7 +99,7 @@
   <station id="31004" lat="-14" lon="-32" elev="0" name="Salvador" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31005" lat="-19" lon="-34" elev="0" name="Espirito Santo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31006" lat="4" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="31007" lat="0" lon="-23" elev="0" name="Jazz" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="31007" lat="0" lon="-23" elev="0" name="Jazz" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31051" lat="-25.283" lon="-44.933" name="Santos" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31052" lat="-8.15" lon="-34.567" name="RECIFE" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31053" lat="-32.595" lon="-51.353" name=" RIO GRANDE DO SUL" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -141,7 +141,7 @@
   <station id="41033" lat="32.279" lon="-80.406" elev="0" name="Fripp Nearshore, SC (FRP2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41037" lat="33.988" lon="-77.362" elev="0" name="Wrightsville Beach Offshore, NC (ILM3)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41038" lat="34.141" lon="-77.715" elev="0" name="Wrightsville Beach Nearshore, NC (ILM2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41040" lat="15.2751" lon="-56.3642" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41040" lat="15.2736" lon="-56.3654" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41041" lat="14.453" lon="-46.327" elev="0" name="NORTH EQUATORIAL TWO - 890 NM East of Martinique " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41043" lat="21.026" lon="-64.793" elev="0" name="NE PUERTO RICO - 170 NM NNE of San Juan, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41044" lat="21.582" lon="-58.63" elev="0" name="NE ST MARTIN - 330 NM NE St Martin Is" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -214,7 +214,7 @@
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="25.901" lon="-89.291" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="42501" lat="25.96" lon="-89.50" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="25.91" lon="-84.90" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.91" lon="-84.87" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -406,7 +406,7 @@
   <station id="46085" lat="55.878" lon="-142.876" elev="0" name="CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46086" lat="32.499" lon="-118.052" elev="0" name="SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46087" lat="48.493" lon="-124.726" elev="0" name="Neah Bay - 6 NM North of Cape Flattery, WA     (Traffic Separation Lighted Buoy)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46088" lat="48.332" lon="-123.179" elev="0" name="NEW DUNGENESS - 17 NM NE of Port Angeles, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46088" lat="48.332" lon="-123.179" elev="0" name="NEW DUNGENESS - 17 NM NE of Port Angeles, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46089" lat="45.936" lon="-125.793" name="TILLAMOOK, OR - 85 NM WNW of Tillamook, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46092" lat="36.751" lon="-122.029" elev="0" name="MBM1" owner="MBARI" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46096" lat="46.173" lon="-124.127" elev="0" name="Columbia River Entrance - SATURN Station #02 Offshore" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
@@ -888,7 +888,7 @@
   <station id="hlnm4" lat="42.773" lon="-86.213" elev="178.7" name="9087031 - Holland, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hmra2" lat="59.601" lon="-151.41" elev="12.9" name="Homer, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hmsa2" lat="59.602" lon="-151.417" elev="15" name="Homer Spit, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="hrbm4" lat="43.846" lon="-82.643" elev="178.2" name="9075014 - Harbor Beach, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="hrbm4" lat="43.846" lon="-82.643" elev="178.2" name="9075014 - Harbor Beach, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="href1" lat="25.424" lon="-81.06" name="Harney River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hrvc1" lat="34.469" lon="-120.682" elev="0" name="9411406 - Harvest Oil Platform, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="huqn6" lat="42.036" lon="-73.925" name="Tivoli North, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
