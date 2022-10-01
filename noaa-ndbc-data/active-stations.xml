@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-01T15:20:01UTC" count="1364">
+<stations created="2022-10-01T15:35:02UTC" count="1364">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -213,8 +213,8 @@
   <station id="42099" lat="27.349" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="25.901" lon="-89.291" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="42501" lat="26.04" lon="-89.58" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="25.94" lon="-85.60" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42501" lat="26.06" lon="-89.60" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.92" lon="-85.56" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1126,7 +1126,7 @@
   <station id="pcgt2" lat="26.072" lon="-97.167" elev="0" name="8779748 - South Padre Island CGS, TX " owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pclf1" lat="30.404" lon="-87.211" elev="2.8" name="8729840 - Pensacola, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pclm4" lat="47.276" lon="-88.528" elev="196" name="Portage Canal, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="pcnt2" lat="28.446" lon="-96.396" elev="0" name="8773701 - Port O'Connor, Matagorda Bay, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="pcnt2" lat="28.446" lon="-96.396" elev="0" name="8773701 - Port O'Connor, Matagorda Bay, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcoc1" lat="38.056" lon="-122.039" elev="2.8" name="9415144 - Port Chicago, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcxa2" lat="57.463" lon="-134.867" elev="5" name="Point Craven MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pdvr1" lat="41.611" lon="-71.41" name="Port of Davisville, RI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
