@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-04T20:25:01UTC" count="1364">
+<stations created="2022-10-04T20:40:01UTC" count="1364">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -97,7 +97,7 @@
   <station id="31002" lat="4" lon="-38" elev="0" name="Frevo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31003" lat="-8" lon="-30" elev="0" name="Para?ba" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31004" lat="-14" lon="-32" elev="0" name="Salvador" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="31005" lat="-19" lon="-34" elev="0" name="Espirito Santo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="31005" lat="-19" lon="-34" elev="0" name="Espirito Santo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31006" lat="4" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31007" lat="0" lon="-23" elev="0" name="Jazz" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31051" lat="-25.283" lon="-44.933" name="Santos" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1193,7 +1193,7 @@
   <station id="rdda2" lat="67.575" lon="-164.067" elev="7.3" name="9491094 - Red Dog Dock, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rdyd1" lat="39.558" lon="-75.572" elev="2.3" name="8551910 - Reedy Point, DE" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rixa2" lat="58.177" lon="-135.052" elev="13.7" name="Rocky Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="rkqf1" lat="26.027" lon="-81.734" name="Lower Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="rkqf1" lat="26.027" lon="-81.734" name="Lower Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="rkxf1" lat="26.05" lon="-81.701" elev="3" name="Upper Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rlit2" lat="26.262" lon="-97.285" elev="0" name="8779280 - Realitos Peninsula, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rlot2" lat="29.515" lon="-94.513" elev="0" name="8770971 - Rollover Pass, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1338,7 +1338,7 @@
   <station id="wdsv2" lat="36.977" lon="-76.315" name="8638614 - Willoughby Deguassing Station, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="welm1" lat="43.32" lon="-70.563" elev="3.5" name="8419317 - Wells, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="weqm1" lat="43.345" lon="-70.549" name="Skinner Mill, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="weqm1" lat="43.345" lon="-70.549" name="Skinner Mill, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="wexm1" lat="43.337" lon="-70.549" elev="18.62" name="Laudholm Farm, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wfpm4" lat="46.76" lon="-84.97" elev="188.67" name="Whitefish Point, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="whri2" lat="42.361" lon="-87.813" elev="180" name="Waukegan Harbor, IL" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
