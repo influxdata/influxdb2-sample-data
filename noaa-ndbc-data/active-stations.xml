@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-19T06:10:02UTC" count="1364">
+<stations created="2022-10-19T06:40:01UTC" count="1364">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -103,8 +103,8 @@
   <station id="31051" lat="-25.283" lon="-44.933" name="Santos" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31052" lat="-8.15" lon="-34.567" name="RECIFE" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="31053" lat="-32.595" lon="-51.353" name=" RIO GRANDE DO SUL" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="32068" lat="-0.888" lon="-81.664" name="ECUADOR INOCAR - 58 NM West of Manta, Ecuador" owner="Instituto Oceanografico y Antartico de la Armadai (INOCAR)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="32069" lat="0.255" lon="-81.211" name="ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador   " owner="Instituto Oceanografico y Antartico de la Armadai (INOCAR)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="32068" lat="-0.888" lon="-81.664" name="ECUADOR INOCAR - 58 NM West of Manta, Ecuador" owner="Instituto Oceanografico y Antartico de la Armadai (INOCAR)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
+  <station id="32069" lat="0.255" lon="-81.211" name="ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador   " owner="Instituto Oceanografico y Antartico de la Armadai (INOCAR)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32303" lat="5" lon="-95" elev="0" name="5N 95W" owner="NDBC" pgm="TAO" type="tao" seq="6"/>
   <station id="32304" lat="-5" lon="-95" elev="0" name="5S 95W" owner="NDBC" pgm="TAO" type="tao" seq="11"/>
   <station id="32305" lat="-8" lon="-95" elev="0" name="8S 95W" owner="NDBC" pgm="TAO" type="tao" seq="12"/>
@@ -212,8 +212,8 @@
   <station id="42099" lat="27.349" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="25.3844" lon="-89.4477" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42501" lat="26.05" lon="-89.59" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="25.87" lon="-85.75" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42501" lat="26.04" lon="-89.56" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.88" lon="-85.78" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -793,7 +793,7 @@
   <station id="dkkf1" lat="25.18" lon="-80.49" elev="0" name="Duck Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="dmsf1" lat="30.387" lon="-81.559" name="8720219 - Dames Point, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="domv2" lat="36.962" lon="-76.424" name="8638511 - Dominion Terminal Associates, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="dpha1" lat="30.251" lon="-88.078" elev="0" name="Dauphin Island Sea Lab, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="dpha1" lat="30.251" lon="-88.078" elev="0" name="Dauphin Island Sea Lab, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="dpia1" lat="30.25" lon="-88.075" elev="0" name="Dauphin Island, AL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="dpla2" lat="53.884" lon="-166.531" elev="4.6" name="Dutch Harbor APL, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dpoa2" lat="53.903" lon="-166.528" elev="4.6" name="Dutch Harbor Port Office, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
