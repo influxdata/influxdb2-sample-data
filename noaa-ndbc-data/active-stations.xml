@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-20T00:55:01UTC" count="1364">
+<stations created="2022-10-20T01:35:01UTC" count="1364">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -140,7 +140,7 @@
   <station id="41033" lat="32.279" lon="-80.406" elev="0" name="Fripp Nearshore, SC (FRP2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41037" lat="33.988" lon="-77.362" elev="0" name="Wrightsville Beach Offshore, NC (ILM3)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41038" lat="34.141" lon="-77.715" elev="0" name="Wrightsville Beach Nearshore, NC (ILM2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41040" lat="16.4835" lon="-60.1271" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41040" lat="16.4804" lon="-60.1311" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41041" lat="14.453" lon="-46.327" elev="0" name="NORTH EQUATORIAL TWO - 890 NM East of Martinique " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41043" lat="21.026" lon="-64.793" elev="0" name="NE PUERTO RICO - 170 NM NNE of San Juan, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41044" lat="21.582" lon="-58.63" elev="0" name="NE ST MARTIN - 330 NM NE St Martin Is" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -212,8 +212,8 @@
   <station id="42099" lat="27.349" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="25.0030" lon="-89.8680" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42501" lat="26.04" lon="-89.56" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="25.94" lon="-85.78" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42501" lat="26.05" lon="-89.56" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.94" lon="-85.74" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -319,7 +319,7 @@
   <station id="45152" lat="46.23" lon="-79.72" elev="196" name="Lake Nipissing" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45154" lat="46.05" lon="-82.64" elev="177" name="North Channel East" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45159" lat="43.77" lon="-78.98" elev="75" name="NW Lake Ontario Ajax" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="45161" lat="43.182" lon="-86.36" elev="176" name="Muskegon Buoy, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="45161" lat="43.182" lon="-86.36" elev="176" name="Muskegon Buoy, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45162" lat="44.988" lon="-83.27" elev="176" name="Thunder Bay Buoy, Alpena, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45163" lat="43.985" lon="-83.596" elev="176" name="Saginaw Bay Buoy, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45164" lat="41.748" lon="-81.698" elev="174.2" name="Cleveland Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
@@ -846,7 +846,7 @@
   <station id="fsti2" lat="41.976" lon="-87.648" elev="179" name="Foster Ave., Chicago, IL" owner="Chicago Park District" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ftgm4" lat="43.007" lon="-82.422" elev="178.9" name="9014098 - Fort Gratiot, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ftpc1" lat="37.806" lon="-122.466" elev="2.7" name="9414290 - San Francisco, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="fwyf1" lat="25.591" lon="-80.097" elev="0" name="Fowey Rock, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="fwyf1" lat="25.591" lon="-80.097" elev="0" name="Fowey Rock, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="gbhm6" lat="30.418" lon="-88.405" name="Bayou Heron, Grand Bay Reserve, MS" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="gbif1" lat="25.378" lon="-81.029" elev="0" name="Gunboat Island, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="gbqn3" lat="43.134" lon="-70.911" name="Oyster River, Great Bay Reserve, NH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -879,7 +879,7 @@
   <station id="guxa2" lat="58.408" lon="-135.726" elev="7" name="Gustavus Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="haxa2" lat="59.234" lon="-135.442" elev="7.6" name="Haines Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hbmn6" lat="41.314" lon="-73.985" name="Bear Mountain, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hbyc1" lat="40.767" lon="-124.217" elev="7.6" name="9418767 - North Spit, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hcef1" lat="25.254" lon="-80.444" elev="0" name="Highway Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hcgn7" lat="35.209" lon="-75.704" elev="1.9" name="8654467 - USCG Station Hatteras, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
