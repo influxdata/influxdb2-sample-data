@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-25T05:30:02UTC" count="1364">
+<stations created="2022-10-25T06:10:01UTC" count="1364">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -41,7 +41,7 @@
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15007" lat="-6" lon="8" elev="0" name="SE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -256,7 +256,7 @@
   <station id="44072" lat="37.201" lon="-76.266" elev="0" name="York Spit, VA   " owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44073" lat="43.02" lon="-70.54" elev="0" name="CO2 Gulf of Maine Buoy" owner="University of New Hampshire" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44075" lat="40.363" lon="-70.883" elev="0" name="OOI Pioneer Inshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="44076" lat="40.137" lon="-70.775" elev="0" name="OOI Pioneer Central Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="44076" lat="40.137" lon="-70.775" elev="0" name="OOI Pioneer Central Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44077" lat="39.94" lon="-70.883" elev="0" name="OOI Pioneer Offshore Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44078" lat="59.94" lon="-39.52" elev="0" name="OOI Irminger Sea Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44085" lat="41.387" lon="-71.032" elev="0" name="Buzzards Bay, MA (260)" owner="Woods Hole Group/NERACOOS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
@@ -291,7 +291,7 @@
   <station id="45012" lat="43.621" lon="-77.401" elev="74.7" name="EAST Lake Ontario  - 20NM North Northeast of Rochester, NY" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45013" lat="43.1" lon="-87.85" elev="176" name="ATW20 - Atwater Park, WI" owner="University of Wisconsin-Milwaukee" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45014" lat="44.795" lon="-87.759" elev="176" name="GB17 - South Green Bay, WI" owner="University of Wisconsin-Milwaukee" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45022" lat="45.405" lon="-85.087" elev="176" name="Little Traverse Bay Buoy, MI" owner="University of Michigan CILER" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="45022" lat="45.405" lon="-85.087" elev="176" name="Little Traverse Bay Buoy, MI" owner="University of Michigan CILER" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45023" lat="47.27" lon="-88.607" elev="183" name="North Entry Buoy, North Keweenaw Peninsula, MI" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45024" lat="43.981" lon="-86.556" elev="176" name="Ludington Buoy, MI" owner="University of Michigan CILER" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45025" lat="46.969" lon="-88.398" elev="183" name="South Entry Buoy, South Keweenaw Peninsula, MI" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
@@ -354,7 +354,7 @@
   <station id="45201" lat="41.601" lon="-82.781" elev="174" name="Erie Islands Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45202" lat="41.532" lon="-82.941" elev="174" name="Port Clinton Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45203" lat="41.393" lon="-82.512" elev="174" name="Huron Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="45204" lat="41.508" lon="-82.115" elev="174" name="Sheffield Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="45204" lat="41.508" lon="-82.115" elev="174" name="Sheffield Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45205" lat="41.501" lon="-81.748" elev="174" name="Edgewater Beach Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45206" lat="41.585" lon="-81.583" elev="174" name="Euclid Beach Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45207" lat="41.762" lon="-81.331" elev="174" name="Fairport Harbor Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
