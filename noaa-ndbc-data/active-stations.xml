@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-26T14:10:01UTC" count="1365">
+<stations created="2022-10-26T14:25:02UTC" count="1365">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -212,8 +212,8 @@
   <station id="42099" lat="27.349" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="27.4907" lon="-91.2100" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42501" lat="25.90" lon="-89.83" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="25.92" lon="-85.77" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42501" lat="25.90" lon="-89.82" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.93" lon="-85.78" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -321,7 +321,7 @@
   <station id="45159" lat="43.77" lon="-78.98" elev="75" name="NW Lake Ontario Ajax" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45161" lat="43.182" lon="-86.36" elev="176" name="Muskegon Buoy, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45162" lat="44.988" lon="-83.27" elev="176" name="Thunder Bay Buoy, Alpena, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45163" lat="43.985" lon="-83.596" elev="176" name="Saginaw Bay Buoy, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45163" lat="43.985" lon="-83.596" elev="176" name="Saginaw Bay Buoy, MI" owner="GLERL" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45164" lat="41.748" lon="-81.698" elev="174.2" name="Cleveland Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45165" lat="41.702" lon="-83.261" elev="174" name="Toledo Water Intake Buoy, Oregon, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="45166" lat="44.785" lon="-73.258" elev="30" name="Lake Champlain - Inland Sea" owner="Vermont EPSCOR" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -474,7 +474,7 @@
   <station id="46269" lat="36.934" lon="-122.034" elev="0" name="Point Santa Cruz, CA (254)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46273" lat="32.926" lon="-117.277" elev="0" name="Torrey Pines Inner, CA (101)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46274" lat="33.062" lon="-117.314" name="Leucadia Nearshore, CA (262)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46275" lat="33.29" lon="-117.5" name="Red Beach Nearshore, CA (264)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46275" lat="33.29" lon="-117.5" name="Red Beach Nearshore, CA (264)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46303" lat="49.02" lon="-123.43" elev="0" name="Southern Georgia Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46304" lat="49.3" lon="-123.36" elev="0" name="Entrance To English Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46402" lat="50.983" lon="-163.943" name=" South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1308,7 +1308,7 @@
   <station id="trdf1" lat="28.416" lon="-80.593" elev="3.5" name="8721604 - Trident Pier, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="trrf1" lat="25.217" lon="-80.65" elev="0" name="Taylor River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="tshf1" lat="27.929" lon="-82.426" elev="2.1" name="8726679  - East Bay Causeway, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="twco1" lat="41.699" lon="-83.259" elev="173.5" name="Toledo Crib, OH" owner="Limno Tech" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="twco1" lat="41.699" lon="-83.259" elev="173.5" name="Toledo Crib, OH" owner="Limno Tech" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="txpt2" lat="29.689" lon="-93.842" elev="0" name="8770822 - Texas Point, Sabine Pass, TX " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="txvt2" lat="27.813" lon="-97.389" elev="2.3" name="8775302 - TX State Aquarium Visibility, TX" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ulra2" lat="63.872" lon="-160.784" elev="5.0064" name="9468333 - Unalakleet, Unalakleet River, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
