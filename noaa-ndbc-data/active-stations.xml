@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-10-30T20:20:01UTC" count="1368">
+<stations created="2022-10-30T20:35:01UTC" count="1368">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -41,7 +41,7 @@
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15007" lat="-6" lon="8" elev="0" name="SE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -212,8 +212,8 @@
   <station id="42099" lat="27.349" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="26.1123" lon="-89.6738" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42501" lat="25.89" lon="-89.82" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="25.90" lon="-85.66" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42501" lat="25.88" lon="-89.82" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.89" lon="-85.65" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
