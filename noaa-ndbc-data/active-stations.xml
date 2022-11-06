@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-11-06T13:45:01UTC" count="1369">
+<stations created="2022-11-06T14:00:01UTC" count="1369">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -794,7 +794,7 @@
   <station id="dkkf1" lat="25.18" lon="-80.49" elev="0" name="Duck Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="dmsf1" lat="30.387" lon="-81.559" name="8720219 - Dames Point, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="domv2" lat="36.962" lon="-76.424" name="8638511 - Dominion Terminal Associates, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="dpha1" lat="30.251" lon="-88.078" elev="0" name="Dauphin Island Sea Lab, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="dpha1" lat="30.251" lon="-88.078" elev="0" name="Dauphin Island Sea Lab, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="dpia1" lat="30.25" lon="-88.075" elev="0" name="Dauphin Island, AL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="dpla2" lat="53.884" lon="-166.531" elev="4.6" name="Dutch Harbor APL, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dpoa2" lat="53.903" lon="-166.528" elev="4.6" name="Dutch Harbor Port Office, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1244,7 +1244,7 @@
   <station id="sisw1" lat="48.321" lon="-122.831" elev="0" name="Smith Island, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sixa2" lat="55.616" lon="-132.203" elev="7.5" name="Ship Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sjnp4" lat="18.459" lon="-66.116" elev="1.3" name="9755371 - San Juan, La Puntilla, San Juan Bay, PR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="sjom4" lat="42.098" lon="-86.494" elev="182" name="St. Joseph, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="sjom4" lat="42.098" lon="-86.494" elev="182" name="St. Joseph, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sjsn4" lat="39.305" lon="-75.377" elev="6.3" name="8537121 - Ship John Shoal, NJ" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="skcf1" lat="27.921" lon="-82.445" elev="7.3" name="8726671 - Sparkman Channel Entrance, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="skta2" lat="59.45" lon="-135.327" elev="6.4" name="9452400 - Skagway, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
