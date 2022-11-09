@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-11-09T01:35:02UTC" count="1369">
+<stations created="2022-11-09T02:30:01UTC" count="1369">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -140,7 +140,7 @@
   <station id="41033" lat="32.279" lon="-80.406" elev="0" name="Fripp Nearshore, SC (FRP2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41037" lat="33.988" lon="-77.362" elev="0" name="Wrightsville Beach Offshore, NC (ILM3)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="41038" lat="34.141" lon="-77.715" elev="0" name="Wrightsville Beach Nearshore, NC (ILM2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="41040" lat="16.4310" lon="-60.9201" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41040" lat="16.4284" lon="-60.9253" elev="0" name="NORTH EQUATORIAL ONE- 470 NM East of Martinique" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41041" lat="14.453" lon="-46.327" elev="0" name="NORTH EQUATORIAL TWO - 890 NM East of Martinique " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41043" lat="21.026" lon="-64.793" elev="0" name="NE PUERTO RICO - 170 NM NNE of San Juan, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41044" lat="21.582" lon="-58.63" elev="0" name="NE ST MARTIN - 330 NM NE St Martin Is" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -213,7 +213,7 @@
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="25.8967" lon="-91.8795" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42501" lat="26.03" lon="-89.80" elev="0" name="SD 1042 - 180 nm South of Southwest Pass, LA (Site of 42001)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="42503" lat="26.03" lon="-85.74" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42503" lat="25.98" lon="-85.74" elev="0" name="SD 1036 - 208 NM West of Naples, FL (Site of 42003)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -333,7 +333,7 @@
   <station id="45172" lat="46.74" lon="-85.98" elev="183" name="Grand Marais Buoy, Grand Marais, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45173" lat="46.573" lon="-86.572" elev="178" name="Munising Buoy, Munising, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45174" lat="42.135" lon="-87.655" elev="176" name="Wilmette Buoy, IL" owner="llinois-Indiana Sea Grant" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="45175" lat="45.825" lon="-84.772" elev="176" name="Mackinac Straits West, Mackinaw City, MI " owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
+  <station id="45175" lat="45.825" lon="-84.772" elev="176" name="Mackinac Straits West, Mackinaw City, MI " owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45176" lat="41.55" lon="-81.765" elev="174" name="Cleveland Intake Crib Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45177" lat="41.894" lon="-87.613" elev="176" name="Ohio St. Beach, Chicago, IL" owner="Chicago Park District" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45178" lat="44.603" lon="-73.394" elev="30" name="1 NM SE of Valcour Island, NY" owner="SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1341,7 +1341,7 @@
   <station id="wcxa2" lat="55.402" lon="-131.729" elev="7" name="Ward Cove, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wdel1" lat="28.662" lon="-89.551" elev="0" name="Shell West Delta 143" owner="Shell Oil" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wdsv2" lat="36.977" lon="-76.315" name="8638614 - Willoughby Deguassing Station, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="welm1" lat="43.32" lon="-70.563" elev="3.5" name="8419317 - Wells, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="weqm1" lat="43.345" lon="-70.549" name="Skinner Mill, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wexm1" lat="43.337" lon="-70.549" elev="18.62" name="Laudholm Farm, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
