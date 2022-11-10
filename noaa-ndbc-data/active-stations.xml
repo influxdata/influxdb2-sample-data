@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-11-10T07:30:01UTC" count="1370">
+<stations created="2022-11-10T07:45:01UTC" count="1370">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -635,7 +635,7 @@
   <station id="62305" lat="50.4" lon="0" elev="0" name="Greenwich Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62442" lat="49" lon="-16.5" name="Pap" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="63105" lat="61" lon="1.692" name="Brent &quot;B&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="63110" lat="59.5" lon="1.5" name="Beryl A AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="63110" lat="59.5" lon="1.5" name="Beryl A AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="63112" lat="61.1" lon="1" name="Cormorant AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="63113" lat="61" lon="1.708" name="Brent &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="63115" lat="61.6" lon="1.3" name="Magnus AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
