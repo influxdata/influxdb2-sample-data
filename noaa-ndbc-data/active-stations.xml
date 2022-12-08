@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-12-08T04:45:01UTC" count="1369">
+<stations created="2022-12-08T05:00:01UTC" count="1369">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -268,7 +268,7 @@
   <station id="44098" lat="42.8" lon="-70.171" elev="0" name="Jeffrey's Ledge, NH (160)" owner="University of New Hampshire" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44099" lat="36.915" lon="-75.722" elev="0" name="Cape Henry, VA (147)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44100" lat="36.258" lon="-75.593" elev="0" name="Duck FRF 26m, NC (430)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="44137" lat="42.26" lon="-62.03" elev="0" name="East Scotia Slope" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="44137" lat="42.26" lon="-62.03" elev="0" name="East Scotia Slope" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44139" lat="44.24" lon="-57.1" elev="0" name="Banqureau Banks" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44150" lat="42.5" lon="-64.02" elev="0" name="La Have Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44258" lat="44.5" lon="-63.4" elev="0" name="Halifax Harbour" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -676,7 +676,7 @@
   <station id="auga2" lat="59.378" lon="-153.348" elev="9.1" name="Augustine Island, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="awrt2" lat="28.227" lon="-96.796" name="8774230 - Aransas Wildlife Refuge, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="babt2" lat="27.297" lon="-97.405" elev="0" name="8776604 - Baffin Bay, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="bara9" lat="17.591" lon="-61.821" elev="1.3" name="9761115 - Barbuda, AG" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="bara9" lat="17.591" lon="-61.821" elev="1.3" name="9761115 - Barbuda, AG" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="barn6" lat="42.345" lon="-79.595" elev="174" name="Barcelona Harbor, NY" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="batn6" lat="40.701" lon="-74.014" elev="2" name="8518750 - The Battery, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="baxc1" lat="33.766" lon="-118.24" name="9410691 - Los Angeles Badger Avenue Bridge" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -844,7 +844,7 @@
   <station id="fsti2" lat="41.976" lon="-87.648" elev="179" name="Foster Ave., Chicago, IL" owner="Chicago Park District" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ftgm4" lat="43.007" lon="-82.422" elev="178.9" name="9014098 - Fort Gratiot, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ftpc1" lat="37.806" lon="-122.466" elev="2.7" name="9414290 - San Francisco, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="fwyf1" lat="25.591" lon="-80.097" elev="0" name="Fowey Rock, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="fwyf1" lat="25.591" lon="-80.097" elev="0" name="Fowey Rock, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="gbhm6" lat="30.418" lon="-88.405" name="Bayou Heron, Grand Bay Reserve, MS" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="gbif1" lat="25.378" lon="-81.029" elev="0" name="Gunboat Island, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="gbqn3" lat="43.134" lon="-70.911" name="Oyster River, Great Bay Reserve, NH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1362,7 +1362,7 @@
   <station id="wwef1" lat="25.232" lon="-80.938" elev="0" name="Whitewater Bay-East, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="wybs1" lat="33.309" lon="-79.289" name="Winyah Bay Bottom, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="wycm6" lat="30.326" lon="-89.326" elev="0" name="8747437 - Bay Waveland Yacht Club, MS" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="wyss1" lat="33.309" lon="-79.289" name="Winyah Bay Surface, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="wyss1" lat="33.309" lon="-79.289" name="Winyah Bay Surface, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="yabp4" lat="18.055" lon="-65.833" name="9754228 - Yabucoa Harbor, PR" owner="Puerto Rico Seismic Network" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="yata2" lat="59.548" lon="-139.733" elev="6.6" name="9453220 - Yakutat, Yakutat Bay, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ygnn6" lat="43.262" lon="-79.064" elev="73" name="Niagara Coast Guard Station, NY" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
