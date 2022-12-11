@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2022-12-11T12:40:01UTC" count="1369">
+<stations created="2022-12-11T12:55:01UTC" count="1369">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -128,9 +128,9 @@
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="41001" lat="34.714" lon="-72.248" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41002" lat="31.759" lon="-74.936" elev="0" name="SOUTH HATTERAS - 225 NM South of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="41004" lat="32.502" lon="-79.099" elev="0" name="EDISTO - 41 NM Southeast of Charleston, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41004" lat="32.502" lon="-79.099" elev="0" name="EDISTO - 41 NM Southeast of Charleston, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41008" lat="31.4" lon="-80.866" elev="0" name="GRAYS REEF - 40 NM Southeast of Savannah, GA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="41009" lat="28.508" lon="-80.185" elev="0" name="CANAVERAL 20 NM East of Cape Canaveral, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="41009" lat="28.508" lon="-80.185" elev="0" name="CANAVERAL 20 NM East of Cape Canaveral, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41010" lat="28.878" lon="-78.485" elev="0" name="CANAVERAL EAST - 120NM East of Cape Canaveral" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41013" lat="33.441" lon="-77.764" elev="0" name="Frying Pan Shoals, NC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41024" lat="33.837" lon="-78.477" elev="0" name="Sunset Nearshore, NC (SUN2)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
@@ -418,7 +418,7 @@
   <station id="46120" lat="47.761" lon="-122.397" elev="0" name="Pt Wells, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46121" lat="47.28" lon="-122.73" elev="0" name="Carr Inlet, WA (U of Wash) " owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46122" lat="47.803" lon="-122.803" elev="0" name="Dabob Bay, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46123" lat="47.375" lon="-123.008" elev="0" name="Twanoh - Hood Canal, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46123" lat="47.375" lon="-123.008" elev="0" name="Twanoh - Hood Canal, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46124" lat="47.422" lon="-123.113" elev="0" name="Hoodsport - Hood Canal, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46125" lat="47.907" lon="-122.627" elev="0" name="Hansville - Hood Canal, WA" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46128" lat="43.292" lon="-124.538" elev="0" name="Buoy CB-06 - West of Coos Bay, OR" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
