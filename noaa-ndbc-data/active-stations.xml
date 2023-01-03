@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-01-03T05:00:01UTC" count="1370">
+<stations created="2023-01-03T05:20:02UTC" count="1370">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -677,7 +677,7 @@
   <station id="auga2" lat="59.378" lon="-153.348" elev="9.1" name="Augustine Island, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="awrt2" lat="28.227" lon="-96.796" name="8774230 - Aransas Wildlife Refuge, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="babt2" lat="27.297" lon="-97.405" elev="0" name="8776604 - Baffin Bay, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="bara9" lat="17.591" lon="-61.821" elev="1.3" name="9761115 - Barbuda, AG" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="bara9" lat="17.591" lon="-61.821" elev="1.3" name="9761115 - Barbuda, AG" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="barn6" lat="42.345" lon="-79.595" elev="174" name="Barcelona Harbor, NY" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="batn6" lat="40.701" lon="-74.014" elev="2" name="8518750 - The Battery, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="baxc1" lat="33.766" lon="-118.24" name="9410691 - Los Angeles Badger Avenue Bridge" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1362,7 +1362,7 @@
   <station id="wslm4" lat="45.842" lon="-85.135" elev="177" name="White Shoal Light, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wwef1" lat="25.232" lon="-80.938" elev="0" name="Whitewater Bay-East, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="wybs1" lat="33.309" lon="-79.289" name="Winyah Bay Bottom, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="wycm6" lat="30.326" lon="-89.326" elev="0" name="8747437 - Bay Waveland Yacht Club, MS" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="wycm6" lat="30.326" lon="-89.326" elev="0" name="8747437 - Bay Waveland Yacht Club, MS" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wyss1" lat="33.309" lon="-79.289" name="Winyah Bay Surface, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="yabp4" lat="18.055" lon="-65.833" name="9754228 - Yabucoa Harbor, PR" owner="Puerto Rico Seismic Network" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="yata2" lat="59.548" lon="-139.733" elev="6.6" name="9453220 - Yakutat, Yakutat Bay, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
