@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-01-20T00:45:02UTC" count="1363">
+<stations created="2023-01-20T01:30:01UTC" count="1363">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -96,7 +96,7 @@
   <station id="31001" lat="0" lon="-35" elev="0" name="Samba" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31002" lat="4" lon="-38" elev="0" name="Frevo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31003" lat="-8" lon="-30" elev="0" name="Para?ba" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="31004" lat="-14" lon="-32" elev="0" name="Salvador" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="31004" lat="-14" lon="-32" elev="0" name="Salvador" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31005" lat="-19" lon="-34" elev="0" name="Espirito Santo" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31006" lat="4" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="31007" lat="0" lon="-23" elev="0" name="Jazz" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -251,7 +251,7 @@
   <station id="44069" lat="40.698" lon="-73.087" elev="0" name="Great South Bay" owner="Stony Brook University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44072" lat="37.201" lon="-76.266" elev="0" name="York Spit, VA   " owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44073" lat="43.02" lon="-70.54" elev="0" name="CO2 Gulf of Maine Buoy" owner="University of New Hampshire" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44078" lat="59.94" lon="-39.52" elev="0" name="OOI Irminger Sea Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="44078" lat="59.94" lon="-39.52" elev="0" name="OOI Irminger Sea Surface Mooring" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44084" lat="38.537" lon="-75.044" elev="11" name="Bethany Beach, DE (263)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44085" lat="41.387" lon="-71.032" elev="0" name="Buzzards Bay, MA (260)" owner="Woods Hole Group/NERACOOS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44086" lat="36.001" lon="-75.421" elev="0" name="Nags Head, NC (243)" owner="UNC Coastal Studies Institute" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -401,7 +401,7 @@
   <station id="46088" lat="48.332" lon="-123.179" elev="0" name="NEW DUNGENESS - 17 NM NE of Port Angeles, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46089" lat="45.936" lon="-125.793" name="TILLAMOOK, OR - 85 NM WNW of Tillamook, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46092" lat="36.751" lon="-122.029" elev="0" name="MBM1" owner="MBARI" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46096" lat="46.173" lon="-124.127" elev="0" name="Columbia River Entrance - SATURN Station #02 Offshore" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="46096" lat="46.173" lon="-124.127" elev="0" name="Columbia River Entrance - SATURN Station #02 Offshore" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46097" lat="44.639" lon="-124.304" elev="0" name="OOI Newport Shelf" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46098" lat="44.378" lon="-124.947" elev="0" name="OOI Waldport Offshore" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46099" lat="46.988" lon="-124.567" elev="0" name="OOI Westport Shelf" owner="Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
@@ -468,7 +468,7 @@
   <station id="46273" lat="32.926" lon="-117.277" elev="0" name="Torrey Pines Inner, CA (101)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46274" lat="33.062" lon="-117.314" name="Leucadia Nearshore, CA (262)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46275" lat="33.29" lon="-117.5" name="Red Beach Nearshore, CA (264)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46303" lat="49.02" lon="-123.43" elev="0" name="Southern Georgia Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46303" lat="49.02" lon="-123.43" elev="0" name="Southern Georgia Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46304" lat="49.3" lon="-123.36" elev="0" name="Entrance To English Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46402" lat="50.983" lon="-163.943" name=" South Dutch Harbor - 220 NM SSE of Dutch Harbor, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46403" lat="52.663" lon="-156.778" name="SOUTHEAST SHUMAGIN ISLAND - 186 NM SE of Shumagin Is, AK" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1111,7 +1111,7 @@
   <station id="owdo1" lat="41.365" lon="-82.505" name="Darrow Road, Old Woman Creek Reserve, OH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="owmo1" lat="41.247" lon="-82.454" elev="270.3" name="Old Woman Creek Western Reserve" owner="National Estuarine Research Reserve System" pgm="NERRS" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="owqo1" lat="41.382" lon="-82.514" name="Lower Estuary, Old Woman Creek Reserve, OH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="owso1" lat="41.383" lon="-82.514" name="State Road 6, Old Woman Creek Reserve, OH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="owso1" lat="41.383" lon="-82.514" name="State Road 6, Old Woman Creek Reserve, OH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="owxo1" lat="41.378" lon="-82.508" elev="184.1" name="Old Woman Creek, Old Woman Creek Reserve, OH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pacf1" lat="30.152" lon="-85.667" elev="2.1" name="8729108 - Panama City, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pact2" lat="27.634" lon="-97.237" elev="0" name="8775792 - Packery Channel, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1335,7 +1335,7 @@
   <station id="wcxa2" lat="55.402" lon="-131.729" elev="7" name="Ward Cove, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wdel1" lat="28.662" lon="-89.551" elev="0" name="Shell West Delta 143" owner="Shell Oil" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wdsv2" lat="36.977" lon="-76.315" name="8638614 - Willoughby Deguassing Station, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="webm1" lat="43.32" lon="-70.563" name="Webhannett River Inlet, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="weqm1" lat="43.345" lon="-70.549" name="Skinner Mill, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wexm1" lat="43.337" lon="-70.549" elev="18.62" name="Laudholm Farm, Wells Reserve, ME" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="wfpm4" lat="46.76" lon="-84.97" elev="188.67" name="Whitefish Point, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
