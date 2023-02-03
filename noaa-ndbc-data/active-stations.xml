@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-02-03T15:45:01UTC" count="1363">
+<stations created="2023-02-03T16:05:01UTC" count="1363">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="00922" lat="30" lon="-90" name="OTN201 - 4800922" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="00923" lat="30" lon="-90" name="OTN200 - 4800923" owner="Dalhousie University" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -259,7 +259,7 @@
   <station id="44088" lat="36.614" lon="-74.841" elev="0" name="Virginia Beach Offshore, VA (171)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="44089" lat="37.754" lon="-75.325" elev="0" name="Wallops Island, VA (224)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44090" lat="41.84" lon="-70.329" elev="0" name="Cape Cod Bay, MA (221)" owner="Woods Hole Group/NERACOOS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
-  <station id="44091" lat="39.768" lon="-73.77" elev="0" name="Barnegat, NJ (209)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="44091" lat="39.768" lon="-73.77" elev="0" name="Barnegat, NJ (209)" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44095" lat="35.75" lon="-75.33" elev="0" name="Oregon Inlet, NC (192)" owner="UNC Coastal Studies Institute" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44097" lat="40.967" lon="-71.124" elev="0" name="Block Island, RI  (154)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44098" lat="42.8" lon="-70.171" elev="0" name="Jeffrey's Ledge, NH (160)" owner="University of New Hampshire" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -813,7 +813,7 @@
   <station id="eroa2" lat="58.971" lon="-135.221" elev="17" name="Eldred Rock, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="erxa2" lat="58.971" lon="-135.221" elev="16.8" name="Eldred Rock MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="espp4" lat="18.094" lon="-65.471" elev="2" name="9752695 - Esperanza, Viequez Island, PR" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="evmc1" lat="36.811" lon="-121.779" name="Vierra Mouth, Elkhorn Slough Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="evmc1" lat="36.811" lon="-121.779" name="Vierra Mouth, Elkhorn Slough Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="faio1" lat="41.764" lon="-81.281" elev="176.4" name="9063053 - Fairport, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fbis1" lat="32.685" lon="-79.888" elev="3" name="Folly Island, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="fffc1" lat="38.195" lon="-122.033" name="First Mallard" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1166,7 +1166,7 @@
   <station id="pslc1" lat="35.169" lon="-120.754" elev="0" name="9412110 - Port San Luis, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pstl1" lat="28.932" lon="-89.407" elev="3.6" name="8760922 - Pilot's Station East, SW Pass, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pstn6" lat="42.691" lon="-79.048" elev="179.18" name="9063028 - Sturgeon Point, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="psxc1" lat="33.768" lon="-118.226" name="9410692 - Los Angeles Pier S" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="psxc1" lat="33.768" lon="-118.226" name="9410692 - Los Angeles Pier S" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ptat2" lat="27.826" lon="-97.051" elev="0" name="Port Aransas, TX" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ptaw1" lat="48.125" lon="-123.441" elev="3.8" name="9444090 - Port Angeles, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ptbm6" lat="30.213" lon="-88.505" name="8741003 - Petit Bois Island, Port of Pascagoula, MS" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
