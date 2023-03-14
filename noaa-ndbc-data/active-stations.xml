@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-03-14T05:45:01UTC" count="1311">
+<stations created="2023-03-14T06:05:01UTC" count="1311">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -50,11 +50,11 @@
   <station id="23016" lat="-2" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23017" lat="-4" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23217" lat="3.798" lon="91.701" name="Bay of Bengal IN3" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
+  <station id="23218" lat="10.165" lon="88.5" name="Bay of Bengal IN4" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23219" lat="13.472" lon="88.998" name="Bay of Bengal" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23223" lat="17.333" lon="89.483" name="Bay of Bengal" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
+  <station id="23223" lat="17.333" lon="89.483" name="Bay of Bengal" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23225" lat="18.63" lon="67.18" name="" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="23226" lat="20.2" lon="67.333" name="Arabian Sea" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
+  <station id="23226" lat="20.2" lon="67.333" name="Arabian Sea" owner="National Institute for Ocean Technology INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23227" lat="6.255" lon="88.792" name="Bay of Bengal" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="23228" lat="20.764" lon="65.284" name="Arabian Sea" owner="Indian National Center for Ocean Information Services INDIA" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="23401" lat="8.86" lon="88.55" name="BAY OF BENGAL - 600 NM WNW of Phuket, Thailand" owner="National Disaster Warning Center (NDWC), Department of Disaster Prevention and Mitigation, Ministry of the Interior, Thailand" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -385,10 +385,10 @@
   <station id="46123" lat="47.375" lon="-123.008" elev="0" name="Twanoh - Hood Canal, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46124" lat="47.422" lon="-123.113" elev="0" name="Hoodsport - Hood Canal, WA (U of Wash)" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46125" lat="47.907" lon="-122.627" elev="0" name="Hansville - Hood Canal, WA" owner="University of Washington" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46128" lat="43.292" lon="-124.538" elev="0" name="Buoy CB-06 - West of Coos Bay, OR" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="46128" lat="43.292" lon="-124.538" elev="0" name="Buoy CB-06 - West of Coos Bay, OR" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46131" lat="49.91" lon="-124.98" elev="0" name="Sentry Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46132" lat="49.78" lon="-127.89" elev="0" name="South Brooks" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46145" lat="54.37" lon="-132.42" elev="0" name="Central Dixon Entrance Buoy" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="46145" lat="54.37" lon="-132.42" elev="0" name="Central Dixon Entrance Buoy" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46146" lat="49.34" lon="-123.73" elev="0" name="Halibut Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46147" lat="51.83" lon="-131.22" elev="0" name="South Moresby" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46181" lat="53.83" lon="-128.83" elev="0" name="Nanakwa Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1234,7 +1234,7 @@
   <station id="tcvf1" lat="25.213" lon="-80.533" elev="0" name="Trout Cove, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="tdpc1" lat="41.055" lon="-124.147" name="Trinidad Pier Trinidad, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="tesl1" lat="29.668" lon="-91.237" elev="0" name="8764044 - Tesoro Marine Terminal, Berwick, Atchafalaya River, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="tfblk" lat="65.698" lon="-24.778" name="10.0 nm WNW on Blakknes, Iceland" owner="Icelandic Maritime Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="tfblk" lat="65.698" lon="-24.778" name="10.0 nm WNW on Blakknes, Iceland" owner="Icelandic Maritime Administration" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="thlo1" lat="41.826" lon="-83.194" elev="173.5" name="Toledo Light No. 2 OH" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="thrf1" lat="25.203" lon="-80.372" elev="0" name="Thursday Point, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="thro1" lat="41.694" lon="-83.473" elev="176.2" name="9063085 - Toledo, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
