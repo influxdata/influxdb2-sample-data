@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-03-16T14:20:01UTC" count="1256">
+<stations created="2023-03-16T14:30:02UTC" count="1311">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -72,6 +72,18 @@
   <station id="31053" lat="-32.595" lon="-51.353" name=" RIO GRANDE DO SUL" owner="Brazilian Navy Hydrographic Center" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32068" lat="-0.888" lon="-81.664" name="ECUADOR INOCAR - 58 NM West of Manta, Ecuador" owner="Instituto Oceanografico y Antartico de la Armadai (INOCAR)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32069" lat="0.255" lon="-81.211" name="ECUADOR INOCAR - 71 NM West of Pedernales, Ecuador   " owner="Instituto Oceanografico y Antartico de la Armadai (INOCAR)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
+  <station id="32303" lat="5" lon="-95" elev="0" name="5N 95W" owner="NDBC" pgm="TAO" type="tao" seq="6"/>
+  <station id="32304" lat="-5" lon="-95" elev="0" name="5S 95W" owner="NDBC" pgm="TAO" type="tao" seq="11"/>
+  <station id="32305" lat="-8" lon="-95" elev="0" name="8S 95W" owner="NDBC" pgm="TAO" type="tao" seq="12"/>
+  <station id="32315" lat="5" lon="-110" elev="0" name="5N 110W" owner="NDBC" pgm="TAO" type="tao" seq="13"/>
+  <station id="32316" lat="2" lon="-110" elev="0" name="2N 110W" owner="NDBC" pgm="TAO" type="tao" seq="14"/>
+  <station id="32317" lat="-2" lon="-110" elev="0" name="2S 110W" owner="NDBC" pgm="TAO" type="tao" seq="15"/>
+  <station id="32318" lat="-5" lon="-110" elev="0" name="5S 110W" owner="NDBC" pgm="TAO" type="tao" seq="16"/>
+  <station id="32319" lat="-8" lon="-110" elev="0" name="8S 110W" owner="NDBC" pgm="TAO" type="tao" seq="17"/>
+  <station id="32320" lat="2" lon="-95" elev="0" name="2N 95W" owner="NDBC" pgm="TAO" type="tao" seq="18"/>
+  <station id="32321" lat="0" lon="-95" elev="0" name="0 95W" owner="NDBC" pgm="TAO" type="tao" seq="19"/>
+  <station id="32322" lat="-2" lon="-95" elev="0" name="2S 95W" owner="NDBC" pgm="TAO" type="tao" seq="20"/>
+  <station id="32323" lat="0" lon="-110" elev="0" name="0 110W" owner="NDBC" pgm="TAO" type="tao" seq="21"/>
   <station id="32401" lat="-20.474" lon="-73.421" name="180 NM West of Iquique, Chile" owner="Hydrographic and Oceanographic Service of the Chilean Navy (SHOA)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32402" lat="-26.743" lon="-73.983" name="180 NM  West of Caldera, Chile" owner="Hydrographic and Oceanographic Service of the Chilean Navy (SHOA)" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="32403" lat="-23.163" lon="-72.037" name="91NM West of Antofagasta, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -165,6 +177,8 @@
   <station id="42099" lat="27.349" lon="-84.275" elev="0" name="Offshore St. Petersburg, FL (144)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42407" lat="15.229" lon="-68.188" name="SOUTH PUERTO RICO - 230 NM Southwest of San Juan, PR" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="42409" lat="25.3771" lon="-94.8104" name="GULF OF MEXICO - 247 NM South of New Orleans, LA" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao" seq="22"/>
+  <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao" seq="23"/>
   <station id="43412" lat="16.003" lon="-106.989" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="43413" lat="10.949" lon="-100.03" elev="0" name="SOUTH ACAPULCO - 360NM South of Acapulco, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="44005" lat="43.201" lon="-69.127" elev="0" name="GULF OF MAINE - 78 NM East of Portsmouth, NH" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -443,6 +457,22 @@
   <station id="51002" lat="17.042" lon="-157.746" elev="0" name="SOUTHWEST HAWAII - 215NM SSW of Hilo, HI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51003" lat="19.196" lon="-160.639" elev="0" name="WESTERN  HAWAII - 205 NM SW of Honolulu, HI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="51004" lat="17.538" lon="-152.23" elev="0" name="SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="51006" lat="9" lon="-140" elev="0" name="9N 140W" owner="NDBC" pgm="TAO" type="tao" seq="24"/>
+  <station id="51007" lat="5" lon="-140" elev="0" name="5N 140W" owner="NDBC" pgm="TAO" type="tao" seq="25"/>
+  <station id="51008" lat="2" lon="-140" elev="0" name="2N 140W" owner="NDBC" pgm="TAO" type="tao" seq="26"/>
+  <station id="51009" lat="-2" lon="-140" elev="0" name="2S 140W" owner="NDBC" pgm="TAO" type="tao" seq="27"/>
+  <station id="51010" lat="0" lon="-170" elev="0" name="0 170W" owner="NDBC" pgm="TAO" type="tao" seq="28"/>
+  <station id="51011" lat="0" lon="-125" elev="0" name="0 125W" owner="NDBC" pgm="TAO" type="tao" seq="29"/>
+  <station id="51014" lat="-5" lon="-140" elev="0" name="5S 140W" owner="NDBC" pgm="TAO" type="tao" seq="30"/>
+  <station id="51015" lat="5" lon="-125" elev="0" name="5N 125W" owner="NDBC" pgm="TAO" type="tao" seq="31"/>
+  <station id="51016" lat="2" lon="-125" elev="0" name="2N 125W" owner="NDBC" pgm="TAO" type="tao" seq="32"/>
+  <station id="51017" lat="-2" lon="-125" elev="0" name="2S 125W" owner="NDBC" pgm="TAO" type="tao" seq="33"/>
+  <station id="51018" lat="-5" lon="-125" elev="0" name="5S 125W" owner="NDBC" pgm="TAO" type="tao" seq="34"/>
+  <station id="51019" lat="-5" lon="-155" elev="0" name="5S 155W" owner="NDBC" pgm="TAO" type="tao" seq="35"/>
+  <station id="51020" lat="5" lon="-155" elev="0" name="5N 155W" owner="NDBC" pgm="TAO" type="tao" seq="36"/>
+  <station id="51021" lat="2" lon="-155" elev="0" name="2N 155W" owner="NDBC" pgm="TAO" type="tao" seq="37"/>
+  <station id="51022" lat="-2" lon="-155" elev="0" name="2S 155W" owner="NDBC" pgm="TAO" type="tao" seq="38"/>
+  <station id="51023" lat="0" lon="-155" elev="0" name="0 155W" owner="NDBC" pgm="TAO" type="tao" seq="39"/>
   <station id="51045" lat="19.734" lon="-155.082" elev="0" name="Hilo Bay, HI" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="51046" lat="20.024" lon="-155.828" elev="0" name="Kawaihai, HI" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="51101" lat="24.359" lon="-162.081" elev="0" name="NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI   " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
@@ -457,14 +487,39 @@
   <station id="51211" lat="21.297" lon="-157.959" elev="0" name="Pearl Harbor Entrance, HI (233)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="51212" lat="21.323" lon="-158.149" elev="0" name="Barbers Point, Kalaeloa, HI (238)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="51213" lat="20.75" lon="-157.003" elev="0" name="Kaumalapau Southwest, Lanai, HI (239)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="51301" lat="8" lon="-155" elev="0" name="8N 155W" owner="NDBC" pgm="TAO" type="tao" seq="40"/>
+  <station id="51302" lat="-8" lon="-155" elev="0" name="8S 155W" owner="NDBC" pgm="TAO" type="tao" seq="41"/>
+  <station id="51303" lat="5" lon="-170" elev="0" name="5N 170W" owner="NDBC" pgm="TAO" type="tao" seq="42"/>
+  <station id="51304" lat="-5" lon="-170" elev="0" name="5S 170W" owner="NDBC" pgm="TAO" type="tao" seq="43"/>
+  <station id="51305" lat="2" lon="-170" elev="0" name="2N 170W" owner="NDBC" pgm="TAO" type="tao" seq="44"/>
+  <station id="51306" lat="-2" lon="-170" elev="0" name="2S 170W" owner="NDBC" pgm="TAO" type="tao" seq="45"/>
+  <station id="51307" lat="8" lon="-125" elev="0" name="8N 125W" owner="NDBC" pgm="TAO" type="tao" seq="47"/>
+  <station id="51308" lat="-8" lon="-125" elev="0" name="8S 125W" owner="NDBC" pgm="TAO" type="tao" seq="48"/>
+  <station id="51309" lat="8" lon="-170" elev="0" name="8N 170W" owner="NDBC" pgm="TAO" type="tao" seq="46"/>
+  <station id="51310" lat="-8" lon="-170" elev="0" name="8S 170W" owner="NDBC" pgm="TAO" type="tao" seq="49"/>
+  <station id="51311" lat="0" lon="-140" elev="0" name="0 140W" owner="NDBC" pgm="TAO" type="tao" seq="50"/>
   <station id="51407" lat="19.63" lon="-156.577" name="HAWAII - 34NM West of Kailua-Kona, HI" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="51425" lat="-9.511" lon="-176.258" name="NORTHWEST APIA - 370 NM NW of Apia, Samoa" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="51wh0" lat="23" lon="-158" elev="0" name="WHOTS - Woods Hole Ocean Time-series" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="52001" lat="2" lon="165" elev="0" name="2N 165E" owner="NDBC" pgm="TAO" type="tao" seq="51"/>
+  <station id="52002" lat="-2" lon="165" elev="0" name="2S 165E" owner="NDBC" pgm="TAO" type="tao" seq="52"/>
+  <station id="52003" lat="5" lon="165" elev="0" name="5N 165E" owner="NDBC" pgm="TAO" type="tao" seq="53"/>
+  <station id="52004" lat="-5" lon="165" elev="0" name="5S 165E" owner="NDBC" pgm="TAO" type="tao" seq="70"/>
+  <station id="52006" lat="8" lon="165" elev="0" name="8N 165E" owner="NDBC" pgm="TAO" type="tao" seq="55"/>
+  <station id="52007" lat="-8" lon="165" elev="0" name="8S 165E" owner="NDBC" pgm="TAO" type="tao" seq="56"/>
   <station id="52200" lat="13.354" lon="144.788" elev="0" name="Ipan, Guam (121)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="52201" lat="7.083" lon="171.392" elev="0" name="Kalo, Majuro, Marshall Islands (163)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="52202" lat="13.682" lon="144.806" elev="0" name="Ritidian Point, Guam (196)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="52211" lat="15.268" lon="145.662" elev="0" name="Tanapag, Saipan, NMI (197)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="52212" lat="7.63" lon="134.671" elev="0" name="Ngaraard, Babeldaob, Palau (219)" owner="Pacific Islands Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
+  <station id="52309" lat="5" lon="180" elev="0" name="5N 180W" owner="NDBC" pgm="TAO" type="tao" seq="73"/>
+  <station id="52310" lat="2" lon="180" elev="0" name="2N 180W" owner="NDBC" pgm="TAO" type="tao" seq="74"/>
+  <station id="52311" lat="0" lon="180" elev="0" name="0 180W" owner="NDBC" pgm="TAO" type="tao" seq="75"/>
+  <station id="52312" lat="-2" lon="180" elev="0" name="2S 180W" owner="NDBC" pgm="TAO" type="tao" seq="76"/>
+  <station id="52313" lat="-5" lon="180" elev="0" name="5S 180W" owner="NDBC" pgm="TAO" type="tao" seq="77"/>
+  <station id="52315" lat="8" lon="180" elev="0" name="8N 180W" owner="NDBC" pgm="TAO" type="tao" seq="78"/>
+  <station id="52316" lat="-8" lon="180" elev="0" name="8S 180W" owner="NDBC" pgm="TAO" type="tao" seq="79"/>
+  <station id="52321" lat="0" lon="165" elev="0" name="0 165E" owner="NDBC" pgm="TAO" type="tao" seq="80"/>
   <station id="52401" lat="19.285" lon="155.739" name="NORTHEAST SAIPAN - 610 NM ENE of Saipan" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="52402" lat="11.93" lon="153.895" name="SOUTHEAST SAIPAN - 540NM ESE of Saipan" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="52403" lat="4.026" lon="145.616" elev="0" name="NORTH MANUS - 345NM North of Manus Is , New Guinea" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -557,7 +612,7 @@
   <station id="apcf1" lat="29.724" lon="-84.98" elev="1.9" name="8728690 - Apalachicola, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apma2" lat="61.239" lon="-149.889" elev="5.5" name="Anchorage Port, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apnm4" lat="45.06" lon="-83.424" elev="177.5" name="Alpena Harbor Light, Alpena, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="apqf1" lat="29.786" lon="-84.875" name="East Bay Bottom, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="apqf1" lat="29.786" lon="-84.875" name="East Bay Bottom, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="aprp7" lat="13.444" lon="144.657" elev="1.8" name="1630000 - Apra Harbor, Guam" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apxa2" lat="59.77" lon="-151.868" elev="5" name="Anchor Point, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apxf1" lat="29.769" lon="-84.881" elev="0.6" name="East Bay, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1086,7 +1141,7 @@
   <station id="rdyd1" lat="39.558" lon="-75.572" elev="2.3" name="8551910 - Reedy Point, DE" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rixa2" lat="58.177" lon="-135.052" elev="13.7" name="Rocky Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rkqf1" lat="26.027" lon="-81.734" name="Lower Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="rkxf1" lat="26.05" lon="-81.701" elev="3" name="Upper Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="rkxf1" lat="26.05" lon="-81.701" elev="3" name="Upper Henderson Creek, Rookery Bay Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rlit2" lat="26.262" lon="-97.285" elev="0" name="8779280 - Realitos Peninsula, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="rlot2" lat="29.515" lon="-94.513" elev="0" name="8770971 - Rollover Pass, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="roam4" lat="47.867" lon="-89.313" elev="183.5" name="Rock of Ages, MI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
