@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-04-06T22:30:01UTC" count="1312">
+<stations created="2023-04-06T22:45:01UTC" count="1312">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -650,7 +650,7 @@
   <station id="bktl1" lat="30.19" lon="-93.301" elev="0" name="8767961 - Lake Charles Bulk Terminal, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bkyf1" lat="25.119" lon="-80.834" name="Buoy Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="blia2" lat="60.839" lon="-146.884" elev="0" name="Bligh Reef Light, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="blif1" lat="30.393" lon="-81.523" elev="2" name="8720233 - Blount Island Command, St Johns River, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="blif1" lat="30.393" lon="-81.523" elev="2" name="8720233 - Blount Island Command, St Johns River, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="blta2" lat="58.455" lon="-135.889" elev="5" name="Bartlett Cove AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bltm2" lat="39.267" lon="-76.579" elev="1.4" name="8574680 - Baltimore, MD" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bltm3" lat="41.704" lon="-71.174" elev="2.1" name="8447387 - Borden Flats Light at Fall River, MA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1013,7 +1013,7 @@
   <station id="neaw1" lat="48.367" lon="-124.614" elev="3.2" name="9443090 - Neah Bay, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nfdf1" lat="30.4" lon="-81.627" elev="3" name="8720215 - Navy Fuel Depot, St Johns River, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nian6" lat="43.077" lon="-79.014" elev="181.8" name="9063012 - Niagara Intake, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="niqs1" lat="33.349" lon="-79.189" name="Oyster Landing, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="niqs1" lat="33.349" lon="-79.189" name="Oyster Landing, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="niws1" lat="33.349" lon="-79.189" elev="0" name="Oyster Landing, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="njlc1" lat="40.769" lon="-124.239" elev="7.6" name="9418768 - North Jetty Landing, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nkla2" lat="52.972" lon="-168.855" name="Nikolski White Alice" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
