@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-05-08T18:20:01UTC" count="1314">
+<stations created="2023-05-08T18:30:01UTC" count="1314">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -24,8 +24,8 @@
   <station id="21418" lat="38.716" lon="148.847" elev="0" name="NORTHEAST TOKYO - 450 NM NE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="21419" lat="44.401" lon="155.653" name="KURIL ISLANDS - 209NM SE of Kuril Is. " owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="21420" lat="28.91" lon="134.999" name="SOUTHEAST MIYAZAKI - 260NM Southeast of Miyazaki" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
-  <station id="21d18" lat="33.4581" lon="-176.2770" name="Adrift from 21418" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="21d20" lat="37.9371" lon="-171.9120" name="Adrift buoy from 21420" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="21d18" lat="33.4731" lon="-176.2890" name="Adrift from 21418" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="21d20" lat="37.9997" lon="-171.5960" name="Adrift buoy from 21420" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="22101" lat="37.23" lon="126.02" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22102" lat="34.8" lon="125.77" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="22103" lat="34" lon="127.5" name="" owner="Korean Meteorological Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -692,7 +692,7 @@
   <station id="chbv2" lat="37.032" lon="-76.083" name="8638901 - Chesapeake Bay Bridge Tunnel, VA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="chcm2" lat="39.527" lon="-75.81" elev="1.8" name="8573927 - Chesapeake City, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="chds1" lat="33.661" lon="-82.199" elev="116.1" name="Strom Thurmond Dam, SC" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="chii2" lat="41.916" lon="-87.572" elev="176" name="Harrison-Dever Crib, Chicago, IL" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="chii2" lat="41.916" lon="-87.572" elev="176" name="Harrison-Dever Crib, Chicago, IL" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="chqo3" lat="43.282" lon="-124.32" name="Winchester Arm - South Slough, OR" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="chsv3" lat="17.748" lon="-64.699" elev="1.3" name="9751364 - Christiansted Harbor, St. Croix, VI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="chtm3" lat="41.688" lon="-69.95" elev="3.8" name="8447435 - Chatham, MA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -794,7 +794,7 @@
   <station id="ftgm4" lat="43.007" lon="-82.422" elev="178.9" name="9014098 - Fort Gratiot, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ftpc1" lat="37.806" lon="-122.466" elev="2.7" name="9414290 - San Francisco, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="fwyf1" lat="25.591" lon="-80.097" elev="0" name="Fowey Rock, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="gbhm6" lat="30.418" lon="-88.405" name="Bayou Heron, Grand Bay Reserve, MS" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="gbhm6" lat="30.418" lon="-88.405" name="Bayou Heron, Grand Bay Reserve, MS" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="gbif1" lat="25.378" lon="-81.029" elev="0" name="Gunboat Island, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="gbqn3" lat="43.134" lon="-70.911" name="Oyster River, Great Bay Reserve, NH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="gbtf1" lat="25.167" lon="-80.801" elev="0" name="Garfield Bight, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
@@ -981,7 +981,7 @@
   <station id="mixa2" lat="57.837" lon="-133.814" elev="19" name="Midway Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mkgm4" lat="43.227" lon="-86.339" elev="179.3" name="Muskegon CG Station, Muskegon, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mlsc1" lat="36.802" lon="-121.791" elev="3.05" name="Moss Landing, South Harbor, CA" owner="Moss Landing Marine Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="mlww3" lat="43.005" lon="-87.884" elev="178" name="Port of Milwaukee" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="mlww3" lat="43.005" lon="-87.884" elev="178" name="Port of Milwaukee" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mnbf1" lat="25.239" lon="-80.422" elev="0" name="Manatee Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="mnmm4" lat="45.096" lon="-87.59" elev="178.7" name="9087088 - Menominee, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mnpv2" lat="36.778" lon="-76.302" elev="2.9" name="8639348 - Money Point, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1216,7 +1216,7 @@
   <station id="ssbn7" lat="33.838" lon="-78.484" elev="0" name="Sunset Beach Nearshore Waves (SUN2WAVE)" owner="CORMP" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="stdm4" lat="47.184" lon="-87.225" elev="182.9" name="Stannard Rock, MI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="stxa2" lat="57.116" lon="-135.391" elev="10.7" name="Sitka AML, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="svnm4" lat="42.401" lon="-86.288" elev="176" name="South Haven Light, South Haven, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="svnm4" lat="42.401" lon="-86.288" elev="176" name="South Haven Light, South Haven, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="svxa2" lat="63.693" lon="-170.492" elev="10" name="Savoonga, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="swla2" lat="60.12" lon="-149.427" elev="6.2" name="9455090 - Seward, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="swpm4" lat="46.501" lon="-84.372" elev="184.6" name="9076070 - S.W. Pier, MI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
