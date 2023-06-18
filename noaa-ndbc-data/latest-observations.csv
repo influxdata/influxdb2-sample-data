@@ -17,7 +17,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 70,6,8,,,,,1016.5,0,28.2,,25.8,,,"41040",14.532,-53.13,0,"NORTH EQUATORIAL ONE- 470 NM East of Martinique","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
 80,8,9,,,,,1018.5,0,28.2,,25.7,,,"41043",21.026,-64.793,0,"NE PUERTO RICO - 170 NM NNE of San Juan, PR","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 90,8,11,,,,,1019.6,0.6,27.9,,24.6,,,"41044",21.582,-58.63,0,"NE ST MARTIN - 330 NM NE St Martin Is","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
-130,5,7,,,,,1018.7,0.8,28.5,,26.2,,,"41046",23.822,-68.393,0,"EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
+130,5,6,,,,,1019,0.9,,,,,,"41046",23.822,-68.393,0,"EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 210,5,7,,,,,1017.4,1.7,,,,,,"41047",27.465,-71.452,0,"NE BAHAMAS - 350 NM ENE of Nassau, Bahamas","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 240,6,7,,,,,1014.4,1.6,,,,,,"41048",31.831,-69.573,0,"WEST BERMUDA - 240 NM West of Bermuda","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 180,4,4,,,,,1020.7,0.5,,,,,,"41049",27.545,-63.012,0,"SOUTH BERMUDA - 300 NM SSE of Bermuda","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
@@ -40,13 +40,13 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 210,4,4,,,,,1009.7,1.5,21.3,,19,,,"44009",38.46,-74.692,0,"DELAWARE BAY 26 NM Southeast of Cape May, NJ","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
 190,5,6,,,,,1003,0.8,,,,,,"44011",41.093,-66.562,0,"GEORGES BANK 170 NM East of Hyannis, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 340,4,6,,,,,1004,0.8,,,,,,"44013",42.346,-70.651,0,"BOSTON 16 NM East of Boston, MA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
-,2,3,,,,,1012.3,1.4,,,,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
+220,2,3,,,,,1012,1.4,20.9,,19,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
 350,4,5,,,,,1003.4,0.8,14.8,,14.5,,,"44018",42.203,-70.154,0,"CAPE COD - 9 NM North of Provincetown, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 260,4,5,,,,,1002.9,0.7,16.2,,15.9,,,"44020",41.497,-70.283,0,"NANTUCKET SOUND","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 ,8,9,,,,,1006.7,1.2,,,,,,"44025",40.251,-73.164,0,"LONG ISLAND - 30 NM South of Islip, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 50,14,16,,,,,,,,,,,,"44027",44.283,-67.3,0,"Jonesport, ME - 20 NM SE of Jonesport, ME","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 ,4,5,,,,,1007.2,1.6,,,,,,"44065",40.369,-73.703,0,"New York Harbor Entrance - 15 NM SE of Breezy Point , NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-260,4,5,,,,,,,,,,,,"44066",39.618,-72.644,0,"Texas Tower #4 - 75 NM East of Long Beach, NJ","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
+250,5,5,,,,,1008.4,1.6,18.1,,14.5,,,"44066",39.618,-72.644,0,"Texas Tower #4 - 75 NM East of Long Beach, NJ","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 190,5,6,1.1,9,,,1004.2,0.8,11.6,11.7,,,,"44150",42.5,-64.02,0,"La Have Bank","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 90,9,12,2.2,6,,,1005,-1,9.5,8.2,,,,"44258",44.5,-63.4,0,"Halifax Harbour","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 ,,,1.2,4,,,1010.4,-0.6,7.8,8.3,,,,"44488",45.44,-60.95,0,"East of Chedabucto Bay","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
@@ -85,29 +85,21 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 310,7,8,,,,,1018.2,0,,,,,,"46027",41.84,-124.382,0,"ST GEORGES - 8 NM NW of Crescent City, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 320,5,7,,,,,1013.8,-0.8,,,,,,"46028",35.77,-121.903,0,"CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 330,1,2,,,,,1017.2,-1.6,,,,,,"46029",46.163,-124.487,0,"COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-,,,1.9,8,5.6,247,1019.9,0.6,5.7,5.4,,,,"46035",57.016,-177.703,0,"CENTRAL BERING SEA - 310 NM North of Adak, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
 310,8,10,2.4,10,,,1019.5,-0.3,10.9,12.1,,,,"46036",48.36,-133.94,0,"South Nomad","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 320,7,8,,,,,1016.8,-1,12,,8.5,,,"46041",47.352,-124.739,0,"CAPE ELIZABETH - 45NM NW of Aberdeen, WA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 310,7,10,,,,,1015,0,13.3,,13,,,"46042",36.785,-122.396,0,"MONTEREY - 27NM WNW of Monterey, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 300,8,10,,,,,1014.1,-0.8,,,,,,"46047",32.388,-119.525,0,"TANNER BANK - 121 NM West of San Diego, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 330,1,2,,,,,1016.9,-1.8,,,,,,"46050",44.669,-124.546,0,"STONEWALL BANK - 20NM West of Newport, OR","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-250,8,10,1.1,5,4,280,1011.7,,,16.9,,,,"46053",34.241,-119.839,0,"EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
 310,10,13,,,,,1013.1,-0.5,14.4,,14,,,"46054",34.274,-120.468,0,"WEST SANTA BARBARA  38 NM West of Santa Barbara, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 330,6,8,,,,,1023.1,-0.4,14.5,,14.3,,,"46059",38.069,-129.976,0,"WEST CALIFORNIA - 357NM West of San Francisco, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-180,5,6,0.5,10,4.5,173,1018,1,10.8,11,,,,"46060",60.571,-146.798,0,"WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
-200,4,4,1.2,10,6.5,187,1018.8,1,10.3,10.9,,,,"46061",60.238,-146.833,0,"Seal Rocks - Between Montague and Hinchinbrook Islands, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
-280,4,5,,,,,1027.9,1,7.5,,6.3,,,"46066",52.765,-155.009,0,"SOUTH KODIAK - 310NM SSW of Kodiak, AK","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
+280,3,4,,,,,1027.3,1,,,,,,"46066",52.765,-155.009,0,"SOUTH KODIAK - 310NM SSW of Kodiak, AK","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
 300,8,11,,,,,1013.2,-0.4,,,,,,"46069",33.677,-120.213,0,"SOUTH SANTA ROSA IS. CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-70,11,14,2.1,6,5.4,87,1017.5,,,,,,,"46072",51.666,-172.114,0,"CENTRAL ALEUTIANS 230 NM SW Dutch Harbor","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687056600000000000
-,,,1,12,5.6,153,1024.3,-0.5,7.1,7.3,,,,"46073",55.008,-172.012,0,"SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687056600000000000
-80,1,2,,,,,1027.5,0,,,,,,"46075",53.969,-160.794,0,"SHUMAGIN ISLANDS - 85NM South of Sand Point, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
+70,12,14,,,,,1017.3,-2.1,,,,,,"46072",51.666,-172.114,0,"CENTRAL ALEUTIANS 230 NM SW Dutch Harbor","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
+80,2,2,,,,,1027.3,0,8.1,,5.4,,,"46075",53.969,-160.794,0,"SHUMAGIN ISLANDS - 85NM South of Sand Point, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 200,5,6,,,,,1019,0.7,,,,,,"46076",59.471,-148.009,0,"CAPE CLEARE - 17 NM South of Montague Is,  AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-230,7,8,0.7,5,4.3,218,1022.4,1.5,9.4,7.1,7.9,,,"46077",57.869,-154.211,0,"SHELIKOF STRAIT, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
 340,1,2,,,,,1023.5,1.9,,,,,,"46078",55.561,-152.599,0,"ALBATROSS BANK - 104NM South of Kodiak Is., AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 220,3,5,,,,,1021.7,1,9.6,,8.4,,,"46080",57.916,-150.133,0,"PORTLOCK BANK - 76 NM ENE of Kodiak, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-120,6,7,0.2,,2.4,,1017.9,1,12.6,,8.4,,,"46081",60.802,-148.283,0,"Western Prince William Sound","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
 270,4,5,,,,,1018.2,0.7,10.1,,8.8,,,"46082",59.67,-143.353,0,"Cape Suckling - 35 NM SE of Kayak Is, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
-340,6,7,2.1,10,7.2,192,1016.2,0.6,10.6,10,7.7,,,"46083",58.27,-138.019,0,"FAIRWEATHER GROUND - 105 NM West  of Juneau, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687056600000000000
 330,6,8,,,,,1014.3,0.7,,,,,,"46084",56.614,-136.093,0,"CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 290,7,10,,,,,1013.3,0,16.5,,15,,,"46086",32.499,-118.052,0,"SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1687057200000000000
 270,6,8,,,,,1014.6,-1.3,,,,,,"46087",48.493,-124.727,0,"Neah Bay - 6 NM North of Cape Flattery, WA (Traffic Separation Lighted Buoy)","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1687057200000000000
@@ -117,7 +109,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 290,3,4,2.2,10,,,1014.9,-1,11.4,11.3,,,,"46132",49.78,-127.89,0,"South Brooks","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 270,6,9,2.7,11,,,1014.3,-0.2,14.6,11.1,,,,"46147",51.83,-131.22,0,"South Moresby","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 220,6,7,0.2,2,,,1012.8,0.4,10.6,14.4,,,,"46181",53.83,-128.83,0,"Nanakwa Shoal","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
-320,4,5,,,,,1013.4,0.2,10.9,12.6,,,,"46183",53.62,-131.1,0,"North Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687060800000000000
+330,4,4,,,,,1013.7,0.4,10.8,12.6,,,,"46183",53.62,-131.1,0,"North Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 ,,,2.6,10,,,1016.5,1.6,9.6,9.8,,,,"46184",53.92,-138.85,0,"North Nomad","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 290,3,4,0.9,9,,,1013.7,-0.2,11,12.6,,,,"46185",52.42,-129.79,0,"South Hecate Strait","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
 270,5,6,2.2,12,,,1013.9,-0.5,10.8,12,,,,"46204",51.38,-128.77,0,"West Sea Otter","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1687064400000000000
@@ -164,17 +156,19 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 210,3.1,3.6,,,,,1018.2,0.8,12.5,,,,,"BLIA2",60.839,-146.884,0,"Bligh Reef Light, AK","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 ,3.1,3.6,,,,,,,,,,,,"BURL1",28.905,-89.428,0,"Southwest Pass, LA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 300,9.3,10.3,,,,,1004.7,1.1,15.3,,,,,"BUZM3",41.397,-71.033,0,"Buzzards Bay, MA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
+230,2.6,3.1,,,,,,,,,,,,"CBLO1",41.981,-80.556,177,"Conneaut Breakwater Light, OH","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1687057200000000000
 210,1.5,2.1,,,,,1013.8,0.7,24.3,,,,,"CDRF1",29.136,-83.029,1.8,"Cedar Key, FL","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 190,3.6,4.1,,,,,1013,1.8,23.8,,,,,"CLKN7",34.622,-76.525,4.6,"Cape Lookout, NC","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 50,1.5,2.6,,,,,1013.9,1,18.7,,,,,"CLSM4",42.471,-82.877,175,"St. Clair Shores, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1687057200000000000
 170,4.1,,,,,,1013.4,,7.3,,6.4,,,"CWCI",47.334,-85.833,163,"Caribou Island","Environment and Climate Change Canada","International Partners","fixed","y","n","n","n",1687064400000000000
 220,4.1,4.6,,,,,1012,1.5,16.2,,,,,"DBLN6",42.494,-79.354,182.9,"Dunkirk, NY","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 330,5.7,6.2,,,,,1016.2,-1,,,,,,"DESW1",47.675,-124.485,21.3,"Destruction Island, WA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
+300,1,1.5,,,,,1011.7,0.3,12.8,,10.7,,,"DISW3",47.079,-90.728,191.7,"Devils Island, WI","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 160,2.6,3.1,,,,,1012.1,1.1,25.3,,24,,,"FBIS1",32.685,-79.888,3,"Folly Island, SC","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 260,5.1,5.7,,,,,1013,0,9.9,,,,,"FFIA2",57.272,-133.63,6.7,"Five Fingers, AK","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 190,6.2,8.2,,,,,1019.8,0.4,11.6,,7.2,,,"FILA2",59.332,-151.995,17.9,"Flat Island Light, AK","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 40,3.1,4.1,,,,,1013.2,0.7,12.2,,,,,"GTRM4",47.179,-88.241,190,"Superior Grand Traverse Bay, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1687057200000000000
-,0,1.5,,,,,1011.9,,19.1,,,,,"HHLO1",41.401,-82.545,177,"Huron Harbor Light, OH","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1687056600000000000
+170,0.5,1,,,,,1011.9,0.7,18.7,,,,,"HHLO1",41.401,-82.545,177,"Huron Harbor Light, OH","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1687057200000000000
 10,7.2,8.2,,,,,1003.5,0.6,14.7,,14.7,,,"IOSN3",42.967,-70.623,13.1,"Isle of Shoals, NH","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1687057200000000000
 180,5.1,9.3,,,,,,,29,,27,2.6,,"KATP",27.195,-90.027,0,"Green Canyon 787 / Atlantis (BP)","Federal Aviation Administration","Marine METAR","oilrig","y","n","n","n",1687066800000000000
 170,8.8,,,,,,,,29,,26,4.3,,"KBQX",28.314,-95.62,0,"Brazos 538 (Transco)","Federal Aviation Administration","Marine METAR","oilrig","y","n","n","n",1687066500000000000
