@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-07-17T05:05:01UTC" count="1321">
+<stations created="2023-07-17T05:20:01UTC" count="1321">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -380,7 +380,7 @@
   <station id="46100" lat="46.851" lon="-124.964" elev="0" name="OOI Westport Offshore" owner="NSF's Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46108" lat="59.596" lon="-151.829" elev="0" name="Lower Cook Inlet (204)" owner="Alaska Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46114" lat="36.7" lon="-122.343" elev="0" name="West Monterey Bay, CA (185)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46116" lat="46.287" lon="-124.016" elev="0" name="SATURN Estuary Station #07, Baker Bay, WA" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46116" lat="46.287" lon="-124.016" elev="0" name="SATURN Estuary Station #07, Baker Bay, WA" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="46117" lat="46.176" lon="-123.869" elev="0" name="SATURN Estuary Station #09, Youngs Bay, OR" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46118" lat="48.724" lon="-122.576" elev="0" name="Se'lhaem Bellingham Bay" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46119" lat="47.967" lon="-124.95" elev="0" name="Cha'Ba La Push" owner="Northwest Association of Networked Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1179,10 +1179,10 @@
   <station id="sdhn4" lat="40.467" lon="-74.009" elev="1.9" name="8531680 - Sandy Hook, NJ" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdia2" lat="58.277" lon="-134.389" elev="4" name="South Douglas, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdrt2" lat="28.407" lon="-96.712" elev="0" name="8773037 - Seadrift, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="sefo3" lat="46.204" lon="-123.759" elev="0" name="SATURN Estuary Station #04 at Mott Basin" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="sefo3" lat="46.204" lon="-123.759" elev="0" name="SATURN Estuary Station #04 at Mott Basin" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="seim1" lat="43.08" lon="-70.742" elev="2.05" name="8419870 - Seavey Island, ME" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="seqa2" lat="59.441" lon="-151.721" name="Seldovia Deep, Katchemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="seto3" lat="46.2" lon="-123.941" elev="0" name="SATURN Estuary Station #03" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="seto3" lat="46.2" lon="-123.941" elev="0" name="SATURN Estuary Station #03" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="sfxc1" lat="38.2" lon="-122.026" elev="2.74" name="Rush Ranch, San Francisco Bay Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sgnt2" lat="28.771" lon="-95.617" name="8772985 - Sargent, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sgnw3" lat="43.749" lon="-87.693" elev="175.9" name="Sheboygan, WI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
