@@ -69,7 +69,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 30,4,5,,,,,1019.3,,30.1,31,26,,,"42023",26.01,-83.086,0,"C13 - WFS South Buoy, 50m Isobath","COMPS (University of South Florida)","IOOS Partners","buoy","y","y","n","n",1690374900000000000
 50,5,6,,,,,1018.9,,30.2,,26.2,,,"42026",25.171,-83.475,0,"C22 - Loop Current Pressure Point Buoy, 70m Isobath","COMPS (University of South Florida)","IOOS Partners","buoy","y","y","n","n",1690374900000000000
 240,3,5,,,,,1019.2,,28.2,30.1,23.4,,,"42035",29.237,-94.404,0,"GALVESTON,TX -  22 NM East of Galveston, TX","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
-10,3,4,,,4.5,247,1020.3,,28.9,28.9,24.8,,,"42036",28.501,-84.508,0,"WEST TAMPA  - 112 NM WNW of Tampa, FL","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
+10,3,4,0.3,,4.5,247,1020.3,,28.9,28.9,24.8,,,"42036",28.501,-84.508,0,"WEST TAMPA  - 112 NM WNW of Tampa, FL","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
 20,2,3,,,,,1020.6,,29.7,,22.2,,,"42039",28.787,-86.007,0,"PENSACOLA - 115NM SSE of Pensacola, FL","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 180,1,3,,,,,1020.5,,29.6,,22.8,,,"42040",29.207,-88.237,0,"LUKE OFFSHORE TEST PLATFORM - 63 NM South of Dauphin Island, AL","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378200000000000
 90,7,9,,,,,1017,,29.9,30.2,27.3,,,"42055",22.14,-94.112,0,"BAY OF CAMPECHE - 214 NM NE of Veracruz, MX","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
@@ -90,7 +90,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 50,2,3,,,,,1020.5,,24.9,25.5,22.3,,,"44009",38.46,-74.692,0,"DELAWARE BAY 26 NM Southeast of Cape May, NJ","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
 240,4,5,,,,,1019.1,,21.4,21.9,,,,"44011",41.093,-66.562,0,"GEORGES BANK 170 NM East of Hyannis, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 240,3,4,,,,,1018.2,,20.4,20.3,18.8,,,"44013",42.346,-70.651,0,"BOSTON 16 NM East of Boston, MA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
-60,3,3,,,4.8,78,1021.1,,27.4,27.4,24.6,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
+60,3,3,0.5,,4.8,78,1021.1,,27.4,27.4,24.6,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
 230,6,6,,,,,1018.5,,20.6,20.7,19,,,"44018",42.203,-70.154,0,"CAPE COD - 9 NM North of Provincetown, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 250,5,6,,,,,1018.6,,23.8,24.6,20.7,,,"44020",41.497,-70.283,0,"NANTUCKET SOUND","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 220,2,,,,,,,,23.8,23.1,19,,,"44022",40.883,-73.728,0,"Execution Rocks","MYSOUND","IOOS Partners","buoy","y","n","n","n",1690379100000000000
@@ -210,7 +210,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 360,9,11,,,,,1021,,16.2,16.2,,,,"46050",44.669,-124.546,0,"STONEWALL BANK - 20NM West of Newport, OR","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 230,3,4,,,,,1012.4,,17.1,,16.6,,,"46053",34.241,-119.839,0,"EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 310,8,10,,,,,1013.4,,15.6,16.5,15.2,,,"46054",34.274,-120.468,0,"WEST SANTA BARBARA  38 NM West of Santa Barbara, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
-360,7,8,,,5,291,1023.4,,18.7,19.6,14.9,,,"46059",38.069,-129.976,0,"WEST CALIFORNIA - 357NM West of San Francisco, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
+360,7,8,1.2,,5,291,1023.4,,18.7,19.6,14.9,,,"46059",38.069,-129.976,0,"WEST CALIFORNIA - 357NM West of San Francisco, CA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690378800000000000
 180,3,3,0.4,7,4.5,169,1019.2,0.6,14.3,14.8,,,,"46060",60.571,-146.798,0,"WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690375800000000000
 140,4,5,0.6,6,4.4,193,1019.8,0.9,14.2,14.9,,,,"46061",60.238,-146.833,0,"Seal Rocks - Between Montague and Hinchinbrook Islands, AK","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1690375800000000000
 170,5,6,,,,,1021.7,,11.4,11.2,10.8,,,"46066",52.765,-155.009,0,"SOUTH KODIAK - 310NM SSW of Kodiak, AK","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1690378800000000000
@@ -559,8 +559,8 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 160,3.6,4.6,,,,,1009.5,-2,21.5,,,,,"KNSW3",42.589,-87.809,176,"Kenosha Light, Kenosha, WI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1690376400000000000
 50,1.5,2.1,,,,,,,11.7,,10.4,,,"KNXA2",60.552,-151.274,3.7,"Kenai, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1690379040000000000
 140,1.5,3.1,,,,,1014.5,,15.9,,13.9,,,"KOZA2",66.901,-162.589,6,"KOTZEBUE MXAK, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1690379040000000000
-,0,,,,,,1009.4,,22.2,,19.4,,,"KP53",46.417,-86.65,0,"Munising Lake Shore, MI","NWS Central Region","Marine METAR","fixed","y","n","n","n",1690376160000000000
-,2.6,,,,,,1013.2,,25,,19.4,,,"KP58",44.017,-82.8,179,"Port Hope, MI","NWS Central Region","Marine METAR","fixed","y","n","n","n",1690376100000000000
+,2.1,,,,,,1009.6,,22.8,,19.4,,,"KP53",46.417,-86.65,0,"Munising Lake Shore, MI","NWS Central Region","Marine METAR","fixed","y","n","n","n",1690379760000000000
+,3.1,,,,,,1012.8,,26.7,,18.9,,,"KP58",44.017,-82.8,179,"Port Hope, MI","NWS Central Region","Marine METAR","fixed","y","n","n","n",1690379700000000000
 360,3.1,,,,,,1010,,16.1,,15.6,,,"KP59",47.467,-87.883,0,"Copper Harbor, MI","NWS Central Region","Marine METAR","fixed","y","n","n","n",1690379460000000000
 220,1.5,2.6,,,,,1020.5,,22.9,22.6,,,,"KPTN6",40.811,-73.765,2.1,"8516945 - Kings Point, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1690378200000000000
 80,2.6,4.6,,,,,,,,,,,,"KPTV2",37.165,-75.988,2.6,"8632200 - Kiptopeke, VA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1690378200000000000
