@@ -46,7 +46,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,0.6,10,6.1,108,,,,,,,,"41065",32.802,-79.619,0,"Capers Nearshore Waves (CAP2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1693790940000000000
 180,2,3,,,,,1016.7,,25.3,,18.6,,,"41066",32.536,-79.656,0,"CHR60","CORMP","IOOS Partners","buoy","y","n","n","n",1693789680000000000
 ,,,0.8,10,7.2,114,,,,28.9,,,,"41067",32.276,-80.406,0,"FRP2WAVE","CORMP","IOOS Partners","buoy","y","n","n","n",1693790700000000000
-,,,1,10,7.9,102,,,,,,,,"41076",32.536,-79.659,0,"CHR60WAVE","CORMP","IOOS Partners","buoy","y","n","n","n",1693788300000000000
+,,,1,10,8.1,103,,,,,,,,"41076",32.536,-79.659,0,"CHR60WAVE","CORMP","IOOS Partners","buoy","y","n","n","n",1693791900000000000
 ,,,0.6,9,5.2,119,,,25.6,27.4,,,,"41108",33.721,-78.016,0,"Wilmington Harbor, NC - (200)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1693791000000000000
 ,,,0.8,11,,,,,,27.5,,,,"41110",34.143,-77.716,0,"Masonboro Inlet, ILM2, NC (150)","CORMP","IOOS Partners","buoy","y","n","n","n",1693790760000000000
 ,,,1,10,5,82,,,26.8,28.7,,,,"41112",30.709,-81.292,0,"Offshore Fernandina Beach, FL (132)","SCRIPPS","IOOS Partners","buoy","y","y","n","n",1693791000000000000
@@ -86,13 +86,13 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 160,2,3,1.5,11,,,1010.7,,18.7,17.2,17.8,,,"44007",43.525,-70.14,0,"PORTLAND - 12 NM Southeast of Portland,ME","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693792200000000000
 200,3,4,1.5,10,,,1011.8,,20,19.4,19.8,,,"44008",40.496,-69.25,0,"NANTUCKET 54 NM Southeast of Nantucket","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1693792200000000000
 220,4,5,1.4,11,7.5,90,1012.9,,24.9,23.7,22.7,,,"44009",38.46,-74.692,0,"DELAWARE BAY 26 NM Southeast of Cape May, NJ","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1693792200000000000
-210,1,2,,,7.1,109,1013.1,,18,17.7,,,,"44011",41.093,-66.562,0,"GEORGES BANK 170 NM East of Hyannis, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693791600000000000
+210,1,2,1.1,,7.1,109,1013.1,,18,17.7,,,,"44011",41.093,-66.562,0,"GEORGES BANK 170 NM East of Hyannis, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693791600000000000
 170,2,3,,,,,1011.1,,19.7,,18.8,,,"44013",42.346,-70.651,0,"BOSTON 16 NM East of Boston, MA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1693791600000000000
 220,7,9,1.4,10,6,65,1015.1,,25.6,26.5,22.3,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1693792200000000000
 200,3,5,,,,,1011.4,0.8,18.8,16.7,17.9,,,"44018",42.203,-70.154,0,"CAPE COD - 9 NM North of Provincetown, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693792800000000000
 220,4,5,,,,,1011.1,0.7,21.3,21.7,20.5,,,"44020",41.497,-70.283,0,"NANTUCKET SOUND","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693792800000000000
-,2,2,,,6.5,142,1010.7,,,21.4,,,,"44025",40.251,-73.164,0,"LONG ISLAND - 30 NM South of Islip, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693791600000000000
-150,3,4,,,,,,,,12.4,,,,"44027",44.283,-67.3,0,"Jonesport, ME - 20 NM SE of Jonesport, ME","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693791600000000000
+,2,2,,,,,1010.6,0.4,,21.4,,,,"44025",40.251,-73.164,0,"LONG ISLAND - 30 NM South of Islip, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693792800000000000
+150,2,3,,,,,,,,12.3,,,,"44027",44.283,-67.3,0,"Jonesport, ME - 20 NM SE of Jonesport, ME","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1693792800000000000
 150,3,3,0.9,11,,,1009.4,,20.2,19.3,,1.6,,"44029",42.523,-70.566,0,"Buoy A01 - Massachusetts Bay","Northeastern Regional Association of Coastal Ocean Observing Systems","IOOS Partners","buoy","y","y","y","n",1693785840000000000
 90,2,2,1.2,11,,,1010.2,,19.8,19.2,,1.6,,"44030",43.179,-70.426,0,"Buoy B01 - Western Maine Shelf","Northeastern Regional Association of Coastal Ocean Observing Systems","IOOS Partners","buoy","y","y","y","n",1693785840000000000
 120,1,2,1.4,11,,,1010.2,,17.1,,,1.6,,"44032",43.715,-69.355,0,"Buoy E01 - Central Maine Shelf","Northeastern Regional Association of Coastal Ocean Observing Systems","IOOS Partners","buoy","y","y","n","n",1693785840000000000
@@ -140,7 +140,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 200,7,8,0.4,3,,,1007.1,0.4,26.8,21.1,,,,"45014",44.794,-87.758,176,"GB17 - South Green Bay, WI","University of Wisconsin-Milwaukee","IOOS Partners","buoy","y","y","y","n",1693789200000000000
 20,1,2,0.4,3,,269,1009,,21,19.1,18.3,,,"45022",45.404,-85.088,176,"Little Traverse Bay Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1693793400000000000
 30,2,3,0.2,,,255,,,19.2,17.4,18.7,,,"45023",47.27,-88.607,183,"North Entry Buoy, North Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","y","y","n",1693793400000000000
-200,6,7,0.9,5,,237,1012.2,1,20.7,18.3,17.6,,,"45024",43.971,-86.554,176,"Ludington Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1693792800000000000
+200,6,7,0.9,5,,231,1012.2,1,20.7,18.3,17.6,,,"45024",43.971,-86.554,176,"Ludington Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1693792800000000000
 170,4,5,0.4,3,,232,1013.5,,24.6,22.2,20.2,,,"45026",41.982,-86.619,176,"Cook Nuclear Plant Buoy, Stevensville, MI","Limno Tech","IOOS Partners","buoy","y","y","y","n",1693792200000000000
 240,1,,0.1,,,20,1005.7,,25.3,20.1,23.3,,,"45027",46.86,-91.93,183,"McQuade Harbor Nearshore, MN","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","y","n",1693792200000000000
 220,2,,0.1,,,138,1004.9,,27.4,22.2,22.7,,,"45028",46.814,-91.829,183,"Western Lake Superior","University of Minnesota, Duluth","IOOS Partners","buoy","y","n","n","n",1693792200000000000
@@ -697,7 +697,6 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 250,1,5.7,,,,,1017.1,,18.7,,,,,"PPXC1",37.906,-122.365,0,"9414847 - Point Potrero, Richmond, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1693791000000000000
 110,11.8,13.4,,,,,999.1,,2.8,2.5,,,,"PRDA2",70.4,-148.527,0,"9497645 - Prudhoe Bay, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1693791000000000000
 20,5.7,7.7,,,,,1013.6,,28.1,,,,,"PRHH1",21.367,-157.964,0,"Pearl Harbor, HI","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1693791000000000000
-260,3.1,7.7,,,,,,,,,,,,"PRIM4",45.357,-83.492,184,"Presque Isle Light, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1693785000000000000
 260,6.7,7.7,,,,,,,,,,,,"PRJC1",33.733,-118.186,0,"9410665 - Los Angeles Pier J, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1693791000000000000
 170,1.5,3.6,,,,,1015.5,,13.2,,10,,,"PRTA2",58.411,-134.955,30,"Point Retreat, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1693789800000000000
 ,,,,,,,,,21.8,,,,,"PRUR1",41.605,-71.304,1.7,"8452314 - Sandy Point, Prudence Island, RI","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1693792080000000000
@@ -779,7 +778,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 230,3.6,,,,,,,,19.8,,16,,,"SRLM4",45.773,-84.137,177,"Spectacle Reef Light, MI","GLERL","IOOS Partners","fixed","y","n","n","n",1693792800000000000
 190,6.7,7.7,,,,,1013.1,0,30.3,,,,,"SRST2",29.683,-94.033,0.7,"Sabine Pass, TX","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1693792800000000000
 60,2.1,4.1,,,,,1014.4,,13.2,,9.7,,,"SRXA2",58.383,-134.652,2,"Statter Harbor MXAK, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1693793040000000000
-,,,0.6,10,3.8,151,,,,27.8,,,,"SSBN7",33.838,-78.484,0,"Sunset Beach Nearshore Waves (SUN2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1693788300000000000
+,,,0.6,10,,,,,,27.8,,,,"SSBN7",33.838,-78.484,0,"Sunset Beach Nearshore Waves (SUN2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1693788300000000000
 60,4.1,4.1,,,,,,,,,,,,"STDM4",47.184,-87.225,182.9,"Stannard Rock, MI","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1693792800000000000
 170,1,2.6,,,,,,,13.3,,11.3,,,"STXA2",57.116,-135.391,10.7,"Sitka AML, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1693792980000000000
 170,3.6,3.6,,,,,,,23.8,,,,,"SVNM4",42.401,-86.288,176,"South Haven Light, South Haven, MI","GLERL","IOOS Partners","fixed","y","n","n","n",1693791600000000000
