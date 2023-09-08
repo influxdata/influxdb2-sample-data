@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-09-08T16:45:01UTC" count="1327">
+<stations created="2023-09-08T17:00:01UTC" count="1327">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13002" lat="21" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13008" lat="15" lon="-38" elev="0" name="Reggae" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="13009" lat="8" lon="-38" elev="0" name="Lambada" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="13009" lat="8" lon="-38" elev="0" name="Lambada" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13010" lat="0" lon="0" elev="0" name="Soul" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14040" lat="-8" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -274,7 +274,7 @@
   <station id="45142" lat="42.74" lon="-79.29" elev="174" name="Port Colborne" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45143" lat="44.94" lon="-80.627" elev="177" name="South Georgian Bay" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45144" lat="53.23" lon="-98.29" elev="217" name="Lake Winnipeg North" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45145" lat="51.87" lon="-96.97" elev="217" name="Lake Winnipeg Narrows" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="45145" lat="51.87" lon="-96.97" elev="217" name="Lake Winnipeg Narrows" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45147" lat="42.43" lon="-82.68" elev="175" name="Lake St Clair" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45148" lat="49.65" lon="-94.5" elev="332" name="Lake of the Woods" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45149" lat="43.54" lon="-82.08" elev="177" name="Southern Lake Huron" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -565,7 +565,7 @@
   <station id="62103" lat="49.9" lon="-2.9" elev="0" name="Channel Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62105" lat="55.41" lon="-11.81" elev="0" name="K4 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="62114" lat="58.3" lon="0" name="Tartan &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="62114" lat="58.3" lon="0" name="Tartan &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62121" lat="53.5" lon="2.7" name="Carrack AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62124" lat="53.6" lon="-3.6" name="Conwy" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62125" lat="53.8" lon="-3.5" name="" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
@@ -672,7 +672,7 @@
   <station id="brhc3" lat="41.174" lon="-73.181" elev="1.9" name="8467150 - Bridgeport, CT" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="brim2" lat="38.781" lon="-76.714" name="Railroad, Chesapeake Bay Reserve, MD" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="brnd1" lat="38.987" lon="-75.113" elev="1.9" name="8555889 - Brandywine Shoal Light, DE" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="bsbm4" lat="44.055" lon="-86.514" elev="184" name="Big Sable Point, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="bsbm4" lat="44.055" lon="-86.514" elev="184" name="Big Sable Point, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bsca1" lat="30.329" lon="-87.829" elev="0" name="Bon Secour, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="bskf1" lat="25.266" lon="-81.162" name="Big Sable Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="bslm2" lat="38.781" lon="-76.708" elev="0.3" name="Jug Bay, Chesapeake Bay Reserve, MD" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
