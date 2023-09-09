@@ -104,9 +104,9 @@
 ,,94,2023-09-09T08:14:06.417Z,3.1,cdi,earthquake,7000kujm,us7000kujm,mb,us,"M 4.3 - 76 km NE of Los Andes, Chile"
 ,,95,2023-09-09T10:18:30.031Z,4.8,cdi,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,96,2023-09-09T12:24:22.159Z,2,cdi,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,97,2023-09-09T13:57:56.534Z,2.5,cdi,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,97,2023-09-09T13:57:56.534Z,2.5,cdi,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,98,2023-09-09T14:43:24.476Z,3.8,cdi,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
-,,99,2023-09-09T20:03:14.066Z,2,cdi,earthquake,7000kunh,us7000kunh,mb,us,"M 4.0 - 29 km SSW of Melipilla, Chile"
+,,99,2023-09-09T20:03:14.066Z,3.1,cdi,earthquake,7000kunh,us7000kunh,mb,us,"M 4.0 - 29 km SSW of Melipilla, Chile"
 ,,100,2023-09-08T17:25:05.95Z,5.4,cdi,earthquake,71131324,nc71131324,ml,nc,"M 4.3 - 12 km NE of Burney, CA"
 ,,101,2023-09-03T08:36:08.91Z,2,cdi,earthquake,71423363,pr71423363,md,pr,"M 3.3 - 64 km NE of Cruz Bay, U.S. Virgin Islands"
 ,,102,2023-09-03T09:41:28.98Z,2.7,cdi,earthquake,71423388,pr71423388,md,pr,M 2.5 - Puerto Rico region
@@ -205,7 +205,7 @@
 ,,195,2023-09-08T14:47:37.718Z,8.2,depth,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,196,2023-09-08T14:49:32.222Z,8,depth,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,197,2023-09-08T15:02:04.573Z,7.8,depth,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,198,2023-09-09T12:52:34.436Z,7.8,depth,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,198,2023-09-09T12:52:34.436Z,7.8,depth,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,199,2023-09-09T16:27:51.194Z,12.2,depth,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,200,2023-09-08T07:53:36.077Z,8.2,depth,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,201,2023-09-08T13:07:49.668Z,8.4,depth,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -1196,7 +1196,7 @@
 ,,1186,2023-09-09T10:18:30.031Z,45.813,depth,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,1187,2023-09-09T11:52:06.712Z,10,depth,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,1188,2023-09-09T12:24:22.159Z,21.372,depth,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,1189,2023-09-09T13:57:56.534Z,35.971,depth,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,1189,2023-09-09T13:57:56.534Z,35.971,depth,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,1190,2023-09-09T14:43:24.476Z,9.854,depth,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,1191,2023-09-09T16:37:33.698Z,11.872,depth,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,1192,2023-09-09T17:30:59.708Z,173.001,depth,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -2167,7 +2167,7 @@
 ,,2152,2023-09-08T14:47:37.718Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865648.geojson,detail,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,2153,2023-09-08T14:49:32.222Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865649.geojson,detail,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,2154,2023-09-08T15:02:04.573Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865650.geojson,detail,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,2155,2023-09-09T12:52:34.436Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865652.geojson,detail,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,2155,2023-09-09T12:52:34.436Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865652.geojson,detail,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,2156,2023-09-09T16:27:51.194Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865653.geojson,detail,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,2157,2023-09-08T07:53:36.077Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865658.geojson,detail,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,2158,2023-09-08T13:07:49.668Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00865659.geojson,detail,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -3158,7 +3158,7 @@
 ,,3143,2023-09-09T10:18:30.031Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kuka.geojson,detail,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,3144,2023-09-09T11:52:06.712Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kukn.geojson,detail,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,3145,2023-09-09T12:24:22.159Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kuku.geojson,detail,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,3146,2023-09-09T13:57:56.534Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kulb.geojson,detail,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,3146,2023-09-09T13:57:56.534Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kulb.geojson,detail,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,3147,2023-09-09T14:43:24.476Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kulj.geojson,detail,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,3148,2023-09-09T16:37:33.698Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kumk.geojson,detail,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,3149,2023-09-09T17:30:59.708Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000kumr.geojson,detail,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -4129,7 +4129,7 @@
 ,,4109,2023-09-08T14:47:37.718Z,0.038,dmin,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,4110,2023-09-08T14:49:32.222Z,0.038,dmin,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,4111,2023-09-08T15:02:04.573Z,0.036,dmin,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,4112,2023-09-09T12:52:34.436Z,0.029,dmin,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,4112,2023-09-09T12:52:34.436Z,0.029,dmin,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,4113,2023-09-09T16:27:51.194Z,0.159,dmin,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,4114,2023-09-08T07:53:36.077Z,0.078,dmin,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,4115,2023-09-08T13:07:49.668Z,0.074,dmin,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -4785,7 +4785,7 @@
 ,,4765,2023-09-09T10:18:30.031Z,5.244,dmin,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,4766,2023-09-09T11:52:06.712Z,3.682,dmin,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,4767,2023-09-09T12:24:22.159Z,2.918,dmin,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,4768,2023-09-09T13:57:56.534Z,2.529,dmin,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,4768,2023-09-09T13:57:56.534Z,2.529,dmin,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,4769,2023-09-09T14:43:24.476Z,1.493,dmin,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,4770,2023-09-09T16:37:33.698Z,3.367,dmin,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,4771,2023-09-09T17:30:59.708Z,3.805,dmin,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -5354,9 +5354,9 @@
 ,,5329,2023-09-09T08:14:06.417Z,1,felt,earthquake,7000kujm,us7000kujm,mb,us,"M 4.3 - 76 km NE of Los Andes, Chile"
 ,,5330,2023-09-09T10:18:30.031Z,7,felt,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,5331,2023-09-09T12:24:22.159Z,1,felt,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,5332,2023-09-09T13:57:56.534Z,2,felt,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,5332,2023-09-09T13:57:56.534Z,2,felt,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,5333,2023-09-09T14:43:24.476Z,1,felt,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
-,,5334,2023-09-09T20:03:14.066Z,1,felt,earthquake,7000kunh,us7000kunh,mb,us,"M 4.0 - 29 km SSW of Melipilla, Chile"
+,,5334,2023-09-09T20:03:14.066Z,2,felt,earthquake,7000kunh,us7000kunh,mb,us,"M 4.0 - 29 km SSW of Melipilla, Chile"
 ,,5335,2023-09-08T17:25:05.95Z,5,felt,earthquake,71131324,nc71131324,ml,nc,"M 4.3 - 12 km NE of Burney, CA"
 ,,5336,2023-09-03T08:36:08.91Z,2,felt,earthquake,71423363,pr71423363,md,pr,"M 3.3 - 64 km NE of Cruz Bay, U.S. Virgin Islands"
 ,,5337,2023-09-03T09:41:28.98Z,2,felt,earthquake,71423388,pr71423388,md,pr,M 2.5 - Puerto Rico region
@@ -5460,7 +5460,7 @@
 ,,5430,2023-09-08T14:47:37.718Z,93.21,gap,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,5431,2023-09-08T14:49:32.222Z,93.31,gap,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,5432,2023-09-08T15:02:04.573Z,101.99,gap,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,5433,2023-09-09T12:52:34.436Z,90.95,gap,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,5433,2023-09-09T12:52:34.436Z,90.95,gap,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,5434,2023-09-09T16:27:51.194Z,88.85,gap,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,5435,2023-09-08T07:53:36.077Z,142.92,gap,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,5436,2023-09-08T13:07:49.668Z,142.95,gap,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -6116,7 +6116,7 @@
 ,,6086,2023-09-09T10:18:30.031Z,58,gap,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,6087,2023-09-09T11:52:06.712Z,93,gap,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,6088,2023-09-09T12:24:22.159Z,180,gap,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,6089,2023-09-09T13:57:56.534Z,184,gap,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,6089,2023-09-09T13:57:56.534Z,184,gap,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,6090,2023-09-09T14:43:24.476Z,54,gap,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,6091,2023-09-09T16:37:33.698Z,78,gap,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,6092,2023-09-09T17:30:59.708Z,43,gap,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -7087,7 +7087,7 @@
 ,,7052,2023-09-08T14:47:37.718Z,",nn00865648,",ids,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,7053,2023-09-08T14:49:32.222Z,",nn00865649,",ids,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,7054,2023-09-08T15:02:04.573Z,",nn00865650,",ids,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,7055,2023-09-09T12:52:34.436Z,",nn00865652,",ids,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,7055,2023-09-09T12:52:34.436Z,",nn00865652,",ids,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,7056,2023-09-09T16:27:51.194Z,",nn00865653,",ids,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,7057,2023-09-08T07:53:36.077Z,",nn00865658,",ids,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,7058,2023-09-08T13:07:49.668Z,",nn00865659,",ids,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -8078,7 +8078,7 @@
 ,,8043,2023-09-09T10:18:30.031Z,",us7000kuka,",ids,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,8044,2023-09-09T11:52:06.712Z,",us7000kukn,",ids,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,8045,2023-09-09T12:24:22.159Z,",us7000kuku,",ids,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,8046,2023-09-09T13:57:56.534Z,",us7000kulb,",ids,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,8046,2023-09-09T13:57:56.534Z,",us7000kulb,",ids,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,8047,2023-09-09T14:43:24.476Z,",us7000kulj,",ids,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,8048,2023-09-09T16:37:33.698Z,",us7000kumk,",ids,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,8049,2023-09-09T17:30:59.708Z,",us7000kumr,",ids,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -9049,7 +9049,7 @@
 ,,9009,2023-09-08T14:47:37.718Z,39.2226,lat,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,9010,2023-09-08T14:49:32.222Z,39.2236,lat,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,9011,2023-09-08T15:02:04.573Z,39.2255,lat,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,9012,2023-09-09T12:52:34.436Z,36.7627,lat,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,9012,2023-09-09T12:52:34.436Z,36.7627,lat,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,9013,2023-09-09T16:27:51.194Z,36.4398,lat,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,9014,2023-09-08T07:53:36.077Z,39.2227,lat,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,9015,2023-09-08T13:07:49.668Z,39.2266,lat,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -10040,7 +10040,7 @@
 ,,10000,2023-09-09T10:18:30.031Z,24.6523,lat,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,10001,2023-09-09T11:52:06.712Z,-24.8681,lat,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,10002,2023-09-09T12:24:22.159Z,16.3842,lat,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,10003,2023-09-09T13:57:56.534Z,15.8893,lat,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,10003,2023-09-09T13:57:56.534Z,15.8893,lat,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,10004,2023-09-09T14:43:24.476Z,0.0054,lat,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,10005,2023-09-09T16:37:33.698Z,-24.404,lat,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,10006,2023-09-09T17:30:59.708Z,1.5798,lat,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -11006,7 +11006,7 @@
 ,,10966,2023-09-08T14:47:37.718Z,-120.0809,lon,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,10967,2023-09-08T14:49:32.222Z,-120.0815,lon,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,10968,2023-09-08T15:02:04.573Z,-120.0864,lon,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,10969,2023-09-09T12:52:34.436Z,-116.2519,lon,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,10969,2023-09-09T12:52:34.436Z,-116.2519,lon,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,10970,2023-09-09T16:27:51.194Z,-117.0575,lon,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,10971,2023-09-08T07:53:36.077Z,-120.0805,lon,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,10972,2023-09-08T13:07:49.668Z,-120.0796,lon,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -11997,7 +11997,7 @@
 ,,11957,2023-09-09T10:18:30.031Z,92.7875,lon,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,11958,2023-09-09T11:52:06.712Z,-175.28,lon,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,11959,2023-09-09T12:24:22.159Z,-95.7735,lon,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,11960,2023-09-09T13:57:56.534Z,-96.5785,lon,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,11960,2023-09-09T13:57:56.534Z,-96.5785,lon,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,11961,2023-09-09T14:43:24.476Z,119.7709,lon,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,11962,2023-09-09T16:37:33.698Z,-176.2719,lon,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,11963,2023-09-09T17:30:59.708Z,99.7027,lon,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -12963,7 +12963,7 @@
 ,,12923,2023-09-08T14:47:37.718Z,0.8,mag,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,12924,2023-09-08T14:49:32.222Z,1,mag,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,12925,2023-09-08T15:02:04.573Z,0.7,mag,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,12926,2023-09-09T12:52:34.436Z,-0.3,mag,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,12926,2023-09-09T12:52:34.436Z,-0.3,mag,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,12927,2023-09-09T16:27:51.194Z,1.9,mag,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,12928,2023-09-08T07:53:36.077Z,0.7,mag,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,12929,2023-09-08T13:07:49.668Z,0.5,mag,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -13954,7 +13954,7 @@
 ,,13914,2023-09-09T10:18:30.031Z,4.8,mag,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,13915,2023-09-09T11:52:06.712Z,4.8,mag,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,13916,2023-09-09T12:24:22.159Z,4.2,mag,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,13917,2023-09-09T13:57:56.534Z,4.5,mag,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,13917,2023-09-09T13:57:56.534Z,4.5,mag,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,13918,2023-09-09T14:43:24.476Z,6,mag,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,13919,2023-09-09T16:37:33.698Z,4.6,mag,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,13920,2023-09-09T17:30:59.708Z,4.6,mag,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -14948,7 +14948,7 @@
 ,,14903,2023-09-08T14:47:37.718Z,11,nst,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,14904,2023-09-08T14:49:32.222Z,11,nst,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,14905,2023-09-08T15:02:04.573Z,10,nst,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,14906,2023-09-09T12:52:34.436Z,11,nst,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,14906,2023-09-09T12:52:34.436Z,11,nst,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,14907,2023-09-09T16:27:51.194Z,20,nst,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,14908,2023-09-08T07:53:36.077Z,9,nst,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,14909,2023-09-08T13:07:49.668Z,8,nst,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -15604,7 +15604,7 @@
 ,,15559,2023-09-09T10:18:30.031Z,111,nst,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,15560,2023-09-09T11:52:06.712Z,20,nst,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,15561,2023-09-09T12:24:22.159Z,55,nst,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,15562,2023-09-09T13:57:56.534Z,40,nst,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,15562,2023-09-09T13:57:56.534Z,40,nst,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,15563,2023-09-09T14:43:24.476Z,65,nst,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,15564,2023-09-09T16:37:33.698Z,47,nst,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,15565,2023-09-09T17:30:59.708Z,65,nst,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -16575,7 +16575,7 @@
 ,,16525,2023-09-08T14:47:37.718Z,"0 km S of Carnelian Bay, California",place,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,16526,2023-09-08T14:49:32.222Z,"0 km S of Carnelian Bay, California",place,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,16527,2023-09-08T15:02:04.573Z,Northern California,place,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,16528,2023-09-09T12:52:34.436Z,"48 km ESE of Beatty, Nevada",place,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,16528,2023-09-09T12:52:34.436Z,California-Nevada border region,place,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,16529,2023-09-09T16:27:51.194Z,"18 km W of Furnace Creek, California",place,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,16530,2023-09-08T07:53:36.077Z,"0 km SSE of Carnelian Bay, California",place,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,16531,2023-09-08T13:07:49.668Z,Northern California,place,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -17566,7 +17566,7 @@
 ,,17516,2023-09-09T10:18:30.031Z,"19 km S of Silchar, India",place,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,17517,2023-09-09T11:52:06.712Z,south of Tonga,place,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,17518,2023-09-09T12:24:22.159Z,"10 km NNW of Asunción Tlacolulita, Mexico",place,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,17519,2023-09-09T13:57:56.534Z,"4 km ESE of San Francisco Loxicha, Mexico",place,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,17519,2023-09-09T13:57:56.534Z,"Oaxaca, Mexico",place,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,17520,2023-09-09T14:43:24.476Z,"101 km N of Palu, Indonesia",place,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,17521,2023-09-09T16:37:33.698Z,south of the Fiji Islands,place,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,17522,2023-09-09T17:30:59.708Z,"northern Sumatra, Indonesia",place,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -18537,7 +18537,7 @@
 ,,18482,2023-09-08T14:47:37.718Z,0.157,rms,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,18483,2023-09-08T14:49:32.222Z,0.1679,rms,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,18484,2023-09-08T15:02:04.573Z,0.1389,rms,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,18485,2023-09-09T12:52:34.436Z,0.1397,rms,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,18485,2023-09-09T12:52:34.436Z,0.1397,rms,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,18486,2023-09-09T16:27:51.194Z,0.1539,rms,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,18487,2023-09-08T07:53:36.077Z,0.1743,rms,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,18488,2023-09-08T13:07:49.668Z,0.1842,rms,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -19528,7 +19528,7 @@
 ,,19473,2023-09-09T10:18:30.031Z,0.56,rms,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,19474,2023-09-09T11:52:06.712Z,0.7,rms,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,19475,2023-09-09T12:24:22.159Z,0.59,rms,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,19476,2023-09-09T13:57:56.534Z,1.38,rms,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,19476,2023-09-09T13:57:56.534Z,1.38,rms,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,19477,2023-09-09T14:43:24.476Z,0.82,rms,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,19478,2023-09-09T16:37:33.698Z,1.06,rms,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,19479,2023-09-09T17:30:59.708Z,0.63,rms,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -20499,7 +20499,7 @@
 ,,20439,2023-09-08T14:47:37.718Z,10,sig,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,20440,2023-09-08T14:49:32.222Z,15,sig,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,20441,2023-09-08T15:02:04.573Z,8,sig,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,20442,2023-09-09T12:52:34.436Z,0,sig,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,20442,2023-09-09T12:52:34.436Z,0,sig,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,20443,2023-09-09T16:27:51.194Z,56,sig,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,20444,2023-09-08T07:53:36.077Z,8,sig,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,20445,2023-09-08T13:07:49.668Z,4,sig,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -21490,14 +21490,14 @@
 ,,21430,2023-09-09T10:18:30.031Z,358,sig,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,21431,2023-09-09T11:52:06.712Z,354,sig,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,21432,2023-09-09T12:24:22.159Z,272,sig,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,21433,2023-09-09T13:57:56.534Z,312,sig,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,21433,2023-09-09T13:57:56.534Z,312,sig,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,21434,2023-09-09T14:43:24.476Z,554,sig,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,21435,2023-09-09T16:37:33.698Z,326,sig,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,21436,2023-09-09T17:30:59.708Z,326,sig,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
 ,,21437,2023-09-09T18:06:00.187Z,354,sig,earthquake,7000kumw,us7000kumw,mb,us,"M 4.8 - Rat Islands, Aleutian Islands, Alaska"
 ,,21438,2023-09-09T18:06:17.978Z,312,sig,earthquake,7000kumy,us7000kumy,mb,us,M 4.5 - Fiji region
 ,,21439,2023-09-09T18:21:29.33Z,326,sig,earthquake,7000kun1,us7000kun1,mb,us,M 4.6 - Democratic Republic of the Congo
-,,21440,2023-09-09T20:03:14.066Z,246,sig,earthquake,7000kunh,us7000kunh,mb,us,"M 4.0 - 29 km SSW of Melipilla, Chile"
+,,21440,2023-09-09T20:03:14.066Z,247,sig,earthquake,7000kunh,us7000kunh,mb,us,"M 4.0 - 29 km SSW of Melipilla, Chile"
 ,,21441,2023-09-03T07:40:32.99Z,6,sig,earthquake,71131299,nc71131299,md,nc,"M 0.6 - 9 km NE of San Martin, CA"
 ,,21442,2023-09-05T15:10:24.72Z,2,sig,earthquake,71131304,nc71131304,md,nc,"M 0.4 - 2 km W of Anderson Springs, CA"
 ,,21443,2023-09-06T12:26:29.93Z,13,sig,earthquake,71131309,nc71131309,md,nc,"M 0.9 - 7 km NNE of Coalinga, CA"
@@ -22461,7 +22461,7 @@
 ,,22396,2023-09-08T14:47:37.718Z,",nn,",sources,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,22397,2023-09-08T14:49:32.222Z,",nn,",sources,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,22398,2023-09-08T15:02:04.573Z,",nn,",sources,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,22399,2023-09-09T12:52:34.436Z,",nn,",sources,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,22399,2023-09-09T12:52:34.436Z,",nn,",sources,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,22400,2023-09-09T16:27:51.194Z,",nn,",sources,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,22401,2023-09-08T07:53:36.077Z,",nn,",sources,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,22402,2023-09-08T13:07:49.668Z,",nn,",sources,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -23452,7 +23452,7 @@
 ,,23387,2023-09-09T10:18:30.031Z,",us,",sources,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,23388,2023-09-09T11:52:06.712Z,",us,",sources,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,23389,2023-09-09T12:24:22.159Z,",us,",sources,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,23390,2023-09-09T13:57:56.534Z,",us,",sources,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,23390,2023-09-09T13:57:56.534Z,",us,",sources,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,23391,2023-09-09T14:43:24.476Z,",us,",sources,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,23392,2023-09-09T16:37:33.698Z,",us,",sources,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,23393,2023-09-09T17:30:59.708Z,",us,",sources,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -24418,7 +24418,7 @@
 ,,24353,2023-09-08T14:47:37.718Z,reviewed,status,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,24354,2023-09-08T14:49:32.222Z,reviewed,status,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,24355,2023-09-08T15:02:04.573Z,reviewed,status,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,24356,2023-09-09T12:52:34.436Z,reviewed,status,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,24356,2023-09-09T12:52:34.436Z,reviewed,status,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,24357,2023-09-09T16:27:51.194Z,reviewed,status,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,24358,2023-09-08T07:53:36.077Z,reviewed,status,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,24359,2023-09-08T13:07:49.668Z,reviewed,status,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -25409,7 +25409,7 @@
 ,,25344,2023-09-09T10:18:30.031Z,reviewed,status,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,25345,2023-09-09T11:52:06.712Z,reviewed,status,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,25346,2023-09-09T12:24:22.159Z,reviewed,status,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,25347,2023-09-09T13:57:56.534Z,reviewed,status,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,25347,2023-09-09T13:57:56.534Z,reviewed,status,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,25348,2023-09-09T14:43:24.476Z,reviewed,status,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,25349,2023-09-09T16:37:33.698Z,reviewed,status,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,25350,2023-09-09T17:30:59.708Z,reviewed,status,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -26380,7 +26380,7 @@
 ,,26310,2023-09-08T14:47:37.718Z,0,tsunami,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,26311,2023-09-08T14:49:32.222Z,0,tsunami,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,26312,2023-09-08T15:02:04.573Z,0,tsunami,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,26313,2023-09-09T12:52:34.436Z,0,tsunami,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,26313,2023-09-09T12:52:34.436Z,0,tsunami,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,26314,2023-09-09T16:27:51.194Z,0,tsunami,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,26315,2023-09-08T07:53:36.077Z,0,tsunami,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,26316,2023-09-08T13:07:49.668Z,0,tsunami,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -27371,7 +27371,7 @@
 ,,27301,2023-09-09T10:18:30.031Z,0,tsunami,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,27302,2023-09-09T11:52:06.712Z,0,tsunami,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,27303,2023-09-09T12:24:22.159Z,0,tsunami,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,27304,2023-09-09T13:57:56.534Z,0,tsunami,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,27304,2023-09-09T13:57:56.534Z,0,tsunami,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,27305,2023-09-09T14:43:24.476Z,0,tsunami,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,27306,2023-09-09T16:37:33.698Z,0,tsunami,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,27307,2023-09-09T17:30:59.708Z,0,tsunami,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -28342,7 +28342,7 @@
 ,,28267,2023-09-08T14:47:37.718Z,",origin,phase-data,",types,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,28268,2023-09-08T14:49:32.222Z,",origin,phase-data,",types,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,28269,2023-09-08T15:02:04.573Z,",origin,phase-data,",types,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,28270,2023-09-09T12:52:34.436Z,",origin,phase-data,",types,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,28270,2023-09-09T12:52:34.436Z,",origin,phase-data,",types,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,28271,2023-09-09T16:27:51.194Z,",origin,phase-data,",types,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,28272,2023-09-08T07:53:36.077Z,",origin,phase-data,",types,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,28273,2023-09-08T13:07:49.668Z,",origin,phase-data,",types,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -29333,7 +29333,7 @@
 ,,29258,2023-09-09T10:18:30.031Z,",dyfi,origin,phase-data,",types,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,29259,2023-09-09T11:52:06.712Z,",origin,phase-data,",types,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,29260,2023-09-09T12:24:22.159Z,",dyfi,origin,phase-data,",types,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,29261,2023-09-09T13:57:56.534Z,",dyfi,origin,phase-data,",types,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,29261,2023-09-09T13:57:56.534Z,",dyfi,origin,phase-data,",types,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,29262,2023-09-09T14:43:24.476Z,",dyfi,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",types,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,29263,2023-09-09T16:37:33.698Z,",origin,phase-data,",types,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,29264,2023-09-09T17:30:59.708Z,",origin,phase-data,",types,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
@@ -30299,7 +30299,7 @@
 ,,30224,2023-09-08T14:47:37.718Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865648,url,earthquake,00865648,nn00865648,ml,nn,"M 0.8 - 0 km S of Carnelian Bay, California"
 ,,30225,2023-09-08T14:49:32.222Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865649,url,earthquake,00865649,nn00865649,ml,nn,"M 1.0 - 0 km S of Carnelian Bay, California"
 ,,30226,2023-09-08T15:02:04.573Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865650,url,earthquake,00865650,nn00865650,ml,nn,M 0.7 - Northern California
-,,30227,2023-09-09T12:52:34.436Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865652,url,earthquake,00865652,nn00865652,ml,nn,"M -0.3 - 48 km ESE of Beatty, Nevada"
+,,30227,2023-09-09T12:52:34.436Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865652,url,earthquake,00865652,nn00865652,ml,nn,M -0.3 - California-Nevada border region
 ,,30228,2023-09-09T16:27:51.194Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865653,url,earthquake,00865653,nn00865653,ml,nn,"M 1.9 - 18 km W of Furnace Creek, California"
 ,,30229,2023-09-08T07:53:36.077Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865658,url,earthquake,00865658,nn00865658,ml,nn,"M 0.7 - 0 km SSE of Carnelian Bay, California"
 ,,30230,2023-09-08T13:07:49.668Z,https://earthquake.usgs.gov/earthquakes/eventpage/nn00865659,url,earthquake,00865659,nn00865659,ml,nn,M 0.5 - Northern California
@@ -31290,7 +31290,7 @@
 ,,31215,2023-09-09T10:18:30.031Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kuka,url,earthquake,7000kuka,us7000kuka,mb,us,"M 4.8 - 19 km S of Silchar, India"
 ,,31216,2023-09-09T11:52:06.712Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kukn,url,earthquake,7000kukn,us7000kukn,mb,us,M 4.8 - south of Tonga
 ,,31217,2023-09-09T12:24:22.159Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kuku,url,earthquake,7000kuku,us7000kuku,mb,us,"M 4.2 - 10 km NNW of Asunción Tlacolulita, Mexico"
-,,31218,2023-09-09T13:57:56.534Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kulb,url,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - 4 km ESE of San Francisco Loxicha, Mexico"
+,,31218,2023-09-09T13:57:56.534Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kulb,url,earthquake,7000kulb,us7000kulb,mb,us,"M 4.5 - Oaxaca, Mexico"
 ,,31219,2023-09-09T14:43:24.476Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kulj,url,earthquake,7000kulj,us7000kulj,mww,us,"M 6.0 - 101 km N of Palu, Indonesia"
 ,,31220,2023-09-09T16:37:33.698Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kumk,url,earthquake,7000kumk,us7000kumk,mb,us,M 4.6 - south of the Fiji Islands
 ,,31221,2023-09-09T17:30:59.708Z,https://earthquake.usgs.gov/earthquakes/eventpage/us7000kumr,url,earthquake,7000kumr,us7000kumr,mb,us,"M 4.6 - northern Sumatra, Indonesia"
