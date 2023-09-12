@@ -118,7 +118,7 @@
 ,,108,2023-09-11T13:37:07.096Z,3.8,cdi,earthquake,7000kv1x,us7000kv1x,mww,us,"M 5.4 - Near the coast of Atacama, Chile"
 ,,109,2023-09-11T17:32:01.694Z,3.8,cdi,earthquake,7000kv42,us7000kv42,mb,us,"M 4.9 - 89 km ESE of Wāngjing, India"
 ,,110,2023-09-12T02:40:51.034Z,2.2,cdi,earthquake,7000kv78,us7000kv78,mww,us,"M 5.1 - 42 km SW of La Esperanza (El Zapotal), Mexico"
-,,111,2023-09-12T04:58:38.107Z,3.1,cdi,earthquake,7000kv7t,us7000kv7t,mww,us,"M 5.4 - 69 km NNW of Ollagüe, Chile"
+,,111,2023-09-12T04:58:38.107Z,4.1,cdi,earthquake,7000kv7t,us7000kv7t,mww,us,"M 5.4 - 69 km NNW of Ollagüe, Chile"
 ,,112,2023-09-08T17:25:05.95Z,5.4,cdi,earthquake,71131324,nc71131324,ml,nc,"M 4.3 - 12 km NE of Burney, CA"
 ,,113,2023-09-06T12:49:31.92Z,1,cdi,earthquake,71423973,pr71423973,md,pr,"M 2.9 - 0 km SSW of Guayanilla, Puerto Rico"
 ,,114,2023-09-07T23:35:53.36Z,2,cdi,earthquake,71424088,pr71424088,md,pr,M 3.3 - Puerto Rico region
@@ -536,7 +536,7 @@
 ,,526,2023-09-11T19:31:34.007Z,66.6,depth,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,527,2023-09-11T19:55:38.176Z,1,depth,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,528,2023-09-11T20:05:27.088Z,83,depth,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,529,2023-09-11T20:13:48.989Z,56.1,depth,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,529,2023-09-11T20:13:48.989Z,56.1,depth,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,530,2023-09-11T20:21:35.234Z,62.8,depth,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,531,2023-09-11T20:25:31.671Z,40.7,depth,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,532,2023-09-11T20:57:55.912Z,19.3,depth,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -2448,7 +2448,7 @@
 ,,2433,2023-09-11T19:31:34.007Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boe03qw.geojson,detail,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,2434,2023-09-11T19:55:38.176Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boe5995.geojson,detail,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,2435,2023-09-11T20:05:27.088Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boefy78.geojson,detail,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,2436,2023-09-11T20:13:48.989Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boehpma.geojson,detail,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,2436,2023-09-11T20:13:48.989Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boehpma.geojson,detail,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,2437,2023-09-11T20:21:35.234Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boejdod.geojson,detail,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,2438,2023-09-11T20:25:31.671Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boek8vj.geojson,detail,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,2439,2023-09-11T20:57:55.912Z,https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak023boer9a1.geojson,detail,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -5256,7 +5256,7 @@
 ,,5231,2023-09-11T13:37:07.096Z,1,felt,earthquake,7000kv1x,us7000kv1x,mww,us,"M 5.4 - Near the coast of Atacama, Chile"
 ,,5232,2023-09-11T17:32:01.694Z,7,felt,earthquake,7000kv42,us7000kv42,mb,us,"M 4.9 - 89 km ESE of Wāngjing, India"
 ,,5233,2023-09-12T02:40:51.034Z,3,felt,earthquake,7000kv78,us7000kv78,mww,us,"M 5.1 - 42 km SW of La Esperanza (El Zapotal), Mexico"
-,,5234,2023-09-12T04:58:38.107Z,7,felt,earthquake,7000kv7t,us7000kv7t,mww,us,"M 5.4 - 69 km NNW of Ollagüe, Chile"
+,,5234,2023-09-12T04:58:38.107Z,12,felt,earthquake,7000kv7t,us7000kv7t,mww,us,"M 5.4 - 69 km NNW of Ollagüe, Chile"
 ,,5235,2023-09-08T17:25:05.95Z,6,felt,earthquake,71131324,nc71131324,ml,nc,"M 4.3 - 12 km NE of Burney, CA"
 ,,5236,2023-09-06T12:49:31.92Z,0,felt,earthquake,71423973,pr71423973,md,pr,"M 2.9 - 0 km SSW of Guayanilla, Puerto Rico"
 ,,5237,2023-09-07T23:35:53.36Z,1,felt,earthquake,71424088,pr71424088,md,pr,M 3.3 - Puerto Rico region
@@ -7256,7 +7256,7 @@
 ,,7221,2023-09-11T19:31:34.007Z,",ak023boe03qw,",ids,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,7222,2023-09-11T19:55:38.176Z,",ak023boe5995,",ids,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,7223,2023-09-11T20:05:27.088Z,",ak023boefy78,",ids,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,7224,2023-09-11T20:13:48.989Z,",ak023boehpma,",ids,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,7224,2023-09-11T20:13:48.989Z,",ak023boehpma,",ids,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,7225,2023-09-11T20:21:35.234Z,",ak023boejdod,",ids,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,7226,2023-09-11T20:25:31.671Z,",ak023boek8vj,",ids,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,7227,2023-09-11T20:57:55.912Z,",ak023boer9a1,",ids,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -9168,7 +9168,7 @@
 ,,9128,2023-09-11T19:31:34.007Z,62.9351,lat,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,9129,2023-09-11T19:55:38.176Z,62.6732,lat,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,9130,2023-09-11T20:05:27.088Z,62.5338,lat,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,9131,2023-09-11T20:13:48.989Z,62.6257,lat,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,9131,2023-09-11T20:13:48.989Z,62.6257,lat,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,9132,2023-09-11T20:21:35.234Z,59.1359,lat,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,9133,2023-09-11T20:25:31.671Z,61.56,lat,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,9134,2023-09-11T20:57:55.912Z,56.0501,lat,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -11075,7 +11075,7 @@
 ,,11035,2023-09-11T19:31:34.007Z,-149.7882,lon,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,11036,2023-09-11T19:55:38.176Z,-152.2561,lon,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,11037,2023-09-11T20:05:27.088Z,-151.3575,lon,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,11038,2023-09-11T20:13:48.989Z,-149.2815,lon,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,11038,2023-09-11T20:13:48.989Z,-149.2815,lon,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,11039,2023-09-11T20:21:35.234Z,-152.8189,lon,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,11040,2023-09-11T20:25:31.671Z,-146.1964,lon,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,11041,2023-09-11T20:57:55.912Z,-157.2211,lon,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -12982,7 +12982,7 @@
 ,,12942,2023-09-11T19:31:34.007Z,1.4,mag,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,12943,2023-09-11T19:55:38.176Z,1.5,mag,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,12944,2023-09-11T20:05:27.088Z,1.6,mag,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,12945,2023-09-11T20:13:48.989Z,1.6,mag,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,12945,2023-09-11T20:13:48.989Z,1.6,mag,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,12946,2023-09-11T20:21:35.234Z,1.8,mag,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,12947,2023-09-11T20:25:31.671Z,1.3,mag,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,12948,2023-09-11T20:57:55.912Z,2,mag,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -16503,7 +16503,7 @@
 ,,16453,2023-09-11T19:31:34.007Z,"56 km NNE of Chase, Alaska",place,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,16454,2023-09-11T19:55:38.176Z,"79 km WNW of Petersville, Alaska",place,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,16455,2023-09-11T20:05:27.088Z,"30 km W of Petersville, Alaska",place,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,16456,2023-09-11T20:13:48.989Z,Central Alaska,place,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,16456,2023-09-11T20:13:48.989Z,"46 km ENE of Chase, Alaska",place,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,16457,2023-09-11T20:21:35.234Z,"56 km WSW of Nanwalek, Alaska",place,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,16458,2023-09-11T20:25:31.671Z,"48 km N of Valdez, Alaska",place,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,16459,2023-09-11T20:57:55.912Z,"78 km ESE of Chignik, Alaska",place,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -18415,7 +18415,7 @@
 ,,18360,2023-09-11T19:31:34.007Z,0.51,rms,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,18361,2023-09-11T19:55:38.176Z,0.29,rms,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,18362,2023-09-11T20:05:27.088Z,0.37,rms,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,18363,2023-09-11T20:13:48.989Z,1.04,rms,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,18363,2023-09-11T20:13:48.989Z,1.04,rms,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,18364,2023-09-11T20:21:35.234Z,0.85,rms,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,18365,2023-09-11T20:25:31.671Z,0.64,rms,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,18366,2023-09-11T20:57:55.912Z,0.58,rms,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -20327,7 +20327,7 @@
 ,,20267,2023-09-11T19:31:34.007Z,30,sig,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,20268,2023-09-11T19:55:38.176Z,35,sig,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,20269,2023-09-11T20:05:27.088Z,39,sig,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,20270,2023-09-11T20:13:48.989Z,39,sig,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,20270,2023-09-11T20:13:48.989Z,39,sig,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,20271,2023-09-11T20:21:35.234Z,50,sig,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,20272,2023-09-11T20:25:31.671Z,26,sig,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,20273,2023-09-11T20:57:55.912Z,62,sig,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -20995,7 +20995,7 @@
 ,,20935,2023-09-12T01:18:54.506Z,400,sig,earthquake,7000kv6y,us7000kv6y,mww,us,"M 5.1 - 65 km WNW of Kirakira, Solomon Islands"
 ,,20936,2023-09-12T01:38:55.348Z,385,sig,earthquake,7000kv72,us7000kv72,mb,us,M 5.0 - southeast of the Loyalty Islands
 ,,20937,2023-09-12T02:40:51.034Z,401,sig,earthquake,7000kv78,us7000kv78,mww,us,"M 5.1 - 42 km SW of La Esperanza (El Zapotal), Mexico"
-,,20938,2023-09-12T04:58:38.107Z,451,sig,earthquake,7000kv7t,us7000kv7t,mww,us,"M 5.4 - 69 km NNW of Ollagüe, Chile"
+,,20938,2023-09-12T04:58:38.107Z,454,sig,earthquake,7000kv7t,us7000kv7t,mww,us,"M 5.4 - 69 km NNW of Ollagüe, Chile"
 ,,20939,2023-09-05T15:10:24.72Z,2,sig,earthquake,71131304,nc71131304,md,nc,"M 0.4 - 2 km W of Anderson Springs, CA"
 ,,20940,2023-09-06T12:26:29.93Z,13,sig,earthquake,71131309,nc71131309,md,nc,"M 0.9 - 7 km NNE of Coalinga, CA"
 ,,20941,2023-09-07T00:03:03.56Z,1,sig,earthquake,71131314,nc71131314,md,nc,"M 0.2 - 2 km ESE of The Geysers, CA"
@@ -22239,7 +22239,7 @@
 ,,22174,2023-09-11T19:31:34.007Z,",ak,",sources,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,22175,2023-09-11T19:55:38.176Z,",ak,",sources,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,22176,2023-09-11T20:05:27.088Z,",ak,",sources,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,22177,2023-09-11T20:13:48.989Z,",ak,",sources,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,22177,2023-09-11T20:13:48.989Z,",ak,",sources,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,22178,2023-09-11T20:21:35.234Z,",ak,",sources,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,22179,2023-09-11T20:25:31.671Z,",ak,",sources,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,22180,2023-09-11T20:57:55.912Z,",ak,",sources,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -24146,7 +24146,7 @@
 ,,24081,2023-09-11T19:31:34.007Z,automatic,status,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,24082,2023-09-11T19:55:38.176Z,automatic,status,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,24083,2023-09-11T20:05:27.088Z,automatic,status,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,24084,2023-09-11T20:13:48.989Z,automatic,status,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,24084,2023-09-11T20:13:48.989Z,automatic,status,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,24085,2023-09-11T20:21:35.234Z,automatic,status,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,24086,2023-09-11T20:25:31.671Z,automatic,status,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,24087,2023-09-11T20:57:55.912Z,reviewed,status,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -26058,7 +26058,7 @@
 ,,25988,2023-09-11T19:31:34.007Z,0,tsunami,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,25989,2023-09-11T19:55:38.176Z,0,tsunami,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,25990,2023-09-11T20:05:27.088Z,0,tsunami,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,25991,2023-09-11T20:13:48.989Z,0,tsunami,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,25991,2023-09-11T20:13:48.989Z,0,tsunami,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,25992,2023-09-11T20:21:35.234Z,0,tsunami,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,25993,2023-09-11T20:25:31.671Z,0,tsunami,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,25994,2023-09-11T20:57:55.912Z,0,tsunami,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -27970,7 +27970,7 @@
 ,,27895,2023-09-11T19:31:34.007Z,",origin,phase-data,",types,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,27896,2023-09-11T19:55:38.176Z,",origin,phase-data,",types,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,27897,2023-09-11T20:05:27.088Z,",origin,phase-data,",types,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,27898,2023-09-11T20:13:48.989Z,",origin,phase-data,",types,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,27898,2023-09-11T20:13:48.989Z,",origin,phase-data,",types,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,27899,2023-09-11T20:21:35.234Z,",origin,phase-data,",types,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,27900,2023-09-11T20:25:31.671Z,",origin,phase-data,",types,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,27901,2023-09-11T20:57:55.912Z,",origin,phase-data,",types,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
@@ -29877,7 +29877,7 @@
 ,,29802,2023-09-11T19:31:34.007Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boe03qw,url,earthquake,023boe03qw,ak023boe03qw,ml,ak,"M 1.4 - 56 km NNE of Chase, Alaska"
 ,,29803,2023-09-11T19:55:38.176Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boe5995,url,earthquake,023boe5995,ak023boe5995,ml,ak,"M 1.5 - 79 km WNW of Petersville, Alaska"
 ,,29804,2023-09-11T20:05:27.088Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boefy78,url,earthquake,023boefy78,ak023boefy78,ml,ak,"M 1.6 - 30 km W of Petersville, Alaska"
-,,29805,2023-09-11T20:13:48.989Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boehpma,url,earthquake,023boehpma,ak023boehpma,ml,ak,M 1.6 - Central Alaska
+,,29805,2023-09-11T20:13:48.989Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boehpma,url,earthquake,023boehpma,ak023boehpma,ml,ak,"M 1.6 - 46 km ENE of Chase, Alaska"
 ,,29806,2023-09-11T20:21:35.234Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boejdod,url,earthquake,023boejdod,ak023boejdod,ml,ak,"M 1.8 - 56 km WSW of Nanwalek, Alaska"
 ,,29807,2023-09-11T20:25:31.671Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boek8vj,url,earthquake,023boek8vj,ak023boek8vj,ml,ak,"M 1.3 - 48 km N of Valdez, Alaska"
 ,,29808,2023-09-11T20:57:55.912Z,https://earthquake.usgs.gov/earthquakes/eventpage/ak023boer9a1,url,earthquake,023boer9a1,ak023boer9a1,ml,ak,"M 2.0 - 78 km ESE of Chignik, Alaska"
