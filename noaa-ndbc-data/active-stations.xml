@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-09-26T05:45:01UTC" count="1324">
+<stations created="2023-09-26T06:00:01UTC" count="1324">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -12,7 +12,7 @@
   <station id="14043" lat="-12" lon="67" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14047" lat="-4" lon="57" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15007" lat="-6" lon="8" elev="0" name="SE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="1801589" lat="37.34" lon="-122.86" elev="0" name="SD 1073 - 24 NM SSW of San Francisco, CA (Site of 46012)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
@@ -204,7 +204,7 @@
   <station id="44033" lat="44.055" lon="-68.996" elev="0" name="Buoy F01 - Penobscot Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44034" lat="44.103" lon="-68.112" elev="0" name="Buoy I01 - Eastern Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44037" lat="43.497" lon="-67.876" elev="0" name="Buoy M01 - Jordan Basin" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44039" lat="41.138" lon="-72.655" elev="0" name="Central Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="44039" lat="41.138" lon="-72.655" elev="0" name="Central Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44040" lat="40.956" lon="-73.58" elev="0" name="Western Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44041" lat="37.211" lon="-76.787" elev="0" name="Jamestown, VA" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44042" lat="38.033" lon="-76.335" elev="0" name="Potomac, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
@@ -377,7 +377,7 @@
   <station id="46096" lat="46.173" lon="-124.127" elev="0" name="Columbia River Entrance - SATURN Station #02 Offshore" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46097" lat="44.639" lon="-124.304" elev="0" name="OOI Newport Shelf" owner="NSF's Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="46098" lat="44.378" lon="-124.947" elev="0" name="OOI Waldport Offshore" owner="NSF's Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="46099" lat="46.988" lon="-124.567" elev="0" name="OOI Westport Shelf" owner="NSF's Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="46099" lat="46.988" lon="-124.567" elev="0" name="OOI Westport Shelf" owner="NSF's Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46100" lat="46.851" lon="-124.964" elev="0" name="OOI Westport Offshore" owner="NSF's Ocean Observatories Initiative" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46108" lat="59.596" lon="-151.829" elev="0" name="Lower Cook Inlet (204)" owner="Alaska Ocean Observing System" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46114" lat="36.7" lon="-122.343" elev="0" name="West Monterey Bay, CA (185)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1247,7 +1247,7 @@
   <station id="tcvf1" lat="25.213" lon="-80.533" elev="0" name="Trout Cove, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="tdpc1" lat="41.055" lon="-124.147" name="Trinidad Pier Trinidad, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="tesl1" lat="29.668" lon="-91.237" elev="0" name="8764044 - Tesoro Marine Terminal, Berwick, Atchafalaya River, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="tfblk" lat="65.698" lon="-24.778" name="10.0 nm WNW on Blakknes, Iceland" owner="Icelandic Maritime Administration" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="tfblk" lat="65.698" lon="-24.778" name="10.0 nm WNW on Blakknes, Iceland" owner="Icelandic Maritime Administration" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="thlo1" lat="41.826" lon="-83.194" elev="173.5" name="Toledo Light No. 2 OH" owner="GLERL" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="thrf1" lat="25.203" lon="-80.372" elev="0" name="Thursday Point, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="thro1" lat="41.694" lon="-83.473" elev="176.2" name="9063085 - Toledo, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
