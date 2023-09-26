@@ -1,3 +1,3 @@
-coindesk,code=USD,crypto=bitcoin,description=United\ States\ Dollar,symbol=&#36; price=26273.5753 1695712740000000000
-coindesk,code=GBP,crypto=bitcoin,description=British\ Pound\ Sterling,symbol=&pound; price=21953.9893 1695712740000000000
-coindesk,code=EUR,crypto=bitcoin,description=Euro,symbol=&euro; price=25594.2983 1695712740000000000
+coindesk,code=USD,crypto=bitcoin,description=United\ States\ Dollar,symbol=&#36; price=26271.3071 1695713580000000000
+coindesk,code=GBP,crypto=bitcoin,description=British\ Pound\ Sterling,symbol=&pound; price=21952.094 1695713580000000000
+coindesk,code=EUR,crypto=bitcoin,description=Euro,symbol=&euro; price=25592.0887 1695713580000000000
