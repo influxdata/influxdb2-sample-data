@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2023-10-03T11:00:01UTC" count="1323">
+<stations created="2023-10-03T11:15:01UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -327,7 +327,7 @@
   <station id="45210" lat="44.055" lon="-87.05" elev="0" name="Rawley Point East, WI (269)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="45211" lat="46.973" lon="-86.568" name="Grand Island North, MI (268)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46001" lat="56.3" lon="-148.018" elev="0" name="WESTERN GULF OF ALASKA  - 175NM SE of Kodiak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46002" lat="41.2251" lon="-128.4860" elev="0" name="WEST OREGON - 275NM West of Coos Bay, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46002" lat="41.2080" lon="-128.4710" elev="0" name="WEST OREGON - 275NM West of Coos Bay, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46004" lat="50.93" lon="-136.1" elev="0" name="Middle Nomad" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46005" lat="46.134" lon="-131.079" elev="0" name="WEST WASHINGTON - 300NM West of Aberdeen, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46006" lat="40.764" lon="-137.377" elev="0" name="SOUTHEAST PAPA - 600NM West of Eureka, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -560,7 +560,7 @@
   <station id="62095" lat="53.04" lon="-15.53" elev="0" name="M6 - West Coast" owner="Met Eireann" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62103" lat="49.9" lon="-2.9" elev="0" name="Channel Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62105" lat="55.41" lon="-11.81" elev="0" name="K4 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62114" lat="58.3" lon="0" name="Tartan &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62121" lat="53.5" lon="2.7" name="Carrack AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62124" lat="53.6" lon="-3.6" name="Conwy" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
@@ -729,7 +729,7 @@
   <station id="crta1" lat="30.308" lon="-88.14" elev="0" name="Cedar Point, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="crva2" lat="60.558" lon="-145.752" elev="4.6" name="9454050 - Cordova, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cryv2" lat="36.888" lon="-76.338" elev="1" name="8638595 - South Craney Island, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cspa2" lat="58.199" lon="-136.64" elev="25" name="Cape Spencer, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="cspa2" lat="58.199" lon="-136.64" elev="25" name="Cape Spencer, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="csxa2" lat="58.199" lon="-136.641" elev="22" name="Cape Spencer WX" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cvqv2" lat="37.571" lon="-76.884" name="Sweethall Pier, Chesapeake Bay Reserve, VA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="cwaf1" lat="25.297" lon="-81.013" elev="0" name="Clear Water Pass, FL " owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -928,7 +928,7 @@
   <station id="lbrf1" lat="25.484" lon="-81.133" elev="0" name="Broad River Lower, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lbsf1" lat="25.214" lon="-80.432" elev="0" name="Little Blackwater, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="lcll1" lat="30.224" lon="-93.222" elev="3.5" name="8767816 - Lake Charles, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="lcna2" lat="56.058" lon="-132.69" elev="6.5" name="Lincoln Island, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="lcna2" lat="56.058" lon="-132.69" elev="6.5" name="Lincoln Island, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ldlc3" lat="41.306" lon="-72.077" elev="0" name="New London Ledge Light, New London Harbor, CT" owner="MYSOUND" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ldtm4" lat="43.947" lon="-86.441" elev="178.4" name="9087023 - Ludington, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lixa2" lat="58.54" lon="-135.047" elev="9.1" name="Little Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1079,7 +1079,7 @@
   <station id="paxa2" lat="58.159" lon="-134.178" elev="13.7" name="Point Arden, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pbfw1" lat="48.464" lon="-122.469" elev="1.83" name="Padilla Bay Farm, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pblw1" lat="48.556" lon="-122.53" name="Ploeg Channel, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="pbpa2" lat="58.203" lon="-134.148" elev="3" name="Point Bishop, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pbpa2" lat="58.203" lon="-134.148" elev="3" name="Point Bishop, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pbwm4" lat="43.002" lon="-82.423" elev="178.22" name="9014095 - Port Huron, North of Blue Water Bridge, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcbf1" lat="30.213" lon="-85.88" elev="7.9" name="8729210 - Panama City Beach, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcgt2" lat="26.072" lon="-97.167" elev="0" name="8779748 - South Padre Island CGS, TX " owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1118,7 +1118,7 @@
   <station id="prhh1" lat="21.367" lon="-157.964" name="Pearl Harbor, HI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="prim4" lat="45.357" lon="-83.492" elev="184" name="Presque Isle Light, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="prjc1" lat="33.733" lon="-118.186" name="9410665 - Los Angeles Pier J, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="prta2" lat="58.411" lon="-134.955" elev="30" name="Point Retreat, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="prta2" lat="58.411" lon="-134.955" elev="30" name="Point Retreat, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="prur1" lat="41.605" lon="-71.304" elev="1.7" name="8452314 - Sandy Point, Prudence Island, RI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pryc1" lat="37.996" lon="-122.977" elev="0" name="9415020 - Point Reyes, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="psbc1" lat="38.04" lon="-121.887" name="9415115 - Pittsburg (Suisun Bay), CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
