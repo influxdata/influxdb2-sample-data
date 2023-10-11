@@ -84,7 +84,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 160,3,4,,,,,1010.4,,18.9,18.7,15.5,,,"44009",38.46,-74.692,0,"DELAWARE BAY 26 NM Southeast of Cape May, NJ","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1697002800000000000
 180,1,2,,,,,1011.9,,14.9,14.5,,,,"44011",41.093,-66.562,0,"GEORGES BANK 170 NM East of Hyannis, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1697002800000000000
 220,5,6,,,,,1010.9,,14.3,16.1,11.8,,,"44013",42.346,-70.651,0,"BOSTON 16 NM East of Boston, MA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1697002800000000000
-160,2,4,,,,,1011.7,,20.3,19.6,17.9,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1697002800000000000
+160,2,4,,,6.5,69,1011.7,,20.3,19.6,17.9,,,"44014",36.603,-74.837,0,"VIRGINIA BEACH 64 NM East of Virginia Beach, VA","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1697002800000000000
 230,5,7,,,,,1011.1,,15.6,16.2,11.7,,,"44018",42.203,-70.154,0,"CAPE COD - 9 NM North of Provincetown, MA","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1697002800000000000
 250,4,5,,,,,1010.9,,16.2,17.5,12.7,,,"44020",41.497,-70.283,0,"NANTUCKET SOUND","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1697002800000000000
 ,,,,,,,1010,,,18,,,,"44025",40.251,-73.164,0,"LONG ISLAND - 30 NM South of Islip, NY","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1697002200000000000
@@ -136,9 +136,9 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 330,8,11,1.3,4,,333,1006,,10.4,16.5,6.9,,,"45022",45.404,-85.088,176,"Little Traverse Bay Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1697003400000000000
 350,6,8,,,,,,,10.3,14.5,7.4,,,"45023",47.27,-88.607,183,"North Entry Buoy, North Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","y","y","n",1697003400000000000
 180,2,3,0.5,4,,224,1009.8,,6.7,5.4,5,,,"45024",43.971,-86.554,176,"Ludington Buoy, MI","University of Michigan CILER","IOOS Partners","buoy","y","n","y","n",1697003400000000000
-220,3,3,0.2,,,180,1007.8,,7.3,11.4,7.3,,,"45025",46.969,-88.398,183,"South Entry Buoy, South Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","n","y","n",1697003400000000000
-120,4,5,0.8,4,,272,1008.9,,12.1,15.3,7,,,"45026",41.982,-86.619,176,"Cook Nuclear Plant Buoy, Stevensville, MI","Limno Tech","IOOS Partners","buoy","y","y","y","n",1697002200000000000
-150,1,2,0.5,5,,328,,,,13.7,,,,"45029",42.9,-86.272,176,"Holland Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1697002800000000000
+220,3,3,0.2,,,173,1007.8,,7.3,11.4,7.3,,,"45025",46.969,-88.398,183,"South Entry Buoy, South Keweenaw Peninsula, MI","Michigan Technological University","IOOS Partners","buoy","y","n","y","n",1697003400000000000
+120,4,5,0.8,4,,265,1008.9,,12.1,15.3,7,,,"45026",41.982,-86.619,176,"Cook Nuclear Plant Buoy, Stevensville, MI","Limno Tech","IOOS Partners","buoy","y","y","y","n",1697002200000000000
+150,1,2,0.5,5,,310,,,,13.7,,,,"45029",42.9,-86.272,176,"Holland Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1697002800000000000
 290,10,12,1.3,5,,,1007.8,0.1,11,16.5,,,,"45132",42.46,-81.22,174,"Port Stanley","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1697000400000000000
 230,12,14,1.5,5,,,1007.2,-0.4,12.1,15.8,,,,"45135",43.78,-76.87,75,"Prince Edward Pt","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1697000400000000000
 20,7,9,0.6,3,,,1006,0,9.5,12.1,,,,"45136",48.54,-86.95,183,"Slate Island","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1697000400000000000
@@ -159,10 +159,10 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 280,9,10,0.5,3,,281,1005.5,,9.3,13.9,,,,"45162",44.99,-83.271,176,"Thunder Bay Buoy, Alpena, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1697002800000000000
 270,7,8,,,,,1008,,8.2,,,,,"45163",43.984,-83.597,176,"Saginaw Bay Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1697002800000000000
 290,11,13,1.2,5,,,,,13.8,17.8,,,,"45164",41.748,-81.698,174.2,"Cleveland Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1697000400000000000
-250,2,4,0.2,,,316,,,11.2,14.5,,,,"45165",41.702,-83.261,174,"Toledo Water Intake Buoy, Oregon, OH","Limno Tech","IOOS Partners","buoy","y","y","n","n",1697002800000000000
-90,5,6,0.5,4,,333,1009.3,,10.8,16.9,7.3,,,"45168",42.397,-86.331,177,"South Haven Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1697002200000000000
-220,6,8,0.8,3,,272,1008.2,,,,,,,"45170",41.755,-86.968,177,"Michigan City Buoy, IN","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","y","n",1697002800000000000
-260,4,5,0.4,5,,343,1007.7,,12.8,16.7,4.6,,,"45174",42.135,-87.655,176,"Wilmette Buoy, IL","llinois-Indiana Sea Grant","IOOS Partners","buoy","y","n","n","n",1697002200000000000
+250,2,4,0.2,,,324,,,11.2,14.5,,,,"45165",41.702,-83.261,174,"Toledo Water Intake Buoy, Oregon, OH","Limno Tech","IOOS Partners","buoy","y","y","n","n",1697002800000000000
+90,5,6,0.5,4,,331,1009.3,,10.8,16.9,7.3,,,"45168",42.397,-86.331,177,"South Haven Buoy, MI","Limno Tech","IOOS Partners","buoy","y","n","y","n",1697002200000000000
+220,6,8,0.8,3,,269,1008.2,,,,,,,"45170",41.755,-86.968,177,"Michigan City Buoy, IN","Illinois-Indiana Sea Grant and Purdue Civil Engineering","IOOS Partners","buoy","y","n","y","n",1697002800000000000
+260,4,5,0.4,5,,46,1007.7,,12.8,16.7,4.6,,,"45174",42.135,-87.655,176,"Wilmette Buoy, IL","llinois-Indiana Sea Grant","IOOS Partners","buoy","y","n","n","n",1697002200000000000
 310,7,8,0.9,5,,275,1006.3,,10.3,15.5,8.6,,,"45175",45.825,-84.772,176,"Mackinac Straits West, Mackinaw City, MI","Michigan Technological University","IOOS Partners","buoy","y","y","n","n",1697003100000000000
 290,6,9,1,5,,277,1010,,13.7,17.7,7.7,,,"45176",41.55,-81.765,174,"Cleveland Intake Crib Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1697002800000000000
 280,4,,,,,,1012.4,0,10.5,17.2,,,,"45178",44.603,-73.394,30,"1 NM SE of Valcour Island, NY","SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute","IOOS Partners","buoy","y","n","y","n",1697000400000000000
