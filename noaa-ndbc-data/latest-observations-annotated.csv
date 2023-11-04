@@ -2322,7 +2322,7 @@
 ,,2247,2023-11-04T11:18:00Z,59.548,lat,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,2248,2023-11-04T11:00:00Z,43.262,lat,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,2249,2023-11-04T11:18:00Z,37.227,lat,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,2250,2023-11-04T10:45:00Z,37.414,lat,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,2250,2023-11-04T11:30:00Z,37.414,lat,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 ,,2251,2023-11-04T11:00:00Z,-38,lon,ndbc,13009,Lambada,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 ,,2252,2023-11-04T10:00:00Z,-10,lon,ndbc,15002,Java,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 
@@ -3223,7 +3223,7 @@
 ,,3118,2023-11-04T11:18:00Z,-139.733,lon,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,3119,2023-11-04T11:00:00Z,-79.064,lon,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,3120,2023-11-04T11:18:00Z,-76.479,lon,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,3121,2023-11-04T10:45:00Z,-76.712,lon,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,3121,2023-11-04T11:30:00Z,-76.712,lon,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 ,,3122,2023-11-04T10:04:00Z,1.6,pressure_tendency_hpa,ndbc,44029,Buoy A01 - Massachusetts Bay,Northeastern Regional Association of Coastal Ocean Observing Systems,IOOS Partners,buoy
 ,,3123,2023-11-04T10:04:00Z,1.6,pressure_tendency_hpa,ndbc,44032,Buoy E01 - Central Maine Shelf,Northeastern Regional Association of Coastal Ocean Observing Systems,IOOS Partners,buoy
 ,,3124,2023-11-04T10:04:00Z,1.6,pressure_tendency_hpa,ndbc,44037,Buoy M01 - Jordan Basin,Northeastern Regional Association of Coastal Ocean Observing Systems,IOOS Partners,buoy
@@ -3855,7 +3855,7 @@
 ,,3730,2023-11-04T11:18:00Z,999.9,sea_level_pressure_hpa,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,3731,2023-11-04T11:00:00Z,1020.7,sea_level_pressure_hpa,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,3732,2023-11-04T11:18:00Z,1023.6,sea_level_pressure_hpa,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,3733,2023-11-04T10:45:00Z,1025,sea_level_pressure_hpa,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,3733,2023-11-04T11:30:00Z,1026,sea_level_pressure_hpa,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string
@@ -4560,7 +4560,7 @@
 ,,4405,2023-11-04T11:18:00Z,13.2,sea_surface_temp_degc,ndbc,WYCM6,"8747437 - Bay Waveland Yacht Club, MS",NOS,NOS/CO-OPS,fixed
 ,,4406,2023-11-04T11:00:00Z,9.3,sea_surface_temp_degc,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,4407,2023-11-04T11:18:00Z,8,sea_surface_temp_degc,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,4408,2023-11-04T10:45:00Z,0.9,sea_surface_temp_degc,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,4408,2023-11-04T11:30:00Z,1,sea_surface_temp_degc,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 ,,4409,2023-11-04T10:30:00Z,1.5,significant_wave_height_m,ndbc,1801589,"SD 1073 - 24 NM SSW of San Francisco, CA (Site of 46012)",NDBC,NDBC Meteorological/Ocean,usv
 
 #group,false,false,false,false,true,true,true,true,true,true
@@ -5650,7 +5650,7 @@
 ,,5450,2023-11-04T11:18:00Z,n,station_currents,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,5451,2023-11-04T11:00:00Z,n,station_currents,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,5452,2023-11-04T11:18:00Z,n,station_currents,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,5453,2023-11-04T10:45:00Z,n,station_currents,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,5453,2023-11-04T11:30:00Z,n,station_currents,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 ,,5454,2023-11-04T11:00:00Z,n,station_dart,ndbc,13009,Lambada,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 ,,5455,2023-11-04T10:00:00Z,n,station_dart,ndbc,15002,Java,Prediction and Research Moored Array in the Atlantic,International Partners,buoy
 
@@ -6551,7 +6551,7 @@
 ,,6321,2023-11-04T11:18:00Z,n,station_dart,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,6322,2023-11-04T11:00:00Z,n,station_dart,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,6323,2023-11-04T11:18:00Z,n,station_dart,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,6324,2023-11-04T10:45:00Z,n,station_dart,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,6324,2023-11-04T11:30:00Z,n,station_dart,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string,string
@@ -7457,7 +7457,7 @@
 ,,7192,2023-11-04T11:18:00Z,0,station_elev,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,7193,2023-11-04T11:00:00Z,73,station_elev,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,7194,2023-11-04T11:18:00Z,3.7,station_elev,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,7195,2023-11-04T10:45:00Z,11,station_elev,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,7195,2023-11-04T11:30:00Z,11,station_elev,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,string,string,string,string,string,string,string,string
@@ -8363,7 +8363,7 @@
 ,,8063,2023-11-04T11:18:00Z,y,station_met,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,8064,2023-11-04T11:00:00Z,y,station_met,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,8065,2023-11-04T11:18:00Z,y,station_met,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,8066,2023-11-04T10:45:00Z,y,station_met,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,8066,2023-11-04T11:30:00Z,y,station_met,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string,string
@@ -8661,7 +8661,7 @@
 ,,8356,2023-11-04T10:45:00Z,9.7,station_visibility_nmi,ndbc,WKXA1,"Safe Harbor Met Station, Weeks Bay Reserve, AL",National Estuarine Research Reserve System,NERRS,fixed
 ,,8357,2023-11-04T11:18:00Z,-0.8,station_visibility_nmi,ndbc,WNEM4,"9076027 - West Neebish Island, MI",NOS,NOS/CO-OPS,fixed
 ,,8358,2023-11-04T11:00:00Z,13.2,station_visibility_nmi,ndbc,WPOW1,"West Point, WA",NDBC,NDBC Meteorological/Ocean,fixed
-,,8359,2023-11-04T10:45:00Z,0.8,station_visibility_nmi,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,8359,2023-11-04T11:30:00Z,0.9,station_visibility_nmi,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,string,string,string,string,string,string,string,string
@@ -9567,7 +9567,7 @@
 ,,9227,2023-11-04T11:18:00Z,n,station_waterquality,ndbc,YATA2,"9453220 - Yakutat, Yakutat Bay, AK",NOS,NOS/CO-OPS,fixed
 ,,9228,2023-11-04T11:00:00Z,n,station_waterquality,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,9229,2023-11-04T11:18:00Z,n,station_waterquality,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,9230,2023-11-04T10:45:00Z,n,station_waterquality,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,9230,2023-11-04T11:30:00Z,n,station_waterquality,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string,string
@@ -10340,7 +10340,7 @@
 ,,9960,2023-11-04T11:18:00Z,20,wind_dir_degt,ndbc,WYCM6,"8747437 - Bay Waveland Yacht Club, MS",NOS,NOS/CO-OPS,fixed
 ,,9961,2023-11-04T11:00:00Z,230,wind_dir_degt,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,9962,2023-11-04T11:18:00Z,220,wind_dir_degt,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,9963,2023-11-04T10:45:00Z,240,wind_dir_degt,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,9963,2023-11-04T11:30:00Z,230,wind_dir_degt,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
 #group,false,false,false,false,true,true,true,true,true,true
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string
@@ -11001,5 +11001,5 @@
 ,,10591,2023-11-04T11:18:00Z,3.6,wind_speed_mps,ndbc,WYCM6,"8747437 - Bay Waveland Yacht Club, MS",NOS,NOS/CO-OPS,fixed
 ,,10592,2023-11-04T11:00:00Z,2.1,wind_speed_mps,ndbc,YGNN6,"Niagara Coast Guard Station, NY",NWS Eastern Region,IOOS Partners,fixed
 ,,10593,2023-11-04T11:18:00Z,0.5,wind_speed_mps,ndbc,YKTV2,"8637689 - Yorktown USCG Training Center, VA",NOS,NOS/CO-OPS,fixed
-,,10594,2023-11-04T10:45:00Z,1,wind_speed_mps,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
+,,10594,2023-11-04T11:30:00Z,1,wind_speed_mps,ndbc,YRSV2,"Taskinas Creek, Chesapeake Bay Reserve, VA",National Estuarine Research Reserve System,NERRS,fixed
 
