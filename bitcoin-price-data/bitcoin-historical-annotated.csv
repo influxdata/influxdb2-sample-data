@@ -2,7 +2,6 @@
 #datatype,string,long,dateTime:RFC3339,double,string,string,string,string,string,string
 #default,_result,,,,,,,,,
 ,result,table,_time,_value,_field,_measurement,code,crypto,description,symbol
-,,0,2023-11-01T15:04:00Z,33331.1075,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2023-11-01T15:20:00Z,33388.8304,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2023-11-01T15:33:00Z,33359.4123,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2023-11-01T15:48:00Z,33374.1172,price,coindesk,EUR,bitcoin,Euro,&euro;
@@ -2694,7 +2693,7 @@
 ,,0,2023-12-01T14:20:00Z,37147.7335,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2023-12-01T14:33:00Z,37186.8376,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,0,2023-12-01T14:47:00Z,37162.0245,price,coindesk,EUR,bitcoin,Euro,&euro;
-,,1,2023-11-01T15:04:00Z,28590.3826,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
+,,0,2023-12-01T15:04:00Z,37208.8946,price,coindesk,EUR,bitcoin,Euro,&euro;
 ,,1,2023-11-01T15:20:00Z,28639.8954,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2023-11-01T15:33:00Z,28614.6615,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2023-11-01T15:48:00Z,28627.2749,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
@@ -5386,7 +5385,7 @@
 ,,1,2023-12-01T14:20:00Z,31864.165,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2023-12-01T14:33:00Z,31897.7074,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,1,2023-12-01T14:47:00Z,31876.4234,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
-,,2,2023-11-01T15:04:00Z,34215.7208,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+,,1,2023-12-01T15:04:00Z,31916.6271,price,coindesk,GBP,bitcoin,British Pound Sterling,&pound;
 ,,2,2023-11-01T15:20:00Z,34274.9756,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2023-11-01T15:33:00Z,34244.7768,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2023-11-01T15:48:00Z,34259.8719,price,coindesk,USD,bitcoin,United States Dollar,&#36;
@@ -8078,4 +8077,5 @@
 ,,2,2023-12-01T14:20:00Z,38133.6406,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2023-12-01T14:33:00Z,38173.7826,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 ,,2,2023-12-01T14:47:00Z,38148.3109,price,coindesk,USD,bitcoin,United States Dollar,&#36;
+,,2,2023-12-01T15:04:00Z,38196.4249,price,coindesk,USD,bitcoin,United States Dollar,&#36;
 
