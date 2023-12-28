@@ -199,7 +199,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 20,7,8,,,,,1018.4,,24.9,,19.9,,,"51003",19.196,-160.639,0,"WESTERN  HAWAII - 205 NM SW of Honolulu, HI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1703742000000000000
 60,4,5,,,,,,,24,24.9,17,,,"51004",17.538,-152.23,0,"SOUTHEAST HAWAII - 205 NM Southeast of Hilo, HI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1703742000000000000
 360,11,14,,,,,1020.1,,22.6,24.5,,,,"51101",24.359,-162.081,0,"NORTHWESTERN HAWAII TWO - 186 NM NW of Kauai Is., HI","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1703742000000000000
-,,,3.5,14,11.2,320,,,,25.1,,,,"51201",21.671,-158.118,0,"Waimea Bay, HI (106)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1703740560000000000
+,,,3.5,14,,,,,,25.1,,,,"51201",21.671,-158.118,0,"Waimea Bay, HI (106)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1703740560000000000
 ,,,2.3,15,9.2,359,,,,25.1,,,,"51202",21.417,-157.68,0,"Mokapu Point, HI (098)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1703741160000000000
 ,,,3.6,15,10.8,333,,,,25.5,,,,"51205",21.018,-156.425,0,"Pauwela, Maui, HI (187)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1703741160000000000
 ,,,,,,,,,,25.5,,,,"51206",19.779,-154.97,0,"Hilo, Hawaii, HI (188)","Pacific Islands Ocean Observing System","IOOS Partners","buoy","y","n","n","n",1703741400000000000
@@ -274,6 +274,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,,,,22.7,,,,"BBSF1",25.472,-80.349,0,"BBCW10","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703737800000000000
 320,2.6,4.1,,,,,1008.2,,9,6.1,,,,"BDRN4",40.082,-74.87,2.2,"8539094 - Burlington, Delaware River, NJ","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703738160000000000
 ,,,,,,,1007.9,,9.6,5.4,,,,"BDSP1",39.98,-75.079,3.4,"8546252 - Bridesburg, PA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
+,,,,,,,,,,22.1,,,0.43,"BDVF1",25.478,-80.989,0,"Broad River, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 140,1,1,,,,,,,-13,,-14.6,,,"BEXA2",60.791,-161.749,4.5,"Bethel, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742240000000000
 280,3.6,6.2,,,,,1006.2,,15.9,14.6,,,,"BFTN7",34.717,-76.671,1.9,"8656483 - Beaufort, NC","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,1008.4,,9.6,7.3,,,,"BGNN6",40.639,-74.146,3,"8519483 - Bergen Point West Reach, NY","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -291,6 +292,8 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 360,1,1.5,,,,,,,,7.4,,,,"BLTM2",39.267,-76.579,1.4,"8574680 - Baltimore, MD","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 40,3.6,4.1,,,,,1013.4,,8.9,,,,,"BLTM3",41.704,-71.174,2.1,"8447387 - Borden Flats Light at Fall River, MA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,1012.4,,,,,,,"BMTW1",47.562,-122.626,4.4,"9445958 - Bremerton, WA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
+,,,,,,,,,,22.1,,,0.15,"BNKF1",25.087,-80.519,0,"Butternut Key, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
+,,,,,,,,,,22.8,,,0.31,"BOBF1",25.027,-80.681,0,"Bob Allen, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 50,4.6,6.2,,,,,1009.1,,8.9,8.5,,,,"BRHC3",41.174,-73.181,1.9,"8467150 - Bridgeport, CT","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,1006.3,,,,,,,"BRND1",38.987,-75.113,1.9,"8555889 - Brandywine Shoal Light, DE","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740320000000000
 360,8.8,10.8,,,,,1014.6,,4.5,,,,,"BSBM4",44.055,-86.514,184,"Big Sable Point, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1703742000000000000
@@ -304,6 +307,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,1012.6,,10,7,,,,"BZBM3",41.524,-70.671,2.5,"8447930 - Woods Hole, MA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 200,1.5,2.1,,,,,1017.9,,18.3,,,,,"BZST2",26.067,-97.155,10.26,"8779749 - SPI Brazos Santiago, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1703740680000000000
 80,2.6,4.1,,,,,1005.8,,10.8,8,,,,"CAMM2",38.574,-76.069,2.3,"8571892 - Cambridge, MD","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
+,,,,,,,,,,22.2,,,0.91,"CANF1",25.422,-80.942,0,"Cane Patch, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 360,6.2,9.8,,,,,1018.1,,11.3,14.4,,,,"CAPL1",29.768,-93.343,0,"8768094 - Calcasieu Pass, LA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,,,,11.9,,,,"CARL1",29.933,-90.135,0,"8761955 - Carrollton, LA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 350,3.6,4.6,,,,,1014.9,,4.7,6.8,,,,"CASM1",43.656,-70.246,3.9,"8418150 - Portland, ME","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -330,6 +334,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 300,1.5,2.6,,,,,1005.3,,11.6,,,,,"CMAN4",38.968,-74.96,3.2,"8536110 - Cape May, NJ","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 340,6.2,6.7,,,,,,,,,,,,"CMPO1",41.547,-83.015,175,"Camp Perry, OH","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1703737800000000000
 360,9.8,12.4,,,,,1011.9,,4.6,,2.4,,,"CMTI2",41.73,-87.538,178.5,"9087044 - Calumet Harbor, IL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
+,,,,,,,,,,23.2,,,0.05,"CNBF1",25.702,-81.186,0,"Cannon Bay, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 230,2.1,2.6,,,,,1007.2,,5.6,7.2,,,,"CNDO1",41.542,-81.637,176.1,"9063063 - Cleveland, OH","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 360,8.8,9.3,,,,,,,4.1,,0.6,,,"CNII2",41.856,-87.609,180,"Northerly Isle, IL","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1703742300000000000
 280,3.1,3.6,,,,,1005.7,,10.8,,,,,"COVM2",38.402,-76.385,0,"8577018 - Cove Point LNG Pier, MD","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -338,7 +343,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 350,2.6,3.6,,,,,1013,,8.4,7.8,,,,"CPTR1",41.717,-71.345,0,"8452944 - Conimicut Light, RI","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,,,9.2,,9.2,0.5,,"CPVM2",38.995,-76.388,3.4,"8575437 - Chesapeake Bay Bridge Visibility, MD","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 150,1,3.1,,,,,,,-2.3,,-6.1,,,"CPXA2",53.843,-166.583,5,"Captains Bay","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742240000000000
-350,3.1,,,,,,1021.8,,13.2,,11.1,,,"CPXC1",35.17,-120.741,0,"Cal Poly Pier, CA","California Polytechnic State University","IOOS Partners","fixed","y","n","y","n",1703739720000000000
+10,2.6,,,,,,1021.8,,13.2,,11.1,,,"CPXC1",35.17,-120.741,0,"Cal Poly Pier, CA","California Polytechnic State University","IOOS Partners","fixed","y","n","y","n",1703739780000000000
 150,5.1,11.3,,,,,991.4,,8.2,,5.7,,,"CRGA2",55.474,-133.136,28.9,"Craig, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1703741040000000000
 ,0,0,,,,,1003.7,,-1.3,5.1,,,,"CRVA2",60.558,-145.752,4.6,"9454050 - Cordova, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 290,2.6,4.1,,,,,1004.6,,12.3,,,,,"CRYV2",36.888,-76.338,1,"8638595 - South Craney Island, VA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -354,6 +359,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,1005.5,,-21,,-22.7,,,"DHXA2",70.222,-148.419,15,"Deadhorse, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742240000000000
 280,2.6,3.6,,,,,1014.9,,14,,,,,"DILA1",30.25,-88.075,7.1,"8735180 - Dauphin Island, AL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 270,2.6,3.1,,,,,1020.8,0,2.3,,0.2,,,"DISW3",47.079,-90.728,191.7,"Devils Island, WI","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1703739600000000000
+,,,,,,,,,,22.7,,,0.14,"DKKF1",25.18,-80.49,0,"Duck Key, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 ,,,,,,,,,,16.1,,,,"DMSF1",30.387,-81.559,0,"8720219 - Dames Point, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 330,2.6,3.6,,,,,1005,,11.9,,,,,"DOMV2",36.962,-76.424,3.9,"8638511 - Dominion Terminal Associates, VA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 190,2.1,3.6,,,,,,,-1.6,,-6.3,,,"DPLA2",53.884,-166.531,4.6,"Dutch Harbor APL, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742240000000000
@@ -393,6 +399,8 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 350,2.1,2.6,,,,,1006,,,,,,,"FSNM2",39.219,-76.525,0,"8574729 - Francis Scott Key Bridge NE Tower, MD","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 350,5.7,8.2,,,,,1007.5,,6,,5.4,,,"FTGM4",43.007,-82.422,178.9,"9014098 - Fort Gratiot, MI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 60,1,1,,,,,1020.5,,13.6,14.7,,,,"FTPC1",37.806,-122.466,2.7,"9414290 - San Francisco, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
+,,,,,,,,,,21.6,,,0.25,"GBIF1",25.378,-81.029,0,"Gunboat Island, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
+,,,,,,,,,,23.8,,,-0.1,"GBTF1",25.167,-80.801,0,"Garfield Bight, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 10,3.1,4.1,,,,,1016.1,,2.1,,,,,"GBWW3",44.538,-88.003,177,"9087077 - Green Bay West, WI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 10,6.7,9.3,,,,,,,-16.2,,-18,,,"GBXA2",63.777,-171.715,10,"Gambell, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742180000000000
 ,,,,,,,1013.7,,16.1,,8.9,5.9,,"GCTF1",27.774,-82.517,0,"8726524 - Gadsden Cut, Tampa Bay, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -413,8 +421,9 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 220,2.1,,,,,,1016,,14,,11.9,,,"GTXF1",29.658,-81.233,1.3,"Pellicer Creek, Guana Tolomato Matanzas Reserve, FL","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1703738700000000000
 360,1,1.5,,,,,,,2.3,,-3.4,,,"GUXA2",58.408,-135.726,7,"Gustavus Dock, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742120000000000
 310,3.1,6.7,,,,,,,0.3,,,,,"HAXA2",59.234,-135.442,7.6,"Haines Harbor, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742120000000000
-,,,,,,,,,,12.1,,,,"HBXC1",40.777,-124.197,0,"Humboldt, CA","Central and Northern California Ocean Observing System","IOOS Partners","fixed","y","n","y","n",1703739600000000000
+,,,,,,,,,,12.2,,,,"HBXC1",40.777,-124.197,0,"Humboldt, CA","Central and Northern California Ocean Observing System","IOOS Partners","fixed","y","n","y","n",1703741400000000000
 ,,,,,,,1016.7,,,11.7,,,,"HBYC1",40.767,-124.217,7.6,"9418767 - North Spit, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703738160000000000
+,,,,,,,,,,24.9,,,0.03,"HCEF1",25.254,-80.444,0,"Highway Creek, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 260,6.2,7.7,,,,,1005.4,,13.7,13.1,,,,"HCGN7",35.209,-75.704,1.9,"8654467 - USCG Station Hatteras, NC","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 310,2.1,3.6,,,,,1006.8,-1.7,6,,,,,"HHLO1",41.401,-82.545,177,"Huron Harbor Light, OH","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1703739600000000000
 350,2.6,4.1,,,,,1018.6,,8.4,18,,,,"HIST2",29.595,-94.39,0,"8770808 - High Island, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1703740680000000000
@@ -428,7 +437,9 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 30,7.2,7.7,,,,,1014.5,-1.3,5.8,,5.8,,,"IOSN3",42.967,-70.623,13.1,"Isle of Shoals, NH","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1703739600000000000
 360,2.6,3.1,,,,,1018.9,,14.7,16.8,,,,"IRDT2",27.48,-97.322,1,"8776139 - South Bird Island, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,991.1,,6.1,6.8,,,,"ITKA2",57.052,-135.342,3.8,"9451600 - Sitka, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
+,,,,,,,,,,23,,,0.21,"JBYF1",25.224,-80.541,0,"Joe Bay, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 90,4.1,,,,,,1007,,12.4,,12.4,,,"JCRN4",39.535,-74.464,0.9,"Nacote Creek, Jacques Cousteau Reserve, NJ","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1703741400000000000
+,,,,,,,,,,22.5,,,-0.53,"JKYF1",25.053,-80.904,0,"Johnson Key, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 160,5.1,16,,,,,,,2.4,,-4.7,,,"JLXA2",58.298,-134.405,4.6,"Juneau Library, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742180000000000
 70,11.3,22.7,,,,,,,2.4,,-4.7,,,"JMLA2",58.286,-134.39,5.5,"Juneau AML Dock","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742120000000000
 260,5.7,7.2,,,,,1008.2,,15.3,13.6,,,,"JMPN7",34.213,-77.786,7.4,"8658163 - Wrightsville Beach, NC","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -472,7 +483,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,,,,22.9,,,0.06,"LBSF1",25.214,-80.432,0,"Little Blackwater, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 ,,,,,,,1018.6,,9.5,19.5,,,,"LCLL1",30.224,-93.222,3.5,"8767816 - Lake Charles, LA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 120,9.3,12.9,,,,,,,7.2,,2.4,,,"LCNA2",56.058,-132.69,6.5,"Lincoln Island, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1703740200000000000
-50,3.6,5.1,,,,,,,10.3,,,,,"LDLC3",41.306,-72.077,0,"New London Ledge Light, New London Harbor, CT","MYSOUND","IOOS Partners","fixed","y","n","n","n",1703741400000000000
+40,4.1,5.7,,,,,,,10.1,,,,,"LDLC3",41.306,-72.077,0,"New London Ledge Light, New London Harbor, CT","MYSOUND","IOOS Partners","fixed","y","n","n","n",1703742300000000000
 20,2.6,4.6,,,,,,,4.5,,3.6,,,"LDTM4",43.947,-86.441,178.4,"9087023 - Ludington, MI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740320000000000
 300,3.6,4.6,,,,,1021.2,,15.8,17,,,,"LJAC1",32.867,-117.257,9.3,"9410230 - La Jolla, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 320,3.1,5.1,0.8,13,9.2,,,,,,,,,"LJPC1",32.867,-117.257,0,"La Jolla, CA (073)","SCRIPPS","IOOS Partners","fixed","y","n","n","n",1703740800000000000
@@ -518,7 +529,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 30,4.6,5.1,,,,,1015.9,-1.4,6.4,,,,,"MISM1",43.784,-68.855,16.2,"Matinicus Rock, ME","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1703739600000000000
 ,,,,,,,1013.3,,22.8,26.9,,,,"MISP4",18.09,-67.939,1.3,"9759938 - Mona Island, PR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,1014.1,,3.7,,1.7,,,"MKGM4",43.228,-86.339,179.3,"Muskegon CG Station, Muskegon, MI","GLERL","IOOS Partners","fixed","y","n","n","n",1703742000000000000
-100,3.1,,,,,,1021,,12.8,,12.1,,,"MLSC1",36.802,-121.791,3.05,"Moss Landing, South Harbor, CA","Moss Landing Marine Lab","IOOS Partners","fixed","y","n","n","n",1703739480000000000
+110,2.6,,,,,,1021.2,,12.7,,12.1,,,"MLSC1",36.802,-121.791,3.05,"Moss Landing, South Harbor, CA","Moss Landing Marine Lab","IOOS Partners","fixed","y","n","y","n",1703740680000000000
 340,6.2,7.7,,,,,,,2.5,,,,,"MLWW3",43.005,-87.884,178,"Port of Milwaukee","GLERL","IOOS Partners","fixed","y","n","n","n",1703742000000000000
 ,,,,,,,,,,22.2,,,-0.12,"MNBF1",25.239,-80.422,0,"Manatee Bay, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
 310,2.6,4.6,,,,,1014.9,,1.5,2.3,1.5,,,"MNMM4",45.096,-87.59,178.7,"9087088 - Menominee, MI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
@@ -678,7 +689,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 360,9.8,12.4,,,,,,,1.8,,,,,"SCXA2",58.205,-134.646,15.2,"Scull Island, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1703742120000000000
 ,,,,,,,1021.9,,,16.8,,,,"SDBC1",32.714,-117.174,0,"9410170 - San Diego, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740320000000000
 60,6.2,11.8,,,,,1008.3,,9.4,8,,,,"SDHN4",40.467,-74.009,1.9,"8531680 - Sandy Hook, NJ","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
-80,7.2,9.8,,,,,997.7,,2.8,,-2.2,,,"SDIA2",58.277,-134.389,4,"South Douglas, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1703741160000000000
+80,8.8,11.8,,,,,997.9,,3.3,,-2.8,,,"SDIA2",58.277,-134.389,4,"South Douglas, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1703742360000000000
 10,1,2.6,,,,,1019.3,,9.6,16,,,,"SDRT2",28.407,-96.712,0,"8773037 - Seadrift, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,1015.7,,6.6,7.3,6.6,,,"SEIM1",43.08,-70.742,2.7,"8419870 - Seavey Island, ME","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 40,1.5,,,,,,1021,,11.2,,11.2,,,"SFXC1",38.2,-122.026,2.74,"Rush Ranch, San Francisco Bay Reserve, CA","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1703738700000000000
@@ -728,7 +739,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 110,1.5,1.5,,,,,,,8.2,,,,,"TCMW1",47.276,-122.418,4.1,"9446482 - Tacoma Met, WA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,1013,,,10.5,,,,"TCNW1",47.267,-122.413,4.1,"9446484 - Tacoma, WA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 ,,,,,,,,,,23.1,,,0.08,"TCVF1",25.213,-80.533,0,"Trout Cove, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
-,,,,,,,,,,12.2,,,,"TDPC1",41.055,-124.147,0,"Trinidad Pier Trinidad, CA","Central and Northern California Ocean Observing System","IOOS Partners","fixed","y","n","y","n",1703740500000000000
+,,,,,,,,,,12.2,,,,"TDPC1",41.055,-124.147,0,"Trinidad Pier Trinidad, CA","Central and Northern California Ocean Observing System","IOOS Partners","fixed","y","n","y","n",1703741400000000000
 310,1.5,2.6,,,,,1017.1,,10.1,11.6,,,,"TESL1",29.668,-91.237,0,"8764044 - Tesoro Marine Terminal, Berwick, Atchafalaya River, LA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1703740680000000000
 340,6.2,6.2,,,,,,,6.1,,,,,"THLO1",41.826,-83.194,173.5,"Toledo Light No. 2 OH","GLERL","IOOS Partners","fixed","y","n","n","n",1703741400000000000
 ,,,,,,,,,,22.7,,,-0.15,"THRF1",25.203,-80.372,0,"Thursday Point, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1703736000000000000
