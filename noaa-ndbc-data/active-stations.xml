@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-01-18T15:45:02UTC" count="1323">
+<stations created="2024-01-18T16:05:01UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -396,7 +396,7 @@
   <station id="46145" lat="54.37" lon="-132.42" elev="0" name="Central Dixon Entrance Buoy" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46146" lat="49.34" lon="-123.73" elev="0" name="Halibut Bank" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46147" lat="51.83" lon="-131.22" elev="0" name="South Moresby" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46181" lat="53.83" lon="-128.83" elev="0" name="Nanakwa Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="46181" lat="53.83" lon="-128.83" elev="0" name="Nanakwa Shoal" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46183" lat="53.62" lon="-131.1" elev="0" name="North Hecate Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46184" lat="53.92" lon="-138.85" elev="0" name="North Nomad" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46185" lat="52.42" lon="-129.79" elev="0" name="South Hecate Strait" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -833,7 +833,7 @@
   <station id="hbmn6" lat="41.314" lon="-73.985" name="Bear Mountain, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="hbxc1" lat="40.777" lon="-124.197" name="Humboldt, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hbyc1" lat="40.767" lon="-124.217" elev="7.6" name="9418767 - North Spit, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="hcef1" lat="25.254" lon="-80.444" elev="0" name="Highway Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="hcef1" lat="25.254" lon="-80.444" elev="0" name="Highway Creek, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hcgn7" lat="35.209" lon="-75.704" elev="1.9" name="8654467 - USCG Station Hatteras, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hhlo1" lat="41.401" lon="-82.545" elev="177" name="Huron Harbor Light, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hist2" lat="29.595" lon="-94.39" elev="0" name="8770808 - High Island, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1238,7 +1238,7 @@
   <station id="taqt2" lat="27.815" lon="-97.389" elev="0" name="8775296 - USS Lexington, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tawm4" lat="44.254" lon="-83.449" elev="183" name="Tawas Point, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tbim4" lat="45.035" lon="-83.194" elev="175.9" name="Thunder Bay Island, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="tbyf1" lat="25.155" lon="-80.722" name="Terrapin Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="tbyf1" lat="25.155" lon="-80.722" name="Terrapin Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tcbm2" lat="39.213" lon="-76.244" elev="3" name="8573364 - Tolchester Beach, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tcmw1" lat="47.276" lon="-122.418" elev="4.1" name="9446482 - Tacoma Met, WA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tcnw1" lat="47.267" lon="-122.413" elev="4.1" name="9446484 - Tacoma, WA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
