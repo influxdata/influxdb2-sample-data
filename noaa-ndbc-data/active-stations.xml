@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-02-11T04:00:01UTC" count="1323">
+<stations created="2024-02-11T04:20:01UTC" count="1323">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -110,7 +110,7 @@
   <station id="41046" lat="23.822" lon="-68.393" elev="0" name="EAST BAHAMAS - 335 NM East of San Salvador Is,  Bahamas " owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41047" lat="27.465" lon="-71.452" elev="0" name="NE BAHAMAS - 350 NM ENE of Nassau, Bahamas" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41048" lat="31.831" lon="-69.573" elev="0" name="WEST BERMUDA - 240 NM West of Bermuda" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41049" lat="26.4994" lon="-62.7893" elev="0" name="SOUTH BERMUDA - 300 NM SSE of Bermuda" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41049" lat="26.4888" lon="-62.8017" elev="0" name="SOUTH BERMUDA - 300 NM SSE of Bermuda" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41052" lat="18.249" lon="-64.763" elev="0" name="South of St. John, VI" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="41053" lat="18.474" lon="-66.099" elev="0" name="San Juan, PR" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="41056" lat="18.261" lon="-65.464" elev="0" name="Vieques Island, PR" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -194,7 +194,7 @@
   <station id="44020" lat="41.497" lon="-70.283" elev="0" name="NANTUCKET SOUND" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44022" lat="40.883" lon="-73.728" elev="0" name="Execution Rocks" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44024" lat="42.325" lon="-65.909" elev="0" name="Buoy N01 - Northeast Channel" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44025" lat="39.1234" lon="-62.8299" elev="0" name="LONG ISLAND - 30 NM South of Islip, NY" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="44025" lat="39.1166" lon="-62.8135" elev="0" name="LONG ISLAND - 30 NM South of Islip, NY" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44027" lat="44.283" lon="-67.3" elev="0" name="Jonesport, ME - 20 NM SE of Jonesport, ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44029" lat="42.523" lon="-70.566" elev="0" name="Buoy A01 - Massachusetts Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44030" lat="43.179" lon="-70.426" elev="0" name="Buoy B01 - Western Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
@@ -360,7 +360,7 @@
   <station id="46072" lat="51.666" lon="-172.114" elev="0" name="CENTRAL ALEUTIANS 230 NM SW Dutch Harbor" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46073" lat="55.008" lon="-172.012" elev="0" name="SOUTHEAST BERING SEA - 205 NM WNW of Dutch Harbor, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46075" lat="53.969" lon="-160.794" elev="0" name="SHUMAGIN ISLANDS - 85NM South of Sand Point, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46076" lat="59.8227" lon="-148.8440" elev="0" name="CAPE CLEARE - 17 NM South of Montague Is,  AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46076" lat="59.8264" lon="-148.8790" elev="0" name="CAPE CLEARE - 17 NM South of Montague Is,  AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46077" lat="57.869" lon="-154.211" elev="0" name="SHELIKOF STRAIT, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46078" lat="55.561" lon="-152.599" elev="0" name="ALBATROSS BANK - 104NM South of Kodiak Is., AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46080" lat="57.916" lon="-150.133" elev="0" name="PORTLOCK BANK - 76 NM ENE of Kodiak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -604,7 +604,7 @@
   <station id="agmw3" lat="44.608" lon="-87.433" elev="179" name="Algoma City Marina, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="agxc1" lat="33.716" lon="-118.246" name="9410647 - Angels Gate, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ajxa2" lat="58.287" lon="-134.398" elev="4.6" name="Juneau AJ Dock, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="akxa2" lat="54.132" lon="-165.782" elev="6.1" name="Akutan, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="akxa2" lat="54.132" lon="-165.782" elev="6.1" name="Akutan, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="alia2" lat="56.898" lon="-154.247" elev="4.6" name="9457804 - Alitak, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="alxn6" lat="44.331" lon="-75.934" elev="74.9" name="8311062 - Alexandria Bay, NY" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="amaa2" lat="58.915" lon="-151.952" elev="33.2" name="East Amatuli Island Light, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -616,7 +616,7 @@
   <station id="anvc1" lat="38.915" lon="-123.711" elev="7.7" name="9416841 - Arena Cove, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apam2" lat="38.983" lon="-76.479" elev="1.4" name="8575512 - Annapolis, MD" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apcf1" lat="29.724" lon="-84.98" elev="1.9" name="8728690 - Apalachicola, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="apma2" lat="61.239" lon="-149.889" elev="5.5" name="Anchorage Port, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="apma2" lat="61.239" lon="-149.889" elev="5.5" name="Anchorage Port, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apnm4" lat="45.06" lon="-83.424" elev="177.5" name="Alpena Harbor Light, Alpena, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apqf1" lat="29.786" lon="-84.875" name="East Bay Bottom, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="aprp7" lat="13.444" lon="144.657" elev="1.8" name="1630000 - Apra Harbor, Guam" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -721,7 +721,7 @@
   <station id="cpnw1" lat="48.863" lon="-122.758" elev="4.6" name="9449427 - Cherry Point North Dock Met" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cptr1" lat="41.717" lon="-71.345" elev="0" name="8452944 - Conimicut Light, RI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cpvm2" lat="38.995" lon="-76.388" elev="3.4" name="8575437 - Chesapeake Bay Bridge Visibility, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cpxa2" lat="53.843" lon="-166.583" elev="5" name="Captains Bay" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="cpxa2" lat="53.843" lon="-166.583" elev="5" name="Captains Bay" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cpxc1" lat="35.17" lon="-120.741" elev="0" name="Cal Poly Pier, CA" owner="California Polytechnic State University" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="cquc1" lat="38.066" lon="-122.23" name="Carquinez, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="crga2" lat="55.474" lon="-133.136" elev="28.9" name="Craig, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -748,9 +748,9 @@
   <station id="dmsf1" lat="30.387" lon="-81.559" name="8720219 - Dames Point, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="domv2" lat="36.962" lon="-76.424" elev="3.9" name="8638511 - Dominion Terminal Associates, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dpha1" lat="30.251" lon="-88.078" elev="0" name="Dauphin Island Sea Lab, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="dpla2" lat="53.884" lon="-166.531" elev="4.6" name="Dutch Harbor APL, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="dpoa2" lat="53.903" lon="-166.528" elev="4.6" name="Dutch Harbor Port Office, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="dpxa2" lat="53.889" lon="-166.542" elev="20" name="Dutch Harbor Pilot Station, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="dpla2" lat="53.884" lon="-166.531" elev="4.6" name="Dutch Harbor APL, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="dpoa2" lat="53.903" lon="-166.528" elev="4.6" name="Dutch Harbor Port Office, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="dpxa2" lat="53.889" lon="-166.542" elev="20" name="Dutch Harbor Pilot Station, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dpxc1" lat="38.056" lon="-122.264" name="9415141 - Davis Point, San Pablo Bay, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="drsd1" lat="39.089" lon="-75.437" elev="1.2" name="Saint Jones River, Delaware Reserve, DE" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dtlm4" lat="45.993" lon="-83.898" elev="178.5" name="9075099 - De Tour Village, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -840,7 +840,7 @@
   <station id="hivt2" lat="27.844" lon="-97.07" elev="1.9" name="8775223 - Harbor Island Visibility, TX" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hlnm4" lat="42.773" lon="-86.213" elev="178.7" name="9087031 - Holland, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hmra2" lat="59.601" lon="-151.41" elev="12.9" name="Homer, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="hmsa2" lat="59.602" lon="-151.417" elev="15" name="Homer Spit, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="hmsa2" lat="59.602" lon="-151.417" elev="15" name="Homer Spit, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hrbm4" lat="43.846" lon="-82.643" elev="178.2" name="9075014 - Harbor Beach, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="href1" lat="25.424" lon="-81.06" name="Harney River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="huqn6" lat="42.036" lon="-73.925" name="Tivoli North, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -873,7 +873,7 @@
   <station id="kbqx" lat="28.314" lon="-95.62" name="Brazos 538 (Transco)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kcha2" lat="59.602" lon="-151.409" name="Homer Dolphin Deep, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kcvw" lat="29.784" lon="-93.3" name="Cameron, LA (PHI)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="kcxa2" lat="55.057" lon="-162.326" elev="20" name="King Cove" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kcxa2" lat="55.057" lon="-162.326" elev="20" name="King Cove" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kdaa2" lat="57.731" lon="-152.511" elev="4.9" name="9457292 - Kodiak Island, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kdlp" lat="29.121" lon="-89.547" name="West Delta 27A (AngloSuisse Offshore Partners)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="keca2" lat="55.331" lon="-131.625" elev="4.6" name="9450460 - Ketchikan, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -889,7 +889,7 @@
   <station id="kgul" lat="27.304" lon="-93.538" name="Garden Banks 668 / Gunnison Spar (Anadarko)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgvw" lat="29.13" lon="-94.55" elev="37" name="Galveston 209A (Arena Offshore)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kgvx" lat="28.577" lon="-94.976" name="Galveston 424C (Nippon Oil Exploration)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="kgxa2" lat="57.777" lon="-152.425" elev="15" name="Kodiak Gull Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kgxa2" lat="57.777" lon="-152.425" elev="15" name="Kodiak Gull Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="khhv" lat="26.939" lon="-94.689" name="Alaminos Canyon 25 / Hoover-Diana (ExxonMobile Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="khqi" lat="27.934" lon="-93.669" name="High Island 376B (Apache)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kikt" lat="28.521" lon="-88.289" name="Mississippi Canyon 474 / Na Kika FPU (BP)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
@@ -898,10 +898,10 @@
   <station id="klmw1" lat="45.983" lon="-122.835" elev="2.953" name="9440357 - TEMCO Kalama Terminal, WA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kmdj" lat="28.643" lon="-89.794" name="Mississippi Canyon 311A (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kmis" lat="29.296" lon="-88.842" name="MP 140B  AWOS (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="kmxa2" lat="57.782" lon="-152.439" elev="10" name="Kodiak Matson Crane, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="kmxa2" lat="57.782" lon="-152.439" elev="10" name="Kodiak Matson Crane, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kmzg" lat="27.727" lon="-96.191" name="Mustang Island A85A (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="knsw3" lat="42.589" lon="-87.809" elev="176" name="Kenosha Light, Kenosha, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="knxa2" lat="60.552" lon="-151.274" elev="3.7" name="Kenai, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="knxa2" lat="60.552" lon="-151.274" elev="3.7" name="Kenai, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="koza2" lat="66.901" lon="-162.589" elev="6" name="KOTZEBUE MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kp53" lat="46.417" lon="-86.65" name="Munising Lake Shore, MI" owner="NWS Central Region" pgm="Marine METAR" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kp58" lat="44.017" lon="-82.8" elev="179" name="Port Hope, MI" owner="NWS Central Region" pgm="Marine METAR" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1024,13 +1024,13 @@
   <station id="niqs1" lat="33.349" lon="-79.189" name="Oyster Landing, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="niws1" lat="33.349" lon="-79.189" elev="0" name="Oyster Landing, North Inlet-Winyah Bay Reserve, SC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="njlc1" lat="40.769" lon="-124.239" elev="7.6" name="9418768 - North Jetty Landing, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="nkla2" lat="52.972" lon="-168.855" name="Nikolski White Alice" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="nkla2" lat="52.972" lon="-168.855" name="Nikolski White Alice" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nkta2" lat="60.683" lon="-151.399" elev="7.9" name="9455760 - Nikiski, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nkxa2" lat="58.255" lon="-134.945" elev="12.2" name="Naked Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nlhc3" lat="41.372" lon="-72.096" elev="2.4" name="8461490 - New London, CT" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nlma3" lat="35.458" lon="-114.666" elev="197.206" name="Lake Mohave - North" owner="National Park Service - Lake Mead National Recreation Area" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="nlnc3" lat="41.361" lon="-72.09" elev="2.4" name="8461490 - New London, CT" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="nlxa2" lat="56.005" lon="-161.177" elev="11" name="Nelson Lagoon, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="nlxa2" lat="56.005" lon="-161.177" elev="11" name="Nelson Lagoon, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nmta2" lat="64.5" lon="-165.43" elev="4.8" name="9468756 - Nome, Norton Sound, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nmxa2" lat="64.494" lon="-165.44" elev="7" name="Nome, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="noqn7" lat="34.156" lon="-77.85" name="Research Creek, North Carolina Reserve, NC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1042,7 +1042,7 @@
   <station id="nrep1" lat="42.258" lon="-79.792" elev="183" name="Northeast Marina, PA" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nrrf1" lat="25.338" lon="-80.911" name="North River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="nstp6" lat="-14.28" lon="-170.688" elev="1.8" name="1770000 - Pago Pago, American Samoa" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="nsxa2" lat="60.74" lon="-151.311" elev="47.6" name="Nikiski, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="nsxa2" lat="60.74" lon="-151.311" elev="47.6" name="Nikiski, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ntbc1" lat="34.405" lon="-119.692" elev="2.6" name="9411340 - Santa Barbara, CA " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ntkm3" lat="41.285" lon="-70.096" elev="2.2" name="8449130 - Nantucket Island, MA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nuet2" lat="27.832" lon="-97.486" elev="0" name="8775244 - Nueces Bay, TX" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1075,7 +1075,7 @@
   <station id="owxo1" lat="41.378" lon="-82.508" elev="184.1" name="Old Woman Creek, Old Woman Creek Reserve, OH" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pacf1" lat="30.152" lon="-85.667" elev="2.1" name="8729108 - Panama City, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pact2" lat="27.634" lon="-97.237" elev="0" name="8775792 - Packery Channel, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="paua2" lat="57.124" lon="-170.271" elev="20" name="ST PAUL MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="paua2" lat="57.124" lon="-170.271" elev="20" name="ST PAUL MXAK, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="paxa2" lat="58.159" lon="-134.178" elev="13.7" name="Point Arden, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pbfw1" lat="48.464" lon="-122.469" elev="1.83" name="Padilla Bay Farm, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pblw1" lat="48.556" lon="-122.53" name="Ploeg Channel, Padilla Bay Reserve, WA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
@@ -1112,7 +1112,7 @@
   <station id="pota2" lat="61.06" lon="-146.7" elev="7" name="Potato Point, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ppta1" lat="30.279" lon="-87.556" elev="0" name="Perdido Pass, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pptm2" lat="38.134" lon="-76.533" elev="5.7" name="8578240 - Piney Point, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="ppxa2" lat="60.801" lon="-148.357" elev="5" name="Point Pigot" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="ppxa2" lat="60.801" lon="-148.357" elev="5" name="Point Pigot" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ppxc1" lat="37.906" lon="-122.365" name="9414847 - Point Potrero, Richmond, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="prda2" lat="70.4" lon="-148.527" name="9497645 - Prudhoe Bay, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="prhh1" lat="21.367" lon="-157.964" name="1612401 - Pearl Harbor, HI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1190,7 +1190,7 @@
   <station id="sgnt2" lat="28.771" lon="-95.617" name="8772985 - Sargent, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="sgnw3" lat="43.749" lon="-87.693" elev="175.9" name="Sheboygan, WI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sgof1" lat="29.408" lon="-84.858" elev="0" name="Tyndall AFB Tower C (N4), FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="sgxa2" lat="56.599" lon="-169.542" elev="60" name="ST GEORGE MXAK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="sgxa2" lat="56.599" lon="-169.542" elev="60" name="ST GEORGE MXAK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="shbl1" lat="29.868" lon="-89.673" elev="0" name="8761305 - Shell Beach, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="shpf1" lat="30.058" lon="-84.291" elev="0" name="SHP - Shell Point, FL" owner="COMPS (University of South Florida)" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="shxa2" lat="57.055" lon="-135.349" elev="4.6" name="Sitka Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1231,7 +1231,7 @@
   <station id="swla2" lat="60.12" lon="-149.427" elev="6.2" name="9455090 - Seward, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="swpm4" lat="46.501" lon="-84.372" elev="184.6" name="9076070 - S.W. Pier, MI" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="swpv2" lat="36.943" lon="-76.329" elev="3.6" name="8638610 - Sewells Point, VA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="swxa2" lat="60.116" lon="-149.434" elev="7.6" name="Seward Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="swxa2" lat="60.116" lon="-149.434" elev="7.6" name="Seward Harbor, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sxhw3" lat="46.563" lon="-90.437" elev="184" name="Saxon Harbor, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sxxa2" lat="55.315" lon="-131.596" elev="9" name="Saxman Landing, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="syww3" lat="45.202" lon="-87.121" elev="180" name="Yacht Works Sister Bay, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1279,7 +1279,7 @@
   <station id="vcaf1" lat="24.711" lon="-81.107" elev="3.1" name="8723970 - Vaca Key, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="vcat2" lat="28.64" lon="-96.609" elev="0" name="8773259 - Port Lavaca, TX " owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="vcva2" lat="57.125" lon="-170.285" elev="3" name="9464212 - Village Cove, St. Paul Island, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="vdxa2" lat="61.127" lon="-146.344" elev="4.6" name="Valdez, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="vdxa2" lat="61.127" lon="-146.344" elev="4.6" name="Valdez, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="vdza2" lat="61.125" lon="-146.361" elev="4.6" name="9454240 - Valdez, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="venf1" lat="27.072" lon="-82.453" elev="0" name="Venice, FL" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="verv4" lat="19.204" lon="-96.113" elev="0" name="Veracruz Harbor, MX" owner="EPA &amp; Mexican Government Cooperative Program" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
@@ -1303,7 +1303,7 @@
   <station id="wgxa2" lat="56.467" lon="-132.382" elev="15" name="Wrangell Harbor" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="whri2" lat="42.361" lon="-87.813" elev="180" name="Waukegan Harbor, IL" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wiwf1" lat="25.587" lon="-81.044" elev="0" name="Willy Willy, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="wixa2" lat="60.777" lon="-148.682" elev="4.6" name="Whittier AMHS, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="wixa2" lat="60.777" lon="-148.682" elev="4.6" name="Whittier AMHS, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wkqa1" lat="30.417" lon="-87.823" name="Fish River, Weeks Bay Reserve, AL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="wkxa1" lat="30.421" lon="-87.828" elev="3.35" name="Safe Harbor Met Station, Weeks Bay Reserve, AL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="wlon7" lat="34.228" lon="-77.954" elev="1.5" name="8658120 - Wilmington, NC" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
