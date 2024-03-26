@@ -10,8 +10,6 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 340,1,,1,6,,,,,8.5,11.5,,,,"22105",37.54,130,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1711472400000000000
 10,3,,1,6,,,,,8.7,13.8,,,,"22106",36.35,129.78,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1711472400000000000
 30,1,,0.5,4,,,,,6.4,7.6,,,,"22108",36.25,125.75,0,"","Korean Meteorological Administration","International Partners","buoy","y","n","n","n",1711472400000000000
-,,,,,,,,,,,,,,"31001",0,-35,0,"Samba","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1711465200000000000
-347,3.3,,,,,,1014.2,,29.4,29.8,,,,"31005",-19,-34,0,"Espirito Santo","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1711465200000000000
 120,5,,,,,,1020,,21.7,21.6,16.6,,,"32ST0",-22,-85,0,"Stratus","Woods Hole Oceanographic Institution","IOOS Partners","fixed","y","n","y","n",1711470600000000000
 360,5,8,,,,,1016.5,,20.2,22.7,15.5,,,"41002",31.759,-74.936,0,"SOUTH HATTERAS - 225 NM South of Cape Hatteras","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1711474200000000000
 160,4,5,,,,,1018.6,,20.6,19.5,16.1,,,"41004",32.502,-79.099,0,"EDISTO - 41 NM Southeast of Charleston, SC","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1711474200000000000
@@ -20,7 +18,6 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 30,6,7,,,,,1020.2,,14.7,17,12.5,,,"41013",33.441,-77.764,0,"Frying Pan Shoals, NC","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1711474200000000000
 80,6,8,,,,,1019.9,,13.4,15.3,11.4,,,"41024",33.837,-78.477,0,"Sunset Nearshore, NC (SUN2)","CORMP","IOOS Partners","buoy","y","n","n","n",1711472880000000000
 360,8,9,,,,,1020.5,,,10.7,,,,"41025",35.01,-75.454,0,"Diamond Shoals, NC","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1711474200000000000
-76,7.8,,,,,,,,26,,,,,"41026",12,-38,0,"Forro","Prediction and Research Moored Array in the Atlantic","International Partners","buoy","y","n","n","n",1711465200000000000
 70,8,11,,,,,1018.8,,15.7,,14.6,,,"41029",32.803,-79.624,0,"Capers Nearshore, SC (CAP2)","CORMP","IOOS Partners","buoy","y","n","n","n",1711469280000000000
 50,4,6,,,,,1021.2,,11.7,16.2,9.4,,,"41037",33.988,-77.362,0,"Wrightsville Beach Offshore, NC (ILM3)","CORMP","IOOS Partners","buoy","y","n","n","n",1711472880000000000
 60,3,4,,,,,1021.2,,10.6,14.5,7.5,,,"41038",34.141,-77.715,0,"Wrightsville Beach Nearshore, NC (ILM2)","CORMP","IOOS Partners","buoy","y","n","n","n",1711472880000000000
@@ -495,7 +492,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 150,8.2,9.8,,,,,1014.9,,24.4,25,,,,"LKWF1",26.613,-80.034,5.9,"8722670 - Lake Worth Pier, FL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1711473480000000000
 ,,,9.7,,,,,,,24.3,,,-0.3,"LMDF1",25.176,-80.633,0,"Little Madeira, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711468800000000000
 100,7.7,10.3,,,,,,,16.1,,,,,"LMFS1",34.107,-81.271,107.9,"Lake Murray SC","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1711473600000000000
-,,,10,,,,,,,24.4,,,-0.03,"LMRF1",25.556,-81.169,0,"Lostmans River, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711468800000000000
+,,,10.5,,,,,,,24.7,,,0.52,"LMRF1",25.556,-81.169,0,"Lostmans River, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711472400000000000
 130,1,2.1,,,,,1019.9,,12.9,,,,,"LNDC1",37.795,-122.281,0,"9414763 - Oakland Berth 67, CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1711473480000000000
 130,8.2,10.3,,,,,1012.5,,25.2,,20.8,,,"LONF1",24.844,-80.864,0,"Long Key, FL","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1711474800000000000
 60,8.2,9.3,2.6,,,,1011.1,,18.4,,14.2,,,"LOPL1",28.885,-90.025,0,"Louisiana Offshore Oil Port, LA","Louisiana Offshore Oil Port","IOOS Partners","oilrig","y","n","n","n",1711472880000000000
@@ -505,7 +502,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 350,5.1,7.2,,,,,1012.3,,19.6,21.7,8.3,5.9,,"LQAT2",27.881,-97.285,8.626,"La Quinta, TX  MET (8775132)","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1711473480000000000
 ,,,9.7,,,,,,,25.4,,,-0.31,"LRIF1",25.284,-80.894,0,"Lane River, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711472400000000000
 ,,,9.6,,,,,,,24.3,,,-0.37,"LRKF1",24.982,-80.826,0,"Little Rabbit Key, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711468800000000000
-,,,9.9,,,,,,,24.1,,,-0.13,"LSNF1",25.235,-80.457,0,"Long Sound, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711468800000000000
+,,,9.9,,,,,,,24.5,,,-0.1,"LSNF1",25.235,-80.457,0,"Long Sound, FL","Everglades National Park","IOOS Partners","fixed","y","n","y","n",1711472400000000000
 360,4.6,5.7,,,,,1010.4,,31.2,28.8,,,,"LTBV3",17.695,-64.754,3.1,"9751401 - Lime Tree Bay, St. Croix, VI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1711473480000000000
 ,,,,,,,,,23.4,,18.7,,,"LTJF1",30.379,-81.446,4.892,"8720228 - Little Jetties, St. Johns River, FL","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1711473480000000000
 130,7.2,10.8,,,,,998.2,,4.6,,3.9,,,"LTRM4",46.486,-84.302,178.6,"9076033 - Little Rapids, MI","NOS","NOS/CO-OPS","fixed","y","n","n","n",1711473480000000000
