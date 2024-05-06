@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-05-06T12:40:01UTC" count="1334">
+<stations created="2024-05-06T12:50:01UTC" count="1334">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -299,7 +299,7 @@
   <station id="45173" lat="46.573" lon="-86.572" elev="178" name="Munising Buoy, Munising, MI" owner="Northern Michigan University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45174" lat="42.135" lon="-87.655" elev="176" name="Wilmette Buoy, IL" owner="llinois-Indiana Sea Grant" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45175" lat="45.825" lon="-84.772" elev="176" name="Mackinac Straits West, Mackinaw City, MI " owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="45176" lat="41.55" lon="-81.765" elev="174" name="Cleveland Intake Crib Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="45176" lat="41.55" lon="-81.765" elev="174" name="Cleveland Intake Crib Buoy, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45177" lat="41.894" lon="-87.613" elev="176" name="Ohio St. Beach, Chicago, IL" owner="Chicago Park District" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45178" lat="44.603" lon="-73.394" elev="30" name="1 NM SE of Valcour Island, NY" owner="SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45179" lat="47.195" lon="-87.224" elev="178" name="Stannard Rock Buoy" owner="Superior Watershed Partnership" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -312,7 +312,7 @@
   <station id="45188" lat="44.094" lon="-73.423" elev="30" name="Champlain Bridge Buoy" owner="SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45194" lat="45.804" lon="-84.792" elev="177.43" name="McGulpin Point North, MI (253)" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45196" lat="41.521" lon="-81.88" elev="174" name="Rocky River, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="45197" lat="41.619" lon="-81.617" elev="174" name="Euclid, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45197" lat="41.619" lon="-81.617" elev="174" name="Euclid, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="45198" lat="41.892" lon="-87.563" elev="176" name="Chicago Buoy" owner="Illinois-Indiana Sea Grant and Purdue Civil Engineering" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45199" lat="42.702" lon="-87.647" elev="176" name="Salmon Unlimited Wisconsin" owner="Salmon Unlimited Wisconsin" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="45200" lat="41.724" lon="-83.37" elev="174" name="Maumee Bay Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
