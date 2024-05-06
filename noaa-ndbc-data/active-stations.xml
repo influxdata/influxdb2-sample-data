@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-05-06T23:00:01UTC" count="1334">
+<stations created="2024-05-06T23:20:01UTC" count="1334">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -203,7 +203,7 @@
   <station id="44030" lat="43.179" lon="-70.426" elev="0" name="Buoy B01 - Western Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44032" lat="43.715" lon="-69.355" elev="0" name="Buoy E01 - Central Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="44033" lat="44.055" lon="-68.996" elev="0" name="Buoy F01 - Penobscot Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
-  <station id="44034" lat="44.103" lon="-68.112" elev="0" name="Buoy I01 - Eastern Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
+  <station id="44034" lat="44.103" lon="-68.112" elev="0" name="Buoy I01 - Eastern Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44037" lat="43.497" lon="-67.876" elev="0" name="Buoy M01 - Jordan Basin" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44039" lat="41.138" lon="-72.655" elev="0" name="Central Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44040" lat="40.956" lon="-73.58" elev="0" name="Western Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -542,7 +542,7 @@
   <station id="53006" lat="-12" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="53009" lat="-12" lon="93" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="53040" lat="-8" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="53056" lat="-5" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="53056" lat="-5" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="5401000" lat="-38.2" lon="-179.797" name="NZC - Offshore Gisborne Hikurangi" owner="New Zealand National Emergency Management Agency by Te Pu Ao GNS Science and NIWA Taihoro Nukurangi" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="5401001" lat="-36.049" lon="-177.708" name="NZE - Offshore East Cape Kermadec" owner="New Zealand National Emergency Management Agency by Te Pu Ao GNS Science and NIWA Taihoro Nukurangi" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="5401002" lat="-29.683" lon="-175.012" name="NZF - Offshore Raoul Island Kermadec" owner="New Zealand National Emergency Management Agency by Te Pu Ao GNS Science and NIWA Taihoro Nukurangi" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -1094,7 +1094,7 @@
   <station id="pbwm4" lat="43.002" lon="-82.423" elev="178.22" name="9014095 - Port Huron, North of Blue Water Bridge, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcbf1" lat="30.213" lon="-85.88" elev="7.9" name="8729210 - Panama City Beach, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcgt2" lat="26.072" lon="-97.167" elev="0" name="8779748 - South Padre Island CGS, TX " owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pclf1" lat="30.404" lon="-87.211" elev="2.8" name="8729840 - Pensacola, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pclf1" lat="30.404" lon="-87.211" elev="2.8" name="8729840 - Pensacola, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pclm4" lat="47.276" lon="-88.528" elev="196" name="Portage Canal, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcnt2" lat="28.446" lon="-96.396" elev="0" name="8773701 - Port O'Connor, Matagorda Bay, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pcoc1" lat="38.056" lon="-122.039" elev="2.8" name="9415144 - Port Chicago, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
