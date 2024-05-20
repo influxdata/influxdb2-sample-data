@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-05-20T20:20:01UTC" count="1333">
+<stations created="2024-05-20T20:30:01UTC" count="1333">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -12,11 +12,11 @@
   <station id="14048" lat="-8" lon="65" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="14049" lat="-12" lon="65" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15001" lat="-10" lon="-10" elev="0" name="Gavotte" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="15002" lat="0" lon="-10" elev="0" name="Java" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15008" lat="-20" lon="-10" elev="0" name="" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15009" lat="0" lon="-3.051" elev="0" name="" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="1801583" lat="37.32" lon="-122.93" elev="0" name="SD 1063 - 24 NM SSW of San Francisco, CA (Site of 46012)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="1801583" lat="37.31" lon="-122.93" elev="0" name="SD 1063 - 24 NM SSW of San Francisco, CA (Site of 46012)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="20cm4" lat="42.09" lon="-86.49" elev="177" name="St. Joseph CG Station, MI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="21413" lat="30.514" lon="152.123" elev="0" name="SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
@@ -853,7 +853,7 @@
   <station id="hmsa2" lat="59.602" lon="-151.417" elev="15" name="Homer Spit, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="hrbm4" lat="43.846" lon="-82.643" elev="178.2" name="9075014 - Harbor Beach, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="href1" lat="25.424" lon="-81.06" name="Harney River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="huqn6" lat="42.036" lon="-73.925" name="Tivoli North, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="huqn6" lat="42.036" lon="-73.925" name="Tivoli North, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="icac1" lat="34.008" lon="-118.5" elev="6.6" name="9410840 - Santa Monica Pier" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="icya2" lat="59.923" lon="-141.359" elev="15" name="Icy Bay, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="iloh1" lat="19.73" lon="-155.056" elev="2.4" name="1617760 - Hilo, HI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1046,7 +1046,7 @@
   <station id="noqn7" lat="34.156" lon="-77.85" name="Research Creek, North Carolina Reserve, NC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="noxn7" lat="34.155" lon="-77.851" elev="4.88" name="Research Creek, North Carolina Reserve, NC" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="npdw3" lat="45.291" lon="-86.977" elev="178" name="Northport Pier at Death's Door, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="npqn6" lat="41.832" lon="-73.942" name="Norrie Point, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="npqn6" lat="41.832" lon="-73.942" name="Norrie Point, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="npsf1" lat="26.132" lon="-81.807" elev="3.1" name="8725110 - Naples, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="npxn6" lat="41.831" lon="-73.942" elev="0" name="Norrie Point, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="nrep1" lat="42.258" lon="-79.792" elev="183" name="Northeast Marina, PA" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1261,7 +1261,7 @@
   <station id="thrf1" lat="25.203" lon="-80.372" elev="0" name="Thursday Point, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="thro1" lat="41.694" lon="-83.473" elev="176.2" name="9063085 - Toledo, OH" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tibc1" lat="37.892" lon="-122.447" elev="5" name="Tiburon Pier, San Francisco Bay, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="tiqc1" lat="32.568" lon="-117.131" name="Oneonta Slough, Tijuana River Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="tiqc1" lat="32.568" lon="-117.131" name="Oneonta Slough, Tijuana River Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="tixc1" lat="32.575" lon="-117.127" elev="4" name="Tidal Linkage, Tijuana River Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tkea2" lat="57.779" lon="-135.219" elev="5" name="Tenakee Springs, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="tkpn6" lat="42.014" lon="-73.939" elev="1.4" name="Turkey Point Hudson River NERRS, NY (NOS 8518962)" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
