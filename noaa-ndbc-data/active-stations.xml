@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-05-26T08:45:01UTC" count="1334">
+<stations created="2024-05-26T09:05:02UTC" count="1334">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="13002" lat="21" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="13008" lat="15" lon="-38" elev="0" name="Reggae" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="13008" lat="15" lon="-38" elev="0" name="Reggae" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13009" lat="8" lon="-38" elev="0" name="Lambada" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="13010" lat="0" lon="0" elev="0" name="Soul" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="14041" lat="-8" lon="55" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -572,7 +572,7 @@
   <station id="62095" lat="53.04" lon="-15.53" elev="0" name="M6 - West Coast" owner="Met Eireann" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62103" lat="49.9" lon="-2.9" elev="0" name="Channel Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62105" lat="55.41" lon="-11.81" elev="0" name="K4 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="62107" lat="50.102" lon="-6.1" elev="0" name="Sevenstones Lightship" owner="UK Met Office" pgm="International Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62114" lat="58.3" lon="0" name="Tartan &quot;A&quot; AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62121" lat="53.5" lon="2.7" name="Carrack AWS" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62124" lat="53.6" lon="-3.6" name="Conwy" owner="Private Industry Oil Platform" pgm="International Partners" type="oilrig" met="y" currents="n" waterquality="n" dart="n"/>
@@ -628,7 +628,7 @@
   <station id="apcf1" lat="29.724" lon="-84.98" elev="1.9" name="8728690 - Apalachicola, FL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apma2" lat="61.239" lon="-149.889" elev="5.5" name="Anchorage Port, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apnm4" lat="45.06" lon="-83.424" elev="177.5" name="Alpena Harbor Light, Alpena, MI" owner="GLERL" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="apqf1" lat="29.786" lon="-84.875" name="East Bay Bottom, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="apqf1" lat="29.786" lon="-84.875" name="East Bay Bottom, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="aprp7" lat="13.444" lon="144.657" elev="1.8" name="1630000 - Apra Harbor, Guam" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apxa2" lat="59.77" lon="-151.868" elev="5" name="Anchor Point, Kachemak Bay Reserve, AK" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="apxf1" lat="29.769" lon="-84.881" elev="0.6" name="East Bay, Apalachicola Reserve, FL" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
