@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-05-28T17:20:02UTC" count="1334">
+<stations created="2024-05-28T17:30:02UTC" count="1334">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -170,7 +170,7 @@
   <station id="42059" lat="15.3" lon="-67.483" elev="0" name="Eastern Caribbean Sea - 180 NM SSW of Ponce, PR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42060" lat="16.434" lon="-63.329" elev="0" name="Caribbean Valley - 63 NM WSW of Montserrat" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42067" lat="30.05" lon="-88.583" elev="0" name="USM-R1" owner="USM" pgm="IOOS Partners" type="other" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="42084" lat="28.988" lon="-89.649" elev="0" name="Southwest Pass Entrance W, LA (256)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="42084" lat="28.988" lon="-89.649" elev="0" name="Southwest Pass Entrance W, LA (256)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="42085" lat="17.87" lon="-66.537" elev="0" name="Southeast of Ponce, PR" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="42091" lat="29.087" lon="-92.506" elev="0" name="Trinity Shoal, LA (255)" owner="SCRIPPS" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="42092" lat="27.774" lon="-96.972" name="Aransas Pass Channel Entrance S, TX (252)" owner="Conrad Blucher Institute (CBI) for Surveying and Science, Texas A&amp;M University-Corpus Christi" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -312,7 +312,7 @@
   <station id="45194" lat="45.804" lon="-84.792" elev="177.43" name="McGulpin Point North, MI (253)" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45196" lat="41.521" lon="-81.88" elev="174" name="Rocky River, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45197" lat="41.619" lon="-81.617" elev="174" name="Euclid, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="45198" lat="41.892" lon="-87.563" elev="176" name="Chicago Buoy" owner="Illinois-Indiana Sea Grant and Purdue Civil Engineering" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="45198" lat="41.892" lon="-87.563" elev="176" name="Chicago Buoy" owner="Illinois-Indiana Sea Grant and Purdue Civil Engineering" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="45199" lat="42.702" lon="-87.647" elev="176" name="Salmon Unlimited Wisconsin" owner="Salmon Unlimited Wisconsin" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="45200" lat="41.724" lon="-83.37" elev="174" name="Maumee Bay Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45201" lat="41.601" lon="-82.781" elev="174" name="Erie Islands Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
