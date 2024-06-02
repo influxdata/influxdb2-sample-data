@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-06-02T12:25:01UTC" count="1334">
+<stations created="2024-06-02T12:40:02UTC" count="1334">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -348,7 +348,7 @@
   <station id="46027" lat="41.84" lon="-124.382" elev="0" name="ST GEORGES - 8 NM NW of Crescent City, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46028" lat="35.77" lon="-121.903" elev="0" name="CAPE SAN MARTIN - 55NM West NW of Morro Bay, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46029" lat="46.163" lon="-124.487" elev="0" name="COLUMBIA RIVER BAR - 20NM West of Columbia River Mouth" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="46035" lat="57.034" lon="-177.468" elev="0" name="CENTRAL BERING SEA - 310 NM North of Adak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46035" lat="57.034" lon="-177.468" elev="0" name="CENTRAL BERING SEA - 310 NM North of Adak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46036" lat="48.36" lon="-133.94" elev="0" name="South Nomad" owner="Environment and Climate Change Canada" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46041" lat="47.352" lon="-124.739" elev="0" name="CAPE ELIZABETH - 45NM NW of Aberdeen, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46042" lat="36.785" lon="-122.396" elev="0" name="MONTEREY - 27NM WNW of Monterey, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
@@ -736,7 +736,7 @@
   <station id="cpxc1" lat="35.17" lon="-120.741" elev="0" name="Cal Poly Pier, CA" owner="California Polytechnic State University" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="cquc1" lat="38.066" lon="-122.23" name="Carquinez, CA" owner="Central and Northern California Ocean Observing System" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="crga2" lat="55.474" lon="-133.136" elev="28.9" name="Craig, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="crta1" lat="30.308" lon="-88.14" elev="0" name="Cedar Point, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="crta1" lat="30.308" lon="-88.14" elev="0" name="Cedar Point, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="crva2" lat="60.558" lon="-145.752" elev="4.6" name="9454050 - Cordova, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cryv2" lat="36.888" lon="-76.338" elev="1" name="8638595 - South Craney Island, VA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cspa2" lat="58.199" lon="-136.64" elev="25" name="Cape Spencer, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
