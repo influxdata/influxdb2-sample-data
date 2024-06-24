@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-06-24T13:30:02UTC" count="1336">
+<stations created="2024-06-24T13:45:01UTC" count="1336">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -566,7 +566,7 @@
   <station id="61002" lat="42.102" lon="4.703" name="Lion Buoy" owner="Meteo France" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62001" lat="45.23" lon="-5" name="Gascogne Buoy" owner="Meteo France" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62027" lat="49.082" lon="-2.218" name="Jersey Buoy, English Channel - 5 nm south of Jersey, UK" owner="Meteorological Dept, States of Jersey" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="62029" lat="48.72" lon="-12.43" elev="0" name="K1 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="62029" lat="48.72" lon="-12.43" elev="0" name="K1 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62030" lat="50.25" lon="-4.217" name="L4 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="62050" lat="50" lon="-4.4" name="E1" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="62081" lat="51" lon="-13.55" elev="0" name="K2 Buoy" owner="UK Met Office" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
