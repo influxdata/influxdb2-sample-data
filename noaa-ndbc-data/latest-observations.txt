@@ -1,7 +1,6 @@
 #STN       LAT      LON  YYYY MM DD hh mm WDIR WSPD   GST WVHT  DPD APD MWD   PRES  PTDY  ATMP  WTMP  DEWP  VIS   TIDE
 #text      deg      deg   yr mo day hr mn degT  m/s   m/s   m   sec sec degT   hPa   hPa  degC  degC  degC  nmi     ft
 13001    12.000  -23.000 2024 07 02 05 00 331   4.7   5.7   MM  MM   MM  MM 1011.5    MM  26.1  27.5    MM   MM     MM
-13009     8.000  -38.000 2024 07 02 03 00 185   4.2    MM   MM  MM   MM  MM     MM    MM  27.9  28.3    MM   MM     MM
 1801583  37.35  -122.90  2024 07 02 04 30 314   5.4   6.1  2.5   8   MM  MM 1011.3    MM  12.3  11.8  11.4   MM     MM
 22101    37.24   126.02  2024 07 02 05 00 130   7.0    MM  0.5   3   MM  MM     MM    MM  21.1  20.1    MM   MM     MM
 22102    34.79   125.78  2024 07 02 05 00 180  10.0    MM  1.0   5   MM  MM     MM    MM  22.8  19.7    MM   MM     MM
@@ -11,8 +10,6 @@
 22106    36.35   129.78  2024 07 02 05 00  10   0.0    MM  0.5   5   MM  MM     MM    MM  20.1  19.8    MM   MM     MM
 22107    33.08   126.03  2024 07 02 05 00 200  11.0    MM  1.5   7   MM  MM     MM    MM  25.1  24.0    MM   MM     MM
 22108    36.25   125.75  2024 07 02 05 00 170  10.0    MM  1.0   4   MM  MM     MM    MM  24.6  24.0    MM   MM     MM
-31002     4.000  -38.000 2024 07 02 03 00 161   0.2    MM   MM  MM   MM  MM     MM    MM  28.5  28.6    MM   MM     MM
-31005   -19.000  -34.000 2024 07 02 03 00  93   3.2    MM   MM  MM   MM  MM 1020.5    MM  25.0  26.3    MM   MM     MM
 32ST0   -22.000  -85.000 2024 07 02 04 30 100   6.0    MM   MM  MM   MM  MM 1018.0    MM  19.1  19.8  15.2   MM     MM
 41001    34.703  -72.242 2024 07 02 05 30  10   9.0  10.0   MM  MM   MM  MM 1018.1    MM  23.5  27.0  21.2   MM     MM
 41002    31.759  -74.936 2024 07 02 05 30 210   5.0   7.0   MM  MM   MM  MM 1015.9    MM  28.0  27.9  26.3   MM     MM
@@ -382,7 +379,7 @@ BRHC3    41.174  -73.181 2024 07 02 05 18  10   2.1   4.1   MM  MM   MM  MM 1019
 BRND1    38.987  -75.113 2024 07 02 05 18 270   1.0   1.5   MM  MM   MM  MM 1021.2    MM  22.9    MM    MM   MM     MM
 BSBM4    44.055  -86.514 2024 07 02 05 40 120   3.1   4.1   MM  MM   MM  MM 1021.3    MM  15.4    MM    MM   MM     MM
 BSCA1    30.329  -87.829 2024 07 02 03 30  MM    MM    MM   MM  MM   MM  MM 1014.1    MM  31.6    MM    MM   MM     MM
-BSKF1    25.266  -81.162 2024 07 02 03 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.1    MM   MM   0.73
+BSKF1    25.266  -81.162 2024 07 02 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.0    MM   MM   0.94
 BSLM2    38.781  -76.708 2024 07 02 05 30  MM   0.0    MM   MM  MM   MM  MM 1022.0    MM  15.8    MM  15.3   MM     MM
 BUFN6    42.878  -78.890 2024 07 02 05 18  90   1.5   2.1   MM  MM   MM  MM 1022.9    MM  17.1  23.9  11.7   MM     MM
 BURL1    28.905  -89.428 2024 07 02 05 00  MM   2.6   2.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
