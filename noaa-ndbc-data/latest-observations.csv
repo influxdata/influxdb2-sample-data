@@ -80,7 +80,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,1013,,,29.2,,,,"42057",16.973,-81.575,0,"Western Caribbean - 195 NM WSW of Negril, Jamaica","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1720452600000000000
 80,11,12,,,,,1012.7,,29.5,29.3,25.3,,,"42058",14.512,-75.153,0,"Central Caribbean - 210 NM SSE of Kingston, Jamaica","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1720452600000000000
 90,8,10,,,,,1015.5,,28.7,29.5,25.4,,,"42060",16.434,-63.329,0,"Caribbean Valley - 63 NM WSW of Montserrat","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1720452600000000000
-90,10,12,,,,,1015,,29.8,,,,,"42085",17.87,-66.537,0,"Southeast of Ponce, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1720452600000000000
+90,10,12,,,,,1015,,29.8,,,,,"42085",17.87,-66.537,0,"Southeast of Ponce, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","n","n","n","n",1720452600000000000
 ,,,3.3,9,6.5,200,,,,30,,,,"42091",29.087,-92.506,0,"Trinity Shoal, LA (255)","SCRIPPS","IOOS Partners","buoy","y","n","n","n",1720450560000000000
 ,,,0.5,3,2.8,157,,,30.1,30,,,,"42095",24.409,-81.968,0,"Satan Shoal, FL (244)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","y","n","n",1720450800000000000
 ,,,0.6,4,3.5,153,,,,30.1,,,,"42097",25.714,-83.65,0,"Pulley Ridge, FL (226)","U.S. Army Corps of Engineers","IOOS Partners","buoy","y","n","n","n",1720452360000000000
@@ -166,7 +166,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 150,2,,0.2,2,,,1015.4,0,20.6,,,,,"45154",46.05,-82.64,177,"North Channel East","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1720450800000000000
 210,3,3,0.2,3,,,1017.1,-0.5,21.3,21.6,,,,"45159",43.77,-78.98,75,"NW Lake Ontario Ajax","Environment and Climate Change Canada","International Partners","buoy","y","n","n","n",1720450800000000000
 ,,,0.3,2,,183,,,,,,,,"45161",43.185,-86.352,176,"Muskegon Buoy, MI","GLERL","IOOS Partners","buoy","y","n","n","n",1720453200000000000
-200,4,4,0.1,,,315,1015.4,,20.8,19.1,,,,"45162",44.99,-83.271,176,"Thunder Bay Buoy, Alpena, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1720453200000000000
+200,4,4,0.1,,,315,1015.4,,20.8,19.1,,,,"45162",44.99,-83.271,176,"Thunder Bay Buoy, Alpena, MI","GLERL","IOOS Partners","buoy","n","n","n","n",1720453200000000000
 240,4,5,0.3,2,,0,1018.2,,20.2,,,,,"45163",43.984,-83.597,176,"Saginaw Bay Buoy, MI","GLERL","IOOS Partners","buoy","y","n","y","n",1720453200000000000
 ,0,1,0.1,,,,,,24.2,22.9,,,,"45164",41.748,-81.698,174.2,"Cleveland Buoy, OH","Limno Tech","IOOS Partners","buoy","y","n","y","n",1720450800000000000
 190,3,4,0.1,,,115,,,27.1,25.1,,,,"45165",41.702,-83.261,174,"Toledo Water Intake Buoy, Oregon, OH","Limno Tech","IOOS Partners","buoy","y","y","n","n",1720453200000000000
@@ -314,23 +314,23 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 40,9.3,,,,,,1009.2,,14.4,14.7,11.1,,,"62081",51,-13.55,0,"K2 Buoy","UK Met Office","International Partners","buoy","y","n","n","n",1720450800000000000
 140,3.6,,,,,,1013.1,,14,14,10.4,,,"62105",55.41,-11.81,0,"K4 Buoy","UK Met Office","International Partners","buoy","y","n","n","n",1720450800000000000
 180,2.6,,,,,,1017.6,0.2,19,,12.1,,,"62121",53.5,2.7,0,"Carrack AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
-50,,,,,,,1014.2,-0.8,15.7,,10.6,,,"62124",53.6,-3.6,0,"Conwy","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
+50,,,,,,,1014.2,-0.8,15.7,,10.6,,,"62124",53.6,-3.6,0,"Conwy","Private Industry Oil Platform","International Partners","oilrig","n","n","n","n",1720450800000000000
 160,,,0.6,,4,,,,,,,27,,"62127",54,0.7,0,"Cleeton AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
 ,,,,,,,1017,-0.1,15,,11.7,27,,"62144",53.4,1.7,0,"Clipper AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
 180,3.6,,0.8,,,,1017.6,0.1,16.4,,12.4,27,,"62145",53.102,2.8,0,"North Sea","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
-180,3.1,,0.7,,,,1016.2,0.7,13.2,,13,27,,"62146",57.2,2.1,0,"Lomond AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
+180,3.1,,0.7,,,,1016.2,0.7,13.2,,13,27,,"62146",57.2,2.1,0,"Lomond AWS","Private Industry Oil Platform","International Partners","oilrig","n","n","n","n",1720450800000000000
 120,3.1,,,,,,1017.1,-0.1,15.2,,12,,,"62148",53.6,1.5,0,"Barque AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
 130,4.6,,0.6,,4,,1017,0,14.6,,11.2,11,,"62149",53.7,1.1,0,"West Sole &quot;A&quot; AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
 200,7.7,,,,,,1003.9,,17.1,16.1,16.8,,,"62163",47.55,-8.47,0,"Brittany Buoy","UK Met Office","International Partners","buoy","y","n","n","n",1720450800000000000
-170,2.6,,,,,,1015.6,0.6,13.4,,11.2,27,,"62164",57.2,0.8,0,"Anasuria AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
+170,2.6,,,,,,1015.6,0.6,13.4,,11.2,27,,"62164",57.2,0.8,0,"Anasuria AWS","Private Industry Oil Platform","International Partners","oilrig","n","n","n","n",1720450800000000000
 170,4.1,,0.6,,4,,1016.8,0.1,14.1,,,27,,"62165",54,1.1,0,"Ravenspurn North AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
-110,2.1,,0.2,,7,,1016.8,,16.5,16.5,13.3,,,"62170",51.24,2,0,"F3 Light Vessel","UK Met Office","International Partners","fixed","y","n","n","n",1720450800000000000
+110,2.1,,0.2,,7,,1016.8,,16.5,16.5,13.3,,,"62170",51.24,2,0,"F3 Light Vessel","UK Met Office","International Partners","fixed","n","n","n","n",1720450800000000000
 20,1.5,,0.2,,6,,1016.6,,16.6,16.6,13.4,11,,"62304",51.102,1.8,0,"Sandettie Lightship","UK Met Office","International Partners","fixed","y","n","n","n",1720450800000000000
 ,,,0.3,,9,,1015.3,,15.8,15.7,13.3,11,,"62305",50.4,0,0,"Greenwich Lightship","UK Met Office","International Partners","fixed","y","n","n","n",1720450800000000000
 50,6.7,,,,,,1009.1,,15.2,15.9,10.8,,,"62442",49,-16.5,0,"Pap","UK Met Office","International Partners","buoy","y","n","n","n",1720450800000000000
 270,5.1,,1,,,,1015.2,1.3,12.7,,8.6,27,,"63110",59.5,1.5,0,"Beryl A AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
 270,3.1,,1,,,,1013.9,1.4,13.8,,7.8,27,,"63112",61.1,1,0,"Cormorant AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
-250,4.6,,1.2,,,,1013.8,1.3,,,7.6,27,,"63115",61.6,1.3,0,"Magnus AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
+250,4.6,,1.2,,,,1013.8,1.3,,,7.6,27,,"63115",61.6,1.3,0,"Magnus AWS","Private Industry Oil Platform","International Partners","oilrig","n","n","n","n",1720450800000000000
 270,3.6,,,,,,1013.9,1.3,,,,11,,"63117",61.4,1.1,0,"Eider AWS","Private Industry Oil Platform","International Partners","oilrig","y","n","n","n",1720450800000000000
 ,,,,,,,1014.2,,12.4,12.7,9.5,,,"64045",59.15,-11.79,0,"K5 Buoy","UK Met Office","International Partners","buoy","y","n","n","n",1720450800000000000
 270,3.1,4.1,,,,,1011.5,,14.7,21.3,,,,"AAMC1",37.772,-122.3,3.5,"9414750 - Alameda, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
@@ -409,7 +409,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 20,1,1.5,,,,,,,,,,,,"CBLO1",41.981,-80.556,177,"Conneaut Breakwater Light, OH","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1720450800000000000
 130,2.1,5.1,,,,,,,23.4,,,,,"CBRW3",45.198,-87.36,180,"Chambers Island, WI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1720453200000000000
 60,3.6,3.6,,,,,1018,,11.9,,8.8,,,"CDEA2",56.001,-134.136,15,"Cape Decision, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1720452120000000000
-80,3.1,3.6,,,,,,,12.1,,9.8,,,"CDXA2",56.001,-134.136,15.2,"Cape Decision MXAK, AK","Marine Exchange of Alaska","IOOS Partners","fixed","n","n","n","n",1720453320000000000
+80,3.1,3.6,,,,,,,12.1,,9.8,,,"CDXA2",56.001,-134.136,15.2,"Cape Decision MXAK, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1720453320000000000
 230,1,2.1,,,,,1011.6,,12.9,18.4,,,,"CECC1",41.746,-124.184,2.9,"9419750 - Crescent City, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
 ,0,2.6,,,,,1016.9,,17.7,9.6,,,,"CFWM1",44.657,-67.205,3.8,"8411060 - Cutler Farris Wharf, ME","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
 310,1.5,1.5,,,,,1012.6,,,10.5,,,,"CHAO3",43.351,-124.337,0,"9432780 - Charleston, OR","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720449360000000000
@@ -736,7 +736,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 ,,,,,,,1010.8,,,,,,,"PRYC1",37.996,-122.977,0,"9415020 - Point Reyes, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
 320,6.7,8.8,,,,,1009.1,,18.5,,,,,"PSBC1",38.04,-121.887,0,"9415115 - Pittsburg (Suisun Bay), CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
 340,1.5,2.1,,,,,1015.8,,16.4,11,,,,"PSBM1",44.905,-66.983,6.7,"8410140 - Eastport, ME","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
-,2.6,3.1,,,,,,,20.4,,,,,"PSCM4",43.42,-82.54,190,"Port Sanilac, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1720444800000000000
+,2.6,3.1,,,,,,,20.4,,,,,"PSCM4",43.42,-82.54,190,"Port Sanilac, MI","NWS Central Region","IOOS Partners","fixed","n","n","n","n",1720444800000000000
 100,0.5,1.5,,,,,1011.8,,12,14.6,,,,"PSLC1",35.169,-120.754,0,"9412110 - Port San Luis, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
 130,5.1,6.7,,,,,1015.4,,29.5,30,,,,"PSTL1",28.932,-89.407,3.6,"8760922 - Pilots Station East, SW Pass, LA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
 ,,,,,,,1016.9,,24.1,,,,,"PSTN6",42.691,-79.048,179.18,"9063028 - Sturgeon Point, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
@@ -786,7 +786,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 340,1.5,1.5,,,,,1018.4,,11.1,,10,,,"SDIA2",58.277,-134.389,4,"South Douglas, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1720452360000000000
 260,6.2,7.7,,,,,1007.3,,28,27.6,,,,"SDRT2",28.407,-96.712,0,"8773037 - Seadrift, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1720451880000000000
 ,,,,,,,1017.7,,25.9,17.1,21.3,,,"SEIM1",43.08,-70.742,2.7,"8419870 - Seavey Island, ME","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1720451880000000000
-270,6.2,,,,,,1009,,,,,,,"SFXC1",38.2,-122.026,2.74,"Rush Ranch, San Francisco Bay Reserve, CA","National Estuarine Research Reserve System","NERRS","fixed","n","n","n","n",1720449900000000000
+270,6.2,,,,,,1009,,,,,,,"SFXC1",38.2,-122.026,2.74,"Rush Ranch, San Francisco Bay Reserve, CA","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1720449900000000000
 160,4.1,4.6,,,,,1013.7,0,18.6,,,,,"SGNW3",43.749,-87.693,175.9,"Sheboygan, WI","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1720450800000000000
 ,,,,,,,1017.2,0.8,29.7,,,,,"SGOF1",29.408,-84.858,0,"Tyndall AFB Tower C (N4), FL","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1720450800000000000
 230,6.7,9.3,,,,,,,8.1,,8.1,,,"SGXA2",56.599,-169.542,60,"ST GEORGE MXAK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1720453500000000000
