@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-07-11T17:20:01UTC" count="1336">
+<stations created="2024-07-11T17:30:01UTC" count="1336">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -16,7 +16,7 @@
   <station id="15006" lat="-6" lon="-10" elev="0" name="Valse" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15008" lat="-20" lon="-10" elev="0" name="" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="15009" lat="0" lon="-3.051" elev="0" name="" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="1801583" lat="37.38" lon="-122.90" elev="0" name="SD 1063 - 24 NM SSW of San Francisco, CA (Site of 46012)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="1801583" lat="37.38" lon="-122.89" elev="0" name="SD 1063 - 24 NM SSW of San Francisco, CA (Site of 46012)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="usv" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="18ci3" lat="41.73" lon="-86.91" elev="176" name="Michigan City CG Station, IN" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="20cm4" lat="42.09" lon="-86.49" elev="177" name="St. Joseph CG Station, MI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="21413" lat="30.512" lon="152.104" elev="0" name="SOUTHEAST TOKYO - 700NM ESE of Tokyo, JP" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -973,7 +973,7 @@
   <station id="lwsd1" lat="38.783" lon="-75.119" elev="2.6" name="8557380 - Lewes, DE" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="lwtv2" lat="37.995" lon="-76.465" elev="2" name="8635750 - Lewisetta, VA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="macm4" lat="45.777" lon="-84.721" elev="179.5" name="9075080 - Mackinaw City, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="maqt2" lat="27.98" lon="-97.029" name="Aransas Bay, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="maqt2" lat="27.98" lon="-97.029" name="Aransas Bay, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="maxt2" lat="28.132" lon="-97.034" elev="3.5" name="Copano East, Mission-Aransas Reserve, TX" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="mbet2" lat="28.422" lon="-96.327" elev="0" name="8773767 - Matagorda Bay Entrance Channel, TX" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="mbin7" lat="34.091" lon="-77.868" elev="2.8" name="Masonboro Island, NC (MSNB_S)" owner="CORMP" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1193,7 +1193,7 @@
   <station id="scxa2" lat="58.205" lon="-134.646" elev="15.2" name="Scull Island, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdbc1" lat="32.714" lon="-117.174" name="9410170 - San Diego, CA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdhn4" lat="40.467" lon="-74.009" elev="1.9" name="8531680 - Sandy Hook, NJ" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="sdia2" lat="58.277" lon="-134.389" elev="4" name="South Douglas, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="sdia2" lat="58.277" lon="-134.389" elev="4" name="South Douglas, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sdrt2" lat="28.407" lon="-96.712" elev="0" name="8773037 - Seadrift, TX" owner="TCOON" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="sefo3" lat="46.204" lon="-123.759" elev="0" name="SATURN Estuary Station #04 at Mott Basin" owner="Columbia River Inter-Tribal Fish Commission" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="seim1" lat="43.08" lon="-70.742" elev="2.7" name="8419870 - Seavey Island, ME" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
