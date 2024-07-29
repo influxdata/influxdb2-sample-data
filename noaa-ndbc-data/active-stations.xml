@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-07-29T05:05:01UTC" count="1338">
+<stations created="2024-07-29T05:20:01UTC" count="1338">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -206,7 +206,7 @@
   <station id="44037" lat="43.497" lon="-67.876" elev="0" name="Buoy M01 - Jordan Basin" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44039" lat="41.138" lon="-72.655" elev="0" name="Central Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44040" lat="40.956" lon="-73.58" elev="0" name="Western Long Island Sound" owner="MYSOUND" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="44041" lat="37.211" lon="-76.787" elev="0" name="Jamestown, VA" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="44041" lat="37.211" lon="-76.787" elev="0" name="Jamestown, VA" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44042" lat="38.033" lon="-76.335" elev="0" name="Potomac, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44043" lat="39.152" lon="-76.391" elev="0" name="Patapsco, MD" owner="Chesapeake Bay Interpretive Buoy System (CBIBS)" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44056" lat="36.2" lon="-75.714" elev="0" name="Duck FRF, NC" owner="U.S. Army Corps of Engineers" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -311,7 +311,7 @@
   <station id="45188" lat="44.094" lon="-73.423" elev="30" name="Champlain Bridge Buoy" owner="SUNY Plattsburgh Center for Earth and Environmental Science/Lake Champlain Research Institute" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45194" lat="45.804" lon="-84.792" elev="177.43" name="McGulpin Point North, MI (253)" owner="Michigan Technological University" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="45196" lat="41.521" lon="-81.88" elev="174" name="Rocky River, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
-  <station id="45197" lat="41.619" lon="-81.617" elev="174" name="Euclid, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="45197" lat="41.619" lon="-81.617" elev="174" name="Euclid, OH" owner="Limno Tech" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="45198" lat="41.892" lon="-87.563" elev="176" name="Chicago Buoy" owner="Illinois-Indiana Sea Grant and Purdue Civil Engineering" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="45199" lat="42.702" lon="-87.647" elev="176" name="Salmon Unlimited Wisconsin" owner="Salmon Unlimited Wisconsin" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="45200" lat="41.724" lon="-83.37" elev="174" name="Maumee Bay Buoy" owner="Cleveland Water Alliance" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -357,7 +357,7 @@
   <station id="46050" lat="44.669" lon="-124.546" elev="0" name="STONEWALL BANK - 20NM West of Newport, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46053" lat="34.241" lon="-119.839" elev="0" name="EAST SANTA BARBARA  - 12NM Southwest of Santa Barbara, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46054" lat="34.274" lon="-120.468" elev="0" name="WEST SANTA BARBARA  38 NM West of Santa Barbara, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46059" lat="34.0055" lon="-131.3080" elev="0" name="WEST CALIFORNIA - 357NM West of San Francisco, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="46059" lat="33.9993" lon="-131.3060" elev="0" name="WEST CALIFORNIA - 357NM West of San Francisco, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="46060" lat="60.571" lon="-146.795" elev="0" name="WEST ORCA BAY - 8NM NW of Hinchinbrook Is., AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46061" lat="60.23" lon="-146.837" elev="0" name="Seal Rocks - Between Montague and Hinchinbrook Islands, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="other" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46066" lat="52.765" lon="-155.009" elev="0" name="SOUTH KODIAK - 310NM SSW of Kodiak, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
