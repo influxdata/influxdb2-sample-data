@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-07-30T11:45:02UTC" count="1338">
+<stations created="2024-07-30T12:05:01UTC" count="1338">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -545,7 +545,7 @@
   <station id="53006" lat="-12" lon="81" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="53009" lat="-12" lon="93" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="53040" lat="-8" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="53056" lat="-5" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="53056" lat="-5" lon="95" elev="0" name="" owner="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="5401000" lat="-38.2" lon="-179.797" name="NZC - Offshore Gisborne Hikurangi" owner="New Zealand National Emergency Management Agency by Te Pu Ao GNS Science and NIWA Taihoro Nukurangi" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="5401001" lat="-36.049" lon="-177.708" name="NZE - Offshore East Cape Kermadec" owner="New Zealand National Emergency Management Agency by Te Pu Ao GNS Science and NIWA Taihoro Nukurangi" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="5401002" lat="-29.683" lon="-175.012" name="NZF - Offshore Raoul Island Kermadec" owner="New Zealand National Emergency Management Agency by Te Pu Ao GNS Science and NIWA Taihoro Nukurangi" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
@@ -858,7 +858,7 @@
   <station id="href1" lat="25.424" lon="-81.06" name="Harney River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="huqn6" lat="42.036" lon="-73.925" name="Tivoli North, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="hwpm2" lat="39.214" lon="-76.532" name="8574731 - Hawkins Point" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="other" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="icac1" lat="34.008" lon="-118.5" elev="6.6" name="9410840 - Santa Monica Pier" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="icac1" lat="34.008" lon="-118.5" elev="6.6" name="9410840 - Santa Monica Pier" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="icya2" lat="59.923" lon="-141.359" elev="15" name="Icy Bay, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="iloh1" lat="19.73" lon="-155.056" elev="2.4" name="1617760 - Hilo, HI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="imgp4" lat="17.969" lon="-67.044" elev="14.56" name="Isla Magueyes, Lajas, PR" owner="Caribbean Integrated Coastal Ocean Observing System (CarICoos)" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
