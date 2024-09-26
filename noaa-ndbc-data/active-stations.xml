@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-09-26T15:45:01UTC" count="1348">
+<stations created="2024-09-26T16:05:02UTC" count="1346">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -697,7 +697,6 @@
   <station id="capl1" lat="29.768" lon="-93.343" elev="0" name="8768094 - Calcasieu Pass, LA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="carl1" lat="29.933" lon="-90.135" elev="0" name="8761955 - Carrollton, LA " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="casm1" lat="43.656" lon="-70.246" elev="3.9" name="8418150 - Portland, ME" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cbcm2" lat="39.223" lon="-76.54" elev="0" name="Curtis Bay Ch. Entrance (8574837)" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="cblo1" lat="41.981" lon="-80.556" elev="177" name="Conneaut Breakwater Light, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cbrw3" lat="45.198" lon="-87.36" elev="180" name="Chambers Island, WI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cdea2" lat="56.001" lon="-134.136" elev="15" name="Cape Decision, AK" owner="NWS Alaska Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -862,7 +861,6 @@
   <station id="href1" lat="25.424" lon="-81.06" name="Harney River, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="hrrh1" lat="21.431" lon="-157.815" elev="12.2" name="Lono Circle, He'eia Reserve, HI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="huqn6" lat="42.036" lon="-73.925" name="Tivoli North, Hudson River Reserve, NY" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
-  <station id="hwpm2" lat="39.214" lon="-76.532" elev="49.6" name="8574731 - Hawkins Point" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="other" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="hwwh1" lat="21.438" lon="-157.811" name="Wai 2, He'eia Reserve, HI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="icac1" lat="34.008" lon="-118.5" elev="6.6" name="9410840 - Santa Monica Pier" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="icya2" lat="59.923" lon="-141.359" elev="15" name="Icy Bay, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1135,7 +1133,7 @@
   <station id="pota2" lat="61.06" lon="-146.7" elev="7" name="Potato Point, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pphh1" lat="21.409" lon="-157.823" name="Papahana, He'eia Reserve, HI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="ppta1" lat="30.279" lon="-87.556" elev="0" name="Perdido Pass, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="pptm2" lat="38.134" lon="-76.533" elev="5.7" name="8578240 - Piney Point, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pptm2" lat="38.134" lon="-76.533" elev="5.7" name="8578240 - Piney Point, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ppxa2" lat="60.801" lon="-148.357" elev="5" name="Point Pigot" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ppxc1" lat="37.906" lon="-122.365" name="9414847 - Point Potrero, Richmond, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="prda2" lat="70.4" lon="-148.527" name="9497645 - Prudhoe Bay, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
