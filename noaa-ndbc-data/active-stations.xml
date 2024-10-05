@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<stations created="2024-10-05T02:35:01UTC" count="1343">
+<stations created="2024-10-05T02:55:01UTC" count="1343">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="0y2w3" lat="44.794" lon="-87.313" elev="179" name="Sturgeon Bay CG Station, WI" owner="U.S.C.G. Marine Reporting Stations" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -720,7 +720,7 @@
   <station id="clkn7" lat="34.622" lon="-76.525" elev="4.6" name="Cape Lookout, NC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="clsm4" lat="42.471" lon="-82.877" elev="175" name="St. Clair Shores, MI" owner="NWS Central Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cman4" lat="38.968" lon="-74.96" elev="3.2" name="8536110 - Cape May, NJ" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="cmln3" lat="43.07" lon="-70.7" name="Coastal Marine Lab, New Castle, NH" owner="University of New Hampshire" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="cmln3" lat="43.07" lon="-70.7" name="Coastal Marine Lab, New Castle, NH" owner="University of New Hampshire" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cmpo1" lat="41.547" lon="-83.015" elev="175" name="Camp Perry, OH" owner="NWS Eastern Region" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cmti2" lat="41.73" lon="-87.538" elev="178.5" name="9087044 - Calumet Harbor, IL" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="cnbf1" lat="25.702" lon="-81.186" elev="0" name="Cannon Bay, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
@@ -1130,7 +1130,7 @@
   <station id="pota2" lat="61.06" lon="-146.7" elev="7" name="Potato Point, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pphh1" lat="21.409" lon="-157.823" name="Papahana, He'eia Reserve, HI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
   <station id="ppta1" lat="30.279" lon="-87.556" elev="0" name="Perdido Pass, AL" owner="Dauphin Island Sea Lab" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="pptm2" lat="38.134" lon="-76.533" elev="5.7" name="8578240 - Piney Point, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pptm2" lat="38.134" lon="-76.533" elev="5.7" name="8578240 - Piney Point, MD" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ppxa2" lat="60.801" lon="-148.357" elev="5" name="Point Pigot" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ppxc1" lat="37.906" lon="-122.365" name="9414847 - Point Potrero, Richmond, CA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="prda2" lat="70.4" lon="-148.527" name="9497645 - Prudhoe Bay, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
