@@ -36,7 +36,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 80,10,13,,,,,1015.2,,29.4,29.9,25.9,,,"41044",21.582,-58.63,0,"NE ST MARTIN - 330 NM NE St Martin Is","NDBC","NDBC Meteorological/Ocean","buoy","y","n","n","n",1729229400000000000
 140,6,7,,,,,1018.8,,28.1,28.5,25,,,"41049",27.505,-62.271,0,"SOUTH BERMUDA - 300 NM SSE of Bermuda","NDBC","NDBC Meteorological/Ocean","other","y","n","n","n",1729229400000000000
 90,7,8,0.9,5,,94,1011.4,-1.3,30.2,30.5,,,,"41052",18.249,-64.763,0,"South of St. John, VI","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1729227600000000000
-200,3,4,1,7,,,1012.6,-1,28,30.4,,,,"41053",18.474,-66.099,0,"San Juan, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1729227600000000000
+200,3,4,1,7,,52,1012.6,-1,28,30.4,,,,"41053",18.474,-66.099,0,"San Juan, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1729227600000000000
 80,5,6,0.8,5,,60,1012,-1,29.7,30.6,,,,"41056",18.261,-65.464,0,"Vieques Island, PR","Caribbean Integrated Coastal Ocean Observing System (CarICoos)","IOOS Partners","buoy","y","y","y","n",1729227600000000000
 ,,,0.6,6,3.9,100,,,,20.7,,,,"41065",32.802,-79.619,0,"Capers Nearshore Waves (CAP2WAVE)","CORMP","IOOS Partners","buoy","y","n","n","n",1729228200000000000
 50,7,11,,,,,1025.7,,17.1,22.7,9.2,,,"41066",32.536,-79.656,0,"CHR60","CORMP","IOOS Partners","buoy","y","n","y","n",1729228080000000000
@@ -346,7 +346,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 70,5.1,6.2,,,,,1019,,24,25.2,,,,"BABT2",27.297,-97.405,0,"8776604 - Baffin Bay, TX","TCOON","IOOS Partners","fixed","y","n","n","n",1729228680000000000
 ,,,,,,,1022.8,,11.1,16.8,,,,"BATN6",40.701,-74.014,2,"8518750 - The Battery, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 220,1.5,2.1,,,,,,,,,,,,"BAXC1",33.766,-118.24,0,"9410691 - Los Angeles Badger Avenue Bridge","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729228320000000000
-,,,,,,,,,,24.9,,,,"BBNF1",25.601,-80.306,0,"BBCW8","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729224000000000000
+,,,,,,,,,,24.7,,,,"BBNF1",25.601,-80.306,0,"BBCW8","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729225800000000000
 ,,,,,,,,,,24.7,,,,"BBSF1",25.472,-80.349,0,"BBCW10","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729225800000000000
 310,1,2.6,,,,,1024.6,,8.1,16.2,,,,"BDRN4",40.082,-74.87,2.2,"8539094 - Burlington, Delaware River, NJ","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729226160000000000
 ,,,,,,,1025.5,,11.1,17.4,,,,"BDSP1",39.98,-75.079,3.4,"8546252 - Bridesburg, PA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
@@ -370,7 +370,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 360,1.5,2.1,,,,,1022.7,,8.3,17.8,,,,"BRHC3",41.174,-73.181,1.9,"8467150 - Bridgeport, CT","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 10,12.9,13.9,,,,,1024.9,,13.9,,,,,"BRND1",38.987,-75.113,1.9,"8555889 - Brandywine Shoal Light, DE","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 160,6.2,9.8,,,,,1026.1,,11.6,,,,,"BSBM4",44.055,-86.514,184,"Big Sable Point, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1729230000000000000
-,,,,,,,,,,25.1,,,-0.64,"BSKF1",25.266,-81.162,0,"Big Sable Creek, FL","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729220400000000000
+,,,,,,,,,,25.2,,,0.31,"BSKF1",25.266,-81.162,0,"Big Sable Creek, FL","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729224000000000000
 ,0,,,,,,1026,,3.8,,3.5,,,"BSLM2",38.781,-76.708,0.3,"Jug Bay, Chesapeake Bay Reserve, MD","National Estuarine Research Reserve System","NERRS","fixed","y","n","n","n",1729229400000000000
 300,2.6,3.1,,,,,1027.3,,11.4,15.9,5.3,,,"BUFN6",42.878,-78.89,176.5,"9063020 - Buffalo, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 70,7.7,9.8,,,,,1024.1,0,20.5,,9.9,,,"BURL1",28.906,-89.429,0,"Southwest Pass, LA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1729227600000000000
@@ -422,7 +422,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 340,4.6,6.2,,,,,1025.2,,13.3,,,,,"CRYV2",36.888,-76.338,1,"8638595 - South Craney Island, VA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 130,4.1,4.6,,,,,1001.6,,6.2,,6.2,,,"CSPA2",58.199,-136.64,25,"Cape Spencer, AK","NWS Alaska Region","IOOS Partners","fixed","y","n","n","n",1729228200000000000
 100,7.2,10.3,,,,,997.7,,,,,,,"CSXA2",58.199,-136.641,22,"Cape Spencer WX","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1729230180000000000
-,,,,,,,,,,24.5,,,-0.15,"CWAF1",25.297,-81.013,0,"Clear Water Pass, FL","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729220400000000000
+,,,,,,,,,,24.2,,,-0.12,"CWAF1",25.297,-81.013,0,"Clear Water Pass, FL","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729224000000000000
 40,5.1,7.2,,,,,1022.9,,16.4,23.4,,,,"CWBF1",27.978,-82.832,1.3,"8726724 - Clearwater Beach, FL","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 170,7.2,,,,,,,,11.1,,8.9,,,"CWCI",47.334,-85.833,163,"Caribou Island","Environment and Climate Change Canada","International Partners","fixed","y","n","n","n",1729227600000000000
 210,8.2,9.3,,,,,1025,,,,,,,"CYGM4",45.658,-84.464,178,"Cheboygan Marina, MI","NWS Central Region","IOOS Partners","fixed","y","n","n","n",1729230300000000000
@@ -705,7 +705,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 10,9.3,11.8,,,,,1015.4,,18.3,,,,,"PSBC1",38.04,-121.887,0,"9415115 - Pittsburg (Suisun Bay), CA","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 ,0,1,,,,,1023.3,,6.8,11.8,,,,"PSBM1",44.905,-66.983,6.7,"8410140 - Eastport, ME","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 290,1,1.5,,,,,1012.3,,13.3,14.7,,,,"PSLC1",35.169,-120.754,0,"9412110 - Port San Luis, CA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
-60,8.2,10.8,,,,,,,,,,,,"PSTL1",28.932,-89.407,3.6,"8760922 - Pilots Station East, SW Pass, LA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
+60,8.2,10.8,,,,,,,,,,,,"PSTL1",28.932,-89.407,3.6,"8760922 - Pilots Station East, SW Pass, LA","NOS","NOS/CO-OPS","fixed","n","n","n","n",1729228680000000000
 ,,,,,,,1026.8,,5.4,,,,,"PSTN6",42.691,-79.048,179.18,"9063028 - Sturgeon Point, NY","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 250,1.5,2.1,,,,,,,,,,,,"PSXC1",33.768,-118.226,0,"9410692 - Los Angeles Pier S","NOAA NOS PORTS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 80,8.2,9.3,,,,,,,24.2,,,,,"PTAT2",27.826,-97.051,0,"Port Aransas, TX","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1729227600000000000
@@ -841,7 +841,7 @@ wind_dir_degt,wind_speed_mps,gust_speed_mps,significant_wave_height_m,dominant_w
 150,1.5,2.1,,,,,1023.1,1.4,10.5,,8.4,,,"WPOW1",47.662,-122.435,3,"West Point, WA","NDBC","NDBC Meteorological/Ocean","fixed","y","n","n","n",1729227600000000000
 20,1.5,2.6,,,,,1023,,10.7,13,,,,"WPTW1",46.904,-124.105,3.1,"9441102 - Westport, WA","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729226160000000000
 290,3.6,6.7,,,,,,,-2.8,,-7.2,,,"WRXA2",70.636,-160.034,10,"Wainwright, AK","Marine Exchange of Alaska","IOOS Partners","fixed","y","n","n","n",1729230180000000000
-,,,,,,,,,,25,,,0.02,"WWEF1",25.232,-80.938,0,"Whitewater Bay-East, FL","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729220400000000000
+,,,,,,,,,,24.9,,,-0.08,"WWEF1",25.232,-80.938,0,"Whitewater Bay-East, FL","Everglades National Park","IOOS Partners","fixed","y","n","n","n",1729224000000000000
 320,1.5,1.5,,,,,1024,,13.1,20.2,,,,"WYCM6",30.326,-89.326,0,"8747437 - Bay Waveland Yacht Club, MS","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 ,,,,,,,1001.1,,,10.5,,,,"YATA2",59.548,-139.733,0,"9453220 - Yakutat, Yakutat Bay, AK","NOS","NOS/CO-OPS","fixed","y","n","n","n",1729228680000000000
 200,2.1,3.1,,,,,1028.1,0.7,9.4,,,,,"YGNN6",43.262,-79.064,73,"Niagara Coast Guard Station, NY","NWS Eastern Region","IOOS Partners","fixed","y","n","n","n",1729227600000000000
