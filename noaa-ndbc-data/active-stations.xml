@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><stations created="2026-08-01T01:50:03UTC" count="1351">
+<?xml version="1.0" encoding="utf-8"?><stations created="2026-08-02T01:55:09UTC" count="1351">
   <!--Site Elevation (elev attribute), when present, is reported in meters above mean sea level.-->
   <station id="13001" lat="12" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="13002" lat="21" lon="-23" elev="0" name="NE Extension" owner="Prediction and Research Moored Array in the Atlantic" pgm="International Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -88,7 +88,7 @@
   <station id="32489" lat="2.998" lon="-79.101" name="Colombia   121NM SW of Buenaventura, Colombia" owner="DIMAR Colombia" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="32st0" lat="-22" lon="-85" elev="0" name="Stratus" owner="Woods Hole Oceanographic Institution" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="34420" lat="-35.758" lon="-75.243" name="119NM NW of Concepcion, Chile" owner="Cooperative Effort DART 4G" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="41001" lat="34.7286" lon="-72.4923" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="41001" lat="34.7252" lon="-72.4840" elev="0" name="EAST HATTERAS - 150 NM East of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="41002" lat="31.743" lon="-74.955" elev="0" name="SOUTH HATTERAS - 225 NM South of Cape Hatteras" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41004" lat="32.502" lon="-79.099" elev="0" name="EDISTO - 41 NM Southeast of Charleston, SC" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="41008" lat="31.4" lon="-80.866" elev="0" name="GRAYS REEF - 40 NM Southeast of Savannah, GA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -188,7 +188,7 @@
   <station id="43001" lat="8" lon="-110" elev="0" name="8N 110W" owner="NDBC" pgm="TAO" type="tao"/>
   <station id="43013" lat="10" lon="-110" elev="0" name="10N 110W" owner="NDBC" pgm="TAO" type="tao"/>
   <station id="43301" lat="8" lon="-95" elev="0" name="8N 95W" owner="NDBC" pgm="TAO" type="tao"/>
-  <station id="43412" lat="13.4612" lon="-104.8720" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
+  <station id="43412" lat="13.4282" lon="-104.9710" name="SOUTHWEST MANZANILLO - 240 NM SW of Manzanillo, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="43413" lat="10.927" lon="-100.012" elev="0" name="SOUTH ACAPULCO - 360NM South of Acapulco, MX" owner="NDBC" pgm="Tsunami" type="dart" met="n" currents="n" waterquality="n" dart="y"/>
   <station id="44005" lat="43.201" lon="-69.127" elev="0" name="GULF OF MAINE - 78 NM East of Portsmouth, NH" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44007" lat="43.525" lon="-70.14" elev="0" name="PORTLAND - 12 NM Southeast of Portland,ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -204,11 +204,11 @@
   <station id="44024" lat="42.325" lon="-65.909" elev="0" name="Buoy N01 - Northeast Channel" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="44025" lat="40.258" lon="-73.175" elev="0" name="LONG ISLAND - 30 NM South of Islip, NY" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44027" lat="44.284" lon="-67.301" elev="0" name="Jonesport, ME - 20 NM SE of Jonesport, ME" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="44029" lat="42.523" lon="-70.566" elev="0" name="Buoy A01 - Massachusetts Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
+  <station id="44029" lat="42.523" lon="-70.566" elev="0" name="Buoy A01 - Massachusetts Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="44030" lat="43.179" lon="-70.426" elev="0" name="Buoy B01 - Western Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
   <station id="44032" lat="43.715" lon="-69.355" elev="0" name="Buoy E01 - Central Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
-  <station id="44033" lat="44.055" lon="-68.996" elev="0" name="Buoy F01 - Penobscot Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
-  <station id="44034" lat="44.103" lon="-68.112" elev="0" name="Buoy I01 - Eastern Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="y" dart="n"/>
+  <station id="44033" lat="44.055" lon="-68.996" elev="0" name="Buoy F01 - Penobscot Bay" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="y" dart="n"/>
+  <station id="44034" lat="44.103" lon="-68.112" elev="0" name="Buoy I01 - Eastern Maine Shelf" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="4403585" lat="42.132" lon="-80.27" elev="173.5" name="Walnut Creek Buoy" owner="Regional Science Consortium" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="4403586" lat="42.847" lon="-78.904" elev="174.35" name="Buffalo Buoy" owner="SUNY Buffalo State University" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="44037" lat="43.497" lon="-67.876" elev="0" name="Buoy M01 - Jordan Basin" owner="Northeastern Regional Association of Coastal Ocean Observing Systems" pgm="IOOS Partners" type="buoy" met="n" currents="n" waterquality="n" dart="n"/>
@@ -384,7 +384,7 @@
   <station id="46084" lat="56.614" lon="-136.04" elev="0" name="CAPE EDGECUMBE - 25NM SSW of Cape Edgecumbe, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46085" lat="55.84" lon="-142.895" elev="0" name="CENTRAL GULF OF ALASKA -  265NM West of Cape Ommaney, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46086" lat="32.504" lon="-118.029" elev="0" name="SAN CLEMENTE BASIN - 27NM SE Of San Clemente Is, CA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="46087" lat="48.493" lon="-124.727" elev="0" name="Neah Bay - 6 NM North of Cape Flattery, WA (Traffic Separation Lighted Buoy)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="46087" lat="48.493" lon="-124.727" elev="0" name="Neah Bay - 6 NM North of Cape Flattery, WA (Traffic Separation Lighted Buoy)" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46088" lat="48.332" lon="-123.179" elev="0" name="NEW DUNGENESS - 17 NM NE of Port Angeles, WA" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="y" waterquality="n" dart="n"/>
   <station id="46089" lat="45.928" lon="-125.815" name="TILLAMOOK, OR - 85 NM WNW of Tillamook, OR" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="46092" lat="36.751" lon="-122.029" elev="0" name="MBM1" owner="MBARI" pgm="IOOS Partners" type="buoy" met="y" currents="n" waterquality="n" dart="n"/>
@@ -782,7 +782,7 @@
   <station id="dtlm4" lat="45.993" lon="-83.898" elev="178.5" name="9075099 - De Tour Village, MI" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dukn7" lat="36.184" lon="-75.746" elev="7.7" name=" 8651370 - Duck Pier, NC " owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="dulm5" lat="46.776" lon="-92.092" elev="186" name="9099064 - Duluth, MN" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="eazc1" lat="36.846" lon="-121.754" name="Azevedo Pond, Elkhorn Slough Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="y" dart="n"/>
+  <station id="eazc1" lat="36.846" lon="-121.754" name="Azevedo Pond, Elkhorn Slough Reserve, CA" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="ebef1" lat="27.923" lon="-82.421" elev="-0.5" name="8726674 - East Bay, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="ebsw1" lat="47.602" lon="-122.338" elev="3.8" name="9447130 - Seattle, WA" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="efla1" lat="30.429" lon="-88.01" elev="4.3" name="8734536 - E Range Front Light Visibility, AL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -925,7 +925,7 @@
   <station id="klmw1" lat="45.983" lon="-122.835" elev="2.953" name="9440357 - TEMCO Kalama Terminal, WA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="kmdj" lat="28.643" lon="-89.794" name="Mississippi Canyon 311A (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kmis" lat="29.296" lon="-88.842" name="MP 140B  AWOS (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
-  <station id="kmxa2" lat="57.782" lon="-152.439" elev="10" name="Kodiak Matson Crane, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="kmxa2" lat="57.782" lon="-152.439" elev="10" name="Kodiak Matson Crane, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="kmzg" lat="27.727" lon="-96.191" name="Mustang Island A85A (Apache Corp)" owner="Federal Aviation Administration" pgm="Marine METAR" type="oilrig" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="knsw3" lat="42.589" lon="-87.809" elev="176" name="Kenosha Light, Kenosha, WI" owner="NWS WFO Milwaukee, WI (MKX)" pgm="IOOS Partners" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="knxa2" lat="60.552" lon="-151.274" elev="3.7" name="Kenai, AK" owner="Marine Exchange of Alaska" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
@@ -1124,7 +1124,7 @@
   <station id="pila2" lat="59.742" lon="-149.47" elev="24" name="Pilot Rock, AK" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pill1" lat="29.179" lon="-89.259" elev="2.3" name="8760721 - Pilottown, LA" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pilm4" lat="48.223" lon="-88.366" elev="195.4" name="Passage Island, MI" owner="NDBC" pgm="NDBC Meteorological/Ocean" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
-  <station id="pkbw3" lat="46.672" lon="-92.136" elev="189" name="Pokegama Bay, Lake Superior Reserve, WI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
+  <station id="pkbw3" lat="46.672" lon="-92.136" elev="189" name="Pokegama Bay, Lake Superior Reserve, WI" owner="National Estuarine Research Reserve System" pgm="NERRS" type="fixed" met="n" currents="n" waterquality="n" dart="n"/>
   <station id="pkyf1" lat="24.918" lon="-80.747" elev="0" name="Peterson Key, FL" owner="Everglades National Park" pgm="IOOS Partners" type="fixed" met="y" currents="n" waterquality="y" dart="n"/>
   <station id="plxa2" lat="56.247" lon="-134.647" elev="3.8" name="9451054 - Port Alexander, AK" owner="NOS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
   <station id="pmaf1" lat="27.638" lon="-82.562" elev="2.4" name="8726384 - Port Manatee, FL" owner="NOAA NOS PORTS" pgm="NOS/CO-OPS" type="fixed" met="y" currents="n" waterquality="n" dart="n"/>
